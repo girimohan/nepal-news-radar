@@ -198,6 +198,24 @@ def test_gdelt_keeps_first_answer_when_split_fails(monkeypatch):
     assert r.ok and len(r.articles) == 250 and "newest 250 only" in r.detail
 
 
+def test_gdelt_reuses_last_good_fetch_when_refused(monkeypatch, tmp_path):
+    last = tmp_path / "gdelt_last.json"
+    monkeypatch.setattr(gdelt, "query", lambda q, **kw: {"articles": [
+        {"url": "https://x.in/new", "title": "Nepal new", "seendate": "20261125T100000Z", "domain": "x.in", "language": "English"},
+        {"url": "https://x.in/old", "title": "Nepal old", "seendate": "20261120T100000Z", "domain": "x.in", "language": "English"}]})
+    assert len(gdelt.fetch({}, 240, now=NOW, last_path=last).articles) == 2 and last.exists()
+
+    def refused(q, **kw):
+        raise gdelt.FetchError("GDELT: HTTP 429")
+    monkeypatch.setattr(gdelt, "query", refused)
+    r = gdelt.fetch({}, 48, now=NOW + dt.timedelta(hours=8), last_path=last)
+    assert r.ok and [a.title for a in r.articles] == ["Nepal new"]          # the 5-day-old one is outside 48 h
+    assert "GDELT refused this run; reusing 1 articles from the fetch of 2026-11-25 12:00 UTC" in r.detail
+    assert "failed:" in r.detail                                            # still listed under source problems
+    r = gdelt.fetch({}, 48, now=NOW, last_path=tmp_path / "none.json")
+    assert not r.ok and r.error == "every GDELT query failed: nepal (GDELT: HTTP 429)"
+
+
 # ------------------------------------------------------------------ on this day
 from nepalradar import onthisday as otd  # noqa: E402
 

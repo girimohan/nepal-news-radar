@@ -28,7 +28,8 @@ Nepal": for today's date, the best-known incident of each past year with a news 
 | 7 | Built "On this day in Nepal" from Wikipedia (see below) | 19 years for 25 November; royal massacre, 1990 constitution and 2015 earthquake checked by hand |
 | 8 | Researched other portals, archives and summaries (about 40 sites probed) | See "Sources: what we tried" |
 | 9 | Added the useful ones: 4 more WordPress archives, 3 feeds, the Nepal News Evening Briefing, Wikipedia's daily news pages, nepalnews.com 2001-2004 via the Wayback Machine, the Nepali Times archive, Kantipur's daily archive reprint | 31 years for 25 November; 32/32 feeds read |
-| 10 | Pushed to GitHub, dashboard on GitHub Pages, three runs a day by GitHub Actions | This page |
+| 10 | Pushed to GitHub, dashboard on GitHub Pages, three runs a day by GitHub Actions | First run passed in 10 min, except GDELT |
+| 11 | Looked into GDELT failing on GitHub (see "GDELT, the hard way") | Patient retries, and reuse of the last good fetch |
 
 ## Sources: what we tried
 
@@ -70,6 +71,13 @@ Nepal": for today's date, the best-known incident of each past year with a news 
 - Splitting the day into dated windows was slow enough to fail the whole run. Now the fast `timespan` query runs
   first and the window is split only when it returns the full 250; if splitting fails, the first answer is kept.
 - Day-by-day archive back-fills from GDELT timed out during testing and remain unverified.
+- **On GitHub's runners every request was refused** (HTTP 429, first run and a one-day back-fill test). From a home
+  connection, spaced requests were refused about half the time whatever the gap: a 30 s gap was refused, 45 s
+  worked, 60 s was refused, 90 s worked. So this is GDELT shedding load, made worse by GitHub's shared IP
+  addresses, not the radar asking too often.
+- The fix (step 11): the daily run retries up to four times with waits of 45, 90 and 150 s (plus random jitter), and
+  when GDELT still refuses, it reuses the articles of the last fetch that worked (`data/gdelt_last.json`) that are
+  still inside the 48-hour window. The Sources tab and the digest say when that happens.
 
 ## On this day: what we tried
 

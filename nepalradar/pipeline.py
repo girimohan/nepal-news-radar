@@ -14,7 +14,8 @@ from .sources import SourceResult, feeds, gdelt, hackernews, reddit
 from .text import canonical_url, has_keyword
 
 
-def collect(cfg: dict, only: set[str] | None = None, first_seen: dict | None = None) -> list[SourceResult]:
+def collect(cfg: dict, only: set[str] | None = None, first_seen: dict | None = None,
+            data_dir: Path | None = None) -> list[SourceResult]:
     src = cfg.get("sources", {})
 
     def on(name: str) -> bool:
@@ -24,7 +25,8 @@ def collect(cfg: dict, only: set[str] | None = None, first_seen: dict | None = N
     if on("feeds"):
         results.append(feeds.fetch(cfg.get("feeds", []), first_seen=first_seen))
     if on("gdelt"):
-        results.append(gdelt.fetch(src.get("gdelt", {}), cfg.get("lookback_hours", 48)))
+        results.append(gdelt.fetch(src.get("gdelt", {}), cfg.get("lookback_hours", 48),
+                                   last_path=data_dir / "gdelt_last.json" if data_dir else None))
     if on("hackernews"):
         results.append(hackernews.fetch(cfg.get("lookback_hours", 48), src.get("hackernews", {}).get("min_points", 40)))
     if on("reddit"):
@@ -172,7 +174,7 @@ def run(cfg: dict, out_path: Path, now: dt.datetime | None = None, only: set[str
             first_seen = json.loads(fs_path.read_text(encoding="utf-8"))
         except ValueError:
             first_seen = {}
-    results = results if results is not None else collect(cfg, only, first_seen)
+    results = results if results is not None else collect(cfg, only, first_seen, data_dir=ledger_path.parent)
     if results and not any(r.ok and r.articles for r in results):
         raise RuntimeError("no source returned anything: " + "; ".join(f"{r.name}: {r.error or r.detail}" for r in results))
     ledger: dict = {}

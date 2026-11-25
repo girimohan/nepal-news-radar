@@ -167,7 +167,11 @@ dates), `sources.gdelt.queries` and `languages`, `archive.wordpress` (any WordPr
 - A general topic word can match world news that a Nepali portal files without a "world" section in its link.
 - GDELT allows one request every 5 seconds and refuses everything for several minutes after a breach. The
   daily run makes one request; back-fills wait between days. It returns titles only, no snippets.
-- The archive is only as complete as its sources: complete for the five WordPress sites, GDELT's sample for
+  GDELT also refuses many requests when it is busy, and refused every request from GitHub's shared runners in
+  November 2026. The daily run retries for up to about six minutes, then reuses the last good fetch
+  (`data/gdelt_last.json`) for the stories still inside the window. GDELT back-fills may only work from your
+  own computer.
+- The archive is only as complete as its sources: complete for the nine WordPress sites, GDELT's sample for
   the world press, and from the first run onward for every other feed.
 - Briefs are written from headlines and snippets, not full articles. Read the source before you publish.
 - On this day finds what English Wikipedia records with an exact date. Many years have nothing for a given
