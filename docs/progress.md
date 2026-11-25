@@ -30,6 +30,7 @@ Nepal": for today's date, the best-known incident of each past year with a news 
 | 9 | Added the useful ones: 4 more WordPress archives, 3 feeds, the Nepal News Evening Briefing, Wikipedia's daily news pages, nepalnews.com 2001-2004 via the Wayback Machine, the Nepali Times archive, Kantipur's daily archive reprint | 31 years for 25 November; 32/32 feeds read |
 | 10 | Pushed to GitHub, dashboard on GitHub Pages, three runs a day by GitHub Actions | First run passed in 10 min, except GDELT |
 | 11 | Looked into GDELT failing on GitHub (see "GDELT, the hard way") | Patient retries, and reuse of the last good fetch |
+| 12 | Added 16 international feeds filtered to Nepal (27 tested), so coverage abroad does not depend on GDELT | 48/48 feeds read; 10 Nepal items from abroad in 48 hours |
 
 ## Sources: what we tried
 
@@ -37,7 +38,7 @@ Nepal": for today's date, the best-known incident of each past year with a news 
 
 | Source | What it gives | Notes |
 |---|---|---|
-| RSS feeds of 28 Nepali sites + 4 international | Fresh news | Broken XML repaired (bare `&`, HTML entities, undeclared namespaces, whitespace before the XML declaration), or read item by item; undated feeds dated from the link or from first sighting |
+| RSS feeds of 28 Nepali sites + 20 international | Fresh news | Broken XML repaired (bare `&`, HTML entities, undeclared namespaces, whitespace before the XML declaration), or read item by item; undated feeds dated from the link or from first sighting |
 | WordPress API (`/wp-json/wp/v2/posts?after=&before=`) | Complete archive for any date | Onlinekhabar (2013 on), Khabarhub (2018), News of Nepal (2015), Imagekhabar (2016), Clickmandu (2016), Nepal News English (Nov 2020), Nepal News (May 2025) |
 | GDELT DOC 2.0 | World press about Nepal, 2017 on | One request per 5 s; see below |
 | Wikipedia search + "YYYY in Nepal" pages + Wikidata sitelinks | Dated incidents and how famous they are | Basis of On this day |
@@ -62,6 +63,7 @@ Nepal": for today's date, the best-known incident of each past year with a news 
 | Press Council Nepal, Madan Puraskar Pustakalaya, CRL microfilm | Real pre-2000 newspapers (dailies 1974-2013), but offline or by request only |
 | Archive Nepal / Digital Himalaya | Page scans of Nepali Times and the Regmi Research Series, no date search |
 | Internet Archive search for Gorkhapatra | About 21 scattered items: too thin |
+| International feeds not added (checked 2026-11-25) | Blocked (403): ANI, Firstpost, Arab News, The Tribune, Business Standard, East Asia Forum. Gone (404) or empty: WION, Dhaka Tribune, The Star Malaysia, Deccan Herald, DW Asia, Al Jazeera's Nepal page. Stale: Times of India South Asia (last item April 2026), Xinhua (2018), The Week. Nepal topic pages of The Hindu, Indian Express, Hindustan Times, Scroll and Times of India are not RSS. The Diplomat's Nepal tag is out of date order, so its South Asia feed is used |
 
 ### GDELT, the hard way
 

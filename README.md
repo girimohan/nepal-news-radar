@@ -30,8 +30,11 @@ is, whether more outlets picked it up since yesterday, and (when Reddit is set u
   Desh Sanchar, Nepal News, News of Nepal, Imagekhabar, Clickmandu.
 - **Daily round-ups**: the newest Nepal News Evening Briefing (about 30 stories of the day in 50 words each) is
   linked at the top of the dashboard and the digest. Round-ups are kept out of the story list.
-- **International outlets**, keeping only their items that mention Nepal: BBC Asia, Al Jazeera, The Diplomat,
-  Hindustan Times.
+- **20 international outlets**, keeping only their items that mention Nepal: BBC Asia, Al Jazeera, The Diplomat,
+  The New York Times, The Guardian (Nepal page), South China Morning Post, France 24, UN News, Global Voices, CGTN;
+  in India The Hindu, The Indian Express, Hindustan Times, Times of India, NDTV, News18, The Economic Times; in the
+  Gulf, where many Nepalis work, Gulf News and Khaleej Times; and ExplorersWeb for Himalayan climbing. Together
+  they give about five Nepal items a day, and they work when GDELT does not.
 - **GDELT** (free, no key), which indexes the world's news sites. It finds Indian, Bangladeshi, Malaysian, Gulf
   and Western coverage of Nepal that no Nepali feed shows.
 - **Reddit** (optional): r/Nepal, r/NepalSocial, r/Kathmandu.
