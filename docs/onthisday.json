@@ -1,8 +1,8 @@
 {
  "month": 11,
- "day": 25,
- "label": "25 November",
- "computed_at": "2026-11-25T15:37:00+00:00",
+ "day": 26,
+ "label": "26 November",
+ "computed_at": "2026-11-25T18:29:37+00:00",
  "years_checked": [
   1920,
   2025
@@ -10,105 +10,42 @@
  "items": [
   {
    "year": 2025,
-   "title": "",
-   "sentence": "एमाले अध्यक्षमा उम्मेदवारी दिने ईश्वर पोखरेलको घोषणा",
-   "kind": "top_story",
+   "title": "Bibeksheel Sajha Party",
+   "sentence": "Samikchya Baskota, 11 February 2023 - 26 November 2025",
+   "kind": "event",
    "listed": false,
-   "links": 6,
-   "score": 1.946,
-   "outlets": [
-    "Clickmandu",
-    "Imagekhabar",
-    "Khabarhub",
-    "Nepal News",
-    "News of Nepal",
-    "Onlinekhabar"
-   ],
-   "article_count": 13,
-   "news": {
-    "title": "एमाले अध्यक्षमा उम्मेदवारी दिने ईश्वर पोखरेलको घोषणा",
-    "url": "https://khabarhub.com/2025/25/887027/",
-    "outlet": "Khabarhub",
-    "date": "2025-11-25",
-    "kind": "top_story"
-   }
+   "description": "Political party in Nepal",
+   "lead": false,
+   "links": 7,
+   "score": 1.248,
+   "also": [],
+   "news": null,
+   "url": "https://en.wikipedia.org/wiki/Bibeksheel_Sajha_Party"
   },
   {
    "year": 2024,
-   "title": "",
-   "sentence": "चीन भ्रमणको तयारी : प्रधानमन्त्री ओलीले पूर्वप्रधानमन्त्रीहरुसँग छलफल गर्दै",
-   "kind": "top_story",
+   "title": "Maithili language",
+   "sentence": "On 26 November 2024, during the occasion of the Constitution Day, Maithili version of the Indian constitution was launched by the President of India Droupadi Murmu.",
+   "kind": "event",
    "listed": false,
-   "links": 5,
-   "score": 1.792,
-   "outlets": [
-    "Clickmandu",
-    "Imagekhabar",
-    "Khabarhub",
-    "News of Nepal",
-    "Onlinekhabar"
-   ],
-   "article_count": 21,
+   "description": "Indo-Aryan language spoken in India and Nepal",
+   "lead": false,
+   "links": 91,
+   "score": 3.313,
+   "also": [],
    "news": {
-    "title": "चीन भ्रमणको तयारी : प्रधानमन्त्री ओलीले पूर्वप्रधानमन्त्रीहरुसँग छलफल गर्दै",
-    "url": "https://www.onlinekhabar.com/2024/11/1572947/preparations-for-visit-to-china-prime-minister-oli-discussing-with-former-prime-ministers",
-    "outlet": "Onlinekhabar",
-    "date": "2024-11-25",
-    "kind": "top_story"
-   }
+    "title": "President Murmu releases Maithili and Sanskrit versions of Constitution",
+    "url": "https://www.nationalheraldindia.com/national/president-murmu-releases-maithili-and-sanskrit-versions-of-constitution-calls-it-living-progressive-document",
+    "outlet": "National Herald",
+    "date": "2024-11-26",
+    "kind": "cited"
+   },
+   "url": "https://en.wikipedia.org/wiki/Maithili_language"
   },
   {
    "year": 2023,
    "title": "",
-   "sentence": "पूर्वराजा ज्ञानेन्द्रले गरे अनावरण गरे पृथ्वीनारायण शाहको शालिक",
-   "kind": "top_story",
-   "listed": false,
-   "links": 5,
-   "score": 1.792,
-   "outlets": [
-    "Clickmandu",
-    "Imagekhabar",
-    "Khabarhub",
-    "News of Nepal",
-    "Onlinekhabar"
-   ],
-   "article_count": 8,
-   "news": {
-    "title": "पूर्वराजा ज्ञानेन्द्रले गरे अनावरण गरे पृथ्वीनारायण शाहको शालिक",
-    "url": "https://www.onlinekhabar.com/2023/11/1396814/former-king-gyanendra-unveiled-the-statue-of-prithvi-narayan-shah",
-    "outlet": "Onlinekhabar",
-    "date": "2023-11-25",
-    "kind": "top_story"
-   }
-  },
-  {
-   "year": 2022,
-   "title": "",
-   "sentence": "लालबाबुलाई हराउँदै मोरङबाट शेखर कोइराला विजयी",
-   "kind": "top_story",
-   "listed": false,
-   "links": 5,
-   "score": 1.792,
-   "outlets": [
-    "Clickmandu",
-    "Imagekhabar",
-    "Khabarhub",
-    "News of Nepal",
-    "Onlinekhabar"
-   ],
-   "article_count": 12,
-   "news": {
-    "title": "लालबाबुलाई हराउँदै मोरङबाट शेखर कोइराला विजयी",
-    "url": "https://newsofnepal.com/2022/11/25/539187/",
-    "outlet": "News of Nepal",
-    "date": "2022-11-25",
-    "kind": "top_story"
-   }
-  },
-  {
-   "year": 2021,
-   "title": "",
-   "sentence": "राप्रपा अध्यक्षमा लिङ्देनको उम्मेदवारी घोषणा",
+   "sentence": "नेपाल सुपर लिग २०२३ : तथ्यांकमा धनगढी र वीरगञ्ज",
    "kind": "top_story",
    "listed": false,
    "links": 4,
@@ -121,40 +58,17 @@
    ],
    "article_count": 7,
    "news": {
-    "title": "राप्रपा अध्यक्षमा लिङ्देनको उम्मेदवारी घोषणा",
-    "url": "https://www.onlinekhabar.com/2021/11/1043773/%e0%a4%b0%e0%a4%be%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%be-%e0%a4%85%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%ae%e0%a4%be-%e0%a4%b2%e0%a4%bf%e0%a4%99%e0%a5%8d%e0%a4%a6-2",
+    "title": "नेपाल सुपर लिग २०२३ : तथ्यांकमा धनगढी र वीरगञ्ज",
+    "url": "https://www.onlinekhabar.com/2023/11/1396839/nepal-super-league-2023-dhangadhi-and-birgunj-in-statistics",
     "outlet": "Onlinekhabar",
-    "date": "2021-11-25",
+    "date": "2023-11-26",
     "kind": "top_story"
    }
   },
   {
-   "year": 2020,
+   "year": 2022,
    "title": "",
-   "sentence": "महोत्तरीमा प्रहरीको गोली लागेका एक जनाको मृत्यु",
-   "kind": "top_story",
-   "listed": false,
-   "links": 4,
-   "score": 1.609,
-   "outlets": [
-    "Imagekhabar",
-    "Khabarhub",
-    "News of Nepal",
-    "Onlinekhabar"
-   ],
-   "article_count": 9,
-   "news": {
-    "title": "महोत्तरीमा प्रहरीको गोली लागेका एक जनाको मृत्यु",
-    "url": "https://www.onlinekhabar.com/2020/11/911356/%e0%a4%ae%e0%a4%b9%e0%a5%8b%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0%e0%a5%80%e0%a4%ae%e0%a4%be-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b9%e0%a4%b0%e0%a5%80%e0%a4%95%e0%a5%8b-%e0%a4%97%e0%a5%8b%e0%a4%b2%e0%a5%80",
-    "outlet": "Onlinekhabar",
-    "date": "2020-11-25",
-    "kind": "top_story"
-   }
-  },
-  {
-   "year": 2019,
-   "title": "",
-   "sentence": "मेडिकल कलेजहरुलाई सरकारको ‘अल्टिमेटम’, भोलिसम्म रकम फिर्ता नगरे कारबाही",
+   "sentence": "विश्वकप फुटबलमा आज चार खेल हुँदै",
    "kind": "top_story",
    "listed": false,
    "links": 5,
@@ -168,9 +82,80 @@
    ],
    "article_count": 12,
    "news": {
-    "title": "मेडिकल कलेजहरुलाई सरकारको ‘अल्टिमेटम’, भोलिसम्म रकम फिर्ता नगरे कारबाही",
-    "url": "https://www.imagekhabar.com/news/24001/",
-    "outlet": "Imagekhabar",
+    "title": "विश्वकप फुटबलमा आज चार खेल हुँदै",
+    "url": "https://khabarhub.com/2022/26/454888/",
+    "outlet": "Khabarhub",
+    "date": "2022-11-26",
+    "kind": "top_story"
+   }
+  },
+  {
+   "year": 2021,
+   "title": "",
+   "sentence": "एडिबीले विद्युतीय प्रणाली सुधारका लागि सात अर्ब ऋण दिने",
+   "kind": "top_story",
+   "listed": false,
+   "links": 5,
+   "score": 1.792,
+   "outlets": [
+    "Clickmandu",
+    "Imagekhabar",
+    "Khabarhub",
+    "News of Nepal",
+    "Onlinekhabar"
+   ],
+   "article_count": 5,
+   "news": {
+    "title": "एडिबीले विद्युतीय प्रणाली सुधारका लागि सात अर्ब ऋण दिने",
+    "url": "https://newsofnepal.com/2021/11/26/451677/",
+    "outlet": "News of Nepal",
+    "date": "2021-11-26",
+    "kind": "top_story"
+   }
+  },
+  {
+   "year": 2020,
+   "title": "",
+   "sentence": "नेपाल आए भारतीय विदेश सचिव श्रृंगला",
+   "kind": "top_story",
+   "listed": false,
+   "links": 5,
+   "score": 1.792,
+   "outlets": [
+    "Clickmandu",
+    "Imagekhabar",
+    "Khabarhub",
+    "News of Nepal",
+    "Onlinekhabar"
+   ],
+   "article_count": 19,
+   "news": {
+    "title": "नेपाल आए भारतीय विदेश सचिव श्रृंगला",
+    "url": "https://www.onlinekhabar.com/2020/11/911625/%e0%a4%a8%e0%a5%87%e0%a4%aa%e0%a4%be%e0%a4%b2-%e0%a4%86%e0%a4%8f-%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af-%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6-%e0%a4%b8%e0%a4%9a%e0%a4%bf",
+    "outlet": "Onlinekhabar",
+    "date": "2020-11-26",
+    "kind": "top_story"
+   }
+  },
+  {
+   "year": 2019,
+   "title": "",
+   "sentence": "मेडिकल कलेज सञ्चालक भन्छन् : सबै अतिरिक्त शुल्क फिर्ता गर्न सकिन्न",
+   "kind": "top_story",
+   "listed": false,
+   "links": 4,
+   "score": 1.609,
+   "outlets": [
+    "Imagekhabar",
+    "Khabarhub",
+    "News of Nepal",
+    "Onlinekhabar"
+   ],
+   "article_count": 11,
+   "news": {
+    "title": "मेडिकल कलेज सञ्चालक भन्छन् : सबै अतिरिक्त शुल्क फिर्ता गर्न सकिन्न",
+    "url": "https://www.onlinekhabar.com/2019/11/814337/%e0%a4%ae%e0%a5%87%e0%a4%a1%e0%a4%bf%e0%a4%95%e0%a4%b2-%e0%a4%95%e0%a4%b2%e0%a5%87%e0%a4%9c-%e0%a4%b8%e0%a4%9e%e0%a5%8d%e0%a4%9a%e0%a4%be%e0%a4%b2%e0%a4%95-%e0%a4%ad%e0%a4%a8%e0%a5%8d%e0%a4%9b-2-2",
+    "outlet": "Onlinekhabar",
     "date": "2019-11-25",
     "kind": "top_story"
    }
@@ -178,51 +163,66 @@
   {
    "year": 2018,
    "title": "",
-   "sentence": "वाइडबडी खरिदमा लेखा समितिको प्रश्नै प्रश्न, सभापतिले सोधे–२ अर्ब ४० करोड कमिसन खोई ?",
+   "sentence": "ठगी गर्ने १२ पेट्रोलपम्प कारवाहीमा",
    "kind": "top_story",
    "listed": false,
-   "links": 3,
-   "score": 1.386,
+   "links": 4,
+   "score": 1.609,
    "outlets": [
     "Clickmandu",
-    "Imagekhabar",
-    "Onlinekhabar"
-   ],
-   "article_count": 4,
-   "news": {
-    "title": "वाइडबडी खरिदमा लेखा समितिको प्रश्नै प्रश्न, सभापतिले सोधे–२ अर्ब ४० करोड कमिसन खोई ?",
-    "url": "https://www.onlinekhabar.com/2018/11/722277/%e0%a4%b5%e0%a4%be%e0%a4%87%e0%a4%a1%e0%a4%ac%e0%a4%a1%e0%a5%80-%e0%a4%96%e0%a4%b0%e0%a4%bf%e0%a4%a6%e0%a4%ae%e0%a4%be-%e0%a4%b2%e0%a5%87%e0%a4%96%e0%a4%be-%e0%a4%b8%e0%a4%ae%e0%a4%bf%e0%a4%a4",
-    "outlet": "Onlinekhabar",
-    "date": "2018-11-25",
-    "kind": "top_story"
-   }
-  },
-  {
-   "year": 2017,
-   "title": "",
-   "sentence": "एमाले अध्यक्ष ओलीको झापास्थित घरको गेटमा बम विस्फोट",
-   "kind": "top_story",
-   "listed": false,
-   "links": 3,
-   "score": 1.386,
-   "outlets": [
     "Imagekhabar",
     "News of Nepal",
     "Onlinekhabar"
    ],
    "article_count": 4,
    "news": {
-    "title": "एमाले अध्यक्ष ओलीको झापास्थित घरको गेटमा बम विस्फोट",
-    "url": "https://www.onlinekhabar.com/2017/11/641620/%e0%a4%8f%e0%a4%ae%e0%a4%be%e0%a4%b2%e0%a5%87-%e0%a4%85%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%95%e0%a5%8d%e0%a4%b7-%e0%a4%93%e0%a4%b2%e0%a5%80%e0%a4%95%e0%a5%8b-%e0%a4%9d%e0%a4%be%e0%a4%aa%e0%a4%be",
+    "title": "ठगी गर्ने १२ पेट्रोलपम्प कारवाहीमा",
+    "url": "https://www.onlinekhabar.com/2018/11/722445/%e0%a4%a0%e0%a4%97%e0%a5%80-%e0%a4%97%e0%a4%b0%e0%a5%8d%e0%a4%a8%e0%a5%87-%e0%a5%a7%e0%a5%a8-%e0%a4%aa%e0%a5%87%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%8b%e0%a4%b2%e0%a4%aa%e0%a4%ae%e0%a5%8d%e0%a4%aa",
     "outlet": "Onlinekhabar",
-    "date": "2017-11-25",
+    "date": "2018-11-26",
     "kind": "top_story"
    }
   },
   {
+   "year": 2017,
+   "title": "Nepalese legislative election, 2017",
+   "sentence": "Voters in Nepal go to the polls for the first phase of an election to choose members for the House of Representatives and Parliament.",
+   "kind": "event",
+   "listed": true,
+   "lead": true,
+   "source": "current_events",
+   "links": 16,
+   "score": 4.233,
+   "also": [
+    {
+     "title": "Provincial assemblies of Nepal",
+     "sentence": "The first provincial assembly elections in Nepal were held in two phases, on 26 November 2017 and on 7 December 2017.",
+     "kind": "event"
+    },
+    {
+     "title": "2017 Nepalese provincial elections",
+     "sentence": "Provincial assembly elections were held in Nepal on 26 November and 7 December 2017 along with the general election.",
+     "kind": "event"
+    },
+    {
+     "title": "2017 Nepalese legislative election",
+     "sentence": "General elections were held in Nepal in two phases on 26 November and 7 December 2017 to elect the 275 members of the fifth House of Representatives, the lower house of the Federal Parliament of Nepal.",
+     "kind": "event"
+    }
+   ],
+   "news": {
+    "title": "BBC report",
+    "url": "https://www.bbc.com/news/world-asia-42126210",
+    "outlet": "BBC",
+    "date": "2017-11-26",
+    "kind": "current_events"
+   },
+   "url": "https://en.wikipedia.org/wiki/Nepalese_legislative_election,_2017"
+  },
+  {
    "year": 2016,
    "title": "",
-   "sentence": "बढुवामा लोकसेवा आयोगको प्रतिनिधित्वप्रति प्रहरीको विरोध",
+   "sentence": "पार्टी एकीकरणको साता नबित्दै राप्रपामा वैचारिक विवाद !",
    "kind": "top_story",
    "listed": false,
    "links": 2,
@@ -233,69 +233,69 @@
    ],
    "article_count": 2,
    "news": {
-    "title": "बढुवामा लोकसेवा आयोगको प्रतिनिधित्वप्रति प्रहरीको विरोध",
-    "url": "https://www.onlinekhabar.com/2016/11/505499/%e0%a4%ac%e0%a4%a2%e0%a5%81%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a4%be-%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%be-%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a4%95%e0%a5%8b-%e0%a4%aa",
+    "title": "पार्टी एकीकरणको साता नबित्दै राप्रपामा वैचारिक विवाद !",
+    "url": "https://www.onlinekhabar.com/2016/11/505952/%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80-%e0%a4%8f%e0%a4%95%e0%a5%80%e0%a4%95%e0%a4%b0%e0%a4%a3%e0%a4%95%e0%a5%8b-%e0%a4%b8%e0%a4%be%e0%a4%a4%e0%a4%be-%e0%a4%a8%e0%a4%ac%e0%a4%bf",
     "outlet": "Onlinekhabar",
-    "date": "2016-11-25",
+    "date": "2016-11-26",
     "kind": "top_story"
    }
   },
   {
    "year": 2015,
    "title": "",
-   "sentence": "एसएसबीले नेपालीलाई गोली हानेको छैन: भारतीय दूतावास",
-   "kind": "top_story",
-   "listed": false,
-   "links": 1,
-   "score": 0.693,
-   "outlets": [
-    "Onlinekhabar"
-   ],
-   "article_count": 3,
-   "news": {
-    "title": "एसएसबीले नेपालीलाई गोली हानेको छैन: भारतीय दूतावास",
-    "url": "https://www.onlinekhabar.com/2015/11/354662/%e0%a4%8f%e0%a4%b8%e0%a4%8f%e0%a4%b8%e0%a4%ac%e0%a5%80%e0%a4%b2%e0%a5%87-%e0%a4%a8%e0%a5%87%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a5%80%e0%a4%b2%e0%a4%be%e0%a4%88-%e0%a4%97%e0%a5%8b%e0%a4%b2%e0%a5%80",
-    "outlet": "Onlinekhabar",
-    "date": "2015-11-25",
-    "kind": "top_story"
-   }
-  },
-  {
-   "year": 2014,
-   "title": "India–Nepal relations",
-   "sentence": "Nepal and India signed an agreement on 25 November 2014 as per which India will build a 900 MW hydropower plant at a cost of another US$1 billion.",
-   "kind": "event",
-   "listed": false,
-   "description": "Bilateral relations",
-   "lead": false,
-   "links": 14,
-   "score": 2.925,
-   "also": [
-    {
-     "title": "Delhi–Kathmandu Bus",
-     "sentence": "The first ever Bus service from India to Nepal was flagged off on Tuesday, 25 November 2014.",
-     "kind": "event"
-    }
-   ],
-   "news": null,
-   "url": "https://en.wikipedia.org/wiki/India–Nepal_relations"
-  },
-  {
-   "year": 2013,
-   "title": "",
-   "sentence": "Uphill task: As the election euphoria evaporates, it is down to realpolitik again. The first test of whether the victorious NC and UML have turned a new leaf…",
+   "sentence": "Pressure tactic: FIRESIDE: Yubhan Tamang, 39, has been cooking over a firewood stove to feed 300 patients everyday at Bir Hospital for the past one and half…",
    "kind": "weekly",
    "listed": false,
    "links": 0,
    "score": 0.3,
    "url": "",
    "news": {
-    "title": "Uphill task",
-    "url": "https://archive.nepalitimes.com/uphill-task",
-    "outlet": "Nepali Times #683",
-    "date": "2013-11-29",
+    "title": "Pressure tactic: FIRESIDE: Yubhan Tamang, 39, has been cooking over a firewood stove to feed 300 patients everyday at Bir Hospital for the past one and half…",
+    "url": "https://archive.nepalitimes.com/pressure-tactic",
+    "outlet": "Nepali Times #784",
+    "date": "2015-11-27",
     "kind": "nepalitimes"
    }
+  },
+  {
+   "year": 2014,
+   "title": "SAARC Summit",
+   "sentence": "The 18th SAARC summit was held at the Nepalese capital Kathmandu from November 26 to November 27, 2014 and was attended by the prime ministers of Bangladesh, Bhutan, India, Nepal and Pakistan, and the presidents of the Afghanistan, Maldives and Sri Lanka.",
+   "kind": "event",
+   "listed": false,
+   "description": "Summits of the South Asian Association for Regional Cooperation",
+   "lead": false,
+   "links": 4,
+   "score": 1.566,
+   "also": [],
+   "news": {
+    "title": "Pakistan to host 19th SAARC Summit in Islamabad",
+    "url": "https://web.archive.org/web/20160303224412/http://www.dailytimes.com.pk/national/26-Nov-2014/pakistan-to-host-19th-saarc-summit-in-islamabad",
+    "outlet": "[[Daily Times (Pakistan)",
+    "date": "2014-11-26",
+    "kind": "cited"
+   },
+   "url": "https://en.wikipedia.org/wiki/SAARC_Summit"
+  },
+  {
+   "year": 2013,
+   "title": "Nepal",
+   "sentence": "An archaeological site is discovered in Nepal dating to 550 BC which is claimed to be a Buddhist shrine. If true, the birthday of the Buddha would be pushed back. However, not all experts agree on the significance of the site.",
+   "kind": "event",
+   "listed": true,
+   "lead": true,
+   "source": "current_events",
+   "links": 10,
+   "score": 3.798,
+   "also": [],
+   "news": {
+    "title": "Buddha birth nepal archaeology science lumbini religion history",
+    "url": "http://news.nationalgeographic.com/news/2013/11/131125-buddha-birth-nepal-archaeology-science-lumbini-religion-history/",
+    "outlet": "National Geographic",
+    "date": "2013-11-26",
+    "kind": "current_events"
+   },
+   "url": "https://en.wikipedia.org/wiki/Nepal"
   },
   {
    "year": 2012,
@@ -307,7 +307,7 @@
    "score": 0.3,
    "url": "",
    "news": {
-    "title": "Absent faces",
+    "title": "Absent faces: The Central Bureau of Statistics (CBS) released the final report of Nepal's Population and Household Census conducted in 2011 this week. The…",
     "url": "https://archive.nepalitimes.com/absent-faces",
     "outlet": "Nepali Times #632",
     "date": "2012-11-30",
@@ -317,17 +317,17 @@
   {
    "year": 2011,
    "title": "",
-   "sentence": "Hand-picked: Newar women offer rice to Seto Machendranath on Sunday at Keltole in the hope that it brings health, happiness and prosperity. So it has come…",
+   "sentence": "Awesome chance: When the history of the wasted years after the May 2008 elections is written, it will not be kind on Pushpa Kamal Dahal. The heavily-garlanded…",
    "kind": "weekly",
    "listed": false,
    "links": 0,
    "score": 0.3,
    "url": "",
    "news": {
-    "title": "Hand-picked",
-    "url": "https://archive.nepalitimes.com/hand-picked",
-    "outlet": "Nepali Times #580",
-    "date": "2011-11-25",
+    "title": "Awesome chance: When the history of the wasted years after the May 2008 elections is written, it will not be kind on Pushpa Kamal Dahal. The heavily-garlanded…",
+    "url": "https://archive.nepalitimes.com/awesome-chance",
+    "outlet": "Nepali Times #581",
+    "date": "2011-12-02",
     "kind": "nepalitimes"
    }
   },
@@ -341,7 +341,7 @@
    "score": 0.3,
    "url": "",
    "news": {
-    "title": "We are family?",
+    "title": "We are family?: MIN RATNA BAJRACHARYA BRED RED: About 1,000 Maoist mothers attended the sixth plenum in Gorkha this week About 7,000 cadres thronged Palungtar…",
     "url": "https://archive.nepalitimes.com/we-are-family",
     "outlet": "Nepali Times #529",
     "date": "2010-11-26",
@@ -358,7 +358,7 @@
    "score": 0.3,
    "url": "",
    "news": {
-    "title": "Parliamentary supremacy",
+    "title": "Parliamentary supremacy: It is the curse of Nepali politics that a party boasts about its democratic credentials by 'allowing' parliament to function for three days. The…",
     "url": "https://archive.nepalitimes.com/parliamentary-supremacy",
     "outlet": "Nepali Times #478",
     "date": "2009-11-27",
@@ -367,20 +367,17 @@
   },
   {
    "year": 2008,
-   "title": "",
-   "sentence": "Disunion: Labour disputes and industrial insecurity are scaring away investors",
-   "kind": "weekly",
+   "title": "Siddharth Koirala",
+   "sentence": "He was seen then in a film about the 26 November 2008 Mumbai attacks, entitled Deshdrohi 2, directed by Kamaal R.",
+   "kind": "event",
    "listed": false,
-   "links": 0,
-   "score": 0.3,
-   "url": "",
-   "news": {
-    "title": "Disunion",
-    "url": "https://archive.nepalitimes.com/disunion",
-    "outlet": "Nepali Times #427",
-    "date": "2008-11-28",
-    "kind": "nepalitimes"
-   }
+   "description": "Nepalese actor",
+   "lead": true,
+   "links": 3,
+   "score": 2.386,
+   "also": [],
+   "news": null,
+   "url": "https://en.wikipedia.org/wiki/Siddharth_Koirala"
   },
   {
    "year": 2007,
@@ -392,7 +389,7 @@
    "score": 0.3,
    "url": "",
    "news": {
-    "title": "Farewell to arms?",
+    "title": "Farewell to arms?: Time for the Maoists to decide: house or jungle",
     "url": "https://archive.nepalitimes.com/farewell-to-arms",
     "outlet": "Nepali Times #376",
     "date": "2007-11-30",
@@ -400,19 +397,37 @@
    }
   },
   {
+   "year": 2006,
+   "title": "Girija Prasad Koirala",
+   "sentence": "Prime Minister Girija Prasad Koirala and Maoist Chairman Pushpa Kamal Dahal sign the Comprehensive Peace Accord.",
+   "kind": "event",
+   "listed": true,
+   "links": 50,
+   "score": 5.932,
+   "also": [
+    {
+     "title": "Nepali nationality law",
+     "sentence": "The Nepal Citizenship Act, 2006 was enacted on 26 November 2006.",
+     "kind": "event"
+    }
+   ],
+   "news": null,
+   "url": "https://en.wikipedia.org/wiki/Girija_Prasad_Koirala"
+  },
+  {
    "year": 2005,
    "title": "",
-   "sentence": "Not quite there yet: The constituent assembly could still create problems and the party-rebel accord leaves out a warring side",
+   "sentence": "On the move: The country has entered a critical phase, as the people wait for the 12-point understanding between the Maoists and political parties to kick in…",
    "kind": "weekly",
    "listed": false,
    "links": 0,
    "score": 0.3,
    "url": "",
    "news": {
-    "title": "Not quite there yet",
-    "url": "https://archive.nepalitimes.com/not-quite-there-yet",
-    "outlet": "Nepali Times #274",
-    "date": "2005-11-25",
+    "title": "On the move: The country has entered a critical phase, as the people wait for the 12-point understanding between the Maoists and political parties to kick in…",
+    "url": "https://archive.nepalitimes.com/on-the-move-1",
+    "outlet": "Nepali Times #275",
+    "date": "2005-12-02",
     "kind": "nepalitimes"
    }
   },
@@ -426,7 +441,7 @@
    "score": 0.3,
    "url": "",
    "news": {
-    "title": "\"We couldn’t take it anymore\"",
+    "title": "\"We couldn’t take it anymore\": Dailekh's defiant mothers rise up against the Maoists",
     "url": "https://archive.nepalitimes.com/we-couldnt-take-it-anymore",
     "outlet": "Nepali Times #223",
     "date": "2004-11-26",
@@ -436,7 +451,7 @@
   {
    "year": 2003,
    "title": "",
-   "sentence": "Thapa faction plans strategy: Loyalists of Prime Minister Surya Bahadur Thapa have formed a committee to fight opponents in the party who have called for the government chief's resignation.",
+   "sentence": "Posthumous promotion of Pande: Brigadier General Sagar Bahadur Pande, whom the Maoist killed in a roadside bomb in Makwanpur, has been posthumously promoted to the post of Major General, the Defence Ministry said Wednesday.",
    "kind": "day_news",
    "listed": false,
    "links": 0,
@@ -445,81 +460,59 @@
    "also": [
     {
      "title": "",
-     "sentence": "Maoist warning against ex-minister KC",
+     "sentence": "RNAC hopes of 17 pc improvement in flight schedules",
      "kind": "day_news"
     },
     {
      "title": "",
-     "sentence": "Raid in Maoist leader Sapkota's house",
+     "sentence": "Nepali Congress serious, other details",
      "kind": "day_news"
     },
     {
      "title": "",
-     "sentence": "Dalits' Commission member Pariyar passes away",
+     "sentence": "Two policemen killed",
      "kind": "day_news"
     }
    ],
    "news": {
-    "title": "Thapa faction plans strategy",
-    "url": "https://web.archive.org/web/20031126032634/http://www.nepalnews.com.np:80/archive/2003/november/arc923.htm",
+    "title": "Posthumous promotion of Pande",
+    "url": "https://web.archive.org/web/20031212180538/http://www.nepalnews.com.np:80/archive/2003/november/arc925.htm",
     "outlet": "nepalnews.com",
-    "date": "2003-11-25",
+    "date": "2003-11-26",
     "kind": "wayback"
    }
   },
   {
    "year": 2002,
-   "title": "",
-   "sentence": "10 Maoists killed: Security forces shot dead 10 Maoists in operations in Bajura, Bhojpur, Solokhumbu, Jajarkot, Rasuwa and Panchthar districts Friday through Monday, the Defence Ministry and local security sources said.",
-   "kind": "day_news",
+   "title": "Gaurika Singh",
+   "sentence": "Gaurika Singh (Nepali: गौरिका सिंह; born 26 November 2002) is a Nepalese swimmer.",
+   "kind": "birth",
    "listed": false,
-   "links": 0,
-   "score": 0.5,
-   "url": "",
-   "also": [
-    {
-     "title": "",
-     "sentence": "CIAA seeks remand extension",
-     "kind": "day_news"
-    },
-    {
-     "title": "",
-     "sentence": "IGP Rana retiring",
-     "kind": "day_news"
-    },
-    {
-     "title": "",
-     "sentence": "Maoists murder another teacher",
-     "kind": "day_news"
-    }
-   ],
-   "news": {
-    "title": "10 Maoists killed",
-    "url": "https://web.archive.org/web/20030124102222/http://www.nepalnews.com.np:80/archive/2002/november/arc533.htm",
-    "outlet": "nepalnews.com",
-    "date": "2002-11-25",
-    "kind": "wayback"
-   }
+   "description": "Nepalese swimmer",
+   "lead": true,
+   "links": 21,
+   "score": 1.7,
+   "also": [],
+   "news": null,
+   "url": "https://en.wikipedia.org/wiki/Gaurika_Singh"
   },
   {
    "year": 2001,
-   "title": "Nepalese democracy movement",
-   "sentence": "On 25 November 2001 a truce between the Maoist insurgents and the government broke following an increase in violent attacks against the police and army.",
+   "title": "2001 in Nepal",
+   "sentence": "The government declares a national state of emergency.",
    "kind": "event",
-   "listed": false,
-   "description": "Series of political movements from the 20th century to 2008",
-   "lead": false,
-   "links": 3,
-   "score": 1.832,
+   "listed": true,
+   "links": 2,
+   "score": 3.599,
    "also": [],
    "news": {
-    "title": "Maoist violence continues, other details",
-    "url": "https://web.archive.org/web/20011214110149/http://www.nepalnews.com.np:80/archive/2001/november/arc296.htm",
+    "title": "US asks Maoists to lay down arms",
+    "url": "https://web.archive.org/web/20011212153710/http://www.nepalnews.com.np:80/archive/2001/november/arc297.htm",
     "outlet": "nepalnews.com",
-    "date": "2001-11-25",
+    "date": "2001-11-26",
     "kind": "wayback"
    },
-   "url": "https://en.wikipedia.org/wiki/Nepalese_democracy_movement"
+   "url": "https://en.wikipedia.org/wiki/2001_in_Nepal"
   },
   {
    "year": 2000,
@@ -531,7 +524,7 @@
    "score": 0.3,
    "url": "",
    "news": {
-    "title": "‘Nepal oil corruption’",
+    "title": "‘Nepal oil corruption’: In Nepal oil and water mix. So do kerosene and petrol, water and diesel. A few people get rich quick, the Nepali people lose out.",
     "url": "https://archive.nepalitimes.com/nepal-oil-corruption-2",
     "outlet": "Nepali Times #19",
     "date": "2000-12-01",
@@ -539,94 +532,122 @@
    }
   },
   {
-   "year": 1994,
-   "title": "Dudjom Jigdral Yeshe Dorje",
-   "sentence": "Sangye Pema Shepa was enthroned in Tibet at Dzongsar Monastery by Khenpo Jigme Phuntsok, with Dzongsar Jamyang Khyentse Rinpoche, and later enthroned in Godhavari, Nepal on Lhabab Duchen, November 25, 1994, by Chatral Rinpoche, in the presence of Penor Rinpoche and many Nyingma lamas and students of Dudjom Rinpoche II.",
-   "kind": "event",
+   "year": 1997,
+   "title": "Aishworya Shrestha",
+   "sentence": "Aishworya Shrestha (born 26 November 1997) is a Nepalese pageant titleholder as Miss Grand Nepal 2022.",
+   "kind": "birth",
    "listed": false,
-   "description": "Tibetan Lama (1904–1987)",
-   "lead": false,
-   "links": 8,
-   "score": 1.318,
+   "description": "Nepali beauty pageant",
+   "lead": true,
+   "links": 1,
+   "score": 0.381,
    "also": [],
    "news": null,
-   "url": "https://en.wikipedia.org/wiki/Dudjom_Jigdral_Yeshe_Dorje"
+   "url": "https://en.wikipedia.org/wiki/Aishworya_Shrestha"
   },
   {
-   "year": 1991,
-   "title": "Nepalese Civil War",
-   "sentence": "The CPN(UC) held its first convention on 25 November 1991; it adopted a line of \"protracted armed struggle on the route to a new democratic revolution\", and decided that the party would remain an underground party.",
-   "kind": "event",
+   "year": 1993,
+   "title": "Rubina Chhetry",
+   "sentence": "Rubina Chhetry (Nepali: रुबिना क्षेत्री; born 26 November 1993) is a Nepali cricketer who plays for the women's national cricket team as a right-arm medium pace bowler.",
+   "kind": "birth",
    "listed": false,
-   "description": "Maoist insurgency in Nepal (1996–2006)",
-   "lead": false,
-   "links": 40,
-   "score": 2.928,
+   "description": "Nepali cricketer (born 1993)",
+   "lead": true,
+   "links": 12,
+   "score": 1.411,
    "also": [],
    "news": null,
-   "url": "https://en.wikipedia.org/wiki/Nepalese_Civil_War"
+   "url": "https://en.wikipedia.org/wiki/Rubina_Chhetry"
+  },
+  {
+   "year": 1988,
+   "title": "Drukair",
+   "sentence": "With the introduction of the BAe 146, Drukair was able to widen its network to link Paro with Delhi on 26 November 1988, Bangkok on 28 January 1989 and Kathmandu in April 1989.",
+   "kind": "event",
+   "listed": false,
+   "description": "Flag carrier of Bhutan",
+   "lead": false,
+   "links": 31,
+   "score": 2.379,
+   "also": [],
+   "news": null,
+   "url": "https://en.wikipedia.org/wiki/Drukair"
+  },
+  {
+   "year": 1979,
+   "title": "Sindoor (1979 film)",
+   "sentence": "The film officially premiered on November 26, 1979 (alternatively cited as 1980 in some regional release schedules).",
+   "kind": "event",
+   "listed": false,
+   "description": "1979 Nepalese film",
+   "lead": true,
+   "links": 2,
+   "score": 1.399,
+   "also": [],
+   "news": null,
+   "url": "https://en.wikipedia.org/wiki/Sindoor_(1979_film)"
+  },
+  {
+   "year": 1976,
+   "title": "Hari Khadka",
+   "sentence": "Hari Khadka (Nepali: हरि खड्का; born 26 November 1976) is a Nepalese football coach and former player who was the head coach of Nepal national football team.",
+   "kind": "birth",
+   "listed": false,
+   "description": "Nepalese footballer",
+   "lead": true,
+   "links": 11,
+   "score": 1.367,
+   "also": [],
+   "news": null,
+   "url": "https://en.wikipedia.org/wiki/Hari_Khadka"
   },
   {
    "year": 1954,
-   "title": "Prince Basundhara of Nepal",
-   "sentence": "Jyoti Rajya Lakshmi Devi Singha (born on 25 November 1954).",
+   "title": "Tek Bahadur Gurung",
+   "sentence": "Tek Bahadur Gurung was born on 26 November 1954 in Tanki-3, Manang, Nepal to Kazi Gurung and Pulama Gurung.",
    "kind": "birth",
    "listed": false,
-   "description": "Prince of Nepal",
-   "lead": true,
-   "links": 4,
-   "score": 1.585,
-   "also": [],
-   "news": null,
-   "url": "https://en.wikipedia.org/wiki/Prince_Basundhara_of_Nepal"
-  },
-  {
-   "year": 1947,
-   "title": "Bharat Jangam",
-   "sentence": "Bharat Jangam, also known as Bharat Mani Jangam (Nepali: भरत जङम, born 25 November 1947) is a novelist and freelance journalist from Nepal.",
-   "kind": "birth",
-   "listed": false,
-   "description": "Novelist and freelance journalist of Nepal",
-   "lead": true,
-   "links": 5,
-   "score": 0.985,
-   "also": [],
-   "news": null,
-   "url": "https://en.wikipedia.org/wiki/Bharat_Jangam"
-  },
-  {
-   "year": 1946,
-   "title": "Khagendra Sangraula",
-   "sentence": "He was born on 25 November 1946 (10 Mangshir 2003 BS) in Subhang village, Panchthar district, Nepal.",
-   "kind": "birth",
-   "listed": false,
-   "description": "Nepalese writer and columnist (born 1946)",
+   "description": "Nepali politician (born 1954)",
    "lead": true,
    "links": 2,
    "score": 0.904,
    "also": [],
    "news": null,
-   "url": "https://en.wikipedia.org/wiki/Khagendra_Sangraula"
+   "url": "https://en.wikipedia.org/wiki/Tek_Bahadur_Gurung"
   },
   {
-   "year": 1921,
-   "title": "Prince Basundhara of Nepal",
-   "sentence": "Prince Basundhara Bir Bikram Shah of Nepal, GCMG (25 November 1921 – 31 August 1977) was a son of King Tribhuvan of Nepal.",
-   "kind": "birth",
+   "year": 1929,
+   "title": "Bhim Shumsher Jung Bahadur Rana",
+   "sentence": "Bhim Shumsher Jung Bahadur Rana (Maharaj Bhim Shumsher) ruled Nepal from 26 November 1929 until his death on 1 September 1932.",
+   "kind": "event",
    "listed": false,
-   "description": "Prince of Nepal",
+   "description": "Prime Minister of Nepal from 1929 to 1932",
    "lead": true,
-   "links": 4,
-   "score": 1.285,
+   "links": 12,
+   "score": 2.865,
    "also": [
     {
-     "title": "Ishwari Rajya Lakshmi Devi Shah",
-     "sentence": "Prince Basundhara of Nepal (25 November 1921 – 31 August 1977), who married Princess Helen Shah of Nepal and had three daughters; Princess Jayanti, Mrs.",
-     "kind": "birth"
+     "title": "Chandra Shumsher Jung Bahadur Rana",
+     "sentence": "Chandra Shumsher Jung Bahadur Rana (Nepali: चन्द्रशमशेर जङ्गबहादुर राणा; 8 July 1863 – 26 November 1929) was a Prime Minister of Nepal from the Rana dynasty.",
+     "kind": "death"
     }
    ],
    "news": null,
-   "url": "https://en.wikipedia.org/wiki/Prince_Basundhara_of_Nepal"
+   "url": "https://en.wikipedia.org/wiki/Bhim_Shumsher_Jung_Bahadur_Rana"
+  },
+  {
+   "year": 1926,
+   "title": "Mohan Koirala",
+   "sentence": "Mohan Koirala was born in Kathmandu on 26 November 1926 (11 Mangshir  1983 BS).",
+   "kind": "birth",
+   "listed": false,
+   "description": "Nepali poet (1926–2007)",
+   "lead": true,
+   "links": 2,
+   "score": 1.304,
+   "also": [],
+   "news": null,
+   "url": "https://en.wikipedia.org/wiki/Mohan_Koirala"
   }
  ]
 }

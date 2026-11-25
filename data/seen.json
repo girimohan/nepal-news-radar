@@ -7,13 +7,13 @@
 "headline": "Attack on Riyadh financial centre injures 11, including Nepalis",
 "last_seen": "2026-11-25",
 "terms": [
-"attack",
-"financial",
-"includ",
-"centre",
-"nepali",
 "injur",
-"riyadh"
+"riyadh",
+"includ",
+"financial",
+"nepali",
+"attack",
+"centre"
 ],
 "urls": [
 "https://kathmandupost.com/national/2026/11/25/attack-on-riyadh-financial-centre-injures-11-including-nepalis"
@@ -27,12 +27,12 @@
 "headline": "वीर अस्पताललाई ५० लाखका युरोलोजी उपकरण हस्तान्तरण",
 "last_seen": "2026-11-25",
 "terms": [
-"अस्पताल",
 "लाख",
+"उपकरण",
+"अस्पताल",
 "हस्तान्तरण",
-"वीर",
 "युरोलोजी",
-"उपकरण"
+"वीर"
 ],
 "urls": [
 "https://onlinekhabar.com/2026/11/2065178/urology-equipment-worth-rs-5-million-handed-over-to-bir-hospital"
@@ -47,13 +47,13 @@
 "last_seen": "2026-11-25",
 "terms": [
 "pac",
-"sunkoshi",
-"project",
-"document",
 "contract",
-"marin",
+"seek",
+"sunkoshi",
+"document",
 "cancellation",
-"seek"
+"marin",
+"project"
 ],
 "urls": [
 "https://theannapurnaexpress.com/story/69066"
@@ -68,23 +68,22 @@
 "last_seen": "2026-11-25",
 "terms": [
 "लाख",
-"मृत्यु",
-"रुसी",
 "सैनिक",
+"मृत्यु",
 "युद्ध",
-"युक्रेन",
-"तथ्याङ्क",
-"भन्छ",
-"आफ्नै",
+"रुसी",
 "झन्डै",
+"युक्रेन",
+"आफ्नै",
 "रुस",
+"भन्छ",
+"तथ्याङ्क",
 "बढी",
 "दाबी",
-"हजारभन्दा"
+"रुस-युक्रेन"
 ],
 "urls": [
 "https://bbc.com/nepali/articles/ckvg217yp2leo",
-"https://deshsanchar.com/2026/11/25/1256016",
 "https://nepalpress.com/2026/11/25/784394/claims-that-more-than-490000-russian-soldiers-died-in-the-russia-ukraine-war"
 ]
 },
@@ -96,15 +95,15 @@
 "headline": "‘नयाँ शक्तिबाट काम हुन नसक्दा जनताको भरोसा फेरि एमालेतर्फ फर्किएको छ’",
 "last_seen": "2026-11-25",
 "terms": [
-"एमालेतर्फ",
-"शक्ति",
 "नसक्दा",
+"एमालेतर्फ",
 "जनता",
-"फेरि",
-"काम",
 "हुन",
+"काम",
 "फर्किए",
-"भरोसा"
+"भरोसा",
+"शक्ति",
+"फेरि"
 ],
 "urls": [
 "https://ratopati.com/story/607535/peoples-trust-has-returned-to-uml-after-new-forces-failed-to-deliver-on-their-promises"
@@ -188,10 +187,10 @@
 "trillion",
 "reach",
 "rs",
-"gdp",
 "2.975",
 "45.08",
 "percent",
+"gdp",
 "nepal",
 "2.95",
 "equivalent"
@@ -211,13 +210,13 @@
 "headline": "रियाद आक्रमणमा तीन जना नेपाली पनि घाइते भएको पुष्टि, 'पहिचान हुँदै'",
 "last_seen": "2026-11-25",
 "terms": [
-"पहिचान",
-"रियाद",
 "नेपाली",
-"जना",
-"पुष्टि",
 "घाइते",
 "तीन",
+"पुष्टि",
+"जना",
+"पहिचान",
+"रियाद",
 "आक्रमण"
 ],
 "urls": [
@@ -235,12 +234,12 @@
 "nepal",
 "india",
 "open",
+"agreement",
 "opportuniti",
 "tourism",
-"agreement",
-"agree",
 "expansion",
 "cooperation",
+"agree",
 "sport"
 ],
 "urls": [
@@ -257,17 +256,17 @@
 "last_seen": "2026-11-25",
 "terms": [
 "देउवा",
-"समूह",
-"तयारी",
 "समिति",
+"तयारी",
+"समूह",
 "महाधिवेशन",
-"जिम्मेवारी",
 "गठन",
+"जिम्मेवारी",
 "शशांक",
-"दियो",
 "संयोजक",
-"पक्ष",
+"दियो",
 "प्रदेश",
+"पक्ष",
 "कोइराला",
 "टुंग्याउने"
 ],
@@ -287,11 +286,11 @@
 "headline": "Nepal-India joint military drill begins",
 "last_seen": "2026-11-25",
 "terms": [
-"military",
-"drill",
-"nepal-india",
 "joint",
-"begin"
+"nepal-india",
+"drill",
+"begin",
+"military"
 ],
 "urls": [
 "https://theannapurnaexpress.com/story/69052"
@@ -305,15 +304,15 @@
 "headline": "Deuba faction entrusts Shashank Koirala with forming convention preparation committees",
 "last_seen": "2026-11-25",
 "terms": [
-"shashank",
 "entrust",
-"convention",
-"deuba",
-"committe",
-"faction",
-"koirala",
 "form",
-"preparation"
+"faction",
+"preparation",
+"koirala",
+"deuba",
+"convention",
+"committe",
+"shashank"
 ],
 "urls": [
 "https://english.onlinekhabar.com/deuba-faction-entrusts-shashank-koirala-with-forming-convention-preparation-committees.html"
@@ -341,23 +340,29 @@
 },
 "20d0b4450f": {
 "by_day": {
-"2026-11-25": 1
+"2026-11-25": 2
 },
 "first_seen": "2026-11-25",
-"headline": "विभिन्न राजनीतिक तथा सामाजिक माग राख्दै हुंकार मधेशद्वारा प्रधानमन्त्रीलाई ज्ञापनपत्र",
+"headline": "‘हुंकार मधेस’ द्वारा प्रधानमन्त्रीलाई ज्ञापनपत्र : हिन्दु गणराज्य घोषणादेखि लाल आयोगको प्रतिवेदन सार्वजनिक गर्न माग",
 "last_seen": "2026-11-25",
 "terms": [
-"प्रधानमन्त्री",
-"विभिन्न",
 "ज्ञापनपत्र",
-"माग",
-"राजनीतिक",
-"राख्दै",
+"प्रधानमन्त्री",
 "हुंकार",
+"माग",
+"राख्दै",
+"सामाजिक",
+"विभिन्न",
 "मधेश",
-"सामाजिक"
+"राजनीतिक",
+"हिन्दु",
+"गणराज्य",
+"मधेस",
+"द्वारा",
+"लाल"
 ],
 "urls": [
+"https://ratopati.com/story/607636/memorandum-to-the-prime-minister-by-hunkar-madhes-demand-to-make-public-the-report-of-the-lal-commission-from-the-declaration-of-the-hindu-republic",
 "https://setopati.com/politics/403395"
 ]
 },
@@ -419,15 +424,15 @@
 "headline": "President Paudel undergoes routine health check-up at Teaching Hospital",
 "last_seen": "2026-11-25",
 "terms": [
-"paudel",
-"health",
-"undergo",
 "president",
+"undergo",
+"health",
+"paudel",
 "checkup",
-"routine",
 "check-up",
+"hospital",
 "teach",
-"hospital"
+"routine"
 ],
 "urls": [
 "https://english.khabarhub.com/2026/25/577031",
@@ -442,14 +447,14 @@
 "headline": "Over 5,000 missing in Bhote Koshi floods await declaration of death",
 "last_seen": "2026-11-25",
 "terms": [
-"000",
 "bhote",
+"flood",
+"000",
+"koshi",
 "declaration",
 "await",
-"flood",
 "death",
-"miss",
-"koshi"
+"miss"
 ],
 "urls": [
 "https://english.nepalnews.com/s/nation/over-5000-missing-in-bhote-koshi-floods-await-declaration-of-death"
@@ -457,21 +462,28 @@
 },
 "2a47482abf": {
 "by_day": {
-"2026-11-25": 1
+"2026-11-25": 2
 },
 "first_seen": "2026-11-25",
-"headline": "घाइते शान्तनुको स्वास्थ्य अवस्था बुझ्न मन्त्रीद्वय अस्पतालमा",
+"headline": "जेनजी आन्दोलनका घाइते शान्तनुलाई भेट्न अस्पताल पुगे मन्त्रीद्वय निशा र सीता",
 "last_seen": "2026-11-25",
 "terms": [
+"मन्त्रीद्वय",
 "अस्पताल",
 "शान्तनु",
 "घाइते",
-"अवस्था",
-"मन्त्रीद्वय",
+"बुझ्न",
 "स्वास्थ्य",
-"बुझ्न"
+"अवस्था",
+"पुगे",
+"सीता",
+"निशा",
+"जेनजी",
+"भेट्न",
+"आन्दोलन"
 ],
 "urls": [
+"https://nagariknews.nagariknetwork.com/social-affairs/ministers-nisha-and-sita-visit-hospital-to-meet-shantanu-injured-in-genji-movement-69-81.html",
 "https://ratopati.com/story/607630/ministers-visit-hospital-to-assess-injured-shantanus-health"
 ]
 },
@@ -502,16 +514,16 @@
 "headline": "Govt proposes raising Citizen Investment Trust’s authorised capital to Rs 10 billion",
 "last_seen": "2026-11-25",
 "terms": [
-"billion",
-"investment",
-"rs",
-"propose",
-"trust",
-"govt",
-"authoris",
-"capital",
 "rais",
-"citizen"
+"propose",
+"investment",
+"trust",
+"citizen",
+"govt",
+"capital",
+"rs",
+"billion",
+"authoris"
 ],
 "urls": [
 "https://english.onlinekhabar.com/govt-proposes-raising-citizen-investment-trusts-authorised-capital-to-rs-10-billion.html"
@@ -525,14 +537,14 @@
 "headline": "Nuwakot begins rental aid payments for Bhotekoshi flood victims",
 "last_seen": "2026-11-25",
 "terms": [
-"bhotekoshi",
-"nuwakot",
-"rental",
-"victim",
-"flood",
 "payment",
 "aid",
-"begin"
+"flood",
+"victim",
+"bhotekoshi",
+"rental",
+"begin",
+"nuwakot"
 ],
 "urls": [
 "https://thehimalayantimes.com/nepal/nuwakot-begins-rental-aid-payments-for-bhotekoshi-flood-victims"
@@ -548,15 +560,15 @@
 "terms": [
 "ज्वरो",
 "भ्रमणबारे",
-"बालेन",
-"भित्री",
-"बाबुराम",
 "उस्तै",
-"सिटामोल",
-"घटायो",
-"भारत",
 "रोग",
-"पानीपट्टी"
+"भारत",
+"बालेन",
+"घटायो",
+"सिटामोल",
+"पानीपट्टी",
+"भित्री",
+"बाबुराम"
 ],
 "urls": [
 "https://nagariknews.nagariknetwork.com/politics/balen-s-visit-to-india-is-only-a-treatment-of-cetamol-and-panipatti-surgery-is-needed-to-cure-internal-diseases-baburam-71-61.html"
@@ -574,14 +586,13 @@
 "प्रतिशत",
 "विद्युत्",
 "झर्",
+"12.16",
 "लक्ष्यभन्दा",
-"घटेर",
 "प्रगति",
-"राम्रो",
-"12.16"
+"घटेर",
+"राम्रो"
 ],
 "urls": [
-"https://khabarhub.com/2026/25/1051659",
 "https://nepalnews.com/2026/11/25/electricity-leakage-reduced-to-12-percent-better-progress-than-target",
 "https://onlinekhabar.com/2026/11/2065284/electricity-leakage-drops-to-12-16-percent"
 ]
@@ -619,17 +630,17 @@
 "बालेन",
 "सरकार",
 "बाबुराम",
-"100",
 "दिए",
+"100",
 "नम्बर",
-"पाँच",
-"नबढाउनू",
 "मिलेर",
-"सुझाव",
+"दूरी",
+"पाँच",
+"वर्ष",
 "अनावश्यक",
-"चलाउनू",
+"सुझाव",
 "रवि",
-"वर्ष"
+"चलाउनू"
 ],
 "urls": [
 "https://nagariknews.nagariknetwork.com/politics/baburam-gave-balen-government-60-out-of-100-marks-93-46.html",
@@ -646,8 +657,8 @@
 "terms": [
 "congress",
 "nepali",
-"election",
 "commission",
+"election",
 "committee",
 "central",
 "statute",
@@ -657,11 +668,10 @@
 "meet",
 "leadership",
 "amend",
-"leader"
+"faction"
 ],
 "urls": [
 "https://english.khabarhub.com/2026/25/577017",
-"https://english.nepalnews.com/s/politics/election-commission-updates-nepali-congress-central-committee",
 "https://english.onlinekhabar.com/congress-leader-calls-for-action-against-representatives-supporting-deuba-factions-convention.html",
 "https://english.onlinekhabar.com/election-commission-updates-nepali-congress-statute-office-bearers-records.html",
 "https://english.onlinekhabar.com/nepali-congress-women-central-committee.html",
@@ -701,13 +711,13 @@
 "headline": "वाम तालमेलको बाध्यता छ, ओली–प्रचण्ड नै टिकिरहने डर छ",
 "last_seen": "2026-11-25",
 "terms": [
-"ओली",
-"प्रचण्ड",
-"तालमेल",
-"वाम",
-"डर",
 "बाध्यता",
-"टिकिरहने"
+"तालमेल",
+"ओली",
+"टिकिरहने",
+"प्रचण्ड",
+"डर",
+"वाम"
 ],
 "urls": [
 "https://onlinekhabar.com/2026/11/2065239/compulsion-of-left-alliance-fear-of-oli-prachanda-derailing-reorganization"
@@ -721,16 +731,16 @@
 "headline": "भारततर्फ खसीबोका निर्यात बढेको भन्दै मासु व्यवसायीको चिन्ता, पसल बन्द गर्ने चेतावनी",
 "last_seen": "2026-11-25",
 "terms": [
-"चिन्ता",
-"निर्यात",
-"चेतावनी",
 "बन्द",
-"पसल",
-"बढे",
 "खसीबो",
 "मासु",
+"बढे",
+"व्यवसायी",
+"पसल",
 "भारततर्फ",
-"व्यवसायी"
+"चिन्ता",
+"चेतावनी",
+"निर्यात"
 ],
 "urls": [
 "https://ratopati.com/story/607623/meat-traders-concerned-about-increased-goat-and-sheep-exports-to-india-warn-of-shop-closures"
@@ -744,16 +754,16 @@
 "headline": "नागरिक लगानी कोषले पूँजीबजारमा योगदान बढाउन खोजिरहेको छ : कार्यकारी निर्देशक कार्की",
 "last_seen": "2026-11-25",
 "terms": [
-"खोजिरहे",
-"कार्",
-"लगानी",
-"नागरिक",
-"कार्यकारी",
-"योगदान",
-"निर्देशक",
 "कोष",
+"कार्",
 "पूँजीबजार",
-"बढाउन"
+"खोजिरहे",
+"कार्यकारी",
+"नागरिक",
+"योगदान",
+"लगानी",
+"बढाउन",
+"निर्देशक"
 ],
 "urls": [
 "https://onlinekhabar.com/2026/11/2065146/citizen-investment-fund-is-trying-to-increase-its-contribution-to-the-capital-market-executive-director-karki"
@@ -761,31 +771,57 @@
 },
 "354aeb4aaa": {
 "by_day": {
+"2026-11-25": 2
+},
+"first_seen": "2026-11-25",
+"headline": "देशवासीले गगन नेतृत्वको कांग्रेसलाई मात्रै चिनेका छन् : निश्कल राई",
+"last_seen": "2026-11-25",
+"terms": [
+"राई",
+"देशवासी",
+"गगन",
+"मात्रै",
+"कांग्रेस",
+"नेतृत्व",
+"निष्कल",
+"चिन्छन्",
+"चिने",
+"निश्कल"
+],
+"urls": [
+"https://imagekhabar.com/news/564272",
+"https://onlinekhabar.com/2026/11/2065382/the-countrymen-have-only-recognized-the-congress-led-by-gagan-niskal-rai"
+]
+},
+"363a43bdba": {
+"by_day": {
 "2026-11-25": 1
 },
 "first_seen": "2026-11-25",
-"headline": "गगन नेतृत्वको कांग्रेसलाई मात्रै देशवासीले चिन्छन्: निष्कल राई",
+"headline": "किसानलाई मल दिन नसक्ने कृषि मन्त्रीले राजीनामा दिनुपर्छ : प्रभु साह",
 "last_seen": "2026-11-25",
 "terms": [
-"कांग्रेस",
-"चिन्छन्",
-"नेतृत्व",
-"राई",
-"निष्कल",
-"मात्रै",
-"गगन",
-"देशवासी"
+"कृषि",
+"किसान",
+"प्रभु",
+"साह",
+"राजीना",
+"दिन",
+"नसक्ने",
+"दिनुपर्छ",
+"मल",
+"मन्त्री"
 ],
 "urls": [
-"https://imagekhabar.com/news/564272"
+"https://ratopati.com/story/607633/agriculture-minister-who-cannot-provide-fertilizer-to-farmers-should-resign-prabhu-sah"
 ]
 },
 "37418b9e43": {
 "by_day": {
-"2026-11-25": 3
+"2026-11-25": 4
 },
 "first_seen": "2026-11-25",
-"headline": "कांग्रेसमा ११ जना महिला केन्द्रीय सदस्य मनोनीत, आयोगलाई जानकारी गराइयो",
+"headline": "कांग्रेस केन्द्रीय समिति बैठकमा ४९ सदस्यले राखे धारणा",
 "last_seen": "2026-11-25",
 "terms": [
 "केन्द्रीय",
@@ -793,17 +829,18 @@
 "सदस्य",
 "महिला",
 "मनोनीत",
-"आयोग",
+"बैठक",
+"समिति",
+"धारणा",
+"जानकारी",
 "जना",
 "गराइयो",
-"जानकारी",
+"आयोग",
 "सुजाता",
-"नेता",
-"कोइरालासहित",
-"धारणा",
-"राखे"
+"कोइरालासहित"
 ],
 "urls": [
+"https://nepalnews.com/2026/11/25/49-members-present-their-views-at-the-congress-central-committee-meeting",
 "https://nepalpress.com/2026/11/25/784452/sujata-koirala-other-female-leaders-nominated-as-nc-central-members",
 "https://onlinekhabar.com/2026/11/2065156/11-women-central-members-nominated-in-nepali-congress-commission-informed",
 "https://ratopati.com/story/607620/49-members-expressed-their-views-at-the-congress-central-committee-meeting"
@@ -817,11 +854,11 @@
 "headline": "सरकार, ईपीजीलाई पनि विगतकै ब्यागेजभित्र हालिदिएको हो ?",
 "last_seen": "2026-11-25",
 "terms": [
-"विगतकै",
-"सरकार",
-"ब्यागेज",
+"हालिदिए",
 "ईपीजी",
-"हालिदिए"
+"विगतकै",
+"ब्यागेज",
+"सरकार"
 ],
 "urls": [
 "https://onlinekhabar.com/2026/11/2065237/has-the-government-also-relegated-epg-to-the-baggage-of-the-past"
@@ -835,10 +872,10 @@
 "headline": "कोशीमा प्रदेश प्रमुख नियुक्ति अझै अन्योलमा",
 "last_seen": "2026-11-25",
 "terms": [
-"प्रमुख",
 "अन्योल",
-"नियुक्ति",
+"प्रमुख",
 "प्रदेश",
+"नियुक्ति",
 "कोशी"
 ],
 "urls": [
@@ -854,12 +891,12 @@
 "headline": "Black horse, white tiger and the big elephant in the room",
 "last_seen": "2026-11-25",
 "terms": [
-"room",
-"black",
+"horse",
 "white",
 "elephant",
-"tiger",
-"horse"
+"black",
+"room",
+"tiger"
 ],
 "urls": [
 "https://theannapurnaexpress.com/story/69057"
@@ -900,14 +937,14 @@
 "headline": "नाफा बढ्दा पनि सुध्रिएन बैंकहरूको प्राथमिक पूँजी कोष दबाब",
 "last_seen": "2026-11-25",
 "terms": [
-"बढ्दा",
-"बैंक",
-"दबाब",
 "प्राथमिक",
-"सुध्रिएन",
-"पूँजी",
+"कोष",
 "नाफा",
-"कोष"
+"बैंक",
+"बढ्दा",
+"पूँजी",
+"दबाब",
+"सुध्रिएन"
 ],
 "urls": [
 "https://onlinekhabar.com/2026/11/2065345/banks-core-capital-pressure-remains-unchanged-despite-profit-growth"
@@ -922,15 +959,15 @@
 "last_seen": "2026-11-25",
 "terms": [
 "ऋण",
-"राहत",
+"खर्ब",
 "तिर्न",
-"बाँ",
-"पौने",
-"डलर",
-"कमजोर",
 "हुँदा",
+"बाँ",
+"राहत",
+"कमजोर",
 "सार्वजनिक",
-"खर्ब"
+"पौने",
+"डलर"
 ],
 "urls": [
 "https://onlinekhabar.com/2026/11/2065245/relief-in-public-debt-as-dollar-weakens-3-5-trillion-rupees-outstanding"
@@ -944,17 +981,17 @@
 "headline": "मुख्यमन्त्री कार्कीले दुःख सुनाए, नेकपाले भन्यो- सरकार फेर्न परे आफ्नै नेतृत्वमा जान्छौं",
 "last_seen": "2026-11-25",
 "terms": [
-"भन्यो",
-"सुनाए",
-"सरकार",
-"नेतृत्व",
-"कार्की",
-"मुख्यमन्त्री",
-"परे",
-"आफ्नै",
 "दुःख",
 "जान्छौं",
+"परे",
+"सुनाए",
+"कार्की",
+"आफ्नै",
+"मुख्यमन्त्री",
 "फेर्न",
+"सरकार",
+"भन्यो",
+"नेतृत्व",
 "नेकपा"
 ],
 "urls": [
@@ -969,15 +1006,15 @@
 "headline": "महोत्तरीमा निजी लगानीमा थारू संस्कृति तथा पर्यटन केन्द्रको भवनको निर्माण",
 "last_seen": "2026-11-25",
 "terms": [
-"लगानी",
-"केन्द्र",
-"महोत्तरी",
-"थारू",
+"निजी",
 "भवन",
-"पर्यटन",
-"निर्माण",
 "संस्कृति",
-"निजी"
+"थारू",
+"केन्द्र",
+"निर्माण",
+"लगानी",
+"पर्यटन",
+"महोत्तरी"
 ],
 "urls": [
 "https://annapurnapost.com/story/512002"
@@ -991,16 +1028,16 @@
 "headline": "Meat Traders Express Dissatisfaction Over Livestock Exports to India, Demand Government Action",
 "last_seen": "2026-11-25",
 "terms": [
-"trader",
-"meat",
 "export",
-"livestock",
 "demand",
-"express",
-"government",
 "action",
+"dissatisfaction",
+"livestock",
+"meat",
+"express",
 "india",
-"dissatisfaction"
+"government",
+"trader"
 ],
 "urls": [
 "https://english.ratopati.com/story/88271/meat-traders-concerned-about-increased-goat-and-sheep-exports-to-india-warn-of-shop-closures"
@@ -1035,10 +1072,10 @@
 "last_seen": "2026-11-25",
 "terms": [
 "बालश्रम",
-"पूर्णरूप",
-"निषेध",
-"गर्छौं",
 "यादव",
+"निषेध",
+"पूर्णरूप",
+"गर्छौं",
 "मन्त्री",
 "उमेरहद"
 ],
@@ -1055,11 +1092,11 @@
 "headline": "मध्यपूर्वमा खिचिएका 'यूएएफओ'का भिडिओ अमेरिकाद्वारा सार्वजनिक",
 "last_seen": "2026-11-25",
 "terms": [
-"खिचिए",
-"यूएएफओ'",
 "भिडिओ",
-"मध्यपूर्व",
+"यूएएफओ'",
+"खिचिए",
 "सार्वजनिक",
+"मध्यपूर्व",
 "अमेरिका"
 ],
 "urls": [
@@ -1094,27 +1131,27 @@
 "headline": "१०औं राष्ट्रिय खेलकुद : महिला बास्केटबलमा सुदूरपश्चिम क्वाटरफाइनलमा",
 "last_seen": "2026-11-25",
 "terms": [
-"सुदूरपश्चिम",
 "महिला",
 "बास्केटबल",
-"क्वाटरफाइनल",
+"सुदूरपश्चिम",
 "राष्ट्रिय",
-"खेलकुद",
-"बास्केटबलतर्फ",
 "10औं",
-"फराकिलो",
-"हार",
+"क्वाटरफाइनल",
+"कर्णाली",
+"क्रिकेट",
+"कोशी",
+"खेलकुद",
 "प्रवेश",
+"हार",
 "मधेश",
-"विजेता",
-"बन्दै"
+"फराकिलो"
 ],
 "urls": [
-"https://annapurnapost.com/story/511987",
+"https://annapurnapost.com/story/512000",
 "https://imagekhabar.com/news/564257",
 "https://nepalpress.com/2026/11/25/784412/womens-basketball-sudurpaschim-advances-to-quarterfinals-madhesh-suffers-a-crushing-defeat",
-"https://onlinekhabar.com/2026/11/2065145/10th-national-games-far-west-in-quarterfinals-in-womens-basketball",
-"https://ratopati.com/story/607604/10th-national-games-sudurpaschim-advances-to-quarterfinals-in-womens-basketball"
+"https://nepalpress.com/2026/11/25/784436/koshis-first-win-in-womens-cricket-defeating-karnali-by-49-runs",
+"https://onlinekhabar.com/2026/11/2065145/10th-national-games-far-west-in-quarterfinals-in-womens-basketball"
 ]
 },
 "4b15d87c5a": {
@@ -1125,13 +1162,13 @@
 "headline": "Nepal Seeks Indian Grant for Motihari-Sarlahi Gas Pipeline",
 "last_seen": "2026-11-25",
 "terms": [
-"gas",
 "nepal",
-"motihari-sarlahi",
-"indian",
 "grant",
 "pipeline",
-"seek"
+"motihari-sarlahi",
+"seek",
+"gas",
+"indian"
 ],
 "urls": [
 "https://english.ratopati.com/story/88244/proposal-to-build-lp-gas-pipeline-with-indian-subsidy-in-the-same-modality-as-petroleum-pipeline"
@@ -1145,12 +1182,12 @@
 "headline": "The man who took Nepal to Lord’s now wants a British PM in Nepal",
 "last_seen": "2026-11-25",
 "terms": [
-"lord",
-"british",
+"want",
 "nepal",
 "pm",
 "took",
-"want",
+"british",
+"lord",
 "man"
 ],
 "urls": [
@@ -1165,18 +1202,38 @@
 "headline": "दानबहादुर कार्कीले अन्तरिम आदेश पाएनन्, मनोज केसीलाई बाटो खुला",
 "last_seen": "2026-11-25",
 "terms": [
-"दानबहादुर",
-"बाटो",
-"खुला",
-"पाएनन्",
-"केसी",
-"अन्तरिम",
 "कार्की",
-"आदेश",
-"मनोज"
+"दानबहादुर",
+"मनोज",
+"खुला",
+"अन्तरिम",
+"केसी",
+"बाटो",
+"पाएनन्",
+"आदेश"
 ],
 "urls": [
 "https://nepalpress.com/2026/11/25/784460/dan-bahadur-karki-did-not-get-an-interim-order-the-way-is-open-for-manoj-kc"
+]
+},
+"4b55fb7992": {
+"by_day": {
+"2026-11-25": 1
+},
+"first_seen": "2026-11-25",
+"headline": "१४ राष्ट्रका लागि अमेरिकाले तोक्यो नयाँ भन्सार दर, चीनलाई सबैभन्दा धेरै",
+"last_seen": "2026-11-25",
+"terms": [
+"भन्सार",
+"तोक्यो",
+"सबैभन्दा",
+"राष्ट्र",
+"अमेरिका",
+"दर",
+"चीन"
+],
+"urls": [
+"https://baahrakhari.com/detail/508300"
 ]
 },
 "4b5792c8b8": {
@@ -1184,33 +1241,23 @@
 "2026-11-25": 6
 },
 "first_seen": "2026-11-25",
-"headline": "पौडीमा दोस्रो दिन ४ राष्ट्रिय कीर्तिमान, बागमती शीर्ष स्थानमा",
+"headline": "दुई गोलको अग्रता जोगाउन नसक्दा बागमती कोशीसँग बराबरीमा रोकियो",
 "last_seen": "2026-11-25",
 "terms": [
 "बागमती",
-"राष्ट्रिय",
-"पौडी",
-"कीर्तिमान",
 "कोशी",
-"दोस्रो",
-"दिन",
-"शीर्ष",
-"अंक",
+"नसक्दा",
+"बराबरी",
+"रोकियो",
+"अग्रता",
+"गोल",
+"जोगाउन",
 "बाँडे",
-"दशौँ",
-"स्थान",
-"खेलकुद",
-"चार"
+"अंक"
 ],
 "urls": [
 "https://annapurnapost.com/story/512001",
-"https://deshsanchar.com/2026/11/25/1256053",
-"https://mirmireonline.com/2026/11/25/320500",
-"https://nepalpress.com/2026/11/25/784473/bagmati-tops-the-list-on-the-second-day-of-the-10th-national-games",
-"https://nepalpress.com/2026/11/25/784489/6-national-records-in-swimming-bagmati-tops-with-9-golds",
-"https://onlinekhabar.com/2026/11/2065210/unable-to-defend-a-two-goal-lead-bagmati-was-held-to-a-draw-with-koshi",
-"https://onlinekhabar.com/2026/11/2065298/10th-national-games-four-national-records-set-on-second-day-in-swimming-bagmati-and-nra-continue-to-dominate",
-"https://ratopati.com/story/607615/4-national-records-set-on-second-day-of-swimming-bagmati-tops-the-list"
+"https://onlinekhabar.com/2026/11/2065210/unable-to-defend-a-two-goal-lead-bagmati-was-held-to-a-draw-with-koshi"
 ]
 },
 "4f874dca7b": {
@@ -1221,23 +1268,42 @@
 "headline": "पाकिस्तानी नेटफ्लिक्स सिरिज ‘जो बचे हैं संग समेट लो’ रिलिज नहुँदै भारतमा किन उठ्यो प्रतिबन्धको माग ?",
 "last_seen": "2026-11-25",
 "terms": [
-"पाकिस्तानी",
-"प्रतिबन्ध",
 "नेटफ्लिक्स",
-"लो",
-"माग",
-"किन",
 "संग",
-"नहुँदै",
-"भारत",
-"सिरिज",
+"समेट",
+"रिलिज",
+"लो",
 "हैं",
-"उठ्यो",
+"सिरिज",
+"माग",
+"पाकिस्तानी",
 "बचे",
-"रिलिज"
+"भारत",
+"किन",
+"नहुँदै",
+"प्रतिबन्ध"
 ],
 "urls": [
 "https://onlinekhabar.com/2026/11/2065171/why-was-there-a-demand-for-a-ban-on-the-pakistani-netflix-series-jo-bache-hain-sang-samet-lo-before-it-was-released-in-india"
+]
+},
+"4fc643ac4d": {
+"by_day": {
+"2026-11-25": 1
+},
+"first_seen": "2026-11-25",
+"headline": "पहिरोले जोखिम भएकोे घरमै बस्नुपर्ने बाध्यता",
+"last_seen": "2026-11-25",
+"terms": [
+"बाध्यता",
+"पहिरो",
+"जोखिम",
+"बस्नुपर्ने",
+"भएकोे",
+"घरमै"
+],
+"urls": [
+"https://deshsanchar.com/2026/11/25/1255872"
 ]
 },
 "50b684f6b8": {
@@ -1248,14 +1314,14 @@
 "headline": "हङकङमा देउवा पक्षको कार्यक्रम : रास्वपाका नेता प्रमुख अतिथि",
 "last_seen": "2026-11-25",
 "terms": [
-"प्रमुख",
-"नेता",
-"रास्वपा",
-"देउवा",
-"पक्ष",
 "अतिथि",
+"रास्वपा",
 "हङकङ",
-"कार्यक्रम"
+"देउवा",
+"प्रमुख",
+"पक्ष",
+"कार्यक्रम",
+"नेता"
 ],
 "urls": [
 "https://onlinekhabar.com/2026/11/2065218/deubas-partys-program-in-hong-kong-rashtriya-swayamsevak-sangh-rss-leader-as-chief-guest"
@@ -1351,16 +1417,16 @@
 "headline": "दोस्रो दिनको लन टेनिस खेलमा महिला सिङ्गलतर्फ चार जना विजयी",
 "last_seen": "2026-11-25",
 "terms": [
-"लन",
-"टेनिस",
-"दोस्रो",
+"चार",
 "महिला",
-"दिन",
-"खेल",
+"लन",
 "जना",
 "विजयी",
 "सिङ्गलतर्फ",
-"चार"
+"दिन",
+"दोस्रो",
+"खेल",
+"टेनिस"
 ],
 "urls": [
 "https://nagariknews.nagariknetwork.com/sports/four-women-s-singles-winners-in-second-day-of-lawn-tennis-70-47.html"
@@ -1437,46 +1503,57 @@
 "2026-11-25": 14
 },
 "first_seen": "2026-11-25",
-"headline": "दानबहादुर कार्कीको रिटमा अन्तरिम आदेश दिन अस्वीकार",
+"headline": "दानबहादुर कार्कीको रिटमाथि दुवै पक्षको बहस सकियो",
 "last_seen": "2026-11-25",
 "terms": [
-"आदेश",
-"अन्तरिम",
+"बहस",
+"दुवै",
 "कार्की",
+"पक्ष",
+"सकियो",
 "दानबहादुर",
+"रिट"
+],
+"urls": [
+"https://onlinekhabar.com/2026/11/2065225/the-arguments-between-both-sides-on-dan-bahadur-karkis-writ-petition-have-concluded"
+]
+},
+"55d4004749x": {
+"by_day": {
+"2026-11-25": 9
+},
+"first_seen": "2026-11-25",
+"headline": "दानबहादुर कार्कीको पक्षमा अन्तरिम आदेश दिन सर्वोच्चद्वारा अस्वीकार",
+"last_seen": "2026-11-25",
+"terms": [
+"अन्तरिम",
+"आदेश",
+"कार्की",
 "सर्वोच्च",
-"रिट",
+"दानबहादुर",
 "अस्वीकार",
 "दिएन",
 "दिन",
 "पक्ष",
 "तीन",
-"आईजीपी",
-"केसी",
-"जारी"
+"रिट",
+"आधार",
+"अदालत",
+"आईजीपी"
 ],
 "urls": [
 "https://annapurnapost.com/story/511998",
 "https://annapurnapost.com/story/511999",
 "https://bbc.com/nepali/articles/c3grex4jgqk0o",
 "https://clickmandu.com/2026/11/507873.html",
-"https://deshsanchar.com/2026/11/25/1256096",
-"https://gorkhapatraonline.com/news/230381",
 "https://imagekhabar.com/news/564265",
 "https://khabarhub.com/2026/25/1051661",
 "https://khabarhub.com/2026/25/1051673",
 "https://mirmireonline.com/2026/11/25/320497",
-"https://nepalnews.com/2026/11/25/denial-of-issuing-interim-order-in-dan-bahadur-karkis-case",
-"https://nepalpress.com/2026/11/25/784460/dan-bahadur-karki-did-not-get-an-interim-order-the-way-is-open-for-manoj-kc",
 "https://nepalpress.com/2026/11/25/784468/igp-controversy-three-arguments-given-by-the-court-for-not-granting-interim-order-in-favor-of-karki",
-"https://newsofnepal.com/2026/11/25/795793",
 "https://newsofnepal.com/2026/11/25/795827",
-"https://onlinekhabar.com/2026/11/2065225/the-arguments-between-both-sides-on-dan-bahadur-karkis-writ-petition-have-concluded",
 "https://onlinekhabar.com/2026/11/2065229/governments-decision-to-remove-dan-bahadur-from-office-remains-unchanged-interim-order-rejected",
-"https://onlinekhabar.com/2026/11/2065243/igp-controversy-supreme-court-refuses-to-grant-interim-order-citing-these-three-grounds",
-"https://ratopati.com/story/607605/denied-to-issue-interim-order-on-dan-bahadur-karkis-writ-petition",
-"https://ratopati.com/story/607608/why-didnt-the-supreme-court-issue-an-interim-order-on-the-writ-petition-filed-by-karki-seeking-his-reinstatement-as-inspector-general-of-police",
-"https://ujyaaloonline.com/detail/133848"
+"https://onlinekhabar.com/2026/11/2065243/igp-controversy-supreme-court-refuses-to-grant-interim-order-citing-these-three-grounds"
 ]
 },
 "5675a71c58": {
@@ -1529,15 +1606,15 @@
 "headline": "विपद्‌ले पारेको मानसिक चोट बिर्सिन मदिराको 'सहारा', कस्तो हानि हुन्छ",
 "last_seen": "2026-11-25",
 "terms": [
-"कस्तो",
-"पारे",
-"चोट",
-"बिर्सिन",
-"मदिरा",
 "विपद्",
+"कस्तो",
 "मानसिक",
 "हानि",
-"सहारा"
+"मदिरा",
+"चोट",
+"सहारा",
+"बिर्सिन",
+"पारे"
 ],
 "urls": [
 "https://bbc.com/nepali/listen/ckvg21vqwpvqo"
@@ -1551,22 +1628,15 @@
 "headline": "माइतीघरमा हिंसा, विभेद र छुवाछुतको अन्त्य गर्न भन्दै प्रदर्शन (तस्वीरहरू)",
 "last_seen": "2026-11-25",
 "terms": [
-"अन्त्य",
 "हिंसा",
-"विश्वव्यापी",
-"महिला",
-"जन्माए",
-"हत्या",
-"दिवस",
-"तीन",
-"छुवाछुत",
 "तस्वीर",
 "माइतीघर",
+"अन्त्य",
+"विभेद",
 "प्रदर्शन",
-"विभेद"
+"छुवाछुत"
 ],
 "urls": [
-"https://newsofnepal.com/2026/11/25/795796",
 "https://onlinekhabar.com/2026/11/2065182/protest-demanding-an-end-to-violence-discrimination-and-untouchability-in-the-family-home-photos"
 ]
 },
@@ -1580,21 +1650,20 @@
 "terms": [
 "आयोग",
 "अद्यावधिक",
-"कांग्रेस",
-"निर्वाचन",
 "गगन",
 "पार्टी",
-"थापा",
 "नेपाली",
+"निर्वाचन",
+"थापा",
 "नेतृत्वकाे",
-"ब्रिफिङ",
-"कार्यसमिति",
-"गरेकोबारे",
+"कांग्रेस",
 "बैठक",
-"कुनै"
+"ब्रिफिङ",
+"गरेकोबारे",
+"कार्यसमिति",
+"गरेसँगै"
 ],
 "urls": [
-"https://annapurnapost.com/story/511989",
 "https://annapurnapost.com/story/511997",
 "https://nepalpress.com/2026/11/25/784441/gagan-briefed-the-party-meeting-on-the-commissions-update-of-the-new-working-committee",
 "https://ujyaaloonline.com/detail/133844"
@@ -1627,13 +1696,13 @@
 "headline": "Malaysian Food Festival to bring taste of Malaysia to Kathmandu",
 "last_seen": "2026-11-25",
 "terms": [
-"malaysia",
-"festival",
-"kathmandu",
 "taste",
-"bring",
+"malaysia",
+"food",
+"kathmandu",
 "malaysian",
-"food"
+"festival",
+"bring"
 ],
 "urls": [
 "https://english.khabarhub.com/2026/25/577024"
@@ -1647,10 +1716,10 @@
 "headline": "नेपालका लागि कोप– रातभरि करायो, दक्षिणा हरायो!",
 "last_seen": "2026-11-25",
 "terms": [
-"हरायो",
-"नेपाल",
 "रातभरि",
+"हरायो",
 "कोप",
+"नेपाल",
 "दक्षिणा",
 "करायो"
 ],
@@ -1695,6 +1764,29 @@
 "https://theannapurnaexpress.com/story/69047"
 ]
 },
+"697e099fa8": {
+"by_day": {
+"2026-11-25": 2
+},
+"first_seen": "2026-11-25",
+"headline": "राप्ती स्वास्थ्य विज्ञान प्रतिष्ठानले सार्वजनिक बिदा र अतिरिक्त समयमा पनि सबै सेवा दिने",
+"last_seen": "2026-11-25",
+"terms": [
+"सेवा",
+"अतिरिक्त",
+"समय",
+"स्वास्थ्य",
+"सार्वजनिक",
+"प्रतिष्ठान",
+"बिदा",
+"विज्ञान",
+"राप्ती"
+],
+"urls": [
+"https://gorkhapatraonline.com/news/230390",
+"https://nepalpress.com/2026/11/25/784492/rapti-institute-of-health-sciences-will-provide-all-services-even-during-public-holidays-and-overtime"
+]
+},
 "69b30dc266": {
 "by_day": {
 "2026-11-25": 1
@@ -1729,16 +1821,16 @@
 "project",
 "million",
 "dollar",
-"glof",
 "minimize",
+"glof",
 "plann",
-"glacial",
-"launch",
 "reduce",
 "nepal",
+"glacial",
+"launch",
 "lak",
 "four",
-"lake"
+"multi-million"
 ],
 "urls": [
 "https://english.nepalnews.com/s/climate/50-million-dollars-project-planned-to-minimize-glof-risks",
@@ -1756,25 +1848,23 @@
 "headline": "Supreme Court refuses interim order against Dan Bahadur Karki’s removal as police chief",
 "last_seen": "2026-11-25",
 "terms": [
-"court",
-"karki",
 "order",
 "dan",
+"karki",
 "bahadur",
-"supreme",
+"court",
 "interim",
-"petition",
-"igp",
-"writ",
+"supreme",
 "refuse",
+"petition",
 "declin",
+"igp",
 "removal",
-"former"
+"writ",
+"reject"
 ],
 "urls": [
-"https://english.khabarhub.com/2026/25/576995",
 "https://english.khabarhub.com/2026/25/577045",
-"https://english.nepalnews.com/s/security/supreme-court-concludes-hearing-on-former-igp-karkis-writ-petition",
 "https://english.nepalnews.com/s/security/supreme-court-refuses-interim-order-on-dan-bahadur-karki-plea",
 "https://english.onlinekhabar.com/sc-refuses-interim-order-dan-bahadur-karki.html",
 "https://english.onlinekhabar.com/supreme-court-rejects-interim-relief-for-dan-bahadur-karki-on-three-grounds.html",
@@ -1792,14 +1882,14 @@
 "headline": "Why India-Pakistan cricket matches keep coming despite political tensions",
 "last_seen": "2026-11-25",
 "terms": [
-"match",
-"keep",
-"india-pakistan",
-"despite",
-"tension",
 "cricket",
 "com",
-"political"
+"keep",
+"tension",
+"political",
+"india-pakistan",
+"despite",
+"match"
 ],
 "urls": [
 "https://kathmandupost.com/sports/2026/11/25/why-india-pakistan-cricket-matches-keep-coming-despite-political-tensions"
@@ -1813,12 +1903,12 @@
 "headline": "नियमित स्वास्थ्य परीक्षण गर्न शिक्षण अस्पताल पुगे राष्ट्रपति",
 "last_seen": "2026-11-25",
 "terms": [
-"अस्पताल",
-"पुगे",
-"परीक्षण",
-"शिक्षण",
 "नियमित",
+"पुगे",
 "स्वास्थ्य",
+"अस्पताल",
+"शिक्षण",
+"परीक्षण",
 "राष्ट्रपति"
 ],
 "urls": [
@@ -1921,6 +2011,29 @@
 "https://onlinekhabar.com/2026/11/2065344/10th-national-games-chief-minister-shahi-directs-sub-committee-to-fulfill-responsibilities-effectively"
 ]
 },
+"6f415d90c2": {
+"by_day": {
+"2026-11-25": 1
+},
+"first_seen": "2026-11-25",
+"headline": "‘कांग्रेस तयार छ’ अभियानलाई गाउँ–टोलसम्म पुर्‍याउन केन्द्रीय समितिमा छलफल",
+"last_seen": "2026-11-25",
+"terms": [
+"पुर्",
+"समिति",
+"कांग्रेस",
+"याउन",
+"केन्द्रीय",
+"तयार",
+"टोल",
+"गाउँ",
+"छलफल",
+"अभियान"
+],
+"urls": [
+"https://deshsanchar.com/2026/11/25/1256195"
+]
+},
 "6f54dcb431": {
 "by_day": {
 "2026-11-25": 4
@@ -1932,13 +2045,13 @@
 "बैंक",
 "विधा",
 "सम्मानित",
+"नबिल",
 "भिसा",
 "अवार्ड",
-"नबिल",
 "इन्टरनेशनल",
 "कुमारी",
-"सम्मान",
-"इन्टरनेसनल"
+"इन्टरनेसनल",
+"सम्मान"
 ],
 "urls": [
 "https://clickmandu.com/2026/11/507857.html",
@@ -2029,15 +2142,15 @@
 "last_seen": "2026-11-25",
 "terms": [
 "वरीयता",
-"दक्षता",
-"नेपाल",
-"विश्व",
-"एसिया",
 "कति",
-"अङ्ग्रेजी",
+"नेपाल",
+"दक्षिण",
 "भाषा",
 "पहिलो",
-"दक्षिण"
+"एसिया",
+"विश्व",
+"दक्षता",
+"अङ्ग्रेजी"
 ],
 "urls": [
 "https://onlinekhabar.com/2026/11/2065300/nepal-ranks-first-in-south-asia-in-english-language-proficiency-what-is-its-global-ranking"
@@ -2060,6 +2173,29 @@
 ],
 "urls": [
 "https://gorkhapatraonline.com/news/230387"
+]
+},
+"7a22687f7e": {
+"by_day": {
+"2026-11-25": 3
+},
+"first_seen": "2026-11-25",
+"headline": "कोरलानाकामा पूर्वाधार निर्माण गर्न संसदीय समितिको ध्यानाकर्षण",
+"last_seen": "2026-11-25",
+"terms": [
+"समिति",
+"ध्यानाकर्षण",
+"संसदीय",
+"निर्माण",
+"पूर्वाधार",
+"कोरलानाका",
+"नाका",
+"कोरला"
+],
+"urls": [
+"https://gorkhapatraonline.com/news/230383",
+"https://mirmireonline.com/2026/11/25/320494",
+"https://nagariknews.nagariknetwork.com/social-affairs/attention-of-parliamentary-committee-drawn-to-construction-of-infrastructure-at-korala-checkpoint-br-36-51.html"
 ]
 },
 "7a725e7442": {
@@ -2086,27 +2222,30 @@
 },
 "7aef2efea8": {
 "by_day": {
-"2026-11-25": 3
+"2026-11-25": 5
 },
 "first_seen": "2026-11-25",
 "headline": "पर्यटन बोर्डको सीईओ छनोट प्रक्रियाविरुद्धको रिटमा कारण देखाउ आदेश",
 "last_seen": "2026-11-25",
 "terms": [
-"पर्यटन",
-"बोर्ड",
-"कारण",
 "सीईओ",
+"कारण",
+"बोर्ड",
+"पर्यटन",
 "आदेश",
 "देखाऊ",
 "छनोट",
-"प्रक्रियाविरुद्ध",
+"रिट",
 "मुद्दा",
 "जारी",
+"प्रक्रियाविरुद्ध",
 "छनोटविरुद्ध",
-"रिट",
-"देखाउ"
+"देखाउ",
+"विरुद्ध"
 ],
 "urls": [
+"https://clickmandu.com/2026/11/507892.html",
+"https://nepalnews.com/2026/11/25/supreme-court-orders-show-cause-in-writ-petition-against-tourism-board-ceo-selection",
 "https://nepalpress.com/2026/11/25/784479/show-cause-order-issued-in-case-against-tourism-board-ceo-selection-process",
 "https://onlinekhabar.com/2026/11/2065378/show-cause-order-in-writ-petition-against-tourism-boards-ceo-selection-process",
 "https://ratopati.com/story/607616/show-cause-order-in-case-against-selection-of-tourism-board-ceo"
@@ -2139,11 +2278,11 @@
 "last_seen": "2026-11-25",
 "terms": [
 "turn",
+"adviser",
 "controversy",
-"facebook",
 "banter",
 "pm",
-"adviser",
+"facebook",
 "political"
 ],
 "urls": [
@@ -2211,32 +2350,50 @@
 "https://nagariknews.nagariknetwork.com/social-affairs/protest-in-duhavi-pressuring-to-find-the-girl-38-87.html"
 ]
 },
+"7f9e461e2e": {
+"by_day": {
+"2026-11-25": 1
+},
+"first_seen": "2026-11-25",
+"headline": "सेवाग्राहीका गुनासा तत्काल सम्बोधन गर्न टेलिकमलाई सञ्चारमन्त्रीको निर्देशन",
+"last_seen": "2026-11-25",
+"terms": [
+"सञ्चारमन्त्री",
+"सम्बोधन",
+"टेलिकम",
+"तत्काल",
+"निर्देशन",
+"गुनासा",
+"सेवाग्राही"
+],
+"urls": [
+"https://khabarhub.com/2026/25/1051696"
+]
+},
 "80a40a8fac": {
 "by_day": {
 "2026-11-25": 5
 },
 "first_seen": "2026-11-25",
-"headline": "बनेपामा चलचित्र स्टुडियो निर्माण अघि बढाउन सञ्चारमन्त्रीको निर्देशन",
+"headline": "प्रस्तावित ‘सिनेपा’ चलचित्र स्टुडियोको काम अघि बढाउन सञ्चारमन्त्री तिमिल्सिनाको पहल, स्थानीय भावना र वातावरणीय पक्षलाई सम्बोधन गर्दै निर्माण प्रक्रिया अघि बढाइने",
 "last_seen": "2026-11-25",
 "terms": [
 "सञ्चारमन्त्री",
 "स्टुडियो",
 "चलचित्र",
 "बढाउन",
-"निर्माण",
-"बनेपा",
-"निर्देशन",
+"तिमिल्सिना",
 "प्रस्तावित",
 "काम",
-"तिमिल्सिना",
 "पहल",
+"निर्माण",
 "सिनेपा",
-"निर्माणस्थल",
-"फिल्म"
+"सम्बोधन",
+"भावना",
+"प्रक्रिया",
+"स्थानीय"
 ],
 "urls": [
-"https://gorkhapatraonline.com/news/230379",
-"https://khabarhub.com/2026/25/1051666",
 "https://mirmireonline.com/2026/11/25/320490",
 "https://nagariknews.nagariknetwork.com/politics/communications-minister-timilsina-s-initiative-to-advance-the-work-of-the-proposed-cinepa-film-studio-br-59-90.html",
 "https://nepalnews.com/2026/11/25/communications-minister-directs-to-proceed-with-construction-of-film-studio-in-banepa"
@@ -2258,6 +2415,51 @@
 ],
 "urls": [
 "https://baahrakhari.com/detail/508295"
+]
+},
+"836c8b6c9b": {
+"by_day": {
+"2026-11-25": 3
+},
+"first_seen": "2026-11-25",
+"headline": "लैङ्गिक हिंसाविरुद्धको १६ दिने अभियान सुरु",
+"last_seen": "2026-11-25",
+"terms": [
+"हिंसाविरुद्ध",
+"लैङ्गिक",
+"सुरु",
+"अभियान",
+"बसन्तपुर",
+"ऐक्यबद्धता",
+"अत्यावश्यक"
+],
+"urls": [
+"https://annapurnapost.com/story/511995",
+"https://gorkhapatraonline.com/news/230392",
+"https://newsofnepal.com/2026/11/25/795812"
+]
+},
+"876dbcc6ae": {
+"by_day": {
+"2026-11-25": 1
+},
+"first_seen": "2026-11-25",
+"headline": "नरदेवीको १२ वर्षे जात्रा: नेवार समुदायको मौलिक संस्कृति र परम्पराको जीवन्त उत्सव",
+"last_seen": "2026-11-25",
+"terms": [
+"नेवार",
+"जीवन्त",
+"जात्रा",
+"वर्षे",
+"संस्कृति",
+"उत्सव",
+"मौलिक",
+"परम्परा",
+"नरदेवी",
+"समुदाय"
+],
+"urls": [
+"https://annapurnapost.com/story/512007"
 ]
 },
 "87a1978eb5": {
@@ -2287,23 +2489,22 @@
 "headline": "NOC directs gas industries to increase imports, supplies of cooking gas",
 "last_seen": "2026-11-25",
 "terms": [
+"import",
+"increase",
+"noc",
 "industri",
 "direct",
-"gas",
 "cook",
-"noc",
-"increase",
-"import",
+"gas",
 "suppli",
-"supply",
 "ensure",
+"lpg",
 "adequate",
-"lpg"
+"supply"
 ],
 "urls": [
 "https://english.khabarhub.com/2026/25/577021",
 "https://english.nepalnews.com/s/business/noc-directs-gas-industries-to-increase-imports-supplies-of-cooking-gas",
-"https://risingnepaldaily.com/news/89015",
 "https://theannapurnaexpress.com/story/69056"
 ]
 },
@@ -2315,13 +2516,13 @@
 "headline": "सन् २०२७ मा सिंगापुरको आर्थिक वृद्धिदर घट्ने प्रक्षेपण",
 "last_seen": "2026-11-25",
 "terms": [
-"2027",
-"वृद्धिदर",
-"आर्थिक",
-"सिंगापुर",
 "प्रक्षेपण",
+"सिंगापुर",
+"2027",
 "घट्ने",
-"सन्"
+"सन्",
+"आर्थिक",
+"वृद्धिदर"
 ],
 "urls": [
 "https://ratopati.com/story/607627/singapores-economic-growth-forecast-to-slow-in-2027"
@@ -2332,17 +2533,19 @@
 "2026-11-25": 1
 },
 "first_seen": "2026-11-25",
-"headline": "पोखरामा स्कुटर दुर्घटना, एक जनाको मृत्यु",
+"headline": "युएईमा सडक दुर्घटनाको कहर : १२ दिनमै २७ जनाको मृत्यु",
 "last_seen": "2026-11-25",
 "terms": [
-"पोखरा",
-"स्कुटर",
-"दुर्घटना",
+"दिनमै",
 "मृत्यु",
-"जना"
+"जना",
+"सडक",
+"युएई",
+"कहर",
+"दुर्घटना"
 ],
 "urls": [
-"https://ratopati.com/story/607598/one-person-dies-in-scooter-accident-in-pokhara"
+"https://ratopati.com/story/607634/road-accident-havoc-in-uae-27-people-die-in-12-days"
 ]
 },
 "8d61b41f84": {
@@ -2374,23 +2577,40 @@
 "headline": "उखु किसानको बक्यौता रकम अविलम्ब दिलाउन कांग्रेसका माग",
 "last_seen": "2026-11-25",
 "terms": [
-"कांग्रेस",
-"माग",
-"उखु",
-"बक्यौता",
-"निर्धारण",
-"सरकार",
-"तत्काल",
-"भुक्तानी",
-"मूल्य",
-"रकम",
-"अविलम्ब",
 "किसान",
-"दिलाउन"
+"उखु",
+"दिलाउन",
+"माग",
+"बक्यौता",
+"अविलम्ब",
+"रकम",
+"कांग्रेस"
 ],
 "urls": [
-"https://onlinekhabar.com/2026/11/2065274/congress-demands-immediate-payment-of-arrears-to-sugarcane-farmers",
-"https://ratopati.com/story/607610/congress-demands-immediate-fixing-of-sugarcane-prices-and-payment-of-arrears-from-the-government"
+"https://onlinekhabar.com/2026/11/2065274/congress-demands-immediate-payment-of-arrears-to-sugarcane-farmers"
+]
+},
+"9058199c54": {
+"by_day": {
+"2026-11-25": 1
+},
+"first_seen": "2026-11-25",
+"headline": "बाबुरामको विश्लेषण: वैकल्पिक राजनीतिको ठूलो हाँगो रास्वपा, जड सोचले कम्युनिस्ट खुम्चिए",
+"last_seen": "2026-11-25",
+"terms": [
+"वैकल्पिक",
+"राजनीति",
+"खुम्चिए",
+"कम्युनिस्ट",
+"विश्लेषण",
+"जड",
+"हाँगो",
+"रास्वपा",
+"सोच",
+"बाबुराम"
+],
+"urls": [
+"https://nagariknews.nagariknetwork.com/politics/baburam-s-analysis-rashtriya-swayamsevak-sangh-rss-is-a-major-branch-of-alternative-politics-while-the-communists-have-been-reduced-to-rigid-thinking-45-27.html"
 ]
 },
 "91cff430c9": {
@@ -2402,23 +2622,21 @@
 "last_seen": "2026-11-25",
 "terms": [
 "प्रतिवादी",
+"वर्ष",
 "पक्राउ",
-"फरार",
 "तोकिए",
 "कैद",
-"वर्ष",
-"जना",
-"धनुषा",
 "लाख",
 "जरिवाना",
-"खैरो",
-"डल्लु",
+"फरार",
+"मुद्दा",
 "हेरोइन",
-"मुद्दा"
+"सजाय",
+"खैरो",
+"डल्लु"
 ],
 "urls": [
 "https://newsofnepal.com/2026/11/25/795824",
-"https://ratopati.com/story/607607/5-absconding-defendants-arrested-in-dhanusha",
 "https://ratopati.com/story/607611/defendant-sentenced-to-15-years-in-prison-in-brown-heroin-case-arrested-from-dallu"
 ]
 },
@@ -2529,6 +2747,44 @@
 "https://ujyaaloonline.com/detail/133847"
 ]
 },
+"99665169de": {
+"by_day": {
+"2026-11-25": 1
+},
+"first_seen": "2026-11-25",
+"headline": "Nepal News Evening Economic Brief – November 25, 2026",
+"last_seen": "2026-11-25",
+"terms": [
+"november",
+"even",
+"nepal",
+"2026",
+"brief",
+"economic"
+],
+"urls": [
+"https://english.nepalnews.com/s/business/nepal-news-evening-economic-brief-november-25-2026"
+]
+},
+"9a59f87d13": {
+"by_day": {
+"2026-11-25": 1
+},
+"first_seen": "2026-11-25",
+"headline": "लाखौंको संख्यामा बसाइँ सर्ने अमुर बाज",
+"last_seen": "2026-11-25",
+"terms": [
+"लाखौं",
+"अमुर",
+"बसाइँ",
+"सर्ने",
+"बाज",
+"संख्या"
+],
+"urls": [
+"https://onlinekhabar.com/2026/11/2064866/millions-of-migrating-amur-falcons"
+]
+},
 "9b99a39789": {
 "by_day": {
 "2026-11-25": 2
@@ -2537,15 +2793,15 @@
 "headline": "China’s Huawei convicted in sprawling US criminal trial over Iran business",
 "last_seen": "2026-11-25",
 "terms": [
-"us",
-"trial",
-"china",
-"convict",
-"iran",
-"huawei",
 "criminal",
+"sprawl",
+"china",
+"trial",
+"iran",
+"us",
+"convict",
 "business",
-"sprawl"
+"huawei"
 ],
 "urls": [
 "https://kathmandupost.com/science-technology/2026/11/25/china-s-huawei-convicted-in-sprawling-us-criminal-trial-over-iran-business",
@@ -2557,28 +2813,26 @@
 "2026-11-25": 5
 },
 "first_seen": "2026-11-25",
-"headline": "लुम्बिनी विकास कोषमा आनी छोइङको नियुक्तिविरुद्ध सर्वोच्चले माग्यो लिखित जवाफ",
+"headline": "आनी छोइङ डोल्माबारे सर्वोच्चमा आगामी सोमबार छलफल हुने",
 "last_seen": "2026-11-25",
 "terms": [
 "आनी",
-"छोइङ",
-"छलफल",
 "रिट",
-"नियुक्ति",
-"सर्वोच्च",
-"लुम्बिनी",
-"नियुक्तिविरुद्ध",
+"छलफल",
+"छोइङ",
 "सोमबार",
 "माग",
+"आएन",
 "अन्तरिम",
-"खारेजी",
+"नियुक्ति",
 "आदेश",
-"आएन"
+"खारेजी",
+"सर्वोच्च",
+"आगामी",
+"डोल्माबारे"
 ],
 "urls": [
-"https://deshsanchar.com/2026/11/25/1256071",
 "https://imagekhabar.com/news/564254",
-"https://nepalnews.com/2026/11/25/supreme-court-seeks-written-response-against-ani-choings-appointment-to-lumbini-development-fund",
 "https://nepalpress.com/2026/11/25/784423/no-interim-order-today-on-writ-seeking-cancellation-of-anis-appointment",
 "https://onlinekhabar.com/2026/11/2065198/supreme-court-to-discuss-ani-choing-dolma-issue-next-monday"
 ]
@@ -2613,14 +2867,14 @@
 "headline": "Rajendra Kumar Rai Discusses Party Unity and Legalization of Marijuana",
 "last_seen": "2026-11-25",
 "terms": [
-"kumar",
-"legalization",
 "rai",
-"marijuana",
 "discusse",
-"unity",
+"legalization",
+"marijuana",
 "rajendra",
-"party"
+"kumar",
+"party",
+"unity"
 ],
 "urls": [
 "https://english.ratopati.com/story/88210/peoples-trust-has-returned-to-uml-after-new-forces-failed-to-deliver-on-their-promises"
@@ -2637,21 +2891,20 @@
 "सेन्टर",
 "होल्डिङ",
 "खाली",
-"दिन",
-"प्रशासन",
-"निर्देशन",
 "सरकार",
-"मंसिर",
+"दिन",
 "भक्तपुर",
-"भन्यो",
-"सुकुमवासी",
+"मंसिर",
+"निर्देशन",
+"प्रशासन",
 "शनिबार",
 "गर्नू",
-"काठमाडौं"
+"सुकुमवासी",
+"काठमाडौं",
+"भन्यो"
 ],
 "urls": [
 "https://imagekhabar.com/news/564263",
-"https://nepalnews.com/2026/11/25/administration-instructs-squatters-to-vacate-holding-centers-within-two-days",
 "https://nepalpress.com/2026/11/25/784446/government-orders-squatters-to-vacate-bhaktapurs-holding-center-within-2-days",
 "https://newsofnepal.com/2026/11/25/795836",
 "https://onlinekhabar.com/2026/11/2065172/government-tells-kathmandu-slum-dwellers-to-vacate-holding-centers-by-saturday",
@@ -2666,20 +2919,20 @@
 "headline": "नसालु पदार्थ खुवाएर बेहोस बनाउँदै लुटपाटमा संलग्न गिरोह प्रहरी फन्दामा",
 "last_seen": "2026-11-25",
 "terms": [
+"लुटपाट",
 "पदार्थ",
 "नसालु",
 "गिरोह",
-"लुटपाट",
-"फन्दा",
 "बेहोस",
-"संलग्न",
-"बनाउँदै",
 "प्रहरी",
+"फन्दा",
 "खुवाएर",
-"पक्राउ",
-"सुन",
-"पसल",
-"फ्रुटी"
+"बनाउँदै",
+"संलग्न",
+"सञ्चालक",
+"फ्रुटी",
+"अनुसन्धान",
+"जुस"
 ],
 "urls": [
 "https://newsofnepal.com/2026/11/25/795808",
@@ -2688,23 +2941,29 @@
 },
 "a280c6bb40": {
 "by_day": {
-"2026-11-25": 1
+"2026-11-25": 3
 },
 "first_seen": "2026-11-25",
 "headline": "एआई लगानीप्रति बढ्दो चिन्ता, विश्व सेयर बजारमा तरङ्ग",
 "last_seen": "2026-11-25",
 "terms": [
-"चिन्ता",
-"विश्व",
 "सेयर",
-"एआई",
-"तरङ्ग",
 "बजार",
 "बढ्दो",
-"लगानीप्रति"
+"तरङ्ग",
+"लगानीप्रति",
+"चिन्ता",
+"एआई",
+"विश्व",
+"प्रविधि",
+"अमेरि",
+"कम्पनी",
+"गिरावट"
 ],
 "urls": [
-"https://khabarhub.com/2026/25/1051685"
+"https://baahrakhari.com/detail/508302",
+"https://khabarhub.com/2026/25/1051685",
+"https://ratopati.com/story/607632/growing-concerns-over-ai-investment-send-shockwaves-through-global-stock-markets"
 ]
 },
 "a5c2077e89": {
@@ -2712,7 +2971,7 @@
 "2026-11-25": 6
 },
 "first_seen": "2026-11-25",
-"headline": "International flights boost passenger attraction at Pokhara International Airport",
+"headline": "Passengers attracted to international flights at Pokhara International Airport",
 "last_seen": "2026-11-25",
 "terms": [
 "flight",
@@ -2720,23 +2979,36 @@
 "international",
 "passenger",
 "airport",
-"air",
 "attract",
 "buddha",
-"reviv",
-"launch",
 "plan",
+"reviv",
 "jet",
-"boost",
-"attraction"
+"air",
+"launch",
+"attraction",
+"boost"
 ],
 "urls": [
 "https://english.khabarhub.com/2026/25/577004",
 "https://english.nepalnews.com/s/travel-tourism/passengers-attracted-to-international-flights-at-pokhara-international-airport",
 "https://english.onlinekhabar.com/dubai-pokhara-passenger-increase.html",
-"https://english.ratopati.com/story/88252/how-are-air-routes-determined-what-are-the-benefits-of-opening-the-bhairahawa-route-video-report",
 "https://kathmandupost.com/money/2026/11/25/buddha-air-revives-plan-to-launch-international-jet-flights-from-pokhara",
 "https://risingnepaldaily.com/news/89016"
+]
+},
+"a6587fb4e6": {
+"by_day": {
+"2026-11-25": 1
+},
+"first_seen": "2026-11-25",
+"headline": "Today’s News in a Nutshell",
+"last_seen": "2026-11-25",
+"terms": [
+"nutshell"
+],
+"urls": [
+"https://english.khabarhub.com/2026/25/576998"
 ]
 },
 "a88505a4c6": {
@@ -2766,13 +3038,13 @@
 "headline": "चौबीसै घण्टा काठमाण्डू खुल्दा कसलाई के फरक पर्छ?",
 "last_seen": "2026-11-25",
 "terms": [
-"घण्टा",
 "खुल्दा",
-"कस",
-"काठमाण्डू",
-"फरक",
 "चौबीसै",
 "के",
+"कस",
+"फरक",
+"काठमाण्डू",
+"घण्टा",
 "पर्छ"
 ],
 "urls": [
@@ -2815,14 +3087,14 @@
 "headline": "झुलाघाट मोटरेबल पुल : मोदीले प्रतिबद्धता बिर्सिए, बालेनले सम्झाउन चाहेनन्",
 "last_seen": "2026-11-25",
 "terms": [
-"झुलाघाट",
-"बालेन",
-"मोदी",
-"पुल",
-"प्रतिबद्धता",
-"बिर्सिए",
 "चाहेनन्",
+"प्रतिबद्धता",
+"झुलाघाट",
+"मोदी",
 "मोटरेबल",
+"बिर्सिए",
+"पुल",
+"बालेन",
 "सम्झाउन"
 ],
 "urls": [
@@ -2856,11 +3128,11 @@
 "headline": "बाल संरक्षणमा परिवारकेन्द्रित हेरचाहलाई सरकारको प्राथमिकता",
 "last_seen": "2026-11-25",
 "terms": [
-"सरकार",
 "प्राथमिकता",
+"बाल",
 "परिवारकेन्द्रित",
 "हेरचाह",
-"बाल",
+"सरकार",
 "संरक्षण"
 ],
 "urls": [
@@ -2875,15 +3147,15 @@
 "headline": "डायस्पोरामार्फत नेपाल-अमेरिका सम्बन्ध मजबुत बनाउन चाहन्छौं : कार्यवाहक राजदूत आरण",
 "last_seen": "2026-11-25",
 "terms": [
-"आरण",
-"नेपाल-अमेरि",
-"बनाउन",
-"चाहन्छौं",
-"कार्यवाहक",
 "राजदूत",
-"सम्बन्ध",
+"बनाउन",
+"नेपाल-अमेरि",
+"चाहन्छौं",
+"आरण",
+"मजबुत",
+"कार्यवाहक",
 "डायस्पोरामार्फत",
-"मजबुत"
+"सम्बन्ध"
 ],
 "urls": [
 "https://onlinekhabar.com/2026/11/2065155/we-want-to-strengthen-nepal-us-relations-through-diaspora-acting-ambassador-aran"
@@ -2898,17 +3170,17 @@
 "last_seen": "2026-11-25",
 "terms": [
 "गगन",
-"चेतावनी",
+"शशांक",
 "कस",
 "जवाफ",
+"चेतावनी",
 "कारबाही",
-"शशांक",
-"देखाउनु",
-"चुनौती",
 "जीतजंग",
 "हिम्मत",
-"हटाएर",
-"भए"
+"चुनौती",
+"देखाउनु",
+"भए",
+"हटाएर"
 ],
 "urls": [
 "https://nepalpress.com/2026/11/25/784419/shashanks-response-to-gagans-warning-who-will-take-action",
@@ -2977,6 +3249,24 @@
 "https://ratopati.com/story/607601/nepal-india-cricket-cooperation-new-doors-of-opportunity-challenges"
 ]
 },
+"b40d02d855": {
+"by_day": {
+"2026-11-25": 1
+},
+"first_seen": "2026-11-25",
+"headline": "भारतसहित १४ देशमाथि अमेरिकाको नयाँ भन्सार शुल्क",
+"last_seen": "2026-11-25",
+"terms": [
+"भन्सार",
+"शुल्क",
+"देश",
+"अमेरिका",
+"भारतसहित"
+],
+"urls": [
+"https://nepalnews.com/2026/11/25/new-us-tariffs-on-14-countries-including-india"
+]
+},
 "b4a4e203d4": {
 "by_day": {
 "2026-11-25": 2
@@ -3021,6 +3311,28 @@
 "https://nagariknews.nagariknetwork.com/social-affairs/payment-of-crores-to-contract-employees-who-did-not-work-in-gadhimai-municipality-32-22.html"
 ]
 },
+"b76fa6640b": {
+"by_day": {
+"2026-11-25": 1
+},
+"first_seen": "2026-11-25",
+"headline": "जेनजी आन्दोलनमा घाइते छोरा अझै आइसियूमा, दुबईबाट फर्किन पाएनन् बुबा",
+"last_seen": "2026-11-25",
+"terms": [
+"छोरा",
+"आइसियू",
+"बुबा",
+"जेनजी",
+"फर्किन",
+"दुबई",
+"घाइते",
+"पाएनन्",
+"आन्दोलन"
+],
+"urls": [
+"https://setopati.com/social/403396"
+]
+},
 "b784ffad42": {
 "by_day": {
 "2026-11-25": 1
@@ -3029,15 +3341,15 @@
 "headline": "७० लाख ऋण बोकेर अस्ट्रेलिया पुगेका सनराइजको ३० करोडको ‘ग्रिन इनर्जी’",
 "last_seen": "2026-11-25",
 "terms": [
-"पुगे",
-"लाख",
-"ग्रिन",
 "ऋण",
+"लाख",
+"पुगे",
 "अस्ट्रेलिया",
-"बोकेर",
 "करोड",
-"सनराइज",
-"इनर्जी"
+"ग्रिन",
+"इनर्जी",
+"बोकेर",
+"सनराइज"
 ],
 "urls": [
 "https://onlinekhabar.com/2026/11/2064800/sunrises-300-million-dollar-green-energy-arrives-in-australia-with-a-debt-of-7-million"
@@ -3045,49 +3357,79 @@
 },
 "bacad0c188": {
 "by_day": {
-"2026-11-25": 2
+"2026-11-25": 3
 },
 "first_seen": "2026-11-25",
-"headline": "पाल्पाका दुई उत्कृष्ट उद्योगी सम्मानित",
+"headline": "भक्तपुुरमा तीन उत्कृष्ट उद्यमी सम्मानित",
 "last_seen": "2026-11-25",
 "terms": [
 "उत्कृष्ट",
 "सम्मानित",
+"तीन",
 "उद्यमी",
 "लमजुङ",
-"तीन",
 "उद्योगी",
-"पाल्पा"
+"पाल्पा",
+"भक्तपुुर"
 ],
 "urls": [
 "https://annapurnapost.com/story/512003",
+"https://gorkhapatraonline.com/news/230389",
 "https://newsofnepal.com/2026/11/25/795821"
+]
+},
+"bafa7166c0": {
+"by_day": {
+"2026-11-25": 4
+},
+"first_seen": "2026-11-25",
+"headline": "Seven takeaways from Prime Minister Balendra Shah’s India visit",
+"last_seen": "2026-11-25",
+"terms": [
+"shah",
+"minister",
+"india",
+"prime",
+"visit",
+"balendra",
+"zero",
+"tolerance",
+"pm",
+"call",
+"takeaway",
+"seven",
+"violence",
+"gender-bas"
+],
+"urls": [
+"https://kathmandupost.com/national/2026/11/24/seven-takeaways-from-prime-minister-balendra-shah-s-india-visit",
+"https://theannapurnaexpress.com/story/69050",
+"https://thediplomat.com/2026/11/nepals-prime-minister-is-back-from-india-now-comes-the-hard-part",
+"https://thediplomat.com/2026/11/why-nepali-prime-minister-balendra-shahs-india-visit-was-a-success",
+"https://thehimalayantimes.com/nepal/pm-shah-calls-for-zero-tolerance-against-gender-based-violence"
 ]
 },
 "bbfedef9f5": {
 "by_day": {
-"2026-11-25": 2
+"2026-11-25": 3
 },
 "first_seen": "2026-11-25",
 "headline": "Speaker Aryal lays foundation stone for Budhigandaki hydropower office",
 "last_seen": "2026-11-25",
 "terms": [
+"stone",
+"hydropower",
+"speaker",
+"budhigandaki",
 "foundation",
 "lay",
-"budhigandaki",
-"stone",
 "aryal",
-"office",
-"speaker",
-"hydropower",
-"kmc",
-"autism",
-"school"
+"office"
 ],
 "urls": [
-"https://english.nepalnews.com/s/capital/kmc-lays-foundation-for-autism-school",
 "https://english.nepalnews.com/s/nation/speaker-aryal-lays-foundation-stone-for-budhigandaki-hydropower-office",
-"https://mirmireonline.com/2026/11/25/320478"
+"https://mirmireonline.com/2026/11/25/320478",
+"https://risingnepaldaily.com/news/89023"
 ]
 },
 "bf3f9be3a4": {
@@ -3236,19 +3578,40 @@
 "last_seen": "2026-11-25",
 "terms": [
 "लाख",
-"यामाहा",
-"पोखरा",
 "जितिन्",
 "सरस्वती",
-"अफर",
-"तेजबहादुर",
-"बुटवल",
-"आर",
 "चङ्गाचेट",
-"बाइक"
+"बुटवल",
+"यामाहा",
+"आर",
+"पोखरा",
+"बाइक",
+"तेजबहादुर",
+"अफर"
 ],
 "urls": [
 "https://onlinekhabar.com/2026/11/2065285/yamaha-changachet-offer-saraswati-from-butwal-wins-rs-1-million-tej-bahadur-from-pokhara-wins-r15-bike"
+]
+},
+"c49233a044": {
+"by_day": {
+"2026-11-25": 1
+},
+"first_seen": "2026-11-25",
+"headline": "जन्ती बोकेको बोलेरो र ट्र्याक्टर ठोक्किँदा एक जनाको मृत्यु, ११ घाइते",
+"last_seen": "2026-11-25",
+"terms": [
+"बोलेरो",
+"ठोक्किँदा",
+"बोके",
+"जना",
+"मृत्यु",
+"जन्ती",
+"घाइते",
+"ट्र्याक्टर"
+],
+"urls": [
+"https://annapurnapost.com/story/512009"
 ]
 },
 "c4a8ef4333": {
@@ -3274,21 +3637,20 @@
 "2026-11-25": 2
 },
 "first_seen": "2026-11-25",
-"headline": "महिला गोल्डकप : घरेलु टोली झापालाई पन्छाउँदै एपीएफ फाइनलमा",
+"headline": "झापा महिला गोल्डकपः एपिएफ फाइनलमा",
 "last_seen": "2026-11-25",
 "terms": [
-"एपीएफ",
-"फाइनल",
-"महिला",
-"गोल्डकप",
 "झापा",
+"महिला",
+"फाइनल",
+"एपीएफ",
+"गोल्डकप",
 "हराउँदै",
-"टोली",
-"घरेलु",
-"पन्छाउँदै"
+"एपिएफ",
+"गोल्डकपः"
 ],
 "urls": [
-"https://nagariknews.nagariknetwork.com/sports/women-s-gold-cup-apf-advances-to-final-beating-home-team-jhapa-79-46.html",
+"https://ratopati.com/story/607637/jhapa-womens-gold-cup-apf-in-the-final",
 "https://ujyaaloonline.com/detail/133846"
 ]
 },
@@ -3300,17 +3662,17 @@
 "headline": "Arzu Rana appears at political event in Hong Kong after months away from public view",
 "last_seen": "2026-11-25",
 "terms": [
-"hong",
-"rana",
-"event",
 "away",
-"public",
+"hong",
 "appear",
-"view",
-"arzu",
 "month",
+"public",
+"kong",
 "political",
-"kong"
+"view",
+"event",
+"arzu",
+"rana"
 ],
 "urls": [
 "https://english.onlinekhabar.com/arzu-rana-political-event-hong-kong.html"
@@ -3342,15 +3704,15 @@
 "headline": "Three months on, flood-hit communities in Nuwakot remain cut off from district headquarters",
 "last_seen": "2026-11-25",
 "terms": [
-"district",
 "three",
-"nuwakot",
 "remain",
-"communiti",
-"headquarter",
 "cut",
 "month",
-"flood-hit"
+"headquarter",
+"flood-hit",
+"communiti",
+"nuwakot",
+"district"
 ],
 "urls": [
 "https://kathmandupost.com/province-no-3/2026/11/25/three-months-on-flood-hit-communities-in-nuwakot-remain-cut-off-from-district-headquarters"
@@ -3380,6 +3742,34 @@
 "https://ratopati.com/story/607595/how-are-air-routes-determined-what-are-the-benefits-of-opening-the-bhairahawa-route-video-report"
 ]
 },
+"cc2e825097": {
+"by_day": {
+"2026-11-25": 1
+},
+"first_seen": "2026-11-25",
+"headline": "१० बजे १० समाचार : दानबहादुरलाई मिलेन राहत, भेटिएनन् बानियाँ र अर्याल",
+"last_seen": "2026-11-25",
+"terms": [
+"समाचार",
+"बजे",
+"राहत",
+"मिलेन",
+"भेटिएनन्",
+"अर्याल",
+"दानबहादुर",
+"बानियाँ",
+"चुनावी",
+"क्रिकेट",
+"कूटनीति",
+"तालमेल",
+"एमा",
+"नेकपा"
+],
+"urls": [
+"https://ratopati.com/story/607614/10-news-at-10",
+"https://ratopati.com/story/607638/12-news-at-12-from-uml-ncp-election-coordination-to-cricket-diplomacy"
+]
+},
 "ccd7410e8b": {
 "by_day": {
 "2026-11-25": 1
@@ -3388,12 +3778,12 @@
 "headline": "देउवा पक्षलाई कांग्रेसमै फर्किन विश्वप्रकाशको आग्रह",
 "last_seen": "2026-11-25",
 "terms": [
-"आग्रह",
-"फर्किन",
-"कांग्रेसमै",
-"विश्वप्रकाश",
 "देउवा",
-"पक्ष"
+"फर्किन",
+"आग्रह",
+"पक्ष",
+"विश्वप्रकाश",
+"कांग्रेसमै"
 ],
 "urls": [
 "https://ratopati.com/story/607624/bishwa-prakash-urges-deuba-faction-to-return-to-congress"
@@ -3407,19 +3797,48 @@
 "headline": "Women Minister insists on access to justice, economic empowerment to end GBV",
 "last_seen": "2026-11-25",
 "terms": [
-"empowerment",
-"economic",
-"insist",
 "minister",
-"end",
-"access",
-"gbv",
 "women",
-"justice"
+"empowerment",
+"justice",
+"access",
+"insist",
+"economic",
+"gbv",
+"end"
 ],
 "urls": [
 "https://mirmireonline.com/2026/11/25/320484",
 "https://risingnepaldaily.com/news/89020"
+]
+},
+"d01d1b4884": {
+"by_day": {
+"2026-11-25": 3
+},
+"first_seen": "2026-11-25",
+"headline": "१४ वर्षीया बालिकामाथि जबरजस्ती करणी र कुटपिट, ससुरा र श्रीमान् पक्राउ",
+"last_seen": "2026-11-25",
+"terms": [
+"पक्राउ",
+"कुटपिट",
+"आरोप",
+"बलात्कार",
+"वर्षीया",
+"ससुरा",
+"बालिका",
+"भाइरल",
+"बालि",
+"बाबु-छोरा",
+"भिडियो",
+"बनाए",
+"समातिए",
+"छोरा"
+],
+"urls": [
+"https://annapurnapost.com/story/512008",
+"https://khabarhub.com/2026/25/1051687",
+"https://ratopati.com/story/607631/father-and-son-arrested-for-allegedly-making-viral-video-of-rape-and-beating-of-14-year-old-girl"
 ]
 },
 "d05cb86f20": {
@@ -3430,10 +3849,10 @@
 "headline": "परराष्ट्रमन्त्री खनालसँग युनिसेफका क्षेत्रीय निर्देशकको भेट",
 "last_seen": "2026-11-25",
 "terms": [
-"खनाल",
-"युनिसेफ",
-"भेट",
 "परराष्ट्रमन्त्री",
+"खनाल",
+"भेट",
+"युनिसेफ",
 "क्षेत्रीय",
 "निर्देशक"
 ],
@@ -3453,13 +3872,13 @@
 "headline": "न शुल्क, न गृहकार्य, न अंकको होड : यस्तो छ नेदरल्यान्ड्सको शिक्षा",
 "last_seen": "2026-11-25",
 "terms": [
+"शुल्क",
 "गृहकार्य",
 "अंक",
-"यस्तो",
-"होड",
 "शिक्षा",
+"यस्तो",
 "नेदरल्यान्ड्स",
-"शुल्क"
+"होड"
 ],
 "urls": [
 "https://onlinekhabar.com/2026/11/2064954/no-fees-no-homework-no-score-competition-this-is-how-education-in-the-netherlands-is"
@@ -3475,22 +3894,88 @@
 "terms": [
 "विश्वविद्यालय",
 "हटाउन",
-"सुदूरपश्चिम",
-"विरोध",
-"अध्यादेश",
+"ल्याउन",
 "लागिए",
 "पदाधिकारी",
-"ल्याउन",
-"कटौती",
-"चन्द",
+"अध्यादेश",
+"विरोध",
+"सुदूरपश्चिम",
 "माग",
+"दशरथ",
+"विद्यार्थी",
 "संगठन",
-"सिट",
-"दशरथ"
+"नगर्न",
+"सिट"
 ],
 "urls": [
 "https://nepalpress.com/2026/11/25/784494/student-organization-demands-not-to-cut-seats-at-dasharath-chand-university",
 "https://onlinekhabar.com/2026/11/2065125/protests-over-ordinance-to-remove-officials-of-sudurpaschim-university"
+]
+},
+"d3b4139ef2": {
+"by_day": {
+"2026-11-25": 1
+},
+"first_seen": "2026-11-25",
+"headline": "UAE Road Accidents Claim 29 Lives in Two Weeks",
+"last_seen": "2026-11-25",
+"terms": [
+"road",
+"liv",
+"uae",
+"two",
+"accident",
+"claim"
+],
+"urls": [
+"https://english.ratopati.com/story/88278/road-accident-havoc-in-uae-27-people-die-in-12-days"
+]
+},
+"d6326c93bb": {
+"by_day": {
+"2026-11-25": 2
+},
+"first_seen": "2026-11-25",
+"headline": "आफ्नो नाममा रहेका टिकटक अकाउन्ट नक्कली भएको राजेश हमालको स्पष्टोक्ति",
+"last_seen": "2026-11-25",
+"terms": [
+"राजेश",
+"अकाउन्ट",
+"टिकटक",
+"नाम",
+"हमाल",
+"स्पष्टोक्ति",
+"नक्कली",
+"फेक",
+"नपर्न",
+"आग्रह",
+"भ्रम"
+],
+"urls": [
+"https://khabarhub.com/2026/25/1051694",
+"https://ratopati.com/story/607628/rajesh-hamal-clarifies-that-the-tiktok-account-in-his-name-is-fake"
+]
+},
+"d688e22066": {
+"by_day": {
+"2026-11-25": 1
+},
+"first_seen": "2026-11-25",
+"headline": "UNICEF Regional Director pays courtesy call on Foreign Minister Khanal",
+"last_seen": "2026-11-25",
+"terms": [
+"minister",
+"regional",
+"courtesy",
+"pay",
+"director",
+"khanal",
+"unicef",
+"call",
+"foreign"
+],
+"urls": [
+"https://risingnepaldaily.com/news/89026"
 ]
 },
 "d850d50137": {
@@ -3501,15 +3986,15 @@
 "headline": "सातै प्रदेशमा ट्रमा सेन्टर कि ठुला अस्पतालमै ट्रमा केयर ?",
 "last_seen": "2026-11-25",
 "terms": [
+"ट्र",
 "सेन्टर",
 "सातै",
-"ट्र",
 "प्रदेश",
-"घोषणा",
-"स्थापना",
 "स्वास्थ्यमन्त्री",
-"ठुला",
+"स्थापना",
+"घोषणा",
 "अस्पतालमै",
+"ठुला",
 "केयर"
 ],
 "urls": [
@@ -3525,12 +4010,12 @@
 "headline": "‘जनतासँग सम्बन्ध जोड्दै एमाले फेरि उठ्छ’ (भिडियोसहित)",
 "last_seen": "2026-11-25",
 "terms": [
-"उठ्छ",
 "भिडियोसहित",
-"फेरि",
 "जनता",
 "जोड्दै",
 "एमा",
+"उठ्छ",
+"फेरि",
 "सम्बन्ध"
 ],
 "urls": [
@@ -3570,10 +4055,10 @@
 "terms": [
 "पदक",
 "आइटीएफ",
-"एसियाली",
-"तनहुँ",
+"तेक्वान्दो",
 "दक्षिण",
-"तेक्वान्दो"
+"तनहुँ",
+"एसियाली"
 ],
 "urls": [
 "https://ratopati.com/story/607622/tanahun-wins-19-medals-in-south-asian-itf-taekwondo"
@@ -3602,33 +4087,30 @@
 "2026-11-25": 7
 },
 "first_seen": "2026-11-25",
-"headline": "PM Shah calls for zero tolerance against gender-based violence",
+"headline": "Nepal calls for urgent action to end gender-based violence and ensure justice for survivors",
 "last_seen": "2026-11-25",
 "terms": [
 "violence",
-"call",
-"gender-bas",
 "action",
-"shah",
-"minister",
-"zero",
-"tolerance",
-"pm",
+"gender-bas",
+"call",
 "offline",
 "prioritise",
 "online",
+"minister",
 "badi",
-"collective"
+"collective",
+"ensure",
+"urgent",
+"survivor",
+"nepal"
 ],
 "urls": [
 "https://english.khabarhub.com/2026/25/577000",
 "https://english.onlinekhabar.com/mps-call-for-stricter-punishments-for-sexual-violence-offences.html",
 "https://kathmandupost.com/editorial/2026/11/24/prioritise-action-against-both-online-and-offline-gender-based-violence",
-"https://kathmandupost.com/national/2026/11/24/seven-takeaways-from-prime-minister-balendra-shah-s-india-visit",
 "https://theannapurnaexpress.com/story/69049",
-"https://theannapurnaexpress.com/story/69050",
-"https://theannapurnaexpress.com/story/69063",
-"https://thehimalayantimes.com/nepal/pm-shah-calls-for-zero-tolerance-against-gender-based-violence"
+"https://theannapurnaexpress.com/story/69063"
 ]
 },
 "dc14add71f": {
@@ -3639,16 +4121,16 @@
 "headline": "Nepal imports Rs 5.4 billion worth of rice and paddy in four months",
 "last_seen": "2026-11-25",
 "terms": [
-"worth",
-"billion",
-"rice",
-"paddy",
-"month",
-"rs",
-"nepal",
+"import",
 "5.4",
+"worth",
 "four",
-"import"
+"nepal",
+"month",
+"rice",
+"billion",
+"paddy",
+"rs"
 ],
 "urls": [
 "https://english.onlinekhabar.com/nepal-import-rice-and-paddy.html"
@@ -3662,12 +4144,12 @@
 "headline": "पश्चिम बंगाल प्रान्तको नाम परिवर्तन गरिँदै",
 "last_seen": "2026-11-25",
 "terms": [
-"पश्चिम",
-"नाम",
-"गरिँदै",
-"प्रान्त",
+"बंगाल",
 "परिवर्तन",
-"बंगाल"
+"गरिँदै",
+"नाम",
+"पश्चिम",
+"प्रान्त"
 ],
 "urls": [
 "https://onlinekhabar.com/2026/11/2065326/indias-west-bengal-province-to-be-renamed"
@@ -3678,23 +4160,23 @@
 "2026-11-25": 3
 },
 "first_seen": "2026-11-25",
-"headline": "साइबर मुद्दा : पेस भएका थप प्रमाणबारे खगेन्द्र सुनारलाई जानकारी गराउन आदेश",
+"headline": "खगेन्द्र सुनारको साइबर अपराध मुद्दामा काभ्रे जिल्ला अदालतले के भन्यो ?",
 "last_seen": "2026-11-25",
 "terms": [
-"सुनार",
 "साइबर",
-"मुद्दा",
+"सुनार",
 "खगेन्द्र",
-"भन्यो",
-"जिल्ला",
-"अदालत",
+"मुद्दा",
 "के",
+"जिल्ला",
+"भन्यो",
 "अपराध",
 "काभ्रे",
+"अदालत",
 "पेस",
-"आदेश",
-"थप",
-"प्रमाणबारे"
+"जानकारी",
+"गराउन",
+"थप"
 ],
 "urls": [
 "https://nepalpress.com/2026/11/25/784438/what-did-the-kavre-district-court-say-in-khagendra-sunars-cybercrime-case",
@@ -3710,12 +4192,12 @@
 "last_seen": "2026-11-25",
 "terms": [
 "प्रवाह",
-"फर्किन",
-"कांग्रेस",
-"संग्रौला",
 "आह्वान",
 "मूल",
-"महामन्त्री"
+"महामन्त्री",
+"फर्किन",
+"संग्रौला",
+"कांग्रेस"
 ],
 "urls": [
 "https://nagariknews.nagariknetwork.com/politics/dila-sangraula-calls-for-congress-to-return-to-mainstream-43-91.html",
@@ -3730,20 +4212,20 @@
 "headline": "Health Minister Mehta pledges to set up provincial Trauma Centers in seven provinces",
 "last_seen": "2026-11-25",
 "terms": [
-"health",
 "minister",
+"health",
 "mehta",
-"trauma",
 "provincial",
+"trauma",
 "center",
 "pledg",
 "provinc",
 "seven",
 "set",
+"inclusivity",
 "nisha",
-"ayurveda",
-"council",
-"act"
+"amendment",
+"ayurveda"
 ],
 "urls": [
 "https://english.nepalnews.com/s/health/health-minister-mehta-pledges-to-set-up-provincial-trauma-centers-in-seven-provinces",
@@ -3761,10 +4243,10 @@
 "last_seen": "2026-11-25",
 "terms": [
 "हुँदैन",
-"अभाव",
+"लम्साल",
 "निर्माण",
 "पैसा",
-"लम्साल",
+"अभाव",
 "बूढीगण्ड",
 "मन्त्री"
 ],
@@ -3780,11 +4262,11 @@
 "headline": "देउवाले भन्नुपर्छ- कांग्रेस सकियो कि बाँकी छ ?",
 "last_seen": "2026-11-25",
 "terms": [
-"कांग्रेस",
-"बाँ",
 "भन्नुपर्छ",
+"बाँ",
 "देउवा",
-"सकियो"
+"सकियो",
+"कांग्रेस"
 ],
 "urls": [
 "https://nepalpress.com/2026/11/25/784395/deuba-should-say-is-the-congress-over-or-is-there-more-to-come"
@@ -3861,16 +4343,35 @@
 "headline": "वैदेशिक रोजगारीमा हुँदा पत्नी बेपत्ता भएको भन्दै प्रहरीमा जाहेरी",
 "last_seen": "2026-11-25",
 "terms": [
-"वैदेशिक",
-"जाहेरी",
 "बेपत्ता",
-"पत्नी",
+"प्रहरी",
 "हुँदा",
 "रोजगारी",
-"प्रहरी"
+"पत्नी",
+"जाहेरी",
+"वैदेशिक"
 ],
 "urls": [
 "https://nepalpress.com/2026/11/25/784483/police-complaint-filed-claiming-wife-went-missing-while-on-foreign-employment"
+]
+},
+"e90a907ef4": {
+"by_day": {
+"2026-11-25": 1
+},
+"first_seen": "2026-11-25",
+"headline": "दोलखामा मतदान केन्द्र व्यवस्थापनको तयारी, १७ केन्द्र पुनरावलोकन हुँदै",
+"last_seen": "2026-11-25",
+"terms": [
+"तयारी",
+"दोलखा",
+"पुनरावलोकन",
+"केन्द्र",
+"मतदान",
+"व्यवस्थापन"
+],
+"urls": [
+"https://annapurnapost.com/story/512005"
 ]
 },
 "ea0be51601": {
@@ -3905,22 +4406,20 @@
 "terms": [
 "सुदूरपश्चिम",
 "ट्रफी",
-"एनपीएल",
-"मंसिर",
 "रोयल्स",
-"टूर",
+"मंसिर",
 "गते",
+"एनपीएल",
+"टूर",
+"पुर्",
 "टुर",
-"विजेता",
 "याइने",
 "जिल्ला",
-"पुर्",
-"पुग्छ",
-"कहाँ"
+"विजेता",
+"नौ",
+"प्रदेश"
 ],
 "urls": [
-"https://khabarhub.com/2026/25/1051662",
-"https://nagariknews.nagariknetwork.com/sports/npl-winners-sudurpaschim-royals-trophy-tour-begins-on-november-13-58-59.html",
 "https://nepalnews.com/2026/11/25/npl-trophy-tour-in-the-far-west",
 "https://nepalpress.com/2026/11/25/784507/sudurpaschim-royals-trophy-tour-to-be-held-in-all-districts-of-the-province-from-mangshir-13",
 "https://onlinekhabar.com/2026/11/2065220/npl-winner-sudurpaschim-royals-trophy-tour-begins-on-november-13",
@@ -3929,10 +4428,10 @@
 },
 "ebee287212": {
 "by_day": {
-"2026-11-25": 2
+"2026-11-25": 3
 },
 "first_seen": "2026-11-25",
-"headline": "10th National Games kick off with two national records shattered in swimming",
+"headline": "10th National Games: Four national records in swimming, Bagmati wins nine gold medals",
 "last_seen": "2026-11-25",
 "terms": [
 "national",
@@ -3940,19 +4439,22 @@
 "10th",
 "swimm",
 "record",
-"province",
-"karnali",
-"koshi",
-"campaign",
-"3-0",
 "win",
-"open",
-"lumbini",
-"army"
+"four",
+"medal",
+"gold",
+"province",
+"bagmati",
+"karnali",
+"cricket",
+"koshi"
 ],
 "urls": [
+"https://english.nepalnews.com/s/sports/10th-national-games-four-national-records-in-swimming-bagmati-wins-nine-gold-medals",
+"https://english.nepalnews.com/s/sports/kings-cup-national-mens-volleyball-tournament-begins-in-pokhara",
 "https://english.ratopati.com/story/88247/10th-national-games-koshi-stuns-karnali-in-womens-cricket",
 "https://english.ratopati.com/story/88257/10th-national-games-koshi-and-bagmati-draw-in-mens-football",
+"https://english.ratopati.com/story/88265/naresh-shrestha-memorial-u-19-national-cricket-tournament-begins-tomorrow",
 "https://english.ratopati.com/story/88270/4-national-records-set-on-second-day-of-swimming-bagmati-tops-the-list",
 "https://english.ratopati.com/story/88275/arthav-singh-of-bajhang-brings-sudurpaschims-first-gold",
 "https://kathmandupost.com/football/2026/11/25/army-open-national-games-campaign-with-3-0-win-over-lumbini",
@@ -3977,15 +4479,34 @@
 "court",
 "lumbini",
 "drolma",
-"sid",
 "order",
-"sc",
 "hear",
-"decid"
+"sc",
+"sid",
+"interim"
 ],
 "urls": [
 "https://english.onlinekhabar.com/sc-ani-choying-drolma-appointment.html",
 "https://kathmandupost.com/national/2026/11/24/ani-choying-dolma-s-appointment-to-lumbini-trust-challenged-in-court"
+]
+},
+"f11767cf78": {
+"by_day": {
+"2026-11-25": 1
+},
+"first_seen": "2026-11-25",
+"headline": "गुगलविरुद्ध मलेसियाको १४ करोड ६० लाख डलरको मुद्दा",
+"last_seen": "2026-11-25",
+"terms": [
+"लाख",
+"मुद्दा",
+"करोड",
+"मलेसिया",
+"गुगलविरुद्ध",
+"डलर"
+],
+"urls": [
+"https://deshsanchar.com/2026/11/25/1256056"
 ]
 },
 "f229c153a6": {
@@ -4014,6 +4535,27 @@
 "https://onlinekhabar.com/2026/11/2065105/nepal-a-team-announced-for-gelefu-t20-series-in-bhutan"
 ]
 },
+"f2b76129f4": {
+"by_day": {
+"2026-11-25": 1
+},
+"first_seen": "2026-11-25",
+"headline": "हानि तथा क्षति कोषको सहायता परिचालन गर्न सरकारले माग्यो अवधारणापत्र",
+"last_seen": "2026-11-25",
+"terms": [
+"क्षति",
+"सहायता",
+"कोष",
+"हानि",
+"माग्यो",
+"अवधारणापत्र",
+"परिचालन",
+"सरकार"
+],
+"urls": [
+"https://nagariknews.nagariknetwork.com/social-affairs/government-requests-concept-paper-to-mobilize-assistance-from-loss-and-damage-fund-61-36.html"
+]
+},
 "f47ffc1c3d": {
 "by_day": {
 "2026-11-25": 1
@@ -4036,6 +4578,43 @@
 "https://annapurnapost.com/story/511996"
 ]
 },
+"f59f1c26a6": {
+"by_day": {
+"2026-11-25": 9
+},
+"first_seen": "2026-11-25",
+"headline": "दशौँ राष्ट्रिय खेलकुदको दोस्रो दिनसम्म ६८ पदकको छिनोफानो, बागमती शीर्ष स्थानमा",
+"last_seen": "2026-11-25",
+"terms": [
+"राष्ट्रिय",
+"बागमती",
+"शीर्ष",
+"पदक",
+"दिन",
+"दोस्रो",
+"स्थान",
+"खेलकुद",
+"पौडी",
+"कीर्तिमान",
+"दशौँ",
+"चार",
+"छिनोफानो",
+"नौ"
+],
+"urls": [
+"https://annapurnapost.com/story/512006",
+"https://baahrakhari.com/detail/508299",
+"https://khabarhub.com/2026/25/1051691",
+"https://mirmireonline.com/2026/11/25/320500",
+"https://nagariknews.nagariknetwork.com/sports/10th-national-games-bagmati-tops-the-list-of-68-medals-to-be-won-92-63.html",
+"https://nepalnews.com/2026/11/25/68-medals-decided-on-second-day-of-10th-national-games-bagmati-tops-the-list",
+"https://nepalpress.com/2026/11/25/784473/bagmati-tops-the-list-on-the-second-day-of-the-10th-national-games",
+"https://nepalpress.com/2026/11/25/784489/6-national-records-in-swimming-bagmati-tops-with-9-golds",
+"https://nepalpress.com/2026/11/25/784527/68-medals-decided-on-second-day-of-10th-national-games-bagmati-tops-the-list",
+"https://onlinekhabar.com/2026/11/2065298/10th-national-games-four-national-records-set-on-second-day-in-swimming-bagmati-and-nra-continue-to-dominate",
+"https://ratopati.com/story/607615/4-national-records-set-on-second-day-of-swimming-bagmati-tops-the-list"
+]
+},
 "f6d510306b": {
 "by_day": {
 "2026-11-25": 2
@@ -4045,14 +4624,14 @@
 "last_seen": "2026-11-25",
 "terms": [
 "उम्मेदवार",
-"इतर",
-"राप्रपा",
-"थापा",
-"विक्रम",
-"कमल",
 "महाधिवेशनः",
+"राप्रपा",
+"इतर",
 "पाण्डे",
 "संस्थापन",
+"कमल",
+"थापा",
+"विक्रम",
 "निधि",
 "सभापति"
 ],
@@ -4070,17 +4649,17 @@
 "last_seen": "2026-11-25",
 "terms": [
 "बैंक",
-"मुक्तिनाथ",
-"मणिपाल",
 "विकास",
+"मणिपाल",
+"मुक्तिनाथ",
 "अस्पताल",
-"शिक्षण",
 "सम्झौता",
-"अस्पतालबिच",
+"शिक्षण",
+"बैंकिङ",
 "सेवा",
-"स्वास्थ्य",
 "सहकार्य",
-"बैंकिङ"
+"स्वास्थ्य",
+"अस्पतालबिच"
 ],
 "urls": [
 "https://clickmandu.com/2026/11/507851.html",
@@ -4095,13 +4674,13 @@
 "headline": "The world owes the Himalayas. It paid less than a penny on the dollar",
 "last_seen": "2026-11-25",
 "terms": [
-"less",
-"penny",
-"world",
+"paid",
+"himalaya",
 "dollar",
 "owe",
-"himalaya",
-"paid"
+"world",
+"penny",
+"less"
 ],
 "urls": [
 "https://theannapurnaexpress.com/story/69061"
@@ -4130,6 +4709,29 @@
 "https://english.ratopati.com/story/88262/minister-mehta-stresses-addressing-problems-of-all-forms-of-ayurveda-and-alternative-medicine"
 ]
 },
+"f9e0e2a119": {
+"by_day": {
+"2026-11-25": 2
+},
+"first_seen": "2026-11-25",
+"headline": "Minister Dr Timilsina visits proposed area for modern shooting studio",
+"last_seen": "2026-11-25",
+"terms": [
+"visit",
+"minister",
+"timilsina",
+"dr",
+"propos",
+"area",
+"shoot",
+"modern",
+"studio"
+],
+"urls": [
+"https://english.nepalnews.com/s/entertainment-lifestyle/minister-dr-timilsina-visits-proposed-area-for-modern-shooting-studio",
+"https://risingnepaldaily.com/news/89024"
+]
+},
 "fc61a2a461": {
 "by_day": {
 "2026-11-25": 1
@@ -4138,13 +4740,13 @@
 "headline": "हिमताल जोखिम न्यूनीकरण गर्न ५० मिलियन डलरको ‘सञ्जीवनी’ परियोजना",
 "last_seen": "2026-11-25",
 "terms": [
-"मिलियन",
-"डलर",
 "न्यूनीकरण",
+"मिलियन",
+"सञ्जीवनी",
+"जोखिम",
 "हिमताल",
 "परियोजना",
-"सञ्जीवनी",
-"जोखिम"
+"डलर"
 ],
 "urls": [
 "https://onlinekhabar.com/2026/11/2065207/50-million-sanjeevani-project-to-reduce-glacier-risk"
@@ -4158,20 +4760,20 @@
 "headline": "प्रधानमन्त्रीको भारत भ्रमण उपलब्धिमूलक नभएको कांग्रेसको निष्कर्ष",
 "last_seen": "2026-11-25",
 "terms": [
-"भ्रमण",
 "प्रधानमन्त्री",
-"उपलब्धिमूलक",
+"भ्रमण",
 "भारत",
-"कुन",
+"उपलब्धिमूलक",
 "बालेन",
+"कुन",
 "उपलब्धिविहीन",
 "अर्थ",
-"कांग्रेस",
 "नभए",
+"कांग्रेस",
 "निष्कर्ष",
+"जानकारी",
 "गराउनुपर्छ",
-"उलपब्धिबारे",
-"पौडेल"
+"महामन्त्री"
 ],
 "urls": [
 "https://bbc.com/nepali/articles/c9dr1513pxlno",
