@@ -1,0 +1,43 @@
+{{short description|none}} <!-- "none" is preferred when the title is sufficiently descriptive -->
+{{Use dmy dates|date=January 2022}}
+{{Year in region
+| year = 1951
+| region = Nepal
+| error = '''Template:Year in Nepal'''
+| image = Flag of Nepal (1743–1962).svg
+| image_size =90px
+| see_also = [[1951|Other events of 1951]]{{middot}}[[Timeline of Nepalese history]]
+}}
+
+The following events occurred in [[Kingdom of Nepal|Nepal]] in the year [[1951]].
+
+== Incumbents ==
+
+* [[King of Nepal|Monarch]]: [[Gyanendra of Nepal|Gyanendra]] (1950-7 January 1951) and [[Tribhuvan of Nepal|Tribhuvan]] (7 January)
+* [[Prime Minister of Nepal|Prime Minister]]: [[Mohan Shumsher Jung Bahadur Rana]] (1948-12 November 1951) and [[Matrika Prasad Koirala]] (16 November)
+
+== Events ==
+
+* November – [[1951 Nepalese revolution]] begins.<ref name=":0">{{Cite web|title=Nepal Democracy Day: 7 facts about 1951 revolution|url=https://english.onlinekhabar.com/nepal-democracy-day-facts-about-1951-revolution.html|url-status=live|access-date=11 January 2022|website=OnlineKhabar|language=en-GB|archive-url=https://web.archive.org/web/20210219034615/https://english.onlinekhabar.com/nepal-democracy-day-facts-about-1951-revolution.html |archive-date=19 February 2021 }}</ref>
+* 10 November  – King [[Tribhuvan of Nepal|Tribhuvan]] and his family go to [[New Delhi]].<ref name=":0">{{Cite web|title=Nepal Democracy Day: 7 facts about 1951 revolution|url=https://english.onlinekhabar.com/nepal-democracy-day-facts-about-1951-revolution.html|url-status=live|access-date=11 January 2022|website=OnlineKhabar|language=en-GB|archive-url=https://web.archive.org/web/20210219034615/https://english.onlinekhabar.com/nepal-democracy-day-facts-about-1951-revolution.html |archive-date=19 February 2021 }}</ref>
+
+== Births ==
+
+* 18 February – [[Queen Komal of Nepal|Komal Rajya Lakshmi Devi Shah]]
+* 27 June – [[Madan Bhandari]]
+
+== Deaths ==
+{{main|Deaths in 1951}}
+{{Further|Category:1951 deaths}}
+
+== References ==
+{{Reflist}}
+
+{{Years in Nepal}}
+{{Asia topic|1951 in}}
+
+[[Category:1951 in Nepal| ]]
+[[Category:1950s in Nepal]]
+[[Category:1951 in Asia|Nepal]]
+[[Category:1951 by country|Nepal]]
+[[Category:Years of the 20th century in Nepal]]

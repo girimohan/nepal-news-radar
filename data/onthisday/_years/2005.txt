@@ -1,0 +1,33 @@
+{{short description|none}}
+<!-- "none" is preferred when the title is sufficiently descriptive -->
+{{Year in Nepal|2005}}
+Events from the year '''2005 in [[Nepal]]'''.
+
+==Incumbents==
+*[[King of Nepal|Monarch]]: [[Gyanendra of Nepal|Gyanendra]]
+*[[Prime Minister of Nepal|Prime Minister]]: [[Sher Bahadur Deuba]] (until 1 February)
+*[[Chief Justice of Nepal|Chief Justice]]:  
+** Until 13 January: [[Govinda Bahadur Shrestha]]
+** 14 January - 29 July: [[Hari Prasad Sharma]]
+** Starting 31 July: [[Dilip Kumar Poudel]]
+
+==Events==
+* February 1 - [[Gyanendra of Nepal|King Gyanendra]] dismisses the government of Sher Bahadur Deuba and assumes direct authority.<ref>{{cite web|url=https://www.satp.org/satporgtp/countries/nepal/document/papers/05emergencyking.htm|title=Proclamation to the Nation by King Gyanendra|accessdate=11 May 2019}}</ref>
+* April 7 - Maoists [[Second Battle of Khara|attack on a Royal Nepal Army base]] in Khara, Rukum fails, leading to death of at least 166 insurgents.
+* July 6 - Maoists [[Badarmude bus explosion|bomb a civilian bus]] in Bandarmude, Chitwan killing 38 and injuring around 75.<ref>{{cite web |title=Bandarmude incident a mistake: Dahal|url=https://kathmandupost.ekantipur.com/news/2017-11-26/bandarmude-incident-a-mistake-dahal.html |website=Ekantipur |publisher=Kantipur Publications |accessdate=12 May 2019}}</ref>
+* August 30 - September 2 - 11th General Convention of Nepali Congress.<ref>{{cite web|url=https://www.nepalicongress.org/index.php?linkId=2|title=Introduction|website=Nepalicongress.org|accessdate=24 May 2019}}</ref>
+
+==References==
+{{reflist}}
+
+{{Years in Nepal}}
+{{Asia topic|2005 in}}
+
+[[Category:2005 in Nepal| ]]
+[[Category:2005 in Asia|21st century in Nepal]]
+[[Category:2000s in Nepal]]
+[[Category:Years of the 21st century in Nepal]]
+[[Category:2005 by country|Nepal]]
+
+
+{{Nepal-hist-stub}}

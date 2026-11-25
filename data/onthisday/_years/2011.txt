@@ -1,0 +1,43 @@
+{{short description|none}}
+<!-- "none" is preferred when the title is sufficiently descriptive -->
+{{multiple issues|{{more citations needed|date=May 2026}}{{primary sources|date=May 2026}}}}
+{{Year in Nepal|2011}}
+Events from the year '''2011 in [[Nepal]]'''.
+
+==Incumbents==
+*[[President of Nepal|President]]: [[Ram Baran Yadav]] 
+*[[Prime Minister of Nepal|Prime Minister]]: 
+** until 6 February: [[Madhav Kumar Nepal]] 
+** 6 February-29 August: [[Jhala Nath Khanal]]
+** starting 29 August: [[Baburam Bhattarai]] 
+*[[Vice President of Nepal|Vice President]]: [[Parmanand Jha]]
+*[[Chief Justice of Nepal|Chief Justice]]: [[Ram Prasad Shrestha]] (until 5 May), [[Khil Raj Regmi]] (starting 5 May)
+
+==Incumbents==
+* 29 August - [[Baburam Bhattarai]] became prime minister.
+
+== Events ==
+
+* In January 2011, [[United Nations|The UN]] mission in Nepal officially ended after disarming [[Maoist rebel]]s to support peace in the country.<ref>{{Cite news |title=Remarks by Representative of the Secretary-General in Nepal Karin Landgren: Flag-lowering ceremony to mark the closure of the mission - Nepal |url=https://reliefweb.int/report/nepal/remarks-representative-secretary-general-nepal-karin-landgren-flag-lowering-ceremony |archive-url=https://web.archive.org/web/20260317163917/https://reliefweb.int/report/nepal/remarks-representative-secretary-general-nepal-karin-landgren-flag-lowering-ceremony |archive-date=2026-03-17 |access-date=2026-06-09 |work=ReliefWeb |language=en}}</ref>
+* An earthquake known as 2011 [[2011 Sikkim earthquake|Sikkim earthquake]] struck between Sikkim, India, and Nepal and resulted in severe structural damage, power blackouts, and deaths.<ref>{{Cite web |date=2011 |title=Nepal: Earthquake: 2011/09/18 |url=https://www.adrc.asia/view_disaster_en.php?Key=1566 |website=Asian Disaster Reduction center}}</ref>
+* In September 2011, a [[Buddha Air Flight 103|Buddha air flight]] crashed in Nepal and resulted in the death of all 19 on the plane,16 tourists and 3 crew members.<ref>{{Cite web |last=Online |first=India Today |date=2011-09-25 |title=10 Indians among 19 killed in Nepal plane crash |url=https://www.indiatoday.in/world/neighbours/story/plane-with-19-people-aboard-missing-in-nepal-141928-2011-09-24 |access-date=2026-05-24 |website=India Today |language=en}}</ref>
+* In April 2011, global oil prices spiked due to the [[Libyan crisis]] and caused an acute fuel shortage in Nepal.<ref>{{Cite news |date=2011-04-18 |title=Nepal: Kathmandu hit by acute fuel shortage |url=https://www.bbc.com/news/world-south-asia-13116423 |access-date=2026-05-27 |work=BBC News |language=en-GB}}</ref>
+
+==Deaths==
+* 4 March - [[Krishna Prasad Bhattarai]], former Prime Minister
+* 19 January - [[Hira Devi Waiba]]<ref>{{Cite news |title=Hira Devi dies of burn injuries |url=https://www.telegraphindia.com/west-bengal/hira-devi-dies-of-burn-injuries/cid/445656 |archive-url=https://web.archive.org/web/20251130233349/https://www.telegraphindia.com/west-bengal/hira-devi-dies-of-burn-injuries/cid/445656 |archive-date=2025-11-30 |access-date=2026-05-23 |language=en}}</ref>
+* 20 April - [[Tul Bahadur Pun Magar|Tul Bahadur pun]]<ref>{{Cite news |date=2011-04-21 |title=Gurkha hero and activist Tul Bahadur Pun dies in Nepal |url=https://www.bbc.com/news/uk-13159603 |access-date=2026-05-21 |work=BBC News |language=en-GB}}</ref>
+
+==References==
+{{reflist}}
+
+{{Years in Nepal}}
+{{Asia topic|2011 in}}
+
+[[Category:2011 in Nepal| ]]
+[[Category:2011 in Asia|Nepal]]
+[[Category:Years of the 21st century in Nepal]]
+[[Category:2010s in Nepal]]
+[[Category:2011 by country|Nepal]]
+
+{{Nepal-hist-stub}}

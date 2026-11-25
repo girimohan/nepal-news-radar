@@ -1,0 +1,32 @@
+{{short description|none}}
+<!-- "none" is preferred when the title is sufficiently descriptive -->
+{{Year in Nepal|2007}}
+Events from the year '''2007 in [[Years in Nepal|Nepal]]'''.
+
+==Incumbents==
+*[[King of Nepal|Monarch]]: [[Gyanendra of Nepal|Gyanendra]]
+*[[Prime Minister of Nepal|Prime Minister]]: [[Girija Prasad Koirala]]
+*[[Chief Justice of Nepal|Chief Justice]]: [[Dilip Kumar Poudel]] (until 8 September), [[Kedar Prasad Giri]] (starting 5 October)
+
+==Events==
+
+* Nepal became a [[federal republic]].<ref>{{cite web|url=http://edition.cnn.com/2007/WORLD/asiapcf/12/28/nepal.monarchy/index.html?iref=mpstoryview |title=Nepal votes to end monarchy - CNN.com |publisher=CNN |date=2007-12-28 |access-date=2022-05-28}}</ref>
+
+==See also==
+*[[Years in India]]
+*[[Years in China]]
+
+==References==
+{{reflist}}
+
+{{Years in Nepal}}
+{{Asia topic|2007 in}}
+
+[[Category:2007 in Nepal| ]]
+[[Category:2007 in Asia|21st century in Nepal]]
+[[Category:Years of the 21st century in Nepal]]
+[[Category:2000s in Nepal]]
+[[Category:2007 by country|Nepal]]
+
+
+{{Nepal-hist-stub}}

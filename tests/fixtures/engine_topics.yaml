@@ -1,0 +1,161 @@
+# The topics of viral-news-radar, used only by the engine tests that run on the hand-labelled English day.
+topics:
+- name: Finland & Nordic tech
+  weight: 1.0
+  any:
+  - finland
+  - finnish
+  - helsinki
+  - espoo
+  - tampere
+  - oulu
+  - turku
+  - vantaa
+  - nordic
+  - nordics
+  - suomi
+  - suomen
+  - suomalainen
+  - tekoäly
+  - sweden
+  - swedish
+  - norway
+  - denmark
+  - estonia
+  - baltic
+  - supercell
+  - wolt
+  - nokia
+  - oura
+  - iceye
+  - rovio
+  - relex
+  - reaktor
+  - silo ai
+  - amd silo
+  - slush
+  - business finland
+  - yle
+  - elisa
+  - kone
+  - wärtsilä
+  - sitra
+- name: AI models & labs
+  weight: 1.0
+  any:
+  - ai model
+  - llm
+  - large language model
+  - gpt
+  - chatgpt
+  - openai
+  - anthropic
+  - claude
+  - gemini
+  - deepmind
+  - mistral
+  - llama
+  - meta ai
+  - xai
+  - grok
+  - deepseek
+  - qwen
+  - hugging face
+  - frontier model
+  - foundation model
+  - reasoning model
+  - open-source model
+  - open weights
+  - agi
+- name: AI agents & products
+  weight: 0.95
+  any:
+  - ai agent
+  - agents
+  - agentic
+  - copilot
+  - ai assistant
+  - chatbot
+  - ai coding
+  - cursor
+  - ai search
+  - perplexity
+  - generative ai
+  - genai
+  - ai video
+  - ai image
+  - voice ai
+  - ai startup
+- name: AI policy & safety
+  weight: 0.9
+  any:
+  - ai act
+  - eu ai act
+  - ai regulation
+  - ai safety
+  - ai law
+  - export controls
+  - copyright lawsuit
+  - deepfake
+  - ai ethics
+  - ai bill
+  - ai governance
+  - gdpr
+  - digital markets act
+  - dma
+  - dsa
+- name: AI business & chips
+  weight: 0.85
+  any:
+  - nvidia
+  - gpu
+  - chips
+  - semiconductor
+  - data center
+  - datacenter
+  - tsmc
+  - ai funding
+  - raises
+  - valuation
+  - ipo
+  - acquisition
+  - acquires
+  - layoffs
+  - ai investment
+  - ai spending
+- name: Tech & startups
+  weight: 0.6
+  any:
+  - startup
+  - funding round
+  - series a
+  - series b
+  - venture capital
+  - apple
+  - google
+  - microsoft
+  - amazon
+  - meta
+  - tesla
+  - spacex
+  - cybersecurity
+  - data breach
+  - hack
+  - outage
+  - quantum
+untopical_min_outlets: 6
+exclude_title:
+- horoscope
+- recipe
+- crossword
+- wordle
+- deal of the day
+- best deals
+- black friday deal
+- coupon
+- promo code
+- sponsored
+- 'review:'
+- 'hands-on:'
+- 'podcast:'
+- 'newsletter:'

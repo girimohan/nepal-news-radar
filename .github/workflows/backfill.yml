@@ -1,0 +1,58 @@
+name: Back-fill archive
+
+# Adds past days to docs/archive. Run it from the Actions tab with a date range.
+# GDELT allows one request every 5 seconds, so a month takes about 5-10 minutes; WordPress sites are quicker.
+# Safe to re-run: articles already stored are skipped.
+
+on:
+  workflow_dispatch:
+    inputs:
+      from:
+        description: "First day (YYYY-MM-DD)"
+        required: true
+      to:
+        description: "Last day (YYYY-MM-DD); keep a run to about 6 months"
+        required: true
+      sources:
+        description: "wordpress,gdelt or one of them"
+        default: "wordpress,gdelt"
+      query:
+        description: "Only articles matching this (optional), e.g. earthquake or भूकम्प"
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nepalradar
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Back-fill
+        # Inputs go through the environment, never pasted into the script, so no input can run as a command.
+        env:
+          FROM: ${{ inputs.from }}
+          TO: ${{ inputs.to }}
+          SOURCES: ${{ inputs.sources }}
+          QUERY: ${{ inputs.query }}
+        run: python -m nepalradar archive backfill --from "$FROM" --to "$TO" --sources "$SOURCES" --query "$QUERY"
+      - name: Save
+        env:
+          FROM: ${{ inputs.from }}
+          TO: ${{ inputs.to }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/archive
+          git diff --cached --quiet || git commit -m "Archive: $FROM to $TO"
+          git pull --rebase --autostash && git push

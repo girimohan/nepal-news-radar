@@ -1,0 +1,4719 @@
+{
+ "generated_at": "2026-11-25T15:37:42+00:00",
+ "date": "2026-11-25",
+ "new_today": 45,
+ "first_run": false,
+ "lookback_hours": 48,
+ "funnel": {
+  "collected": 524,
+  "undated": 0,
+  "too_old": 87,
+  "excluded": 6,
+  "duplicate": 0,
+  "archived_new": 55,
+  "articles_in_window": 431,
+  "stories": 268,
+  "off_topic": 61,
+  "low_score": 162,
+  "shown": 45
+ },
+ "llm": {
+  "enabled": false
+ },
+ "sources": [
+  {
+   "name": "feeds",
+   "ok": true,
+   "fetched": 524,
+   "in_stories": 45,
+   "detail": "32/32 feeds read",
+   "error": ""
+  }
+ ],
+ "topics": [
+  "Politics & government",
+  "Disasters & climate",
+  "Nepalis abroad & migration",
+  "Foreign relations",
+  "Economy & business",
+  "Tourism & mountains",
+  "Society, law & health",
+  "Sports & culture",
+  "Tech & startups",
+  "Breaking (other)"
+ ],
+ "stories": [
+  {
+   "id": "55d4004749",
+   "headline": "दानबहादुर कार्कीको रिटमा अन्तरिम आदेश दिन अस्वीकार",
+   "url": "https://www.ratopati.com/story/607605/denied-to-issue-interim-order-on-dan-bahadur-karkis-writ-petition",
+   "first_published": "2026-11-25T10:49:19+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government",
+    "Economy & business",
+    "Society, law & health"
+   ],
+   "score": 76.4,
+   "signals": {
+    "coverage": 1.0,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.899,
+    "age_hours": 4.8
+   },
+   "reasons": [
+    "14 outlets: Onlinekhabar, BBC Nepali, Ratopati, Annapurna Post +10 more",
+    "first seen 5h ago",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 14,
+   "outlets": [
+    "Annapurna Post",
+    "BBC Nepali",
+    "Clickmandu",
+    "Desh Sanchar",
+    "Gorkhapatra",
+    "Imagekhabar",
+    "Khabarhub",
+    "Mirmire Online",
+    "Nepal News",
+    "Nepal Press",
+    "News of Nepal",
+    "Onlinekhabar",
+    "Ratopati",
+    "Ujyaalo Online"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "en",
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "News of Nepal",
+     "title": "आईजीपी नियुक्तिविरुद्ध कार्कीको रिटमा बहस सकियो, आदेश आउन बाँकी",
+     "url": "https://newsofnepal.com/2026/11/25/795793/",
+     "published": "2026-11-25T10:49:19+00:00",
+     "summary": "काठमाडौं । नेपाल प्रहरीको महानिरीक्षक (आईजीपी) पदबाट हटाइएका दानबहादुर कार्कीले दायर गरेको रिटमाथि सर्वोच्च अदालतमा सुनुवाइ सकिएको छ। न्यायाधीशद्वय नृपध्वज निरौला र श्रीकान्त पौडेलको संयुक्त इजलासमा भएको सुनुवाइमा दुवै पक्षका कानुन व्यवसायीले बहस पूरा गरेका हुन्। सरकारले गत कात्तिक १८ गते कार्कीलाई ",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.55,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:News of Nepal:880770d05aa5"
+    },
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar",
+     "title": "दानबहादुर कार्कीको रिटमाथि दुवै पक्षको बहस सकियो",
+     "url": "https://www.onlinekhabar.com/2026/11/2065225/the-arguments-between-both-sides-on-dan-bahadur-karkis-writ-petition-have-concluded",
+     "published": "2026-11-25T12:02:43+00:00",
+     "summary": "९ मंसिर, काठमाडौं । आफूलाई प्रहरी महानिरीक्षकबाट गैरकानूनी रुपमा हटाइएको दाबीसहित दानबहादुर कार्कीले दायर गरेको रिट निवेदनमाथि बुधबार दुवै पक्षको छलफल सकिएको छ । न्यायाधीशहरू नृपध्वज निरौला र श्रीकान्त पौडेलको इजलासमा रिट निवेदक कार्कीका कानून व्यवसायी, महान्यायाधीवक्ता सहित सरकारी वकिलहरु अनि नवनिय",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar:87e73aea3b59"
+    },
+    {
+     "source": "feed",
+     "outlet": "Ratopati",
+     "title": "दानबहादुर कार्कीको रिटमा अन्तरिम आदेश दिन अस्वीकार",
+     "url": "https://www.ratopati.com/story/607605/denied-to-issue-interim-order-on-dan-bahadur-karkis-writ-petition",
+     "published": "2026-11-25T12:06:27+00:00",
+     "summary": "काठमाडौँ । सर्वोच्च अदालतले दानबहादुरको रिटमा अन्तरिम आदेश दिन अस्वीकार गरेको छ ।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.85,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Ratopati:ec87c4acb9b9"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nepal Press",
+     "title": "दानबहादुर कार्कीले अन्तरिम आदेश पाएनन्, मनोज केसीलाई बाटो खुला",
+     "url": "https://www.nepalpress.com/2026/11/25/784460/dan-bahadur-karki-did-not-get-an-interim-order-the-way-is-open-for-manoj-kc/",
+     "published": "2026-11-25T12:06:31+00:00",
+     "summary": "सर्वोच्च अदालतले आईजीपीबाट हटाइएका दानबहादुर कार्कीको मागबमोजिम अन्तरिम आदेश दिन अश्वीकार गरेको छ ।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal Press:e868306fbc9e"
+    },
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar",
+     "title": "दानबहादुरलाई पदबाट हटाउने सरकारको निर्णय यथावत, अन्तरिम आदेश अस्वीकार",
+     "url": "https://www.onlinekhabar.com/2026/11/2065229/governments-decision-to-remove-dan-bahadur-from-office-remains-unchanged-interim-order-rejected",
+     "published": "2026-11-25T12:08:37+00:00",
+     "summary": "९ मंसिर, काठमाडौं । सर्वोच्च अदालतले दानबहादुर कार्कीलाई प्रहरी महानिरीक्षक (आईजी) पदबाट हटाउने सरकारको निर्णयविरुद्ध अन्तरिम आदेश दिन अस्वीकार गरेको छ । न्यायाधीशहरू नृपध्वज निरौला र श्रीकान्त पौडेलको इजलासले कार्कीको रिट निवेदनमा अन्तरिम आदेश दिन अस्वीकार गरी मुद्दाको अन्तिम समयमा नै त्यसबारे निर्",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar:f24e7eee41eb"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nepal News",
+     "title": "दानबहादुर कार्कीको मुद्दामा अन्तरिम आदेश जारी गर्न अस्वीकार",
+     "url": "https://nepalnews.com/2026/11/25/denial-of-issuing-interim-order-in-dan-bahadur-karkis-case/",
+     "published": "2026-11-25T12:16:47+00:00",
+     "summary": "काठमाडौँ- सर्वोच्च अदालतले महानिरीक्षक (आईजीपी) बाट हटाइएका दानबहादुर कार्कीको मुद्दामा अन्तरिम जारी नहुने आदेश गरेको छ । न्यायाधीश नृपधवज निरौला र श्रीकान्त पौडेलको संयुक्त इजलासले बुधबार दुवै पक्षको सुनुवाइपछि कार्कीको रिटमा अन्तरिम आदेश दिन अस्वीकार गरेको हो । यस आदेशसँगै सरकारको निर्णयबमोजिम निय",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.65,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal News:ee511a2378db"
+    },
+    {
+     "source": "feed",
+     "outlet": "Desh Sanchar",
+     "title": "आइजिपी केसीलाई काम नगर्न अन्तरिम आदेश दिन सर्वोच्चको अस्वीकार",
+     "url": "https://deshsanchar.com/2026/11/25/1256096/",
+     "published": "2026-11-25T12:23:31+00:00",
+     "summary": "काठमाडौँ — सर्वोच्च अदालतले प्रहरी महानिरीक्षक (आईजीपी) पदको नियुक्ति विवादमा...",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.65,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Desh Sanchar:d44160fe4a08"
+    },
+    {
+     "source": "feed",
+     "outlet": "Clickmandu",
+     "title": "दानबहादुर कार्कीको पक्षमा अन्तरिम आदेश दिन सर्वोच्चद्वारा अस्वीकार",
+     "url": "https://clickmandu.com/2026/11/507873.html",
+     "published": "2026-11-25T12:23:46+00:00",
+     "summary": "काठमाडौं । सर्वोच्च अदालतले दानबहादुर कार्कीलाई प्रहरी महानिरीक्षक (आईजीपी) पदबाट हटाउने सरकारको निर्णयविरुद्ध अन्तरिम आदेश दिन अस्वीकार गरेको छ । न्यायाधीश नृपध्वज निरौला र न्यायाधीश श्रीकान्त पौडेलको संयुक्त इजलासले कार्कीको रिट निवेदनमा अन्तरिम आदेश जारी गर्न अस्वीकार गर्दै उठाइएका कानुनी प्रश्नह",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.5,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Clickmandu:50dfa6ecb0f4"
+    },
+    {
+     "source": "feed",
+     "outlet": "Ujyaalo Online",
+     "title": "दानबहादुर कार्कीकाे रिटमा सर्वाेच्चले अन्तरिम आदेश दिएन",
+     "url": "https://www.ujyaaloonline.com/detail/133848",
+     "published": "2026-11-25T12:30:00+00:00",
+     "summary": "याेसँगै मनाेजकुमार शर्मालाई आईजीपीका रूपमा काम गर्ने बाटाे खुला भएकाे छ ।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Ujyaalo Online:51118441b7a2"
+    },
+    {
+     "source": "feed",
+     "outlet": "Imagekhabar",
+     "title": "दानबहादुर कार्कीको रिटमा अन्तरिम आदेश दिन सर्वोच्चको अस्वीकार",
+     "url": "https://www.imagekhabar.com/news/564265/",
+     "published": "2026-11-25T12:32:51+00:00",
+     "summary": "काठमाडौं । नेपाल प्रहरीको महानिरीक्षक (आईजीपी) पदबाट हटाइएपछि पुनर्बहालीको माग गर्दै दानबहादुर कार्कीले दिएको रिटमा सर्वोच्च अदालतले अन्तरिम आदेश जारी गर्न अस्वीकार गरेको छ। न्यायाधीशद्वय नृपध्वज निरौला र श्रीकान्त पौडेलको संयुक्त इजलासमा बुधबार दुवै पक्षका कानुन व्यवसायीले बहस गरेका थिए। बहसपछि इजल",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.6,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Imagekhabar:f9a9ab0481ac"
+    },
+    {
+     "source": "feed",
+     "outlet": "News of Nepal",
+     "title": "दानबहादुर कार्कीको रिटमा अन्तरिम आदेश दिन अस्वीकार",
+     "url": "https://newsofnepal.com/2026/11/25/795827/",
+     "published": "2026-11-25T12:34:09+00:00",
+     "summary": "काठमाडौँ। सर्वोच्च अदालतले दानबहादुर कार्कीलाई प्रहरी महानिरीक्षक (आईजीपी) पदबाट हटाउने सरकारको निर्णय तत्काल कार्यान्वयन नगर्न अन्तरिम आदेश दिन अस्वीकार गरेको छ । न्यायाधीशद्वय नृपध्वज निरौला र श्रीकान्त पौडेलको संयुक्त इजलासले कार्कीको रिटमाथि सुनुवाइ गर्दै अन्तरिम आदेश जारी गर्न अस्वीकार गरेको हो",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.55,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:News of Nepal:866cc1543607"
+    },
+    {
+     "source": "feed",
+     "outlet": "Ratopati",
+     "title": "प्रहरी महानिरीक्षकमा पुनर्बहालीका लागि कार्कीले दायर गरेको रिटमा सर्वोच्चले किन दिएन अन्तरिम आदेश ?",
+     "url": "https://www.ratopati.com/story/607608/why-didnt-the-supreme-court-issue-an-interim-order-on-the-writ-petition-filed-by-karki-seeking-his-reinstatement-as-inspector-general-of-police",
+     "published": "2026-11-25T12:36:20+00:00",
+     "summary": "काठमाडौँ । प्रहरी महानिरीक्षक (आईजीपी) पदबाट हटाएर प्रधानमन्त्रीको विशेष सुरक्षा सल्लाहकार बनाउने सरकारको निर्णयविरुद्ध निवर्तमान आईजीपी दानबहादुर कार्कीले दायर गरेको रिटमा अन्तरिम आदेश जारी गर्न अस्वीकार गर्नुको मुख्य आधार पदभार ग्रहण गरिसकेको अवस्था, विषयवस्तुको संवेदनशीलता",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.85,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Ratopati:5b3387748db1"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nepal Press",
+     "title": "आईजीपी विवादः कार्कीको पक्षमा अन्तरिम आदेश नदिन अदालतले गरेका तीन तर्क",
+     "url": "https://www.nepalpress.com/2026/11/25/784468/igp-controversy-three-arguments-given-by-the-court-for-not-granting-interim-order-in-favor-of-karki/",
+     "published": "2026-11-25T12:51:36+00:00",
+     "summary": "सर्वोच्च अदालतले निवर्तमान आईजीपी दानबहादुर कार्कीले दायर गरेको रिट निवेदनमा अन्तरिम आदेश जारी गर्न अस्वीकार गर्दै सरकारको निर्णयमा प्रारम्भिक समर्थन देखाएको छ ।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal Press:f955d3d7ebda"
+    },
+    {
+     "source": "feed",
+     "outlet": "BBC Nepali",
+     "title": "दानबहादुर कार्कीको पक्षमा अन्तरिम आदेश दिन अस्वीकार गर्दा सर्वोच्च अदालतले लिएका तीन आधार",
+     "url": "https://www.bbc.com/nepali/articles/c3grex4jgqk0o?at_medium=RSS&at_campaign=rss",
+     "published": "2026-11-25T12:56:35+00:00",
+     "summary": "कार्तिक १८ गते बसेको मन्त्रिपरिषद्‌को बैठकले दानबहादुर कार्कीलाई नेपाल प्रहरीको नेतृत्वबाट हटाउँदै मनोज केसीलाई महानिरीक्षक बनाउने निर्णय गरेको थियो।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:BBC Nepali:84c1187688c8"
+    },
+    {
+     "source": "feed",
+     "outlet": "Gorkhapatra",
+     "title": "कार्कीको मागमा सर्वोच्चको फैसलाः अन्तरिम आदेश जारी गर्नुपर्ने अवस्था देखिएन",
+     "url": "https://gorkhapatraonline.com/news/230381",
+     "published": "2026-11-25T13:08:44+00:00",
+     "summary": "काठमाडौँ, मङ्सिर ९ गते । सर्वोच्च अदालतले दानबहादुर कार्कीलाई अन्तरिम आदेश दिन अस्वीकार गरेको छ । सर्वोच्च अदालतका न्यायाधीशद्वय नृपध्वज निरौला र श्रीकान्त पौडेलको संयुक्त इजलाशले...",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.8,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Gorkhapatra:6b2eb45bb6ab"
+    },
+    {
+     "source": "feed",
+     "outlet": "Khabarhub",
+     "title": "कार्कीको पक्षमा सर्वोच्चले किन दिएन अन्तरिम आदेश ? यी हुन् तीन आधार",
+     "url": "https://khabarhub.com/2026/25/1051673/",
+     "published": "2026-11-25T14:05:29+00:00",
+     "summary": "काठमाडाैँ – सर्वोच्च अदालतले प्रहरी महानिरीक्षक (आईजीपी) पदबाट हटाइएका दानबहादुर कार्कीको मागबमोजिम सरकारको निर्णयविरुद्ध अन्तरिम आदेश दिन अस्वीकार गरेको छ। न्यायाधीशद्वय नृपध्वज निरौला र श्रीकान्त पौडेलको संयुक्त इजलासले बुधबार तीन मुख्य आधार देखाउँदै अन्तरिम आदेश जारी नहुने आदेश गरेको हो। इजलासले ",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.8,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Khabarhub:80ac8d612325"
+    },
+    {
+     "source": "feed",
+     "outlet": "Khabarhub",
+     "title": "आजका समाचार : सर्वोच्चले कार्कीलाई दिएन अन्तरिम आदेश, आयोगमा कांग्रेस अद्यावधिक, ग्यासको आयात बढाउन निर्देशन र रुसका पाँच लाख सैनिक मारिएको खुलासा",
+     "url": "https://khabarhub.com/2026/25/1051661/",
+     "published": "2026-11-25T14:09:43+00:00",
+     "summary": "कार्कीको रिटमा अन्तरिम आदेश दिन सर्वोच्चको अस्वीकार सर्वोच्च अदालतले दानबहादुर कार्कीलाई प्रहरी महानिरीक्षक (आईजीपी) पदबाट हटाउने सरकारको निर्णय तत्काल कार्यान्वयन नगर्न अन्तरिम आदेश दिन अस्वीकार गरेको छ । न्यायाधीशद्वय नृपध्वज निरौला र श्रीकान्त पौडेलको संयुक्त इजलासले कार्कीको रिटमाथि सुनुवाइ गर्द",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.8,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Khabarhub:965cb5817daf"
+    },
+    {
+     "source": "feed",
+     "outlet": "Annapurna Post",
+     "title": "दानबहादुर कार्कीको रिटमा सर्वोच्चले किन दिएन अन्तरिम आदेश?",
+     "url": "http://annapurnapost.com/story/511999",
+     "published": "2026-11-25T14:16:01+00:00",
+     "summary": "काठमाडौं : पूर्वप्रहरी महानिरीक्षक (आईजीपी) दानबहादुर कार्कीले दायर गरेको रिटमा सर्वोच्च अदालतले अन्तरिम आदेश जारी गर्न अस्वीकार गरेको छ।सर्वोच्च अदालतका न्यायाधीशद्वय नृपध्वज निरौला र श्रीकान्त पौडेलको संयुक्त इजलासले रिट निवेदनको अन्तिम सुनुवाइका क्रममा नै माग गरिएको विषयको निरूपण र सम्बोधन हुन सक",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.85,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Annapurna Post:25a7a140fc57"
+    },
+    {
+     "source": "feed",
+     "outlet": "Annapurna Post",
+     "title": "आइजीपीमा मनोज केसीको निरन्तरता, सर्वोच्चले दिएन दानबहादुर कार्कीलाई अन्तरिम आदेश",
+     "url": "http://annapurnapost.com/story/511998",
+     "published": "2026-11-25T14:16:01+00:00",
+     "summary": "काठमाडौं : सर्वोच्च अदालतले दानबहादुर कार्कीलाई प्रहरी महानिरीक्षकबाट हटाउने सरकारको निर्णयविरुद्ध अन्तरिम आदेश दिन अस्वीकार गरेको छ।न्यायाधीशहरू नृपध्वज निरौला र श्रीकान्त पौडेलको संयुक्त इजलासले अन्तरिम आदेश जारी नहुने ठहर गरेको हो। यससँगै प्रहरी महानिरीक्षकमा मनोज केसीले निरन्तरता पाउने भएका छन्।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.85,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Annapurna Post:a4076457dddb"
+    },
+    {
+     "source": "feed",
+     "outlet": "Mirmire Online",
+     "title": "दानबहादुर कार्कीको मागमा सर्वोच्चको फैसलाः हाल अन्तरिम आदेश जारी गर्नुपर्ने अवस्था देखिएन",
+     "url": "https://www.mirmireonline.com/2026/11/25/320497/",
+     "published": "2026-11-25T15:00:28+00:00",
+     "summary": "काठमाडौँ, ९ मङ्सिरः सर्वोच्च अदालतले दानबहादुर कार्कीलाई अन्तरिम आदेश दिन अस्वीकार गरेको छ । सर्वोच्च अदालतका न्यायाधीशद्वय नृपध्वज निरौला र श्रीकान्त पौडेलको संयुक्त इजलाशले आज रिट निवेदकको अन्तिम सुनुवाइ हुँदा निरूपण र सम्बोधन हुने प्रकृतिको देखिँदा सुविधा सन्तुलनको दृष्टिसमेटबाट निवेदकको मागबमोजि",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.5,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Mirmire Online:7e8008907e9f"
+    },
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar",
+     "title": "आईजीपी विवाद : यी तीन आधार देखाउँदै सर्वोच्चले दिएन अन्तरिम आदेश",
+     "url": "https://www.onlinekhabar.com/2026/11/2065243/igp-controversy-supreme-court-refuses-to-grant-interim-order-citing-these-three-grounds",
+     "published": "2026-11-25T15:26:31+00:00",
+     "summary": "रिट निवेदनमा निवर्तमान आईजीपी दानबहादुर कार्कीले राज्यको शान्ति सुरक्षा र प्रहरी संगठनको नेतृत्व र नियन्त्रण प्रणाली (चेन अफ कमाण्ड)को नेतृत्व गर्ने आफ्नो भूमिका खोजिएको भन्दै सरकारको निर्णयमाथि प्रश्न उठाएका थिए ।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar:133032eb3e87"
+    }
+   ]
+  },
+  {
+   "id": "ea196ce025",
+   "headline": "एनपीएल विजेता सुदूरपश्चिम रोयल्सको ट्रफी टूर मंसिर १३ गतेदेखि",
+   "url": "https://www.onlinekhabar.com/2026/11/2065220/npl-winner-sudurpaschim-royals-trophy-tour-begins-on-november-13",
+   "first_published": "2026-11-25T13:27:28+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government",
+    "Sports & culture"
+   ],
+   "score": 65.4,
+   "signals": {
+    "coverage": 0.808,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.952,
+    "age_hours": 2.2
+   },
+   "reasons": [
+    "6 outlets: Onlinekhabar, Nagarik News, Ratopati, Khabarhub +2 more",
+    "first seen 2h ago",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 6,
+   "outlets": [
+    "Khabarhub",
+    "Nagarik News",
+    "Nepal News",
+    "Nepal Press",
+    "Onlinekhabar",
+    "Ratopati"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Nagarik News",
+     "title": "एनपीएल विजेता सुदूरपश्चिम रोयल्सको ट्रफी टूर मंसिर १३ देखि",
+     "url": "https://nagariknews.nagariknetwork.com/sports/npl-winners-sudurpaschim-royals-trophy-tour-begins-on-november-13-58-59.html",
+     "published": "2026-11-25T13:27:28+00:00",
+     "summary": "नेपाल प्रिमियर लिग (एनपीएल) को दोस्रो संस्करणको उपाधि जितेको सुदूरपश्चिम रोयल्सले आफ्नो ट्रफी टूर कार्यक्रम सार्वजनिक गरेको छ।...",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.9,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nagarik News:c65788f5f52f"
+    },
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar",
+     "title": "एनपीएल विजेता सुदूरपश्चिम रोयल्सको ट्रफी टूर मंसिर १३ गतेदेखि",
+     "url": "https://www.onlinekhabar.com/2026/11/2065220/npl-winner-sudurpaschim-royals-trophy-tour-begins-on-november-13",
+     "published": "2026-11-25T13:28:53+00:00",
+     "summary": "९ मंसिर, काठमाडौं । नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो संस्करणको उपाधि जितेको सुदूरपश्चिम रोयल्सले आफ्नो ट्रफी टूर कार्यक्रम सार्वजनिक गरेको छ। मंसिर १३ देखि २० गतेसम्म सञ्चालन हुने टूरअन्तर्गत टोलीको उपाधि ट्रफी सुदूरपश्चिमका नौ जिल्लामा पुर्‍याइनेछ। सुदूरपश्चिम रोयल्सका मालिक स्वतन्त्र प्रताप श",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar:6954c6926e02"
+    },
+    {
+     "source": "feed",
+     "outlet": "Khabarhub",
+     "title": "सुदूरपश्चिममा एनपीएल ट्रफी टुर : मङ्सिर १३ देखि २० गतेसम्म कहाँ कहाँ पुग्छ ?",
+     "url": "https://khabarhub.com/2026/25/1051662/",
+     "published": "2026-11-25T13:29:10+00:00",
+     "summary": "काठमाडाैँ – नेपाल प्रिमियर लिग (एनपीएल) २०२६ को ‘च्याम्पियन्स ट्रफी टुर’ को विस्तृत तालिका सार्वजनिक भएको छ। मङ्सिर १३ देखि २० गतेसम्म सुदूरपश्चिम प्रदेशका विभिन्न जिल्ला तथा प्रमुख धार्मिक एवं पर्यटकीय स्थलमा ट्रफी परिक्रमा गराइने छ। तालिकाअनुसार मङ्सिर १३ गते अछाम र बाजुरामा कार्यक्रम तय गरिएको छ,",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.8,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Khabarhub:3f5783043380"
+    },
+    {
+     "source": "feed",
+     "outlet": "Ratopati",
+     "title": "सुदूरपश्चिम रोयल्सको ट्रफी टुर मंसिर १३ देखि, नौ जिल्लामा पुर्‍याइने",
+     "url": "https://www.ratopati.com/story/607618/sudurpaschim-royals-trophy-tour-to-begin-on-november-13-to-be-held-in-nine-districts",
+     "published": "2026-11-25T14:13:49+00:00",
+     "summary": "काठमाडौँ । नेपाल प्रिमियर लिग (एनपीएल) को दोस्रो संस्करणको उपाधि विजेता सुदूरपश्चिम रोयल्सले ट्रफी टुर कार्यक्रम सार्वजनिक गरेको छ। मंसिर १३ देखि २० गतेसम्म सञ्चालन हुने टुरका क्रममा उपाधि ट्रफी सुदूरपश्चिमका नौ जिल्लामा पुर्‍याइनेछ। सुदूरपश्चिम रोयल्सका",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.85,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Ratopati:5ecedf3be652"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nepal News",
+     "title": "सुदूरपश्चिममा एनपीएल ट्रफी टुर",
+     "url": "https://nepalnews.com/2026/11/25/npl-trophy-tour-in-the-far-west/",
+     "published": "2026-11-25T14:33:09+00:00",
+     "summary": "काठमाडौं । नेपाल प्रिमियर लिग (एनपीएल) २०२६ को ‘च्याम्पियन्स ट्रफी टुर’ अन्तर्गत सुदूरपश्चिम प्रदेशका विभिन्न जिल्ला तथा प्रमुख धार्मिक र पर्यटकीय स्थलमा ट्रफी प्रदर्शन गरिने भएको छ। मङ्सिर १३ गतेदेखि २० गतेसम्म सञ्चालन हुने ट्रफी टुरको विस्तृत तालिका सार्वजनिक भएको छ। आठ दिनसम्म चल्ने उक्त अभियानमा",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.65,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal News:f94c620e613a"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nepal Press",
+     "title": "सुदूरपश्चिम रोयल्सको ट्रफी टूर मंसिर १३ गतेदेखि,प्रदेशका सबै जिल्लामा पुर्‍याइने",
+     "url": "https://www.nepalpress.com/2026/11/25/784507/sudurpaschim-royals-trophy-tour-to-be-held-in-all-districts-of-the-province-from-mangshir-13/",
+     "published": "2026-11-25T15:08:44+00:00",
+     "summary": "काठमाडौं — नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो संस्करणको उपाधि जितेको सुदूरपश्चिम रोयल्सले आफ्नो ट्रफी टूर कार्यक्रम सार्वजनिक गरेको छ। मंसिर १३ देखि २० गतेसम्म सञ्चालन हुने टूरअन्तर्गत टोलीको उपाधि ट्रफी सुदूरपश्चिमका नौ जिल्लामा पुर्‍याइनेछ। सुदूरपश्चिम रोयल्सका मालिक स्वतन्त्र प्रताप शाहले समर्",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal Press:f0e1c4edc2a8"
+    }
+   ]
+  },
+  {
+   "id": "9dbac36a25",
+   "headline": "भक्तपुरको होल्डिङ सेन्टर मंसिर ११ भित्र खाली गर्न प्रशासनको निर्देशन",
+   "url": "https://www.imagekhabar.com/news/564263/",
+   "first_published": "2026-11-25T11:10:43+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government",
+    "Economy & business"
+   ],
+   "score": 59.1,
+   "signals": {
+    "coverage": 0.768,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.906,
+    "age_hours": 4.4
+   },
+   "reasons": [
+    "6 outlets: Onlinekhabar, Setopati, Nepal Press, Nepal News +2 more",
+    "first seen 4h ago",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 6,
+   "outlets": [
+    "Imagekhabar",
+    "Nepal News",
+    "Nepal Press",
+    "News of Nepal",
+    "Onlinekhabar",
+    "Setopati"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar",
+     "title": "काठमाडौंका सुकुमवासीलाई सरकारले भन्यो- शनिबारसम्म होल्डिङ सेन्टर खाली गर्नू",
+     "url": "https://www.onlinekhabar.com/2026/11/2065172/government-tells-kathmandu-slum-dwellers-to-vacate-holding-centers-by-saturday",
+     "published": "2026-11-25T11:10:43+00:00",
+     "summary": "होल्डिङ सेन्टरमा हाल ५९ जना बसिरहेका छन् । तीनैमध्ये त्यहाँ बसिरहेका सञ्जय चौधरी भने सरकारको यस्तो सूचना आफूहरू नमान्ने बताउँछन् ।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar:864d4a26d814"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nepal Press",
+     "title": "सुकुमबासीलाई होल्डिङ सेन्टर २ दिनभित्र खाली गर्न सरकारको उर्दी",
+     "url": "https://www.nepalpress.com/2026/11/25/784446/government-orders-squatters-to-vacate-bhaktapurs-holding-center-within-2-days/",
+     "published": "2026-11-25T11:38:52+00:00",
+     "summary": "भक्तपुर । सरकारले भक्तपुरको होल्डिङ सेन्टरमा बसिरहेका सुकुमबासीलाई २ दिनभित्र हट्न भनेको छ । जिल्ला प्रशासन कार्यालय, भक्तपुरले एक सूचना निकाल्दै बोडेस्थित कृषि विकास बैंकको तालिम केन्द्रमा रहेको होल्डिङ सेन्टर मंसिर ११ गते दिउँसो २ बजे भित्र खाली गर्न उर्दी जारी गरेको हो । प्रशासनले सूचनामा भूमि सम",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal Press:2687a85f75d9"
+    },
+    {
+     "source": "feed",
+     "outlet": "Imagekhabar",
+     "title": "भक्तपुरको होल्डिङ सेन्टर मंसिर ११ भित्र खाली गर्न प्रशासनको निर्देशन",
+     "url": "https://www.imagekhabar.com/news/564263/",
+     "published": "2026-11-25T12:23:15+00:00",
+     "summary": "काठमाडौं । भक्तपुरको बोडेस्थित होल्डिङ सेन्टरमा आश्रय लिइरहेका सुकुमबासी परिवारलाई जिल्ला प्रशासन कार्यालय भक्तपुरले दुई दिनभित्र शिविर छाड्न निर्देशन दिएको छ। प्रशासनले सूचना जारी गर्दै कृषि विकास बैंकको तालिम केन्द्रमा सञ्चालन भइरहेको अस्थायी शिविर मंसिर ११ गते दिउँसो २ बजेसम्म खाली गर्न भनेको हो।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.6,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Imagekhabar:48dd7b9f5ee7"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nepal News",
+     "title": "सुकुम्वासीलाई दुई दिनभित्र होल्डिङ सेन्टर खाली गर्न प्रशासनको निर्देशन",
+     "url": "https://nepalnews.com/2026/11/25/administration-instructs-squatters-to-vacate-holding-centers-within-two-days/",
+     "published": "2026-11-25T12:47:42+00:00",
+     "summary": "काठमाडौं । काठमाडौंका नदी किनारबाट हटाइएका सुकुम्वासी परिवारलाई सरकारले दुई दिनभित्र होल्डिङ सेन्टर खाली गर्न निर्देशन दिएको छ। जिल्ला प्रशासन कार्यालय काठमाडौंले बुधबार सूचना जारी गर्दै बूढानीलकण्ठस्थित कृषि विकास तालिम केन्द्रमा राखिएका परिवारलाई मंसिर ११ गते दिउँसो २ बजेसम्म होल्डिङ सेन्टर खाली ग",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.65,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal News:ca3680d36dc2"
+    },
+    {
+     "source": "feed",
+     "outlet": "Setopati",
+     "title": "बोडेको होल्डिङ सेन्टरमा बसिरहेका सुकुम्बासीलाई ठाउँ खाली गर्न २ दिनको अल्टिमेटम",
+     "url": "https://www.setopati.com/social/403393",
+     "published": "2026-11-25T13:58:00+00:00",
+     "summary": "",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.9,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Setopati:835414a3afcc"
+    },
+    {
+     "source": "feed",
+     "outlet": "News of Nepal",
+     "title": "भक्तपुरको होल्डिङ सेन्टर मंसिर ११ भित्र खाली गर्न प्रशासनको निर्देशन",
+     "url": "https://newsofnepal.com/2026/11/25/795836/",
+     "published": "2026-11-25T14:45:26+00:00",
+     "summary": "काठमाडौँ। भक्तपुरको बोडेस्थित होल्डिङ सेन्टरमा आश्रय लिइरहेका सुकुमबासी परिवारलाई जिल्ला प्रशासन कार्यालय भक्तपुरले दुई दिनभित्र शिविर छाड्न निर्देशन दिएको छ। प्रशासनले सूचना जारी गर्दै कृषि विकास बैंकको तालिम केन्द्रमा सञ्चालन भइरहेको अस्थायी शिविर मंसिर ११ गते दिउँसो २ बजेसम्म खाली गर्न भनेको हो। ",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.55,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:News of Nepal:80a971a69ff5"
+    }
+   ]
+  },
+  {
+   "id": "6adc714d01",
+   "headline": "Supreme Court refuses interim order against Dan Bahadur Karki’s removal as police chief",
+   "url": "https://english.onlinekhabar.com/sc-refuses-interim-order-dan-bahadur-karki.html",
+   "first_published": "2026-11-25T06:15:00+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government",
+    "Society, law & health"
+   ],
+   "score": 56.2,
+   "signals": {
+    "coverage": 0.808,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.818,
+    "age_hours": 9.4
+   },
+   "reasons": [
+    "6 outlets: The Kathmandu Post, Onlinekhabar English, The Annapurna Express, Ratopati English +2 more",
+    "first seen 9h ago",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 6,
+   "outlets": [
+    "Khabarhub English",
+    "Nepal News English",
+    "Onlinekhabar English",
+    "Ratopati English",
+    "The Annapurna Express",
+    "The Kathmandu Post"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "en"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "The Kathmandu Post",
+     "title": "Supreme Court declines interim order in Dan Bahadur Karki’s petition",
+     "url": "https://kathmandupost.com/national/2026/11/25/supreme-court-declines-interim-order-in-dan-bahadur-karki-s-petition",
+     "published": "2026-11-25T06:15:00+00:00",
+     "summary": "The court has directed an expedited hearing, citing the importance and sensitivity of leadership and the chain of command within the Nepal Police.",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:The Kathmandu Post:1ac3e76f9a63"
+    },
+    {
+     "source": "feed",
+     "outlet": "Khabarhub English",
+     "title": "Hearing underway on writ petition challenging IGP appointment",
+     "url": "https://english.khabarhub.com/2026/25/576995/",
+     "published": "2026-11-25T06:24:27+00:00",
+     "summary": "KATHMANDU: The Supreme Court (SC) is currently hearing a writ petition filed by Dan Bahadur Karki, who was removed from the post of Inspector General of Police (IGP) of Nepal Police. Both sides have been summoned before a bench comprising Supreme Court Justices Nripadhwaj Niraula and Shrikant Poudel",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.75,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Khabarhub English:56f26f6638f0"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nepal News English",
+     "title": "Supreme Court concludes hearing on former IGP Karki’s writ petition",
+     "url": "https://english.nepalnews.com/s/security/supreme-court-concludes-hearing-on-former-igp-karkis-writ-petition/",
+     "published": "2026-11-25T11:11:35+00:00",
+     "summary": "KATHMANDU: The Supreme Court has concluded the hearing on a writ petition filed by former Inspector General of Police (IGP) Dan Bahadur Karki against the government’s decision to remove him from his post and appoint him as a special security advisor to the prime minister. The arguments from both sid",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal News English:361ab37b0443"
+    },
+    {
+     "source": "feed",
+     "outlet": "Ratopati English",
+     "title": "Supreme Court Issues Show-Cause Order Against Anti-Plagiarism Software Rule",
+     "url": "http://english.ratopati.com/story/88259/supreme-court-issues-show-cause-order-in-writ-petition-against-tribhuvan-universitys-anti-plagiarism-rules",
+     "published": "2026-11-25T11:42:38+00:00",
+     "summary": "Kathmandu. The Supreme Court has issued a show-cause order in the name of the respondents against the writ filed against...",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.75,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Ratopati English:da39fb15ff03"
+    },
+    {
+     "source": "feed",
+     "outlet": "Khabarhub English",
+     "title": "Supreme Court declines interim order against removal of Dan Bahadur Karki as IGP",
+     "url": "https://english.khabarhub.com/2026/25/577045/",
+     "published": "2026-11-25T12:14:31+00:00",
+     "summary": "KATHMANDU: The Supreme Court has declined to issue an interim order against the government’s decision to remove Dan Bahadur Karki from the post of Inspector General of Police (IGP). A joint bench of Justices Nripadhwaj Niraula and Shrikant Poudel rejected Karki’s request for an interim order on his ",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.75,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Khabarhub English:aa7900e319a8"
+    },
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar English",
+     "title": "Supreme Court refuses interim order against Dan Bahadur Karki’s removal as police chief",
+     "url": "https://english.onlinekhabar.com/sc-refuses-interim-order-dan-bahadur-karki.html",
+     "published": "2026-11-25T12:21:02+00:00",
+     "summary": "Kathmandu, November 25 The Supreme Court has refused to issue an interim order against the government’s decision to remove Dan Bahadur Karki from the post of Inspector General of Police (IGP), leaving the decision in place for now. A joint bench of Justices Nripadhwaj Niraula and Shrikanta Poudel de",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.9,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar English:e098a2865a5a"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nepal News English",
+     "title": "Supreme Court refuses interim order on Dan Bahadur Karki’s writ petition",
+     "url": "https://english.nepalnews.com/s/security/supreme-court-refuses-interim-order-on-dan-bahadur-karki-plea/",
+     "published": "2026-11-25T12:21:40+00:00",
+     "summary": "KATHMANDU: The Supreme Court has refused to issue an interim order regarding a writ petition filed by former IGP Dan Bahadur Karki. A joint bench comprising judges Nripadhwaj Niraula and Shrikanta Poudel denied the request for an interim order during the hearing held on Monday. The court has schedul",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal News English:5f7cc22d3eae"
+    },
+    {
+     "source": "feed",
+     "outlet": "Ratopati English",
+     "title": "Court Refuses Interim Order on Former IGP Dan Bahadur Karki's Writ",
+     "url": "http://english.ratopati.com/story/88264/why-didnt-the-supreme-court-issue-an-interim-order-on-the-writ-petition-filed-by-karki-seeking-his-reinstatement-as-inspector-general-of-police",
+     "published": "2026-11-25T12:36:20+00:00",
+     "summary": "Kathmandu. The government's decision to remove Dan Bahadur Karki from the post of Inspector General of Police (IGP) and appoint...",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.75,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Ratopati English:273a4284165e"
+    },
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar English",
+     "title": "Supreme Court rejects interim relief for Dan Bahadur Karki on three grounds",
+     "url": "https://english.onlinekhabar.com/supreme-court-rejects-interim-relief-for-dan-bahadur-karki-on-three-grounds.html",
+     "published": "2026-11-25T13:41:40+00:00",
+     "summary": "Kathmandu, November 25 The Supreme Court has refused to issue an interim order reinstating former Nepal Police chief Dan Bahadur Karki, citing three grounds while leaving the government’s decision to remove him in place pending a final verdict. A division bench of Justices Nripadhwaj Niraula and Shr",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.9,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar English:b1d5ffdf8d0e"
+    },
+    {
+     "source": "feed",
+     "outlet": "The Annapurna Express",
+     "title": "SC rejects Dan Bahadur Karki’s interim order plea",
+     "url": "https://theannapurnaexpress.com/story/69069",
+     "published": "2026-11-25T15:05:11+00:00",
+     "summary": "The Supreme Court has declined to issue an interim order in the writ petition filed by outgoing Inspector General of Nepal Police Dan Bahadur Karki, challenging the government's decision to remove him from the post of IGP.A division bench of Supreme Court Justices Nripadhwaj Niraula and Shrikanta Pa",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.8,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:The Annapurna Express:88d3269d187c"
+    }
+   ]
+  },
+  {
+   "id": "9bdadc4adb",
+   "headline": "लुम्बिनी विकास कोषमा आनी छोइङको नियुक्तिविरुद्ध सर्वोच्चले माग्यो लिखित जवाफ",
+   "url": "https://nepalnews.com/2026/11/25/supreme-court-seeks-written-response-against-ani-choings-appointment-to-lumbini-development-fund/",
+   "first_published": "2026-11-25T10:55:26+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government",
+    "Tourism & mountains"
+   ],
+   "score": 53.2,
+   "signals": {
+    "coverage": 0.695,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.901,
+    "age_hours": 4.7
+   },
+   "reasons": [
+    "5 outlets: Onlinekhabar, Nepal Press, Nepal News, Desh Sanchar +1 more",
+    "first seen 5h ago",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 5,
+   "outlets": [
+    "Desh Sanchar",
+    "Imagekhabar",
+    "Nepal News",
+    "Nepal Press",
+    "Onlinekhabar"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Nepal Press",
+     "title": "आनीको नियुक्ति खारेजी मागको रिटमा आज आएन अन्तरिम आदेश",
+     "url": "https://www.nepalpress.com/2026/11/25/784423/no-interim-order-today-on-writ-seeking-cancellation-of-anis-appointment/",
+     "published": "2026-11-25T10:55:26+00:00",
+     "summary": "काठमाडौं । लुम्बिनी विकास कोषको उपाध्यक्षमा आनी छोइङ डोल्माको नियुक्तिविरुद्ध सर्वोच्च अदालतमा दायर रिटमा सर्वोच्चले कारण देखाउ आदेश जारी गरेको छ । न्यायाधीश डा. रत्नबहादुर बागचन्दको एकल इजलासले प्रारम्भिक सुनुवाइ गर्दै निवेदकको मागबमोजिम आदेश किन जारी हुन नपर्ने हो भन्ने आधार र कारणसहित बाटोको म्या",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal Press:fe500b60c8e1"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nepal News",
+     "title": "लुम्बिनी विकास कोषमा आनी छोइङको नियुक्तिविरुद्ध सर्वोच्चले माग्यो लिखित जवाफ",
+     "url": "https://nepalnews.com/2026/11/25/supreme-court-seeks-written-response-against-ani-choings-appointment-to-lumbini-development-fund/",
+     "published": "2026-11-25T11:23:26+00:00",
+     "summary": "काठमाडौं: लुम्बिनी विकास कोषको उपाध्यक्षमा आनी छोइङ डोल्माको नियुक्तिविरुद्ध सर्वोच्च अदालतमा दायर रिट निवेदनमा अदालतले कारण देखाउ आदेश जारी गरेको छ। न्यायाधीश डा. रत्नबहादुर बागचन्दको एकल इजलासले आज प्रारम्भिक सुनुवाइ गर्दै निवेदकको मागबमोजिम आदेश किन जारी हुन नपर्ने हो भनी १५ दिनभित्र लिखित जवाफ प",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.65,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal News:328ca7e975b0"
+    },
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar",
+     "title": "आनी छोइङ डोल्माबारे सर्वोच्चमा आगामी सोमबार छलफल हुने",
+     "url": "https://www.onlinekhabar.com/2026/11/2065198/supreme-court-to-discuss-ani-choing-dolma-issue-next-monday",
+     "published": "2026-11-25T11:27:43+00:00",
+     "summary": "९ मंसिर, काठमाडौं । गायिका आनी छोइङ डोल्मालाई लुम्बिनी विकास कोषको उपाध्यक्षमा नियुक्त गर्ने सरकारको निर्णयविरुद्ध अन्तरिम आदेश जारी गर्ने वा नगर्ने भन्नेबारे आगामी सोमबार (१४ मंसीर)छलफलका लागि बोलाएको छ । सर्वोच्च अदालतले दुवै पक्षविचको छलफलपछि मात्रै अन्तरिम आदेशवारे निष्कर्षमा पुग्न उपयुक्त हुने ",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar:558b1c210ba4"
+    },
+    {
+     "source": "feed",
+     "outlet": "Imagekhabar",
+     "title": "आनी छोइङको नियुक्तिविरुद्धको रिटमा सोमबार छलफल हुने",
+     "url": "https://www.imagekhabar.com/news/564254/",
+     "published": "2026-11-25T11:41:32+00:00",
+     "summary": "काठमाडौं । गायिका आनी छोइङ डोल्मालाई लुम्बिनी विकास कोषको उपाध्यक्ष बनाउने मन्त्रिपरिषद्को निर्णय कार्यान्वयनमा रोक लगाउन माग गर्दै परेको रिटमा सर्वोच्च अदालतले दुवै पक्षलाई उपस्थित हुन आदेश दिएको छ। न्यायाधीश डा. रत्नबहादुर बागचन्दको इजलासले प्रारम्भिक सुनुवाइपछि अन्तरिम आदेश जारी गर्ने वा नगर्ने व",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.6,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Imagekhabar:15249f72427b"
+    },
+    {
+     "source": "feed",
+     "outlet": "Desh Sanchar",
+     "title": "लुम्बिनीको उपाध्यक्षमा आनी छोइङको नियुक्ति रोक्ने/नरोक्ने विषयमा १४ गते छलफल हुने",
+     "url": "https://deshsanchar.com/2026/11/25/1256071/",
+     "published": "2026-11-25T11:53:29+00:00",
+     "summary": "काठमाडौँ – लुम्बिनी विकास कोषको उपाध्यक्षमा आनी छोइङ डोल्मा लामा...",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.65,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Desh Sanchar:3cf4622ff652"
+    }
+   ]
+  },
+  {
+   "id": "d05cb86f20",
+   "headline": "परराष्ट्रमन्त्री खनालसँग युनिसेफका क्षेत्रीय निर्देशकको भेट",
+   "url": "https://nagariknews.nagariknetwork.com/politics/unicef-regional-director-meets-with-foreign-minister-khanal-81-44.html",
+   "first_published": "2026-11-25T14:36:00+00:00",
+   "topic": "Foreign relations",
+   "topics": [
+    "Foreign relations"
+   ],
+   "score": 52.6,
+   "signals": {
+    "coverage": 0.704,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.977,
+    "age_hours": 1.0
+   },
+   "reasons": [
+    "5 outlets: Nagarik News, Khabarhub, Gorkhapatra, Nepal Press +1 more",
+    "first seen 1h ago",
+    "topic: Foreign relations"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 5,
+   "outlets": [
+    "Gorkhapatra",
+    "Khabarhub",
+    "Mirmire Online",
+    "Nagarik News",
+    "Nepal Press"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "en",
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Nepal Press",
+     "title": "परराष्ट्रमन्त्री खनालसँग युनिसेफका क्षेत्रीय निर्देशकको भेट",
+     "url": "https://www.nepalpress.com/2026/11/25/784502/unicef-regional-director-meets-with-foreign-minister-khanal/",
+     "published": "2026-11-25T14:36:00+00:00",
+     "summary": "काठमाडौं । परराष्ट्रमन्त्री शिशिर खनालसँग एसिया तथा प्रशान्त क्षेत्रका लागि संयुक्त राष्ट्रसङ्घीय बाल कोष (युनिसेफ)का क्षेत्रीय निर्देशक सञ्जय विजेसेकेराले शिष्टाचार भेट गरेका छन् । परराष्ट्र मन्त्रालयमा आज भएको भेटवार्ताका अवसरमा उनीहरूबीच नेपाल र युनिसेफबीचको सहकार्यलाई थप सुदृढ बनाउने विषयमा छलफल",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal Press:a9bca06c5f37"
+    },
+    {
+     "source": "feed",
+     "outlet": "Mirmire Online",
+     "title": "परराष्ट्रमन्त्री खनालसँग युनिसेफका क्षेत्रीय निर्देशकको भेट",
+     "url": "https://www.mirmireonline.com/2026/11/25/320487/",
+     "published": "2026-11-25T14:36:38+00:00",
+     "summary": "काठमाडौँ, ९ मङ्सिरः परराष्ट्रमन्त्री शिशिर खनालसँग एसिया तथा प्रशान्त क्षेत्रका लागि संयुक्त राष्ट्रसङ्घीय बाल कोष (युनिसेफ)का क्षेत्रीय निर्देशक सञ्जय विजेसेकेराले शिष्टाचार भेट गर्नुभएको छ । परराष्ट्र मन्त्रालयमा आज भएको भेटवार्ताका अवसरमा उहाँहरूबीच नेपाल र युनिसेफबीचको सहकार्यलाई थप सुदृढ बनाउने",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.5,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Mirmire Online:26e93bd526ad"
+    },
+    {
+     "source": "feed",
+     "outlet": "Khabarhub",
+     "title": "परराष्ट्रमन्त्री खनालसँग युनिसेफका क्षेत्रीय निर्देशकको भेट",
+     "url": "https://khabarhub.com/2026/25/1051679/",
+     "published": "2026-11-25T14:53:54+00:00",
+     "summary": "काठमाडौ – परराष्ट्रमन्त्री शिशिर खनालसँग एसिया तथा प्रशान्त क्षेत्रका लागि संयुक्त राष्ट्रसङ्घीय बाल कोष (युनिसेफ)का क्षेत्रीय निर्देशक सञ्जय विजेसेकेराले शिष्टाचार भेट गरेका छन् । परराष्ट्र मन्त्रालयमा आज भएको भेटवार्ताका अवसरमा उनीहरूबीच नेपाल र युनिसेफबीचको सहकार्यलाई थप सुदृढ बनाउने विषयमा छलफल ",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.8,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Khabarhub:47279bb1e8ff"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nagarik News",
+     "title": "परराष्ट्रमन्त्री खनालसँग युनिसेफका क्षेत्रीय निर्देशकको भेट",
+     "url": "https://nagariknews.nagariknetwork.com/politics/unicef-regional-director-meets-with-foreign-minister-khanal-81-44.html",
+     "published": "2026-11-25T14:56:03+00:00",
+     "summary": "परराष्ट्रमन्त्री शिशिर खनालसँग एसिया तथा प्रशान्त क्षेत्रका लागि संयुक्त राष्ट्रसङ्घीय बाल कोष (युनिसेफ)का क्षेत्रीय निर्देशक सञ्जय विजेसेकेराले शिष्टाचार भेट गेका छन्।...",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.9,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nagarik News:fe9780499615"
+    },
+    {
+     "source": "feed",
+     "outlet": "Gorkhapatra",
+     "title": "परराष्ट्रमन्त्री खनालसँग युनिसेफका क्षेत्रीय निर्देशकको भेट",
+     "url": "https://gorkhapatraonline.com/news/230388",
+     "published": "2026-11-25T15:34:35+00:00",
+     "summary": "काठमाडौँ, मङ्सिर ९ गते । परराष्ट्रमन्त्री शिशिर खनालसँग एसिया तथा प्रशान्त क्षेत्रका लागि संयुक्त राष्ट्रसङ्घीय बाल कोष (युनिसेफ) का क्षेत्रीय निर्देशक सञ्जय विजेसेकेराले शिष्टाचार...",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.8,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Gorkhapatra:5dee274f4514"
+    }
+   ]
+  },
+  {
+   "id": "12df2b2cfd",
+   "headline": "देउवा समूहको महाधिवेशन तयारी समिति गठनको जिम्मेवारी कोइरालालाई",
+   "url": "https://www.onlinekhabar.com/2026/11/2065162/koirala-given-responsibility-for-forming-deuba-groups-general-convention-preparation-committee",
+   "first_published": "2026-11-25T10:49:14+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government"
+   ],
+   "score": 51.9,
+   "signals": {
+    "coverage": 0.679,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.899,
+    "age_hours": 4.8
+   },
+   "reasons": [
+    "4 outlets: Onlinekhabar, Setopati, Annapurna Post, Nepal Press",
+    "first seen 5h ago",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 4,
+   "outlets": [
+    "Annapurna Post",
+    "Nepal Press",
+    "Onlinekhabar",
+    "Setopati"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar",
+     "title": "देउवा समूहको महाधिवेशन तयारी समिति गठनको जिम्मेवारी कोइरालालाई",
+     "url": "https://www.onlinekhabar.com/2026/11/2065162/koirala-given-responsibility-for-forming-deuba-groups-general-convention-preparation-committee",
+     "published": "2026-11-25T10:49:14+00:00",
+     "summary": "९ मंसिर, काठमाडौं । नेपाली कांग्रेसको शेरबहादुर देउवा समूहले महाधिवेशन तयारी समिति गठन गर्ने जिम्मेवारी महाधिवेशन संयोजक डा. शशांक कोइरालालाई दिएको छ । बुधबार देउवा समूहको सम्पर्क कार्यालय चूनदेवीमा बसेको शीर्ष नेता, पदाधिकारी, भातृ तथा शुभेच्छुक लगाएतको बैठकले १५ औँ महाधिवेशनको तयारीका लागि समिति ग",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar:9fe55c189307"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nepal Press",
+     "title": "देउवा समूहले महाधिवेशन तयारी समितिका संयोजक भोलिसम्ममा टुंग्याउने, शशांकलाई दियो जिम्मेवारी",
+     "url": "https://www.nepalpress.com/2026/11/25/784428/deuba-group-to-finalize-coordinator-of-general-convention-preparation-committee-by-tomorrow-assigns-responsibility-to-shashank/",
+     "published": "2026-11-25T11:00:53+00:00",
+     "summary": "नेपाली कांग्रेसका पूर्वसभापति शेरबहादुर देउवा समूहले १५औँ महाधिवेशन तयारी समितिका संयोजक शशांक कोइरालालाई महाधिवेशनको तयारी समिति गठन गर्ने जिम्मा दिएको छ।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal Press:ca4cfeb1dbc7"
+    },
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar",
+     "title": "देउवा पक्षको बागमती प्रदेश संयोजकमा राजु श्रेष्ठ",
+     "url": "https://www.onlinekhabar.com/2026/11/2065248/raju-shrestha-appointed-as-bagmati-province-coordinator-of-deuba-faction",
+     "published": "2026-11-25T12:48:57+00:00",
+     "summary": "देउवा पक्षको महाधिवेशन तयारी समितिका संयोजक प्राडा. शशांक कोइरालाले श्रेष्ठलाई लिखित रूपमा प्रदेश संयोजकको जिम्मेवारी सुम्पिएका छन् ।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar:79f251880c4c"
+    },
+    {
+     "source": "feed",
+     "outlet": "Annapurna Post",
+     "title": "देउवा समूहले दियो महाधिवेशन तयारी समिति गठनको जिम्मा शशांकलाई",
+     "url": "http://annapurnapost.com/story/511993",
+     "published": "2026-11-25T14:16:01+00:00",
+     "summary": "काठमाडौं : नेपाली कांग्रेसको शेरबहादुर देउवा समूहले महाधिवेशन तयारी समिति गठन गर्ने जिम्मेवारी महाधिवेशन संयोजक डा.शशांक कोइरालालाई दिएको छ । बुधबार देउवा समूहको सम्पर्क कार्यालय चूनदेवीमा बसेको शीर्ष नेता, पदाधिकारी, भातृ तथा शुभेच्छुक लगाएतको बैठकले १५ औं महाधिवेशनको तयारीका लागि समिति गठनको जिम्म",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.85,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Annapurna Post:7d292e190d9d"
+    },
+    {
+     "source": "feed",
+     "outlet": "Setopati",
+     "title": "देउवा पक्षले सक्यो ६० जिल्ला र २ प्रदेशमा अधिवेशन",
+     "url": "https://www.setopati.com/politics/403389",
+     "published": "2026-11-25T14:22:00+00:00",
+     "summary": "नेपाली कांग्रेसका निवर्तमान सभापति शेरबहादुर देउवा पक्षले १५औँ महाधिवेशनको तयारी र हालसम्मको प्रगतिबारे बुधबार काठमाडौंको चुनदेवीस्थित सम्पर्क कार्यालयमा छलफल गरेको छ।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.9,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Setopati:bdf7268a9986"
+    }
+   ]
+  },
+  {
+   "id": "30ff079a4e",
+   "headline": "Election Commission Updates Nepali Congress Central Working Committee Led by Gagan Thapa",
+   "url": "http://english.ratopati.com/story/88253/deuba-group-trying-to-hold-general-convention-in-the-name-of-congress-establishment-in-strategy-to-stop-it",
+   "first_published": "2026-11-25T06:15:00+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government",
+    "Society, law & health"
+   ],
+   "score": 51.6,
+   "signals": {
+    "coverage": 0.741,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.818,
+    "age_hours": 9.4
+   },
+   "reasons": [
+    "5 outlets: The Kathmandu Post, Onlinekhabar English, Khabarhub English, Ratopati English +1 more",
+    "first seen 9h ago",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 5,
+   "outlets": [
+    "Khabarhub English",
+    "Nepal News English",
+    "Onlinekhabar English",
+    "Ratopati English",
+    "The Kathmandu Post"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "en"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "The Kathmandu Post",
+     "title": "Election Commission updates Nepali Congress leadership and amended statute",
+     "url": "https://kathmandupost.com/politics/2026/11/25/election-commission-updates-nepali-congress-leadership-and-amended-statute",
+     "published": "2026-11-25T06:15:00+00:00",
+     "summary": "The commission has formally recognised the party’s new 231-member central committee, elected at its 15th general convention, and amendments to its statute.",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:The Kathmandu Post:98abfb17500a"
+    },
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar English",
+     "title": "Congress leader calls for action against representatives supporting Deuba faction’s convention",
+     "url": "https://english.onlinekhabar.com/congress-leader-calls-for-action-against-representatives-supporting-deuba-factions-convention.html",
+     "published": "2026-11-25T08:29:34+00:00",
+     "summary": "Kathmandu, November 25 A call has been made at the Nepali Congress Central Working Committee meeting to remove elected representatives who are actively involved in the convention being organised by the faction led by former party president Sher Bahadur Deuba. Speaking on the second day of the centra",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.9,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar English:e812c8260a12"
+    },
+    {
+     "source": "feed",
+     "outlet": "Khabarhub English",
+     "title": "Election Commission updates Nepali Congress committee led by Gagan Thapa",
+     "url": "https://english.khabarhub.com/2026/25/577017/",
+     "published": "2026-11-25T09:02:09+00:00",
+     "summary": "KATHMANDU: The Election Commission (EC) has updated the committee led by Gagan Thapa, elected during the 15th General Convention of the Nepali Congress. Commission spokesperson Narayan Prasad Bhattarai confirmed that the committee formed through the party’s 15th General Convention has been officiall",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.75,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Khabarhub English:f9848dd4d0c7"
+    },
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar English",
+     "title": "Election Commission updates Nepali Congress statute, office-bearers’ records",
+     "url": "https://english.onlinekhabar.com/election-commission-updates-nepali-congress-statute-office-bearers-records.html",
+     "published": "2026-11-25T09:26:45+00:00",
+     "summary": "Kathmandu, November 25 The Election Commission has updated the statute and records of office-bearers of the Nepali Congress following the party’s 15th general convention. The commission’s meeting on Wednesday decided to update the party’s records, Election Commission spokesperson Narayan Bhattarai s",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.9,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar English:96908b8ae9e5"
+    },
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar English",
+     "title": "Nepali Congress nominates 11 women to central committee to meet one-third representation requirement",
+     "url": "https://english.onlinekhabar.com/nepali-congress-women-central-committee.html",
+     "published": "2026-11-25T10:55:41+00:00",
+     "summary": "Kathmandu, November 25 The Nepali Congress has submitted the names of 11 women nominated to its central committee to the Election Commission, aiming to ensure that women make up at least one-third of the party’s central body. The party informed the commission of the nominations after finding that th",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.9,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar English:2d939ad1d0ac"
+    },
+    {
+     "source": "feed",
+     "outlet": "Ratopati English",
+     "title": "Election Commission Updates Nepali Congress Central Working Committee Led by Gagan Thapa",
+     "url": "http://english.ratopati.com/story/88253/deuba-group-trying-to-hold-general-convention-in-the-name-of-congress-establishment-in-strategy-to-stop-it",
+     "published": "2026-11-25T11:23:52+00:00",
+     "summary": "Kathmandu. The Election Commission has updated the central working committee led by Gagan Thapa, elected from the 15th General Convention...",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.75,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Ratopati English:b5ebdf74ea55"
+    },
+    {
+     "source": "feed",
+     "outlet": "Ratopati English",
+     "title": "Nepali Congress Central Committee Meeting Postponed to Tomorrow",
+     "url": "http://english.ratopati.com/story/88254/congress-central-working-committee-meeting-postponed-until-tomorrow-to-be-reconvened-at-11-am",
+     "published": "2026-11-25T11:26:37+00:00",
+     "summary": "Kathmandu. The Nepali Congress Central Committee meeting that started yesterday has been postponed for today. According to the Congress Central...",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.75,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Ratopati English:0e9da665e91a"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nepal News English",
+     "title": "Election Commission updates Nepali Congress central committee",
+     "url": "https://english.nepalnews.com/s/politics/election-commission-updates-nepali-congress-central-committee/",
+     "published": "2026-11-25T12:09:46+00:00",
+     "summary": "KATHMANDU: Nepali Congress General Secretary Gagan Thapa has informed the party’s central committee meeting that the Election Commission has officially updated the central committee elected during the party’s 15th general convention. Thapa announced during the meeting held in Sanepa that the party h",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal News English:5ee04be5663e"
+    },
+    {
+     "source": "feed",
+     "outlet": "Ratopati English",
+     "title": "Nepali Congress Urges Government to Set Sugarcane Price and Pay Farmers",
+     "url": "http://english.ratopati.com/story/88266/congress-demands-immediate-fixing-of-sugarcane-prices-and-payment-of-arrears-from-the-government",
+     "published": "2026-11-25T12:55:59+00:00",
+     "summary": "Lalitpur. Nepali Congress has drawn the government's attention to immediately determine the price of sugarcane and ensure the payment of...",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.75,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Ratopati English:96af005b4b5d"
+    }
+   ]
+  },
+  {
+   "id": "6a4a76c46c",
+   "headline": "50 million Dollars project planned to minimize GLOF risks",
+   "url": "https://risingnepaldaily.com/news/89019",
+   "first_published": "2026-11-25T11:16:31+00:00",
+   "topic": "Disasters & climate",
+   "topics": [
+    "Disasters & climate",
+    "Tourism & mountains"
+   ],
+   "score": 50.0,
+   "signals": {
+    "coverage": 0.648,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.907,
+    "age_hours": 4.4
+   },
+   "reasons": [
+    "4 outlets: Onlinekhabar English, The Annapurna Express, The Rising Nepal, Nepal News English",
+    "first seen 4h ago",
+    "topic: Disasters & climate"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 4,
+   "outlets": [
+    "Nepal News English",
+    "Onlinekhabar English",
+    "The Annapurna Express",
+    "The Rising Nepal"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "en"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "The Rising Nepal",
+     "title": "50 million Dollars project planned to minimize GLOF risks",
+     "url": "https://risingnepaldaily.com/news/89019",
+     "published": "2026-11-25T11:16:31+00:00",
+     "summary": "Kathmandu, Nov 25: A multi-million Dollars project has been planned to conserve the Himalayan communities, which are at...",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.75,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:The Rising Nepal:604b9f8ee06c"
+    },
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar English",
+     "title": "Nepal to launch $50 million project to reduce risks from four glacial lakes",
+     "url": "https://english.onlinekhabar.com/nepal-project-reduce-risks-glacial-lakes.html",
+     "published": "2026-11-25T11:50:25+00:00",
+     "summary": "Kathmandu, November 25 The government is preparing to implement a $50 million project, worth around Rs 7 billion, to reduce the risk of glacial lake outburst floods (GLOFs) from four high-risk glacial lakes in Nepal. The project, named ‘Sanjivani’, comes amid growing concerns that climate change is ",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.9,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar English:3710abc1e5a8"
+    },
+    {
+     "source": "feed",
+     "outlet": "The Rising Nepal",
+     "title": "50 million Dollars project planned to minimize GLOF risks",
+     "url": "https://risingnepaldaily.com/news/89021",
+     "published": "2026-11-25T12:29:45+00:00",
+     "summary": "Kathmandu, Nov 25: A multi-million Dollars project has been planned to conserve the Himalayan communities, which are at...",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.75,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:The Rising Nepal:ee6a0ca7ed4b"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nepal News English",
+     "title": "50 million Dollars project planned to minimize GLOF risks",
+     "url": "https://english.nepalnews.com/s/climate/50-million-dollars-project-planned-to-minimize-glof-risks/",
+     "published": "2026-11-25T12:53:25+00:00",
+     "summary": "KATHMANDU: A multi-million Dollars project has been planned to conserve the Himalayan communities, which are at risk of climate change and glacial lake outburst floods (GLOF). The ‘GLOF Sanjibani Project’ amounting to 49.94 million Dollars is being launched with the support of various development ag",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal News English:7a6d845efc53"
+    },
+    {
+     "source": "feed",
+     "outlet": "The Annapurna Express",
+     "title": "Nepal launches multi-million dollar project to reduce glacial lake flood risks",
+     "url": "https://theannapurnaexpress.com/story/69059",
+     "published": "2026-11-25T14:16:01+00:00",
+     "summary": "A multi-million dollar project has been planned to conserve the Himalayan communities, which are at risk of climate change and glacial lake outburst floods (GLOF). The 'GLOF Sanjivani Project' amounting to USD 49.94 million is being launched with the support of various development agencies. For the ",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.8,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:The Annapurna Express:bd0111b89d41"
+    }
+   ]
+  },
+  {
+   "id": "7aef2efea8",
+   "headline": "पर्यटन बोर्डको सीईओ छनोट प्रक्रियाविरुद्धको रिटमा कारण देखाउ आदेश",
+   "url": "https://www.onlinekhabar.com/2026/11/2065378/show-cause-order-in-writ-petition-against-tourism-boards-ceo-selection-process",
+   "first_published": "2026-11-25T13:22:29+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government",
+    "Tourism & mountains"
+   ],
+   "score": 46.6,
+   "signals": {
+    "coverage": 0.577,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.95,
+    "age_hours": 2.3
+   },
+   "reasons": [
+    "3 outlets: Onlinekhabar, Ratopati, Nepal Press",
+    "first seen 2h ago",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 3,
+   "outlets": [
+    "Nepal Press",
+    "Onlinekhabar",
+    "Ratopati"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Nepal Press",
+     "title": "पर्यटन बोर्डको सीईओ छनोट प्रक्रियाविरुद्धको मुद्दामा कारण देखाऊ आदेश जारी",
+     "url": "https://www.nepalpress.com/2026/11/25/784479/show-cause-order-issued-in-case-against-tourism-board-ceo-selection-process/",
+     "published": "2026-11-25T13:22:29+00:00",
+     "summary": "नेपाल पर्यटन बोर्डको प्रमुख कार्यकारी अधिकृत (सीईओ) छनोटविरुद्ध सर्वोच्च अदालतमा परेको रिट सर्वोच्च अदालतले कारण देखाऊ आदेश जारी गरेको छ ।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal Press:7f931e6daca9"
+    },
+    {
+     "source": "feed",
+     "outlet": "Ratopati",
+     "title": "पर्यटन बोर्डको सीईओ छनोटविरुद्धको मुद्दामा कारण देखाऊ आदेश",
+     "url": "https://www.ratopati.com/story/607616/show-cause-order-in-case-against-selection-of-tourism-board-ceo",
+     "published": "2026-11-25T13:52:14+00:00",
+     "summary": "काठमाडौं । नेपाल पर्यटन बोर्डको प्रमुख कार्यकारी अधिकृत (सीईओ) छनोटविरुद्ध सर्वोच्च अदालतमा दायर रिटमाथि बुधबार सुनुवाइ भएको छ । न्यायाधीश रत्नबहादुर बागचन्दको एकल इजलासले सुनुवाइपछि विपक्षीका नाममा सूचना म्याद प्राप्त भएको मितिले १५ दिनभित्र महान्यायाधिवक्ताको",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.85,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Ratopati:0ec1e9e6ebbb"
+    },
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar",
+     "title": "पर्यटन बोर्डको सीईओ छनोट प्रक्रियाविरुद्धको रिटमा कारण देखाउ आदेश",
+     "url": "https://www.onlinekhabar.com/2026/11/2065378/show-cause-order-in-writ-petition-against-tourism-boards-ceo-selection-process",
+     "published": "2026-11-25T15:27:43+00:00",
+     "summary": "९ मंसिर, काठमाडौं । नेपाल पर्यटन बोर्डको प्रमुख कार्यकारी अधिकृत (सीईओ) छनोटविरुद्ध परेको रिटमाथि सुनुवाइ गर्दै सर्वोच्च अदालतले कारण देखाउ आदेश जारी गरेको छ । बुधबार न्यायाधीश रत्‍नबहादुर बागचन्दको एकल इजलासले विपक्षीका नाममा सूचना म्याद प्राप्त भएको मितिले १५ दिनभित्र महान्यायाधिवक्ताको कार्यालयमा",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar:f1b2ad02f788"
+    }
+   ]
+  },
+  {
+   "id": "2de4aa8730",
+   "headline": "विद्युत् चुहावट घटेर १२ प्रतिशतमा झर्‍यो, लक्ष्यभन्दा राम्रो प्रगति",
+   "url": "https://khabarhub.com/2026/25/1051659/",
+   "first_published": "2026-11-25T13:16:11+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government"
+   ],
+   "score": 45.4,
+   "signals": {
+    "coverage": 0.564,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.948,
+    "age_hours": 2.4
+   },
+   "reasons": [
+    "3 outlets: Onlinekhabar, Khabarhub, Nepal News",
+    "first seen 2h ago",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 3,
+   "outlets": [
+    "Khabarhub",
+    "Nepal News",
+    "Onlinekhabar"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Khabarhub",
+     "title": "विद्युत् चुहावट घटेर १२ प्रतिशतमा झर्‍यो, लक्ष्यभन्दा राम्रो प्रगति",
+     "url": "https://khabarhub.com/2026/25/1051659/",
+     "published": "2026-11-25T13:16:11+00:00",
+     "summary": "काठमाडौँ- नेपालमा विद्युत् चुहावट घटेर १२.१६ प्रतिशतमा झरेको छ। आर्थिक वर्ष २०८२/८३ मा सरकारले लिएको १२.२० प्रतिशतको लक्ष्यभन्दा कम चुहावट कायम भएको ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्रालयले जनाएको छ। ऊर्जामन्त्री विराजभक्त श्रेष्ठको निजी सचिवालयका अनुसार आर्थिक वर्ष २०८१/८२ मा विद्युत् चुहावट १२.२६ प्र",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.8,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Khabarhub:8a08192e1f97"
+    },
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar",
+     "title": "विद्युत् चुहावट १२.१६ प्रतिशतमा झर्‍यो",
+     "url": "https://www.onlinekhabar.com/2026/11/2065284/electricity-leakage-drops-to-12-16-percent",
+     "published": "2026-11-25T13:23:35+00:00",
+     "summary": "सरकारले आव २०८२/८३ मा विद्युत् चुहावटलाई १२.२० प्रतिशतमा झार्ने लक्ष्य लिएको थियो ।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar:57fcd37cd7c1"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nepal News",
+     "title": "विद्युत् चुहावट घटेर १२ प्रतिशतमा झर्‍यो, लक्ष्यभन्दा राम्रो प्रगति",
+     "url": "https://nepalnews.com/2026/11/25/electricity-leakage-reduced-to-12-percent-better-progress-than-target/",
+     "published": "2026-11-25T14:20:42+00:00",
+     "summary": "काठमाडौँ- नेपालमा विद्युत् चुहावट घटेर १२.१६ प्रतिशतमा झरेको छ। आर्थिक वर्ष २०८२/८३ मा सरकारले लिएको १२.२० प्रतिशतको लक्ष्यभन्दा कम चुहावट कायम भएको ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्रालयले जनाएको छ। ऊर्जामन्त्री विराजभक्त श्रेष्ठको निजी सचिवालयका अनुसार आर्थिक वर्ष २०८१/८२ मा विद्युत् चुहावट १२.२६ प्र",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.65,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal News:5d2008e71093"
+    }
+   ]
+  },
+  {
+   "id": "a5c2077e89",
+   "headline": "International flights boost passenger attraction at Pokhara International Airport",
+   "url": "https://english.khabarhub.com/2026/25/577004/",
+   "first_published": "2026-11-25T06:15:00+00:00",
+   "topic": "Tourism & mountains",
+   "topics": [
+    "Foreign relations",
+    "Tourism & mountains"
+   ],
+   "score": 44.7,
+   "signals": {
+    "coverage": 0.804,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.818,
+    "age_hours": 9.4
+   },
+   "reasons": [
+    "6 outlets: The Kathmandu Post, Onlinekhabar English, Khabarhub English, The Rising Nepal +2 more",
+    "first seen 9h ago",
+    "topic: Tourism & mountains"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 6,
+   "outlets": [
+    "Khabarhub English",
+    "Nepal News English",
+    "Onlinekhabar English",
+    "Ratopati English",
+    "The Kathmandu Post",
+    "The Rising Nepal"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "en"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "The Kathmandu Post",
+     "title": "Buddha Air revives plan to launch international jet flights from Pokhara",
+     "url": "https://kathmandupost.com/money/2026/11/25/buddha-air-revives-plan-to-launch-international-jet-flights-from-pokhara",
+     "published": "2026-11-25T06:15:00+00:00",
+     "summary": "New air routes and satellite-based navigation could improve connectivity, but the bigger challenge will be attracting enough passengers to make the underused airport commercially viable.",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:The Kathmandu Post:2750115515e5"
+    },
+    {
+     "source": "feed",
+     "outlet": "Khabarhub English",
+     "title": "International flights boost passenger attraction at Pokhara International Airport",
+     "url": "https://english.khabarhub.com/2026/25/577004/",
+     "published": "2026-11-25T07:15:29+00:00",
+     "summary": "POKHARA: International flights at Pokhara International Airport are attracting an increasing number of passengers, with 13,474 people travelling on the Dubai-Pokhara-Dubai route over a two-month period. According to Pokhara International Airport General Manager Jagannath Niraula, a total of 8,115 pa",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.75,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Khabarhub English:4302f151b7cf"
+    },
+    {
+     "source": "feed",
+     "outlet": "The Rising Nepal",
+     "title": "Passengers attracted to international flights at Pokhara International Airport",
+     "url": "https://risingnepaldaily.com/news/89016",
+     "published": "2026-11-25T09:41:59+00:00",
+     "summary": "Kaski, Nov 25: Passenger interest in international flights from Pokhara International Airport is found increasing. In tw...",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.75,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:The Rising Nepal:26fb03e4bf7b"
+    },
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar English",
+     "title": "13,474 passengers use Dubai–Pokhara flights in two months",
+     "url": "https://english.onlinekhabar.com/dubai-pokhara-passenger-increase.html",
+     "published": "2026-11-25T10:30:38+00:00",
+     "summary": "Kaski, November 25 Passenger traffic on the Dubai–Pokhara–Dubai route has shown encouraging growth, with 13,474 passengers using the service in its first two months of operation at Pokhara International Airport. According to Pokhara International Airport General Manager Jagannath Niraula, 8,115 pass",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.9,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar English:3ecb35c07b5c"
+    },
+    {
+     "source": "feed",
+     "outlet": "Ratopati English",
+     "title": "Nepal Gains New Air Route from India for International Flights",
+     "url": "http://english.ratopati.com/story/88252/how-are-air-routes-determined-what-are-the-benefits-of-opening-the-bhairahawa-route-video-report",
+     "published": "2026-11-25T11:23:13+00:00",
+     "summary": "Kathmandu. 100 to 115 international flights and landings occur daily in Nepal. Nepal has many departure points for aircraft leaving...",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.75,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Ratopati English:114fd78f1335"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nepal News English",
+     "title": "Passengers attracted to international flights at Pokhara International Airport",
+     "url": "https://english.nepalnews.com/s/travel-tourism/passengers-attracted-to-international-flights-at-pokhara-international-airport/",
+     "published": "2026-11-25T13:22:48+00:00",
+     "summary": "KASKI: Passenger interest in international flights from Pokhara International Airport is found increasing. In two months, 13,474 passengers used the Dubai–Pokhara–Dubai flight, which is considered a sign of growing attraction to this airport. Jagannath Niraula, the General Manager of Pokhara Interna",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal News English:5d96d809d32f"
+    }
+   ]
+  },
+  {
+   "id": "37418b9e43",
+   "headline": "कांग्रेसमा ११ जना महिला केन्द्रीय सदस्य मनोनीत, आयोगलाई जानकारी गराइयो",
+   "url": "https://www.onlinekhabar.com/2026/11/2065156/11-women-central-members-nominated-in-nepali-congress-commission-informed",
+   "first_published": "2026-11-25T10:41:31+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government",
+    "Society, law & health"
+   ],
+   "score": 43.9,
+   "signals": {
+    "coverage": 0.577,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.896,
+    "age_hours": 4.9
+   },
+   "reasons": [
+    "3 outlets: Onlinekhabar, Ratopati, Nepal Press",
+    "first seen 5h ago",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 3,
+   "outlets": [
+    "Nepal Press",
+    "Onlinekhabar",
+    "Ratopati"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar",
+     "title": "कांग्रेसमा ११ जना महिला केन्द्रीय सदस्य मनोनीत, आयोगलाई जानकारी गराइयो",
+     "url": "https://www.onlinekhabar.com/2026/11/2065156/11-women-central-members-nominated-in-nepali-congress-commission-informed",
+     "published": "2026-11-25T10:41:31+00:00",
+     "summary": "९ मंसिर, काठमाडौं । नेपाली कांग्रेसले केन्द्रीय सदस्यमा मनोनीत गर्ने ११ जना महिलाको नाम निर्वाचन आयोगमा पठाएको छ । केन्द्रीय समितिमा एक तिहाई महिला पुर्‍याउन ११ जना मनोनीत गरिएको सूची सहित निर्वाचन आयोगलाई जानकारी गराइएको हो । २३१ जना निर्वाचित केन्द्रीय समितिमा ११ जनाले अपुग भएपछि मनोनित गरेको सूची",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar:38840f33a355"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nepal Press",
+     "title": "सुजाता कोइरालासहित महिला नेता कांग्रेस केन्द्रीय सदस्य मनोनीत",
+     "url": "https://www.nepalpress.com/2026/11/25/784452/sujata-koirala-other-female-leaders-nominated-as-nc-central-members/",
+     "published": "2026-11-25T11:47:58+00:00",
+     "summary": "नेपाली कांग्रेसले सुजाता कोइरालासहित नेतृहरूलाई केन्द्रीय सदस्य मनोनीत गरेको छ।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal Press:a070e922a648"
+    },
+    {
+     "source": "feed",
+     "outlet": "Ratopati",
+     "title": "कांग्रेस केन्द्रीय समिति बैठकमा ४९ सदस्यले राखे धारणा",
+     "url": "https://www.ratopati.com/story/607620/49-members-expressed-their-views-at-the-congress-central-committee-meeting",
+     "published": "2026-11-25T14:17:00+00:00",
+     "summary": "काठमाडौँ । नेपाली कांग्रेस केन्द्रीय कार्यसमितिको जारी बैठकमा ४९ जना केन्द्रीय सदस्यले आ–आफ्नो धारणा राखेका छन्। पार्टी सभापति गगनकुमार थापाको सभापतित्वमा ललितपुरको बीपी नगरस्थित पार्टी केन्द्रीय कार्यालय (बीपी स्मृति भवन) मा बसेको बैठकमा सदस्यहरूले धारणा",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.85,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Ratopati:486cd7d4566a"
+    }
+   ]
+  },
+  {
+   "id": "dfdbf893bc",
+   "headline": "Health Minister Mehta pledges to set up provincial Trauma Centers in seven provinces",
+   "url": "https://risingnepaldaily.com/news/89022",
+   "first_published": "2026-11-25T12:07:25+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government",
+    "Society, law & health"
+   ],
+   "score": 41.6,
+   "signals": {
+    "coverage": 0.529,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.924,
+    "age_hours": 3.5
+   },
+   "reasons": [
+    "3 outlets: Ratopati English, The Rising Nepal, Nepal News English",
+    "first seen 4h ago",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 3,
+   "outlets": [
+    "Nepal News English",
+    "Ratopati English",
+    "The Rising Nepal"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "en"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Ratopati English",
+     "title": "Health Minister Nisha Mehta Emphasizes Ayurveda Council Act Amendment for Inclusivity",
+     "url": "http://english.ratopati.com/story/88262/minister-mehta-stresses-addressing-problems-of-all-forms-of-ayurveda-and-alternative-medicine",
+     "published": "2026-11-25T12:07:25+00:00",
+     "summary": "Kathmandu. Health and Food Sanitation Minister Nisha Mehta has emphasized the need to advance the process of amending the Ayurveda...",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.75,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Ratopati English:86fa0d056904"
+    },
+    {
+     "source": "feed",
+     "outlet": "Ratopati English",
+     "title": "Government Debates Establishing Provincial Trauma Centers vs. Trauma Care Centers in Nepal",
+     "url": "http://english.ratopati.com/story/88246/trauma-centers-in-all-seven-provinces-or-trauma-care-in-large-hospitals",
+     "published": "2026-11-25T13:15:00+00:00",
+     "summary": "Kathmandu. While there is a debate about expanding trauma structures in all seven provinces to reduce human casualties from road...",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.75,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Ratopati English:fd1c0525f124"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nepal News English",
+     "title": "Health Minister Mehta pledges to set up provincial Trauma Centers in seven provinces",
+     "url": "https://english.nepalnews.com/s/health/health-minister-mehta-pledges-to-set-up-provincial-trauma-centers-in-seven-provinces/",
+     "published": "2026-11-25T13:46:09+00:00",
+     "summary": "KATHMANDU: Minister for Health and Food Safety, Nisha Mehta, said the government would establish trauma centers in all seven provinces to provide easy and quality health care and treatment services to those injured during accidents and other disasters. At a programme organized to mark the 13th estab",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal News English:b3acd7ab3d82"
+    },
+    {
+     "source": "feed",
+     "outlet": "The Rising Nepal",
+     "title": "Health Minister Mehta pledges to set up provincial Trauma Centers in seven provinces",
+     "url": "https://risingnepaldaily.com/news/89022",
+     "published": "2026-11-25T14:18:10+00:00",
+     "summary": "Kathmandu, Nov 25: Minister for Health and Food Safety, Nisha Mehta, said the government would establish trauma centers...",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.75,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:The Rising Nepal:c4ce8350e73b"
+    }
+   ]
+  },
+  {
+   "id": "5f0c493da7",
+   "headline": "आयोगले अद्यावधिक गरेसँगै पार्टी आधिकारिकताका बारेमा अब कुनै विवाद रहेन : महामन्त्री संग्रौला",
+   "url": "http://annapurnapost.com/story/511997",
+   "first_published": "2026-11-25T11:05:00+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government"
+   ],
+   "score": 41.2,
+   "signals": {
+    "coverage": 0.536,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.904,
+    "age_hours": 4.5
+   },
+   "reasons": [
+    "3 outlets: Annapurna Post, Ujyaalo Online, Nepal Press",
+    "first seen 5h ago",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 3,
+   "outlets": [
+    "Annapurna Post",
+    "Nepal Press",
+    "Ujyaalo Online"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Ujyaalo Online",
+     "title": "गगन थापा नेतृत्वकाे नेपाली कांग्रेस निर्वाचन आयोगबाट अद्यावधिक",
+     "url": "https://www.ujyaaloonline.com/detail/133844",
+     "published": "2026-11-25T11:05:00+00:00",
+     "summary": "निर्वाचन आयोगले गगन नेतृत्वको कांग्रेसलाई आधिकारिक रूपमा अद्यावधिक गरेको छ ।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Ujyaalo Online:1d93302ac26c"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nepal Press",
+     "title": "आयोगले नयाँ कार्यसमिति अद्यावधिक गरेकोबारे गगनले गरे पार्टी बैठकमा ब्रिफिङ",
+     "url": "https://www.nepalpress.com/2026/11/25/784441/gagan-briefed-the-party-meeting-on-the-commissions-update-of-the-new-working-committee/",
+     "published": "2026-11-25T11:25:00+00:00",
+     "summary": "नेपाली कांग्रेसका सभापति गगन थापाले आफ्नो नेतृत्वमा भएको १५ औँ महाधिवेशनबाट निर्वाचित केन्द्रीय समिति निर्वाचन आयोगले अद्यावधिक गरेको निर्णय पार्टी बैठकलाई जानकारी गराएका छन्।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal Press:654b4c7ba870"
+    },
+    {
+     "source": "feed",
+     "outlet": "Annapurna Post",
+     "title": "आयोगले अद्यावधिक गरेसँगै पार्टी आधिकारिकताका बारेमा अब कुनै विवाद रहेन : महामन्त्री संग्रौला",
+     "url": "http://annapurnapost.com/story/511997",
+     "published": "2026-11-25T14:16:01+00:00",
+     "summary": "काठमाडौं : नेपाली कांग्रेसका सभापति गगन कुमार थापाले केन्द्रीय कार्यसमितिको बैठकमा निर्वाचन आयोगले कार्यसमिति तथा विधान अद्यावधिक गरेको जानकारी गराएका छन्।बुधबार पार्टी कार्यालय सानेपामा बसेको बैठकमा सभापति थापाले १५औं महाधिवेशनबाट निर्वाचित केन्द्रीय समितिलाई निर्वाचन आयोगले अद्यावधिक गर्ने निर्णय ",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.85,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Annapurna Post:844783fc1ad6"
+    },
+    {
+     "source": "feed",
+     "outlet": "Annapurna Post",
+     "title": "कांग्रेसको १५औं महाधिवेशनको विवरण निर्वाचन आयोगले गर्यो अद्यावधिक",
+     "url": "http://annapurnapost.com/story/511989",
+     "published": "2026-11-25T14:16:01+00:00",
+     "summary": "काठमाडौं : नेपाली कांग्रेसको १५औं महाधिवेशनबाट संशोधित विधान र नयाँ कार्यसमितिको अभिलेख अद्यावधिक भएको छ।निर्वाचन आयोगको बैठकले कांग्रेसको विवरण अद्यावधिक गरेको हो। आयोगका प्रवक्ता नारायण प्रसाद भट्टराईले कांग्रेसको विवरण बुधबार अद्यावधिक भएको जानकारी दिए।गत असोजमा भएको कांग्रेसको १५औं महाधिवेशनबाट ",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.85,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Annapurna Post:1c6ce91de733"
+    }
+   ]
+  },
+  {
+   "id": "0c9bf896cb",
+   "headline": "Nepal’s public debt reaches Rs 2.975 trillion, equivalent to 45.08 percent of GDP",
+   "url": "https://english.onlinekhabar.com/nepals-public-debt-increase.html",
+   "first_published": "2026-11-25T08:20:32+00:00",
+   "topic": "Economy & business",
+   "topics": [
+    "Economy & business"
+   ],
+   "score": 40.3,
+   "signals": {
+    "coverage": 0.653,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.853,
+    "age_hours": 7.3
+   },
+   "reasons": [
+    "4 outlets: Onlinekhabar English, The Annapurna Express, Khabarhub English, The Rising Nepal",
+    "first seen 7h ago",
+    "topic: Economy & business"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 4,
+   "outlets": [
+    "Khabarhub English",
+    "Onlinekhabar English",
+    "The Annapurna Express",
+    "The Rising Nepal"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "en"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Khabarhub English",
+     "title": "Nepal’s public debt reaches Rs. 2.95 trillion",
+     "url": "https://english.khabarhub.com/2026/25/576990/",
+     "published": "2026-11-25T08:20:32+00:00",
+     "summary": "KATHMANDU: Nepal’s total public debt liability stood at Rs. 2,975.118 billion during the first four months of the current fiscal year 2083/84 BS (2026/27), equivalent to 45.08 percent of the country’s gross domestic product (GDP). According to a report released by the Public Debt Management Office, ",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.75,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Khabarhub English:b6450cdf44c3"
+    },
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar English",
+     "title": "Nepal’s public debt reaches Rs 2.975 trillion, equivalent to 45.08 percent of GDP",
+     "url": "https://english.onlinekhabar.com/nepals-public-debt-increase.html",
+     "published": "2026-11-25T10:24:42+00:00",
+     "summary": "Kathmandu, November 25 Nepal’s total public debt liability reached Rs 2.975 trillion by the end of Kartik in the first four months of fiscal year 2026/27, equivalent to 45.08 percent of the country’s Gross Domestic Product (GDP). According to a report published by the Public Debt Management Office, ",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.9,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar English:828fc3ced748"
+    },
+    {
+     "source": "feed",
+     "outlet": "The Rising Nepal",
+     "title": "Public debt reaches 2.975 trillion or 45.08 percent of GDP",
+     "url": "https://risingnepaldaily.com/news/89018",
+     "published": "2026-11-25T10:26:34+00:00",
+     "summary": "Kathmandu, Nov 25: As of the first four months of the current fiscal year 2083/84, Nepal's total public debt liability h...",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.75,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:The Rising Nepal:280eefcaf934"
+    },
+    {
+     "source": "feed",
+     "outlet": "The Annapurna Express",
+     "title": "Public debt reaches Rs 2.975 trillion or 45.08 percent of GDP",
+     "url": "https://theannapurnaexpress.com/story/69058",
+     "published": "2026-11-25T14:16:01+00:00",
+     "summary": "As of the first four months of the current fiscal year 2083/84, Nepal's total public debt liability has reached Rs 2. 975 billion. This is 45.08 percent of the Gross Domestic Product (GDP).According to the report published by the Public Debt Management Office up to the end of Kartik 2083 (16 Novembe",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.8,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:The Annapurna Express:6d9ff9fedbd7"
+    }
+   ]
+  },
+  {
+   "id": "aa65851d5c",
+   "headline": "चितवन राष्ट्रिय निकुञ्जमा घाँसे मैदान व्यवस्थित गरिँदै",
+   "url": "https://www.ratopati.com/story/607619/grasslands-are-being-managed-in-chitwan-national-park",
+   "first_published": "2026-11-25T13:46:54+00:00",
+   "topic": "Breaking (other)",
+   "topics": [],
+   "score": 39.9,
+   "signals": {
+    "coverage": 0.815,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.959,
+    "age_hours": 1.8
+   },
+   "reasons": [
+    "6 outlets: Onlinekhabar, Nagarik News, Ratopati, Khabarhub +2 more",
+    "first seen 2h ago",
+    "topic: Breaking (other)"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 6,
+   "outlets": [
+    "Gorkhapatra",
+    "Khabarhub",
+    "Nagarik News",
+    "Nepal News",
+    "Onlinekhabar",
+    "Ratopati"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Nagarik News",
+     "title": "चितवन राष्ट्रिय निकुञ्जमा घाँसे मैदान व्यवस्थित गरिँदै",
+     "url": "https://nagariknews.nagariknetwork.com/social-affairs/grasslands-are-being-managed-in-chitwan-national-park-37-33.html",
+     "published": "2026-11-25T13:46:54+00:00",
+     "summary": "चितवन राष्ट्रिय निकुञ्जले चालु आर्थिक वर्षमा एक हजार ६५० हेक्टर घाँसे मैदान व्यवस्थित गर्ने भएको छ।...",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.9,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nagarik News:f404c8d53e1a"
+    },
+    {
+     "source": "feed",
+     "outlet": "Khabarhub",
+     "title": "चितवन राष्ट्रिय निकुञ्जमा घाँसे मैदान व्यवस्थित गरिँदै",
+     "url": "https://khabarhub.com/2026/25/1051676/",
+     "published": "2026-11-25T14:07:51+00:00",
+     "summary": "नारायणगढ– चितवन राष्ट्रिय निकुञ्जले चालु आर्थिक वर्षमा एक हजार ६५० हेक्टर घाँसे मैदान व्यवस्थित गर्ने भएको छ । वन्यजन्तुको आहार, बासस्थान र जैविक विविधता संरक्षणलाई लक्षित गरी घाँसे मैदान तथा सिमसार क्षेत्र व्यवस्थित गर्ने कामलाई प्राथमिकतामा राखिएको हो । निकुञ्जका सूचना अधिकारी तथा संरक्षण अधिकृत ग",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.8,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Khabarhub:9ef297d3a656"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nepal News",
+     "title": "चितवन राष्ट्रिय निकुञ्जमा १६५० हेक्टर घाँसे मैदान व्यवस्थापन गरिँदै",
+     "url": "https://nepalnews.com/2026/11/25/1650-hectares-of-grassland-being-managed-in-chitwan-national-park/",
+     "published": "2026-11-25T14:10:22+00:00",
+     "summary": "चितवन । चितवन राष्ट्रिय निकुञ्जले चालु आर्थिक वर्षमा एक हजार ६५० हेक्टर घाँसे मैदान व्यवस्थापन गर्ने भएको छ। वन्यजन्तुको आहार, बासस्थान र जैविक विविधता संरक्षणलाई प्राथमिकतामा राखेर निकुञ्जले घाँसे मैदान तथा सिमसार क्षेत्र व्यवस्थापनको काम अघि बढाएको हो। निकुञ्जका सूचना अधिकारी तथा संरक्षण अधिकृत गण",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.65,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal News:535087f6f411"
+    },
+    {
+     "source": "feed",
+     "outlet": "Ratopati",
+     "title": "चितवन राष्ट्रिय निकुञ्जमा घाँसे मैदान व्यवस्थित गरिँदै",
+     "url": "https://www.ratopati.com/story/607619/grasslands-are-being-managed-in-chitwan-national-park",
+     "published": "2026-11-25T14:15:30+00:00",
+     "summary": "चितवन । चितवन राष्ट्रिय निकुञ्जले चालु आर्थिक वर्षमा एक हजार ६५० हेक्टर घाँसे मैदान व्यवस्थित गर्ने भएको छ । वन्यजन्तुको आहार, बासस्थान र जैविक विविधता संरक्षणलाई लक्षित गरी घाँसे मैदान तथा सिमसार क्षेत्र व्यवस्थित गर्ने",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.85,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Ratopati:84a0333c5561"
+    },
+    {
+     "source": "feed",
+     "outlet": "Gorkhapatra",
+     "title": "चितवन राष्ट्रिय निकुञ्जमा घाँसे मैदान व्यवस्थित गरिँदै",
+     "url": "https://gorkhapatraonline.com/news/230386",
+     "published": "2026-11-25T14:21:18+00:00",
+     "summary": "नारायणगढ (चितवन), मङ्सिर ९ गते । चितवन राष्ट्रिय निकुञ्जले चालु आर्थिक वर्षमा एक हजार ६५० हेक्टर घाँसे मैदान व्यवस्थित गर्ने भएको छ । वन्यजन्तुको आहार, बासस्थान र जैविक विविधता संर...",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.8,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Gorkhapatra:2ce560d3f161"
+    },
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar",
+     "title": "चितवन राष्ट्रिय निकुञ्जमा घाँसे मैदान व्यवस्थित गरिँदै",
+     "url": "https://www.onlinekhabar.com/2026/11/2065336/grasslands-are-being-managed-in-chitwan-national-park",
+     "published": "2026-11-25T14:28:05+00:00",
+     "summary": "घाँसे मैदान र सिमसार क्षेत्र व्यवस्थित गर्ने कार्यनले वन्यजन्तुलाई आवश्यक आहार तथा पानीको उपलब्धता सहज बनाउनुका साथै उनीहरूको प्राकृतिक बासस्थान संरक्षणमा सहयोग पुग्ने निकुञ्जको अपेक्षा छ ।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar:2c13d8fe3e68"
+    }
+   ]
+  },
+  {
+   "id": "8853dd7130",
+   "headline": "NOC directs gas industries to increase imports, supplies of cooking gas",
+   "url": "https://theannapurnaexpress.com/story/69056",
+   "first_published": "2026-11-25T08:55:35+00:00",
+   "topic": "Economy & business",
+   "topics": [
+    "Economy & business"
+   ],
+   "score": 39.4,
+   "signals": {
+    "coverage": 0.631,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.864,
+    "age_hours": 6.7
+   },
+   "reasons": [
+    "4 outlets: The Annapurna Express, The Rising Nepal, Khabarhub English, Nepal News English",
+    "first seen 7h ago",
+    "topic: Economy & business"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 4,
+   "outlets": [
+    "Khabarhub English",
+    "Nepal News English",
+    "The Annapurna Express",
+    "The Rising Nepal"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "en"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "The Rising Nepal",
+     "title": "NOC directs gas industries to increase imports, supplies of cooking gas",
+     "url": "https://risingnepaldaily.com/news/89015",
+     "published": "2026-11-25T08:55:35+00:00",
+     "summary": "Kathmandu, Nov 25: Nepal Oil Corporation (NOC) has instructed liquefied petroleum (LP) gas industries to ramp up imports...",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.75,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:The Rising Nepal:a983b556cae2"
+    },
+    {
+     "source": "feed",
+     "outlet": "Khabarhub English",
+     "title": "NOC directs LPG industries to increase imports and ensure adequate cooking gas supply",
+     "url": "https://english.khabarhub.com/2026/25/577021/",
+     "published": "2026-11-25T09:36:55+00:00",
+     "summary": "KATHMANDU: Nepal Oil Corporation (NOC) has directed liquefied petroleum gas (LPG) industries to increase imports and ensure an uninterrupted supply of cooking gas across the country. The corporation’s LP Gas and Aviation Department has issued a circular to gas industries, instructing them to facilit",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.75,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Khabarhub English:080d7ddde0b2"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nepal News English",
+     "title": "NOC directs gas industries to increase imports, supplies of cooking gas",
+     "url": "https://english.nepalnews.com/s/business/noc-directs-gas-industries-to-increase-imports-supplies-of-cooking-gas/",
+     "published": "2026-11-25T13:17:25+00:00",
+     "summary": "KATHMANDU: Nepal Oil Corporation (NOC) has instructed liquefied petroleum (LP) gas industries to ramp up imports and ensure a full-capacity supply of cooking gas across the country. The LP Gas and Aviation Department under the NOC had dispatched a letter to gas industries, directing them to further ",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal News English:fc3a56d28c8c"
+    },
+    {
+     "source": "feed",
+     "outlet": "The Annapurna Express",
+     "title": "NOC directs gas industries to increase imports, supplies of cooking gas",
+     "url": "https://theannapurnaexpress.com/story/69056",
+     "published": "2026-11-25T14:16:01+00:00",
+     "summary": "Nepal Oil Corporation (NOC) has instructed liquefied petroleum (LP) gas industries to ramp up imports and ensure a full-capacity supply of cooking gas across the country. The LP Gas and Aviation Department under the NOC had dispatched a letter to gas industries, directing them to further ease and re",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.8,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:The Annapurna Express:6bddf8dbc763"
+    }
+   ]
+  },
+  {
+   "id": "456ca50d53",
+   "headline": "बालश्रमको उमेरहद १३ कि १५ ?",
+   "url": "https://www.onlinekhabar.com/2026/11/2065310/age-limit-for-child-labor-13-or-15-difference-between-government-and-mps",
+   "first_published": "2026-11-25T14:16:01+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government"
+   ],
+   "score": 39.3,
+   "signals": {
+    "coverage": 0.477,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.969,
+    "age_hours": 1.4
+   },
+   "reasons": [
+    "2 outlets: Onlinekhabar, Annapurna Post",
+    "first seen 1h ago",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 2,
+   "outlets": [
+    "Annapurna Post",
+    "Onlinekhabar"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Annapurna Post",
+     "title": "बालश्रमलाई पूर्णरूपमा निषेध गर्छौं : मन्त्री यादव",
+     "url": "http://annapurnapost.com/story/511991",
+     "published": "2026-11-25T14:16:01+00:00",
+     "summary": "काठमाडौं : युवा, श्रम तथा रोजगारमन्त्री रामजी यादवले बालश्रमलाई न्युनीकरण गर्ने उद्देश्यका साथ सरकारले बालश्रम (निषेध तथा नियमित गर्ने) विधेयक ल्याएको बताएका छन्।सिंहदरबारमा बुधबार बसेको प्रतिनिधिसभा अन्तर्गतको उद्योग तथा वाणिज्य र श्रम तथा उपभोक्ता हित समितिको बैठकमा उक्त विधेयकमाथिको छलफलका क्रममा",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.85,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Annapurna Post:412cbd8a5595"
+    },
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar",
+     "title": "बालश्रमको उमेरहद १३ कि १५ ?",
+     "url": "https://www.onlinekhabar.com/2026/11/2065310/age-limit-for-child-labor-13-or-15-difference-between-government-and-mps",
+     "published": "2026-11-25T15:16:33+00:00",
+     "summary": "बालश्रम (निषेध तथा नियमित गर्ने) विधेयक, २०८३ माथि संसदीय समितिमा सुरु भएको सैद्धान्तिक छलफलमै बालबालिकालाई श्रममा लगाउन सकिने न्यूनतम उमेर हदबारे सरकार र सांसदबीच मतभेद देखिएको छ।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar:7e444947902a"
+    }
+   ]
+  },
+  {
+   "id": "6f54dcb431",
+   "headline": "नबिल बैंक भिसा इन्टरनेशनलको दुई विधाका अवार्डद्वारा सम्मानित",
+   "url": "https://newsofnepal.com/2026/11/25/795817/",
+   "first_published": "2026-11-25T09:58:54+00:00",
+   "topic": "Economy & business",
+   "topics": [
+    "Economy & business"
+   ],
+   "score": 38.4,
+   "signals": {
+    "coverage": 0.602,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.883,
+    "age_hours": 5.6
+   },
+   "reasons": [
+    "4 outlets: Onlinekhabar, Nepal Press, News of Nepal, Clickmandu",
+    "first seen 6h ago",
+    "topic: Economy & business"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 4,
+   "outlets": [
+    "Clickmandu",
+    "Nepal Press",
+    "News of Nepal",
+    "Onlinekhabar"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Nepal Press",
+     "title": "कुमारी बैंकलाई दुई विधामा सम्मानित",
+     "url": "https://www.nepalpress.com/2026/11/25/784389/kumari-bank-honored-in-two-categories/",
+     "published": "2026-11-25T09:58:54+00:00",
+     "summary": "विगतका वर्षहरूमा झैँ यस वर्ष पनि कुमारी बैंक ‘एक्सिलेन्स इन क्रस बोर्डर बिजनेश’ तथा ‘एक्सिलेन्स इन कन्जुमर क्रेडिट कार्ड बिजनेश प्रिन्सिपल क्लाइन्ट’ विधामा सम्मानित भएको छ । लगातार तीन वर्ष देखी प्राप्त गरेको उक्त सम्मानले अन्तर्राष्ट्रिय भुक्तानी सेवाको विस्तार, सीमापार कारोबारको प्रवर्द्धन तथा ग्र",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal Press:dc6c0e3c36dd"
+    },
+    {
+     "source": "feed",
+     "outlet": "Clickmandu",
+     "title": "नबिल बैंक भिसा इन्टरनेशनलको दुई विधाका अवार्डद्वारा सम्मानित",
+     "url": "https://clickmandu.com/2026/11/507857.html",
+     "published": "2026-11-25T11:41:41+00:00",
+     "summary": "काठमाडौं । नबिल बैंकले भिसा इन्टरनेशनलद्वारा प्रदान गरिने महत्वपूर्ण दुई विधामा अवार्ड जितेको छ । बैंकले यस वर्ष एक्सिलेन्स इन कन्ट्याक्टलेस–इसुइङ र एक्सिलेन्स इन इ–कमर्श एक्वायरिङ बिजनेस प्रिन्सिपल क्लाइन्ट विधामा अवार्ड जितेको हो । काठमाडौंस्थित मेरियट होटेलमा सोमबार आयोजित भिसा लिडरसिप कन्क्लेभमा",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.5,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Clickmandu:41b8803b26ca"
+    },
+    {
+     "source": "feed",
+     "outlet": "News of Nepal",
+     "title": "नबिल बैंक भिसा इन्टरनेशनलको दुई विधाका अवार्डद्वारा सम्मानित",
+     "url": "https://newsofnepal.com/2026/11/25/795817/",
+     "published": "2026-11-25T12:12:02+00:00",
+     "summary": "काठमाडौं । नबिल बैंक भिसा इन्टरनेशनलले प्रदान गर्ने दुई महत्वपूर्ण विधाका अवार्डबाट सम्मानित भएको छ। बैंकले ‘एक्सिलेन्स इन कन्ट्याक्टलेस–इसुइङ’ (Excellence in Contactless – Issuing) र ‘एक्सिलेन्स इन ई–कमर्स एक्वायरिङ बिजनेस प्रिन्सिपल क्लाइन्ट’ (Excellence in E-Commerce Acquiring Business Principal ",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.55,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:News of Nepal:3b5cbe4cfe54"
+    },
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar",
+     "title": "नबिल बैंकलाई भिसा इन्टरनेसनलको दुई विधाका अवार्डबाट सम्मान",
+     "url": "https://www.onlinekhabar.com/2026/11/2065324/nabil-bank-honored-with-two-awards-from-visa-international",
+     "published": "2026-11-25T14:12:51+00:00",
+     "summary": "नबिलले यस वर्ष ‘एक्सिलेन्स इन कन्ट्याक्टलेस–इसुइङ’ र ‘एक्सिलेन्स इन ई–कमर्श एक्वायरिङ बिजनेस प्रिन्सिपल क्लायन्ट’ विधामा अवार्ड जितेकोे हो ।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar:f07d79bd389d"
+    }
+   ]
+  },
+  {
+   "id": "8f88f69779",
+   "headline": "उखु किसानको बक्यौता रकम अविलम्ब दिलाउन कांग्रेसका माग",
+   "url": "https://www.onlinekhabar.com/2026/11/2065274/congress-demands-immediate-payment-of-arrears-to-sugarcane-farmers",
+   "first_published": "2026-11-25T12:56:10+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government"
+   ],
+   "score": 38.1,
+   "signals": {
+    "coverage": 0.477,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.941,
+    "age_hours": 2.7
+   },
+   "reasons": [
+    "2 outlets: Onlinekhabar, Ratopati",
+    "first seen 3h ago",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 2,
+   "outlets": [
+    "Onlinekhabar",
+    "Ratopati"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Ratopati",
+     "title": "उखुको मूल्य तत्काल निर्धारण र बक्यौता भुक्तानी गर्न सरकारसँग कांग्रेसको माग",
+     "url": "https://www.ratopati.com/story/607610/congress-demands-immediate-fixing-of-sugarcane-prices-and-payment-of-arrears-from-the-government",
+     "published": "2026-11-25T12:56:10+00:00",
+     "summary": "ललितपुर । नेपाली कांग्रेसले उखुको मूल्य तत्काल निर्धारण गर्न र किसानको बक्यौता रकम अविलम्ब भुक्तानी दिलाउन सरकारको ध्यानाकर्षण गराएको छ । पार्टी सभापति गगनकुमार थापाको सभापतित्वमा मङ्सिर ९ गते केन्द्रीय कार्यालय बी.पी. स्मृति भवन सानेपामा बसेको",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.85,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Ratopati:132778c17c54"
+    },
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar",
+     "title": "उखु किसानको बक्यौता रकम अविलम्ब दिलाउन कांग्रेसका माग",
+     "url": "https://www.onlinekhabar.com/2026/11/2065274/congress-demands-immediate-payment-of-arrears-to-sugarcane-farmers",
+     "published": "2026-11-25T13:05:49+00:00",
+     "summary": "‘यस सन्दर्भमा उखु किसानहरूले पाउन बाँकी रहेको भुक्तानी अविलम्ब दिलाउन समेत यो बैठक माग गर्दछ,’ विज्ञप्तिमा भनिएको छ ।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar:98ed398eb631"
+    }
+   ]
+  },
+  {
+   "id": "048439f859",
+   "headline": "रुसको आफ्नै तथ्याङ्क भन्छ : 'युक्रेन युद्धमा झन्डै ५ लाख रुसी सैनिकको मृत्यु'",
+   "url": "https://www.bbc.com/nepali/articles/ckvg217yp2leo?at_medium=RSS&at_campaign=rss",
+   "first_published": "2026-11-25T05:07:05+00:00",
+   "topic": "Disasters & climate",
+   "topics": [
+    "Disasters & climate"
+   ],
+   "score": 37.4,
+   "signals": {
+    "coverage": 0.55,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.8,
+    "age_hours": 10.5
+   },
+   "reasons": [
+    "3 outlets: BBC Nepali, Nepal Press, Desh Sanchar",
+    "first seen 11h ago",
+    "topic: Disasters & climate"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 3,
+   "outlets": [
+    "BBC Nepali",
+    "Desh Sanchar",
+    "Nepal Press"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "BBC Nepali",
+     "title": "रुसको आफ्नै तथ्याङ्क भन्छ : 'युक्रेन युद्धमा झन्डै ५ लाख रुसी सैनिकको मृत्यु'",
+     "url": "https://www.bbc.com/nepali/articles/ckvg217yp2leo?at_medium=RSS&at_campaign=rss",
+     "published": "2026-11-25T05:07:05+00:00",
+     "summary": "चुहिएको रुसी तथ्याङ्कले युक्रेनमा गरिएको पूर्णस्तरीय आक्रमणले रुसमा मृत्युदरको ढाँचा कसरी व्यापक रूपमा फेरिदियो भन्ने देखाएको छ।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:BBC Nepali:fde484f69e06"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nepal Press",
+     "title": "रुस-युक्रेन युद्धमा ४ लाख ९० हजारभन्दा बढी रुसी सैनिकको मृत्यु भएको दाबी",
+     "url": "https://www.nepalpress.com/2026/11/25/784394/claims-that-more-than-490000-russian-soldiers-died-in-the-russia-ukraine-war/",
+     "published": "2026-11-25T10:06:56+00:00",
+     "summary": "काठमाडौं । रुस-युक्रेन युद्ध सुरु भएयता कम्तीमा ४ लाख ९० हजार ३३४ रुसी सैनिकको मृत्यु भएको बताइएको छ । रुसी सरकारी तथ्यांकको विश्लेषणबाट यस्तो तथ्य बाहिर आएको हो । बीबीसीका अनुसार रुसको सरकारी तथ्यांक संकलन गर्ने निकाय रोसस्टाटबाट चुहिएका विवरणको विश्लेषण गर्दा सन् २०२२ मा युक्रेनमाथि रुसले पूर्णस्त",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal Press:fa3cbc06208d"
+    },
+    {
+     "source": "feed",
+     "outlet": "Desh Sanchar",
+     "title": "युक्रेन युद्धमा झण्डै पाँच लाख रुसी सैनिकको मृत्यु !",
+     "url": "https://deshsanchar.com/2026/11/25/1256016/",
+     "published": "2026-11-25T11:25:05+00:00",
+     "summary": "सन् २०२२ मा युक्रेनमाथि आक्रमण सुरु भएयता कम्तीमा ४ लाख...",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.65,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Desh Sanchar:849f5877e28a"
+    }
+   ]
+  },
+  {
+   "id": "d9e1c7cef3",
+   "headline": "PM Shah calls for zero tolerance against gender-based violence",
+   "url": "https://thehimalayantimes.com/nepal/pm-shah-calls-for-zero-tolerance-against-gender-based-violence",
+   "first_published": "2026-11-24T06:15:00+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government",
+    "Disasters & climate",
+    "Foreign relations",
+    "Society, law & health",
+    "Tech & startups"
+   ],
+   "score": 36.9,
+   "signals": {
+    "coverage": 0.768,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.566,
+    "age_hours": 33.4
+   },
+   "reasons": [
+    "5 outlets: The Kathmandu Post, The Himalayan Times, Onlinekhabar English, The Annapurna Express +1 more",
+    "first seen 33h ago",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 5,
+   "outlets": [
+    "Khabarhub English",
+    "Onlinekhabar English",
+    "The Annapurna Express",
+    "The Himalayan Times",
+    "The Kathmandu Post"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "en"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "The Kathmandu Post",
+     "title": "Prioritise action against both online and offline gender-based violence",
+     "url": "https://kathmandupost.com/editorial/2026/11/24/prioritise-action-against-both-online-and-offline-gender-based-violence",
+     "published": "2026-11-24T06:15:00+00:00",
+     "summary": "Addressing technology-facilitated violence against women requires challenging patriarchal norms that normalise abuse.",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:The Kathmandu Post:7a294d0ad961"
+    },
+    {
+     "source": "feed",
+     "outlet": "The Kathmandu Post",
+     "title": "Seven takeaways from Prime Minister Balendra Shah’s India visit",
+     "url": "https://kathmandupost.com/national/2026/11/24/seven-takeaways-from-prime-minister-balendra-shah-s-india-visit",
+     "published": "2026-11-24T06:15:00+00:00",
+     "summary": "From a two-way air route to an eight-MoU haul, here is what Kathmandu got from Delhi, what it left on the table and what went missing altogether.",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:The Kathmandu Post:32319d4c0841"
+    },
+    {
+     "source": "feed",
+     "outlet": "The Himalayan Times",
+     "title": "PM Shah calls for zero tolerance against gender-based violence",
+     "url": "https://thehimalayantimes.com/nepal/pm-shah-calls-for-zero-tolerance-against-gender-based-violence",
+     "published": "2026-11-25T06:03:06+00:00",
+     "summary": "Key Takeaways: PM Balendra Shah called for zero tolerance against gender-based violence He emphasized protecting survivors, ensuring justice and ending impunity The prime minis...",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.95,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:The Himalayan Times:54958ce6581b"
+    },
+    {
+     "source": "feed",
+     "outlet": "Khabarhub English",
+     "title": "Minister Badi calls for collective action against gender-based violence",
+     "url": "https://english.khabarhub.com/2026/25/577000/",
+     "published": "2026-11-25T07:10:48+00:00",
+     "summary": "KATHMANDU: Minister for Women, Children, Gender and Sexual Minorities and Social Security Sita Badi has called for collective efforts to raise voices against gender-based violence (GBV). In a message issued today to mark the beginning of the 16-day campaign against gender-based violence, Minister Ba",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.75,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Khabarhub English:707eb0fa696d"
+    },
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar English",
+     "title": "MPs call for stricter punishments for sexual violence offences",
+     "url": "https://english.onlinekhabar.com/mps-call-for-stricter-punishments-for-sexual-violence-offences.html",
+     "published": "2026-11-25T10:44:04+00:00",
+     "summary": "Kathmandu, November 25 Members of the House of Representatives have called for reforms to existing laws on sexual violence, saying the punishments prescribed for perpetrators are inadequate. They also said the bill proposed by the government to amend the National Penal Code, 2017, needs further impr",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.9,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar English:faf20f348f66"
+    },
+    {
+     "source": "feed",
+     "outlet": "The Annapurna Express",
+     "title": "Nepal calls for urgent action to end gender-based violence and ensure justice for survivors",
+     "url": "https://theannapurnaexpress.com/story/69063",
+     "published": "2026-11-25T14:16:01+00:00",
+     "summary": "The Ministry of Women, Children, Gender and Sexual Minorities and Social Security and the United Nations in Nepal stressed the need for urgent action to end gender-based violence, and justice for survivors. The joint appeal was made on the occasion of International Day for the Elimination of Violenc",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.8,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:The Annapurna Express:b7e84cb5b0f9"
+    },
+    {
+     "source": "feed",
+     "outlet": "The Annapurna Express",
+     "title": "International Day for the Elimination of Violence against Women being observed today",
+     "url": "https://theannapurnaexpress.com/story/69049",
+     "published": "2026-11-25T14:16:01+00:00",
+     "summary": "The International Day for the Elimination of Violence against Women is being observed today with awareness programs around the world, including Nepal, to draw attention to the need to protect women and girls from all forms of violence.The Day also marks the start of the 16 Days of Activism against G",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.8,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:The Annapurna Express:970c150ca981"
+    },
+    {
+     "source": "feed",
+     "outlet": "The Annapurna Express",
+     "title": "PM Shah calls for implementation of zero tolerance policy on GBV",
+     "url": "https://theannapurnaexpress.com/story/69050",
+     "published": "2026-11-25T14:16:01+00:00",
+     "summary": "Prime Minister Balendra Shah has called on everyone to put into practice the policy of zero tolerance against gender-based violence, ensuring protection for victims, ending impunity, and guaranteeing justice.Issuing a message of best wishes today on the occasion of the start of the 16-day campaign a",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.8,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:The Annapurna Express:727ad95015e9"
+    }
+   ]
+  },
+  {
+   "id": "4b5792c8b8",
+   "headline": "पौडीमा दोस्रो दिन ४ राष्ट्रिय कीर्तिमान, बागमती शीर्ष स्थानमा",
+   "url": "https://www.ratopati.com/story/607615/4-national-records-set-on-second-day-of-swimming-bagmati-tops-the-list",
+   "first_published": "2026-11-25T11:33:28+00:00",
+   "topic": "Sports & culture",
+   "topics": [
+    "Society, law & health",
+    "Sports & culture"
+   ],
+   "score": 36.3,
+   "signals": {
+    "coverage": 0.78,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.913,
+    "age_hours": 4.1
+   },
+   "reasons": [
+    "6 outlets: Onlinekhabar, Ratopati, Annapurna Post, Nepal Press +2 more",
+    "first seen 4h ago",
+    "topic: Sports & culture"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 6,
+   "outlets": [
+    "Annapurna Post",
+    "Desh Sanchar",
+    "Mirmire Online",
+    "Nepal Press",
+    "Onlinekhabar",
+    "Ratopati"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "en",
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Desh Sanchar",
+     "title": "दशौँ राष्ट्रिय खेलकुदः कोशी र बागमतीले बाँडे अंक",
+     "url": "https://deshsanchar.com/2026/11/25/1256053/",
+     "published": "2026-11-25T11:33:28+00:00",
+     "summary": "मुगु – १० औं राष्ट्रिय खेलकुद प्रतियोगिताको पुरुष फुटबलतर्फ बुधबार...",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.65,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Desh Sanchar:cf4cceea884d"
+    },
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar",
+     "title": "दुई गोलको अग्रता जोगाउन नसक्दा बागमती कोशीसँग बराबरीमा रोकियो",
+     "url": "https://www.onlinekhabar.com/2026/11/2065210/unable-to-defend-a-two-goal-lead-bagmati-was-held-to-a-draw-with-koshi",
+     "published": "2026-11-25T11:40:31+00:00",
+     "summary": "९ मंसिर, सुर्खेत । १०औँ राष्ट्रिय खेलकुद प्रतियोगिताअन्तर्गत पुरुष फुटबलमा कोशी प्रदेश र बागमती प्रदेशले २–२ गोलको बराबरी खेल्दै अंक बाँडेका छन्। बुधबार भएको खेलमा दुई गोलको अग्रता बनाएको बागमतीले अन्तिम समयमा सम्हालिन नसक्दा बराबरीमा चित्त बुझाउनुपर्‍यो। बागमतीका एलिक श्रेष्ठले खेलको ३६औँ र ५४औँ मि",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar:e794aaaddad8"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nepal Press",
+     "title": "दशौँ राष्ट्रिय खेलकुदको दोस्रो दिन पनि बागमती शीर्ष स्थानमा",
+     "url": "https://www.nepalpress.com/2026/11/25/784473/bagmati-tops-the-list-on-the-second-day-of-the-10th-national-games/",
+     "published": "2026-11-25T13:03:33+00:00",
+     "summary": "दशौँ राष्ट्रिय खेलकुद प्रतियोगिताको दोस्रो दिनको पदक तालिकामा बागमती प्रदेश शीर्ष स्थानमा रहेको छ ।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal Press:eacfe11942ab"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nepal Press",
+     "title": "पौडीमा ६ राष्ट्रिय कीर्तिमान, बागमती ९ स्वर्णसहित शीर्षमा",
+     "url": "https://www.nepalpress.com/2026/11/25/784489/6-national-records-in-swimming-bagmati-tops-with-9-golds/",
+     "published": "2026-11-25T13:37:27+00:00",
+     "summary": "दशौँ राष्ट्रिय खेलकुद प्रतियोगिताअन्तर्गत पौडीमा दोस्रो दिन चार नयाँ राष्ट्रिय कीर्तिमान बनेका छन् ।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal Press:f5d6679e0331"
+    },
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar",
+     "title": "१०औं राष्ट्रिय खेलकुद : पौडीमा दोस्रो दिन चार राष्ट्रिय कीर्तिमान, बागमती र एनआरएको दबदबा कायमै",
+     "url": "https://www.onlinekhabar.com/2026/11/2065298/10th-national-games-four-national-records-set-on-second-day-in-swimming-bagmati-and-nra-continue-to-dominate",
+     "published": "2026-11-25T13:38:08+00:00",
+     "summary": "९ मंसिर, काठमाडौं । १०औं राष्ट्रिय खेलकुद अन्तर्गत नेपालगन्जमा भइरहेको पौडी प्रतियोगिता तथा २३औं राष्ट्रिय पौडी च्याम्पियनसिपको दोस्रो दिन बुधबार चार नयाँ राष्ट्रिय कीर्तिमान बनेका छनु । नेपालगन्ज रंगशालास्थित पौडी पोखरीमा भएको प्रतियोगितामा तीन खेलाडीले राष्ट्रिय कीर्तिमान बनाउँदा नेपाल पुलिस क्लबल",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar:ed40616992a7"
+    },
+    {
+     "source": "feed",
+     "outlet": "Ratopati",
+     "title": "पौडीमा दोस्रो दिन ४ राष्ट्रिय कीर्तिमान, बागमती शीर्ष स्थानमा",
+     "url": "https://www.ratopati.com/story/607615/4-national-records-set-on-second-day-of-swimming-bagmati-tops-the-list",
+     "published": "2026-11-25T13:48:28+00:00",
+     "summary": "सुर्खेत । १०औँ राष्ट्रिय खेलकुद प्रतियोगिताअन्तर्गत दोस्रो दिन बुधबार पौडीमा चार नयाँ राष्ट्रिय कीर्तिमान बनेका छन् । पुरुष ४०० मिटरमा सुदूरपश्चिमका अर्थव सिंह, १०० मिटर ब्रेस्टस्ट्रोकमा बागमतीका अभिव प्रधान र महिला ८०० मिटर फ्रिस्टायलमा एनआरएनएकी",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.85,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Ratopati:968bda6dc064"
+    },
+    {
+     "source": "feed",
+     "outlet": "Annapurna Post",
+     "title": "कोशी र बागमतीले बाँडे अंक",
+     "url": "http://annapurnapost.com/story/512001",
+     "published": "2026-11-25T14:16:01+00:00",
+     "summary": "काठमाडौं : १०औं राष्ट्रिय खेलकुद प्रतियोगिताको पुरुष फुटबलतर्फ बुधवार भएको दोस्रो खेलमा कोशी प्रदेश र बागमती प्रदेशले अंक बाँडेका छन्। कोशी र बागमतीले समान २-२ गोल गर्दै अंक बाँडेका हुन्। दुई गोलको अग्रता लिएको बागमती खेलको उत्तरार्धमा सम्हालिन नसक्दा दुई गोल खाई बराबरीमा चित्त बुझाएको छ। बागमतीका ल",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.85,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Annapurna Post:3121d9575fa7"
+    },
+    {
+     "source": "feed",
+     "outlet": "Mirmire Online",
+     "title": "पौडीमा चार राष्ट्रिय कीर्तिमान, बागमतीलाई नौ स्वर्ण पदक",
+     "url": "https://www.mirmireonline.com/2026/11/25/320500/",
+     "published": "2026-11-25T15:05:57+00:00",
+     "summary": "कर्णाली, ९ मङ्सिरः दशौँ राष्ट्रिय खेलकुद प्रतियोगिताअन्तर्गत आज दोस्रो दिन पौडीमा चार नयाँ कीर्तिमान बनेका छन् । बाँकेको नेपालगञ्जस्थित पौडी पोखरीमा जारी प्रतियोगितामा पुरुष ४०० मिटरमा सुदूरपश्चिमका अर्थव सिंह, १०० मिटर ब्रेस्ट स्ट्रोकमा बागमतीका अभिव प्रधान र महिला ८०० मिटर फ्रिस्टायलमा एनआरएनए लिल",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.5,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Mirmire Online:a373456ed284"
+    }
+   ]
+  },
+  {
+   "id": "df0825e566",
+   "headline": "कांग्रेसको मूल प्रवाहमा फर्किन महामन्त्री संग्रौलाको आह्वान",
+   "url": "https://nagariknews.nagariknetwork.com/politics/dila-sangraula-calls-for-congress-to-return-to-mainstream-43-91.html",
+   "first_published": "2026-11-25T14:39:12+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government"
+   ],
+   "score": 35.4,
+   "signals": {
+    "coverage": 0.426,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.978,
+    "age_hours": 1.0
+   },
+   "reasons": [
+    "2 outlets: Nagarik News, Nepal News",
+    "broke in the last hour",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 2,
+   "outlets": [
+    "Nagarik News",
+    "Nepal News"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Nagarik News",
+     "title": "कांग्रेसको मूल प्रवाहमा फर्किन महामन्त्री संग्रौलाको आह्वान",
+     "url": "https://nagariknews.nagariknetwork.com/politics/dila-sangraula-calls-for-congress-to-return-to-mainstream-43-91.html",
+     "published": "2026-11-25T14:39:12+00:00",
+     "summary": "नेपाली कांग्रेसकी महामन्त्री डा. डिला संग्रौलाले पार्टीबाट बाहिर रहेका नेता तथा कार्यकर्तालाई मूल प्रवाहमा फर्किन आह्वान गरेकी छन्।...",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.9,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nagarik News:21abd81eba6a"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nepal News",
+     "title": "कांग्रेसको मूल प्रवाहमा फर्किन महामन्त्री संग्रौलाको आह्वान",
+     "url": "https://nepalnews.com/2026/11/25/general-secretary-sangraula-calls-for-congress-to-return-to-mainstream/",
+     "published": "2026-11-25T15:23:32+00:00",
+     "summary": "काठमाडौं । नेपाली कांग्रेसकी महामन्त्री डिला संग्रौलाले पार्टीबाट बाहिर रहेका नेता तथा कार्यकर्ताहरूलाई मूल प्रवाहमा फर्किन आह्वान गरेकी छन्। निर्वाचन आयोगले पार्टीको १५औँ महाधिवेशनबाट निर्वाचित नयाँ केन्द्रीय कार्यसमिति र संशोधित विधानलाई आधिकारिक मान्यता दिएपछि उनले यस्तो आग्रह गरेकी हुन्। महामन्त",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.65,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal News:258335a080e1"
+    }
+   ]
+  },
+  {
+   "id": "3a7fee3581",
+   "headline": "कोशीमा प्रदेश प्रमुख नियुक्ति अझै अन्योलमा",
+   "url": "https://www.ratopati.com/story/607625/appointment-of-provincial-chief-in-koshi-still-uncertain",
+   "first_published": "2026-11-25T14:58:40+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government"
+   ],
+   "score": 34.9,
+   "signals": {
+    "coverage": 0.417,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.985,
+    "age_hours": 0.7
+   },
+   "reasons": [
+    "2 outlets: Ratopati, Nepal News",
+    "broke in the last hour",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 2,
+   "outlets": [
+    "Nepal News",
+    "Ratopati"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Ratopati",
+     "title": "कोशीमा प्रदेश प्रमुख नियुक्ति अझै अन्योलमा",
+     "url": "https://www.ratopati.com/story/607625/appointment-of-provincial-chief-in-koshi-still-uncertain",
+     "published": "2026-11-25T14:58:40+00:00",
+     "summary": "विराटनगर । कोशी प्रदेशमा प्रदेश प्रमुखको पद रिक्त भएको १५ दिन बितिसक्दा पनि नयाँ नियुक्तिबारे अन्योल कायमै छ । एकातिर मुख्यमन्त्री हिक्मतकुमार कार्की नेतृत्वको सरकार फेरबदलको चर्चा राजनीतिक वृत्तमा चुलिँदै गएको छ भने अर्कोतिर प्रदेश प्रमुख",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.85,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Ratopati:dfef6ad12a14"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nepal News",
+     "title": "कोशीमा प्रदेश प्रमुख नियुक्ति अझै अन्योलमा",
+     "url": "https://nepalnews.com/2026/11/25/appointment-of-provincial-chief-in-koshi-still-uncertain/",
+     "published": "2026-11-25T15:27:17+00:00",
+     "summary": "विराटनगर। कोशी प्रदेशमा प्रदेश प्रमुखको पद रिक्त भएको १५ दिन बितिसक्दा पनि नयाँ नियुक्तिबारे अन्योल कायमै छ। तत्कालीन प्रदेश प्रमुख परशुराम खापुङको कार्यकाल गत कात्तिक २३ गते समाप्त भएपछि उक्त पद रिक्त रहेको हो। संघीय सरकारले अहिलेसम्म नयाँ प्रदेश प्रमुख नियुक्तिका लागि सिफारिस गरेको छैन भने कसैलाई ",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.65,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal News:4c87dce6c1a7"
+    }
+   ]
+  },
+  {
+   "id": "bfbf8d2180",
+   "headline": "आयुर्वेद तथा वैकल्पिक चिकित्साका सबै विधाको समस्या सम्बोधन गर्न मन्त्री मेहताको जोड",
+   "url": "https://www.ratopati.com/story/607606/minister-mehta-stresses-addressing-problems-of-all-forms-of-ayurveda-and-alternative-medicine",
+   "first_published": "2026-11-25T12:07:33+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government",
+    "Society, law & health"
+   ],
+   "score": 34.8,
+   "signals": {
+    "coverage": 0.444,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.924,
+    "age_hours": 3.5
+   },
+   "reasons": [
+    "2 outlets: Ratopati, Gorkhapatra",
+    "first seen 4h ago",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 2,
+   "outlets": [
+    "Gorkhapatra",
+    "Ratopati"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Ratopati",
+     "title": "आयुर्वेद तथा वैकल्पिक चिकित्साका सबै विधाको समस्या सम्बोधन गर्न मन्त्री मेहताको जोड",
+     "url": "https://www.ratopati.com/story/607606/minister-mehta-stresses-addressing-problems-of-all-forms-of-ayurveda-and-alternative-medicine",
+     "published": "2026-11-25T12:07:33+00:00",
+     "summary": "काठमाडौँ । स्वास्थ्य तथा खाद्य स्वच्छता मन्त्री निशा मेहताले आयुर्वेद तथा वैकल्पिक चिकित्सासम्बन्धी सबै विधाको पहिचान, प्रतिनिधित्व र पेसागत सम्मान सुनिश्चित हुने गरी आयुर्वेद परिषद् ऐन संशोधनको प्रक्रिया अघि बढाउनुपर्नेमा जोड दिएकी छन् । आयुर्वेद तथा",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.85,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Ratopati:e7d9d0849f7e"
+    },
+    {
+     "source": "feed",
+     "outlet": "Gorkhapatra",
+     "title": "आयुर्वेद तथा वैकल्पिक चिकित्साका सबै विधिलाई समेटेर ऐन संशोधन गरिने",
+     "url": "https://gorkhapatraonline.com/news/230385",
+     "published": "2026-11-25T14:00:40+00:00",
+     "summary": "काठमाडौँ, मङ्सिर ९ गते । स्वास्थ्य तथा खाद्य स्वच्छतामन्त्री निशा मेहताले आयुर्वेद परिषद् ऐन संशोधन गर्नुपर्ने बताउनुभएको छ।आयुर्वेद तथा वैकल्पिक चिकित्साका विभिन्न विधाका प्रतिनिध...",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.8,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Gorkhapatra:f6db4a4dfe5e"
+    }
+   ]
+  },
+  {
+   "id": "d308cf7449",
+   "headline": "सुदूरपश्चिम विश्वविद्यालयका पदाधिकारी हटाउन अध्यादेश ल्याउन लागिएको भन्दै विरोध",
+   "url": "https://www.onlinekhabar.com/2026/11/2065125/protests-over-ordinance-to-remove-officials-of-sudurpaschim-university",
+   "first_published": "2026-11-25T10:08:57+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government",
+    "Society, law & health"
+   ],
+   "score": 34.0,
+   "signals": {
+    "coverage": 0.452,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.886,
+    "age_hours": 5.5
+   },
+   "reasons": [
+    "2 outlets: Onlinekhabar, Nepal Press",
+    "first seen 5h ago",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 2,
+   "outlets": [
+    "Nepal Press",
+    "Onlinekhabar"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar",
+     "title": "सुदूरपश्चिम विश्वविद्यालयका पदाधिकारी हटाउन अध्यादेश ल्याउन लागिएको भन्दै विरोध",
+     "url": "https://www.onlinekhabar.com/2026/11/2065125/protests-over-ordinance-to-remove-officials-of-sudurpaschim-university",
+     "published": "2026-11-25T10:08:57+00:00",
+     "summary": "९ मंसिर, काठमाडौं । शहीद दशरथ चन्द स्वास्थ्य विज्ञान विश्वविद्यालयका पदाधिकारी हटाउने उदेश्यले अध्यादेशमार्फत ऐन संशोधन गर्न लागिएको भनेर विरोध भएको छ । सुदूरपश्चिम प्रदेशका विद्यार्थी संगठनहरूले जिल्ला प्रशासन कार्यालय कैलालीमार्फत सरकारलाई ज्ञापनपत्र बुझाउँदै विश्वविद्यालयको स्वायत्तता, संस्थागत स",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar:045ed67678d1"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nepal Press",
+     "title": "दशरथ चन्द विश्वविद्यालयका सिट कटौती नगर्न विद्यार्थी संगठनको माग",
+     "url": "https://www.nepalpress.com/2026/11/25/784494/student-organization-demands-not-to-cut-seats-at-dasharath-chand-university/",
+     "published": "2026-11-25T13:44:24+00:00",
+     "summary": "कैलाली । शहीद दशरथ चन्द स्वास्थ्य विज्ञान विश्वविद्यालयका लागि निर्धारण गरिएका ९० सिट कटौती नगर्न र विश्वविद्यालयका पदाधिकारीको नियुक्तिसम्बन्धी व्यवस्था परिवर्तन गर्ने गरी अध्यादेशमार्फत ऐन संशोधन गर्ने प्रक्रिया रोक्न संयुक्त विद्यार्थी संगठनले माग गरेका छन्। अखिल (क्रान्तिकारी) सुदूरपश्चिम प्रदेश",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal Press:ed892cb6e9a1"
+    }
+   ]
+  },
+  {
+   "id": "f6d510306b",
+   "headline": "राप्रपा महाधिवेशनः संस्थापन इतरका उम्मेदवार कमल थापा कि विक्रम पाण्डे ?",
+   "url": "https://www.nepalpress.com/2026/11/25/784444/rpp-general-convention-kamal-thapa-or-vikram-pandey-the-candidate-for-the-establishment-party/",
+   "first_published": "2026-11-25T11:32:29+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government"
+   ],
+   "score": 33.7,
+   "signals": {
+    "coverage": 0.435,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.913,
+    "age_hours": 4.1
+   },
+   "reasons": [
+    "2 outlets: Nagarik News, Nepal Press",
+    "first seen 4h ago",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 2,
+   "outlets": [
+    "Nagarik News",
+    "Nepal Press"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Nepal Press",
+     "title": "राप्रपा महाधिवेशनः संस्थापन इतरका उम्मेदवार कमल थापा कि विक्रम पाण्डे ?",
+     "url": "https://www.nepalpress.com/2026/11/25/784444/rpp-general-convention-kamal-thapa-or-vikram-pandey-the-candidate-for-the-establishment-party/",
+     "published": "2026-11-25T11:32:29+00:00",
+     "summary": "राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा)को आठौं महाधिवेशन नजिकिँदै गर्दा अध्यक्ष पदको प्रतिस्पर्धा रोचक बन्न थालेको छ ।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal Press:57b2c98cdba9"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nagarik News",
+     "title": "निधि सभापतिको उम्मेदवार बन्ने",
+     "url": "https://nagariknews.nagariknetwork.com/politics/becoming-a-candidate-for-the-position-of-nidhi-sabha-chairman-50-42.html",
+     "published": "2026-11-25T14:17:35+00:00",
+     "summary": "नेपाली कांग्रेसको इतर पक्षको महाधिवेशन मिति नजिकिँदै गर्दा नेतृत्वको प्रतिस्पर्धा सुरु भएको छ।...",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.9,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nagarik News:d247caa31c95"
+    }
+   ]
+  },
+  {
+   "id": "80a40a8fac",
+   "headline": "बनेपामा चलचित्र स्टुडियो निर्माण अघि बढाउन सञ्चारमन्त्रीको निर्देशन",
+   "url": "https://khabarhub.com/2026/25/1051666/",
+   "first_published": "2026-11-25T12:35:55+00:00",
+   "topic": "Sports & culture",
+   "topics": [
+    "Tourism & mountains",
+    "Sports & culture"
+   ],
+   "score": 33.3,
+   "signals": {
+    "coverage": 0.699,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.934,
+    "age_hours": 3.0
+   },
+   "reasons": [
+    "5 outlets: Nagarik News, Gorkhapatra, Khabarhub, Nepal News +1 more",
+    "first seen 3h ago",
+    "topic: Sports & culture"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 5,
+   "outlets": [
+    "Gorkhapatra",
+    "Khabarhub",
+    "Mirmire Online",
+    "Nagarik News",
+    "Nepal News"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "en",
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Gorkhapatra",
+     "title": "फिल्म सिटी निर्माणस्थलको सञ्चारमन्त्रीद्वारा अवलोकन",
+     "url": "https://gorkhapatraonline.com/news/230379",
+     "published": "2026-11-25T12:35:55+00:00",
+     "summary": "कुमारप्रसाद गौतम काभ्रेपलाञ्चोक, मङ्सिर ९ गते । सूचना तथा सञ्चारमन्त्री डा. विक्रम तिमिल्सिनाले काभ्रेपलाञ्चोकको बनेपा नगरपालिका –१०, राहुलडाँडामा निर्माण गर्ने तयारी गरिएको फिल्म...",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.8,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Gorkhapatra:5ec51b5f8b64"
+    },
+    {
+     "source": "feed",
+     "outlet": "Khabarhub",
+     "title": "बनेपामा चलचित्र स्टुडियो निर्माण अघि बढाउन सञ्चारमन्त्रीको निर्देशन",
+     "url": "https://khabarhub.com/2026/25/1051666/",
+     "published": "2026-11-25T13:34:03+00:00",
+     "summary": "काभ्रेपलाञ्चोक- सूचना तथा सञ्चारमन्त्री डा. विक्रम तिमिल्सिनाले काभ्रेपलाञ्चोकको बनेपामा प्रस्तावित अत्याधुनिक चलचित्र छायाङ्कन स्टुडियो ‘सिनेपा’ निर्माण प्रक्रिया अघि बढाउन निर्देशन दिएका छन्। बनेपा नगरपालिका–१० र १३ अन्तर्गत जनागालस्थित बाहुनडाँडा सामुदायिक वन क्षेत्रमा प्रस्तावित स्टुडियो निर्माण",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.8,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Khabarhub:f0942c4a1f4d"
+    },
+    {
+     "source": "feed",
+     "outlet": "Mirmire Online",
+     "title": "प्रस्तावित ‘सिनेपा’ चलचित्र स्टुडियोको काम अघि बढाउन सञ्चारमन्त्री तिमिल्सिनाको पहल, स्थानीय भावना र वातावरणीय पक्षलाई सम्बोधन गर्दै निर्माण प्रक्रिया अघि बढाइने",
+     "url": "https://www.mirmireonline.com/2026/11/25/320490/",
+     "published": "2026-11-25T14:52:52+00:00",
+     "summary": "काभ्रेपलाञ्चोक, ९ मङ्सिरः सूचना तथा सञ्चारमन्त्री डा विक्रम तिमिल्सिनाले काभ्रेपलाञ्चोकको बनेपा नगरपालिका वडा नम्बर १० र १३ अन्तर्गत जनागालस्थित बाहुनडाँडा सामुदायिक वन क्षेत्रमा निर्माण प्रस्ताव गरिएको अत्याधुनिक इनडोर चलचित्र छायाङ्कन स्टुडियो (सिनेपा) क्षेत्रको निरीक्षण गर्नुभएको छ । सञ्चारमन्त्र",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.5,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Mirmire Online:9ccc63d9f89b"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nepal News",
+     "title": "बनेपामा चलचित्र स्टुडियो निर्माण अघि बढाउन सञ्चारमन्त्रीको निर्देशन",
+     "url": "https://nepalnews.com/2026/11/25/communications-minister-directs-to-proceed-with-construction-of-film-studio-in-banepa/",
+     "published": "2026-11-25T14:56:48+00:00",
+     "summary": "काभ्रेपलाञ्चोक। सूचना तथा सञ्चारमन्त्री डा. विक्रम तिमिल्सिनाले काभ्रेपलाञ्चोकको बनेपामा प्रस्तावित अत्याधुनिक चलचित्र छायाङ्कन स्टुडियो ‘सिनेपा’ निर्माण प्रक्रिया अघि बढाउन निर्देशन दिएका छन्। बनेपा नगरपालिका–१० र १३ अन्तर्गत जनागालस्थित बाहुनडाँडा सामुदायिक वन क्षेत्रमा प्रस्तावित स्टुडियो निर्माण",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.65,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal News:0df906568ea1"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nagarik News",
+     "title": "प्रस्तावित ‘सिनेपा’ चलचित्र स्टुडियोको काम अघि बढाउन सञ्चारमन्त्री तिमिल्सिनाको पहल",
+     "url": "https://nagariknews.nagariknetwork.com/politics/communications-minister-timilsina-s-initiative-to-advance-the-work-of-the-proposed-cinepa-film-studio-br-59-90.html",
+     "published": "2026-11-25T15:27:20+00:00",
+     "summary": "स्टुडियो सञ्चालनमा आएपछि कलाकार, चलचित्रकर्मी, प्राविधिक तथा पर्यटकको आवागमन बढ्ने र होटल, यातायातलगायत स्थानीय व्यवसाय विस्तार हुने उनको भनाइ थियो।...",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.9,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nagarik News:a458b1b801e3"
+    }
+   ]
+  },
+  {
+   "id": "485aa199f3",
+   "headline": "१०औं राष्ट्रिय खेलकुद : महिला बास्केटबलमा सुदूरपश्चिम क्वाटरफाइनलमा",
+   "url": "https://www.onlinekhabar.com/2026/11/2065145/10th-national-games-far-west-in-quarterfinals-in-womens-basketball",
+   "first_published": "2026-11-25T10:26:06+00:00",
+   "topic": "Sports & culture",
+   "topics": [
+    "Society, law & health",
+    "Sports & culture"
+   ],
+   "score": 33.3,
+   "signals": {
+    "coverage": 0.732,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.891,
+    "age_hours": 5.2
+   },
+   "reasons": [
+    "5 outlets: Onlinekhabar, Ratopati, Annapurna Post, Nepal Press +1 more",
+    "first seen 5h ago",
+    "topic: Sports & culture"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 5,
+   "outlets": [
+    "Annapurna Post",
+    "Imagekhabar",
+    "Nepal Press",
+    "Onlinekhabar",
+    "Ratopati"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar",
+     "title": "१०औं राष्ट्रिय खेलकुद : महिला बास्केटबलमा सुदूरपश्चिम क्वाटरफाइनलमा",
+     "url": "https://www.onlinekhabar.com/2026/11/2065145/10th-national-games-far-west-in-quarterfinals-in-womens-basketball",
+     "published": "2026-11-25T10:26:06+00:00",
+     "summary": "९ मंसिर, काठमाडौं । १०औं राष्ट्रिय खेलकुदअन्तर्गत महिला बास्केटबलको फुल कोर्टमा सुदूरपश्चिम प्रदेश बुधबार क्वाटरफाइनलमा प्रवेश गरेको छ । लगातार दुई खेल जितेको सुदूरपश्चिम समूह ‘बी’ को विजेता बन्दै क्वाटरफाइनलमा पुगेको हो । सुर्खेतस्थित कर्णाली प्रदेश रंगशाला हातामा बुधबार भएको खेलमा सुदूरपश्चिमले मध",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar:fd2a5f1e9d89"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nepal Press",
+     "title": "महिला बास्केटबल : सुदूरपश्चिम क्वाटरफाइनलमा प्रवेश, मधेशको फराकिलो हार",
+     "url": "https://www.nepalpress.com/2026/11/25/784412/womens-basketball-sudurpaschim-advances-to-quarterfinals-madhesh-suffers-a-crushing-defeat/",
+     "published": "2026-11-25T10:34:52+00:00",
+     "summary": "सुर्खेत । दशौँ राष्ट्रिय खेलकुद प्रतियोगिताअन्तर्गत महिला बास्केटबलको फुल कोर्ट (५×५) विधामा सुदूरपश्चिम प्रदेशले मधेश प्रदेशलाई ४७–३ अंकको फराकिलो अन्तरले पराजित गर्दै समूह ‘बी’ को विजेताका रूपमा क्वाटरफाइनलमा स्थान सुरक्षित गरेको छ । बुधबार कर्णाली प्रदेश रंगशालाको हातामा भएको खेलमा सुदूरपश्चिमले ",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal Press:d8e8ac6e20b0"
+    },
+    {
+     "source": "feed",
+     "outlet": "Imagekhabar",
+     "title": "सुदूरपश्चिम विजेता बन्दै बास्केटबलको क्वार्टरफाइनलमा",
+     "url": "https://www.imagekhabar.com/news/564257/",
+     "published": "2026-11-25T11:57:18+00:00",
+     "summary": "काठमाडौं । सञ्जु घिसिङको प्रेरणामा सुदूरपश्चिम प्रदेशले सुर्खेतमा जारी दशौं राष्ट्रिय खेलकुदको महिला बास्केटबलमा समूहविजेता रूपमा क्वार्टरफाइनलमा स्थान बनाएको छ । तीन टोली रहेको समूह ‘बी’ को दोस्रो खेलमा सुदूरपश्चिमले मधेस प्रदेशमाथि सहज जित निकाल्यो । सुर्खेतस्थित कर्णाली प्रदेश रंगशाला हातामा भएको",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.6,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Imagekhabar:4af74aa5000e"
+    },
+    {
+     "source": "feed",
+     "outlet": "Ratopati",
+     "title": "दसौँ राष्ट्रिय खेलकुद : महिला बास्केटबलतर्फ सुदूरपश्चिम क्वाटर फाइनलमा",
+     "url": "https://www.ratopati.com/story/607604/10th-national-games-sudurpaschim-advances-to-quarterfinals-in-womens-basketball",
+     "published": "2026-11-25T11:58:16+00:00",
+     "summary": "सुर्खेत । कर्णाली रङ्गशालामा भएको महिला बास्केटबलको खेलमा सुदूरपश्चिम प्रदेश क्वाटर फाइनलमा प्रवेश गरेको छ । बुधबार सुदूरपश्चिम समूह ‘बी’ को विजेता बन्दै क्वाटर फाइनलमा पुगेको हो । सुदूरपश्चिमले मधेस प्रदेशलाई ४७–३ को फराकिलो अन्तरले पराजित",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.85,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Ratopati:67750fcc2556"
+    },
+    {
+     "source": "feed",
+     "outlet": "Annapurna Post",
+     "title": "महिला बास्केटबलतर्फ दोस्रो दिन चार खेल सम्पन्न, कसले कसलाई पराजित गर्यो?",
+     "url": "http://annapurnapost.com/story/511987",
+     "published": "2026-11-25T14:16:01+00:00",
+     "summary": "वीरेन्द्रनगर : दशौं राष्ट्रिय खेलकुद प्रतियोगिता अन्तर्गत महिला बास्केटबलतर्फ बुधबार चारवटा खेल सम्पन्न भएका छन् । बुधबार नेपाल पुलिस क्लब र कर्णाली प्रदेश,सुदूरपश्चिम प्रदेश र मधेश प्रदेश, त्रिभुवन आर्मी क्लब र कोशी प्रदेश तथा मधेश प्रदेश र बागमती प्रदेशबीच खेल भएका हुन् ।कर्णाली प्रदेशमा जारी दसौँ",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.85,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Annapurna Post:17d178c3580e"
+    }
+   ]
+  },
+  {
+   "id": "5e2c468cf2",
+   "headline": "माइतीघरमा हिंसा, विभेद र छुवाछुतको अन्त्य गर्न भन्दै प्रदर्शन (तस्वीरहरू)",
+   "url": "https://www.onlinekhabar.com/2026/11/2065182/protest-demanding-an-end-to-violence-discrimination-and-untouchability-in-the-family-home-photos",
+   "first_published": "2026-11-25T11:03:04+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government",
+    "Society, law & health"
+   ],
+   "score": 32.7,
+   "signals": {
+    "coverage": 0.426,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.903,
+    "age_hours": 4.6
+   },
+   "reasons": [
+    "2 outlets: Onlinekhabar, News of Nepal",
+    "first seen 5h ago",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 2,
+   "outlets": [
+    "News of Nepal",
+    "Onlinekhabar"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "News of Nepal",
+     "title": "तीन महिलाको हत्याले जन्माएको विश्वव्यापी महिला हिंसा अन्त्य दिवस",
+     "url": "https://newsofnepal.com/2026/11/25/795796/",
+     "published": "2026-11-25T11:03:04+00:00",
+     "summary": "काठमाडौं । विश्वभर आज नोभेम्बर २५ तारिखका दिन अन्तर्राष्ट्रिय महिला हिंसा अन्त्य दिवस मनाइँदैछ। महिलामाथि हुने सबै प्रकारका हिंसा, शोषण, विभेद र दुर्व्यवहार अन्त्य गर्न जनचेतना फैलाउने उद्देश्यले हरेक वर्ष यो दिवस मनाउने गरिन्छ। महिला तथा बालिकाको मानवअधिकार संरक्षण, लैङ्गिक समानता र हिंसामुक्त समाज",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.55,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:News of Nepal:6635fe936d33"
+    },
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar",
+     "title": "माइतीघरमा हिंसा, विभेद र छुवाछुतको अन्त्य गर्न भन्दै प्रदर्शन (तस्वीरहरू)",
+     "url": "https://www.onlinekhabar.com/2026/11/2065182/protest-demanding-an-end-to-violence-discrimination-and-untouchability-in-the-family-home-photos",
+     "published": "2026-11-25T11:23:23+00:00",
+     "summary": "प्रदर्शनमा सहभागीहरूले महिलामाथि हुने सबै प्रकारका विभेद, हिंसा र छुवाछुत अन्त्य गर्न सरकारसँग माग गरेका छन् ।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar:56539581b815"
+    }
+   ]
+  },
+  {
+   "id": "bacad0c188",
+   "headline": "पाल्पाका दुई उत्कृष्ट उद्योगी सम्मानित",
+   "url": "http://annapurnapost.com/story/512003",
+   "first_published": "2026-11-25T12:16:48+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government",
+    "Tourism & mountains"
+   ],
+   "score": 31.4,
+   "signals": {
+    "coverage": 0.398,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.927,
+    "age_hours": 3.3
+   },
+   "reasons": [
+    "2 outlets: Annapurna Post, News of Nepal",
+    "first seen 3h ago",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 2,
+   "outlets": [
+    "Annapurna Post",
+    "News of Nepal"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "News of Nepal",
+     "title": "लमजुङका तीन उत्कृष्ट उद्यमी सम्मानित",
+     "url": "https://newsofnepal.com/2026/11/25/795821/",
+     "published": "2026-11-25T12:16:48+00:00",
+     "summary": "लमजुङ। १२औँ उद्योग दिवसको अवसरमा लमजुङका तीन जना उत्कृष्ट उद्यमी सम्मानित भएका छन् । जिल्लामा उद्यमशीलता प्रवर्द्धन तथा स्थानीय उत्पादनको विकासमा योगदान पुर्‍याएको भन्दै एकीकृत सेवा कार्यालयले उनीहरुलाई सम्मान गरेको हो । बुधबार उद्योग वाणिज्य संघको सभाहलमा आयोजित कार्यक्रममा दोर्दी गाउँपालिका–४ स्थि",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.55,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:News of Nepal:568efff52546"
+    },
+    {
+     "source": "feed",
+     "outlet": "Annapurna Post",
+     "title": "पाल्पाका दुई उत्कृष्ट उद्योगी सम्मानित",
+     "url": "http://annapurnapost.com/story/512003",
+     "published": "2026-11-25T14:16:01+00:00",
+     "summary": "तानसेन : १२औँ उद्योग दिवसको अवसरमा घरेलु तथा साना उद्योग कार्यालय तानसेन, पाल्पाले जिल्लाका दुई उत्कृष्ट उद्योगीलाई सम्मान गरेको छ।सम्मानित हुनेमा तानसेन नगरपालिका-४ का पौड्याल ढाका उद्योगका सञ्चालक मनोजराज शर्मा पौड्याल र रामपुर नगरपालिका-६ स्थित कृष्ण उन्नत भैँसी विकास तथा बीउबिजन उत्पादन स्रोत के",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.85,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Annapurna Post:195368a17105"
+    }
+   ]
+  },
+  {
+   "id": "fe5c4e22a1",
+   "headline": "प्रधानमन्त्रीको भारत भ्रमण उपलब्धिमूलक नभएको कांग्रेसको निष्कर्ष",
+   "url": "https://www.imagekhabar.com/news/564275/",
+   "first_published": "2026-11-24T13:51:56+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government",
+    "Foreign relations"
+   ],
+   "score": 30.8,
+   "signals": {
+    "coverage": 0.583,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.622,
+    "age_hours": 25.8
+   },
+   "reasons": [
+    "3 outlets: BBC Nepali, Onlinekhabar, Imagekhabar",
+    "first seen 26h ago",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 3,
+   "outlets": [
+    "BBC Nepali",
+    "Imagekhabar",
+    "Onlinekhabar"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "BBC Nepali",
+     "title": "प्रधानमन्त्री बालेनको भारत भ्रमण कुन अर्थमा उपलब्धिमूलक, कुन अर्थमा उपलब्धिविहीन?",
+     "url": "https://www.bbc.com/nepali/articles/c9dr1513pxlno?at_medium=RSS&at_campaign=rss",
+     "published": "2026-11-24T13:51:56+00:00",
+     "summary": "प्रधानमन्त्री वालेन्द्र शाह बालेनको भारत भ्रमणका उपलब्धिबारे विभिन्न कोणबाट समीक्षा भइरहँदा प्रमुख प्रतिपक्षी नेपाली कांग्रेससहित विपक्षी दलका नेताहरूले त्यसलाई कसरी हेरेका छन्?",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:BBC Nepali:d2da11b5d325"
+    },
+    {
+     "source": "feed",
+     "outlet": "Imagekhabar",
+     "title": "प्रधानमन्त्रीको भारत भ्रमण उपलब्धिमूलक नभएको कांग्रेसको निष्कर्ष",
+     "url": "https://www.imagekhabar.com/news/564275/",
+     "published": "2026-11-25T13:00:46+00:00",
+     "summary": "काठमाडौं । नेपाली काँग्रेसले प्रधानमन्त्री बालेन्द्र शाहको भारत भ्रमणको क्रममा भएका सम्झौता, समझदारी र उपलब्धीहरु आधिकारिक रुपमा सार्वजनिक गर्न माग गरेको छ । बुधवार पार्टी मुख्यालय सानेपामा सञ्चारकर्मीसँग कुरा गर्दै काँग्रेस महामन्त्री प्रदीप पौडेलले यस्तो माग गर्नुभएको हो । उहाँले प्रधानमन्त्री शाह",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.6,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Imagekhabar:f57f7e72ad8b"
+    },
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar",
+     "title": "प्रधानमन्त्रीको भ्रमणका उलपब्धिबारे प्रधानमन्त्रीले जानकारी गराउनुपर्छ : महामन्त्री पौडेल",
+     "url": "https://www.onlinekhabar.com/2026/11/2065313/pm-should-inform-about-achievements-of-pms-visit-general-secretary-poudel",
+     "published": "2026-11-25T13:50:05+00:00",
+     "summary": "९ मंसिर, काठमाडौं । नेपाली कांग्रेसले प्रधानमन्त्री बालेन शाहको भारत भ्रमणको क्रममा भएका सम्झौता, समझदारी र उपलब्धिहरू आधिकारिक रूपमा सार्वजनिक गर्न माग गरेको छ । बुधबार पार्टी मुख्यालय सानेपामा सञ्चारकर्मीसँग कुरा गर्दै काँग्रेस महामन्त्री प्रदीप पौडेलले यस्तो माग गरेका हुन् । उनले प्रधानमन्त्री शा",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar:3e1a96d25179"
+    }
+   ]
+  },
+  {
+   "id": "ced7e32058",
+   "headline": "Women Minister insists on access to justice, economic empowerment to end GBV",
+   "url": "https://risingnepaldaily.com/news/89020",
+   "first_published": "2026-11-25T11:25:53+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government",
+    "Society, law & health"
+   ],
+   "score": 28.6,
+   "signals": {
+    "coverage": 0.369,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.91,
+    "age_hours": 4.2
+   },
+   "reasons": [
+    "2 outlets: The Rising Nepal, Mirmire Online",
+    "first seen 4h ago",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 2,
+   "outlets": [
+    "Mirmire Online",
+    "The Rising Nepal"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "en"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "The Rising Nepal",
+     "title": "Women Minister insists on access to justice, economic empowerment to end GBV",
+     "url": "https://risingnepaldaily.com/news/89020",
+     "published": "2026-11-25T11:25:53+00:00",
+     "summary": "Lalitpur, Nov 25: Minister for Women, Children, General and Sexual Minorities, and Social Security, Sita Badi, has stres...",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.75,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:The Rising Nepal:6eca95710f27"
+    },
+    {
+     "source": "feed",
+     "outlet": "Mirmire Online",
+     "title": "Women Minister insists on access to justice, economic empowerment to end GBV",
+     "url": "https://www.mirmireonline.com/2026/11/25/320484/",
+     "published": "2026-11-25T14:08:37+00:00",
+     "summary": "Lalitpur, Nov 25: Minister for Women, Children, General and Sexual Minorities, and Social Security, Sita Badi, has stressed the need of increased access to justice and economic empowerment to fight gender-based violence (GBV) against women and girls. During her address at an inaugural ceremony of th",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.5,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Mirmire Online:170c38d42f8a"
+    }
+   ]
+  },
+  {
+   "id": "9b99a39789",
+   "headline": "China’s Huawei convicted in sprawling US criminal trial over Iran business",
+   "url": "https://kathmandupost.com/science-technology/2026/11/25/china-s-huawei-convicted-in-sprawling-us-criminal-trial-over-iran-business",
+   "first_published": "2026-11-25T06:15:00+00:00",
+   "topic": "Economy & business",
+   "topics": [
+    "Foreign relations",
+    "Economy & business",
+    "Society, law & health"
+   ],
+   "score": 27.7,
+   "signals": {
+    "coverage": 0.469,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.818,
+    "age_hours": 9.4
+   },
+   "reasons": [
+    "2 outlets: The Kathmandu Post, The Annapurna Express",
+    "first seen 9h ago",
+    "topic: Economy & business"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 2,
+   "outlets": [
+    "The Annapurna Express",
+    "The Kathmandu Post"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "en"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "The Kathmandu Post",
+     "title": "China’s Huawei convicted in sprawling US criminal trial over Iran business",
+     "url": "https://kathmandupost.com/science-technology/2026/11/25/china-s-huawei-convicted-in-sprawling-us-criminal-trial-over-iran-business",
+     "published": "2026-11-25T06:15:00+00:00",
+     "summary": "A New York jury finds the Chinese telecommunications giant guilty of 10 criminal counts, including bank fraud, sanctions violations and conspiring to steal trade secrets from US companies.",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:The Kathmandu Post:3778c036e591"
+    },
+    {
+     "source": "feed",
+     "outlet": "The Annapurna Express",
+     "title": "China's Huawei convicted in sprawling US criminal trial over Iran business",
+     "url": "https://theannapurnaexpress.com/story/69053",
+     "published": "2026-11-25T14:16:01+00:00",
+     "summary": "Chinese telecoms equipment maker Huawei was convicted by a jury in New York City on Tuesday in a sprawling US criminal case on charges that it deceived banks about its business in Iran and conspired to steal trade secrets from American companies, Reuters reported. The verdict came in a criminal case",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.8,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:The Annapurna Express:04317a88dcc1"
+    }
+   ]
+  },
+  {
+   "id": "556debe295",
+   "headline": "अर्थ समाचार : कृषि उत्पादन घट्यो, चार महिनामै १ अर्ब १७ करोडको लसुन भित्रियो, ८ अंकले बढ्यो नेप्से र मलेसिया एयरलाइन्सले १० बोइङ विमान खरिद गर्ने",
+   "url": "https://khabarhub.com/2026/25/1051655/",
+   "first_published": "2026-11-25T11:42:51+00:00",
+   "topic": "Economy & business",
+   "topics": [
+    "Nepalis abroad & migration",
+    "Economy & business",
+    "Tourism & mountains"
+   ],
+   "score": 27.0,
+   "signals": {
+    "coverage": 0.408,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.916,
+    "age_hours": 3.9
+   },
+   "reasons": [
+    "2 outlets: Khabarhub, Desh Sanchar",
+    "first seen 4h ago",
+    "topic: Economy & business"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 2,
+   "outlets": [
+    "Desh Sanchar",
+    "Khabarhub"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Desh Sanchar",
+     "title": "मलेसिया एयरलाइन्सले १० बोइङ विमान खरिद गर्ने",
+     "url": "https://deshsanchar.com/2026/11/25/1256055/",
+     "published": "2026-11-25T11:42:51+00:00",
+     "summary": "मलेसिया एयरलाइन्सले आफ्नो विमान बेडा आधुनिकीकरण गर्दै लामो दूरीको उडान...",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.65,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Desh Sanchar:421bd98577ab"
+    },
+    {
+     "source": "feed",
+     "outlet": "Khabarhub",
+     "title": "अर्थ समाचार : कृषि उत्पादन घट्यो, चार महिनामै १ अर्ब १७ करोडको लसुन भित्रियो, ८ अंकले बढ्यो नेप्से र मलेसिया एयरलाइन्सले १० बोइङ विमान खरिद गर्ने",
+     "url": "https://khabarhub.com/2026/25/1051655/",
+     "published": "2026-11-25T13:12:12+00:00",
+     "summary": "कृषि उत्पादन घट्यो, औद्योगिक क्षमता उपयोग ४८ प्रतिशतमा सीमित काठमाडौँ– गत आर्थिक वर्ष २०८२-८३ मा नेपालको आर्थिक वृद्धिदर तीन दशमलव ८५ प्रतिशतमा सीमित भएको छ । नेपाल राष्ट्र बैंकले सार्वजनिक गरेको ‘आर्थिक गतिविधि अध्ययन वार्षिक प्रतिवेदन (आर्थिक वर्ष २०८२र८३)’ अनुसार अघिल्लो आर्थिक वर्ष २०८१-८२ मा चा",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.8,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Khabarhub:845cd0de1b3e"
+    }
+   ]
+  },
+  {
+   "id": "aab651a486",
+   "headline": "झुलाघाट मोटरेबल पुल : मोदीले प्रतिबद्धता बिर्सिए, बालेनले सम्झाउन चाहेनन्",
+   "url": "https://www.onlinekhabar.com/2026/11/2065185/jhulaghat-motorized-bridge-modi-forgot-his-commitment-balen-didnt-want-to-remind-him",
+   "first_published": "2026-11-25T15:21:43+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government",
+    "Foreign relations"
+   ],
+   "score": 26.7,
+   "signals": {
+    "coverage": 0.315,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.994,
+    "age_hours": 0.3
+   },
+   "reasons": [
+    "1 outlet: Onlinekhabar",
+    "broke in the last hour",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 1,
+   "outlets": [
+    "Onlinekhabar"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar",
+     "title": "झुलाघाट मोटरेबल पुल : मोदीले प्रतिबद्धता बिर्सिए, बालेनले सम्झाउन चाहेनन्",
+     "url": "https://www.onlinekhabar.com/2026/11/2065185/jhulaghat-motorized-bridge-modi-forgot-his-commitment-balen-didnt-want-to-remind-him",
+     "published": "2026-11-25T15:21:43+00:00",
+     "summary": "प्रधानमन्त्री बालेनको भ्रमणमा न भारतको पुरानो प्रतिबद्धता दोहोरियो न त नेपाल सरकारको प्राथमिकतामा झुलाघाट पर्‍यो । दुवै देशले झुलाघाट पुलको मुद्दा उच्चारणसम्म नगरेपछि संघर्षरत पक्ष निराश बनेको छ ।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar:6811ff5df86e"
+    }
+   ]
+  },
+  {
+   "id": "39153f3450",
+   "headline": "सरकार, ईपीजीलाई पनि विगतकै ब्यागेजभित्र हालिदिएको हो ?",
+   "url": "https://www.onlinekhabar.com/2026/11/2065237/has-the-government-also-relegated-epg-to-the-baggage-of-the-past",
+   "first_published": "2026-11-25T15:22:44+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government",
+    "Foreign relations"
+   ],
+   "score": 26.7,
+   "signals": {
+    "coverage": 0.315,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.994,
+    "age_hours": 0.2
+   },
+   "reasons": [
+    "1 outlet: Onlinekhabar",
+    "broke in the last hour",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 1,
+   "outlets": [
+    "Onlinekhabar"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar",
+     "title": "सरकार, ईपीजीलाई पनि विगतकै ब्यागेजभित्र हालिदिएको हो ?",
+     "url": "https://www.onlinekhabar.com/2026/11/2065237/has-the-government-also-relegated-epg-to-the-baggage-of-the-past",
+     "published": "2026-11-25T15:22:44+00:00",
+     "summary": "ब्रेकथ्रु नै ब्रेकथ्रुको श्रृङखलामा यो कस्तो ब्रेक ? नेपाल सरकारले जवाफ देओस् र भारतसँग पनि जवाफ मागोस् । नत्र भन्दिओस्, भारतले मात्रै होइन हामीले पनि छाडिदियौं ईपीजी प्रतिवेदन ।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar:ff7d521a9967"
+    }
+   ]
+  },
+  {
+   "id": "32b3a47f4c",
+   "headline": "वाम तालमेलको बाध्यता छ, ओली–प्रचण्ड नै टिकिरहने डर छ",
+   "url": "https://www.onlinekhabar.com/2026/11/2065239/compulsion-of-left-alliance-fear-of-oli-prachanda-derailing-reorganization",
+   "first_published": "2026-11-25T15:18:42+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government"
+   ],
+   "score": 26.6,
+   "signals": {
+    "coverage": 0.315,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.993,
+    "age_hours": 0.3
+   },
+   "reasons": [
+    "1 outlet: Onlinekhabar",
+    "broke in the last hour",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 1,
+   "outlets": [
+    "Onlinekhabar"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar",
+     "title": "वाम तालमेलको बाध्यता छ, ओली–प्रचण्ड नै टिकिरहने डर छ",
+     "url": "https://www.onlinekhabar.com/2026/11/2065239/compulsion-of-left-alliance-fear-of-oli-prachanda-derailing-reorganization",
+     "published": "2026-11-25T15:18:42+00:00",
+     "summary": "रास्वपाको लहर रोक्न र ड्यामेज कन्ट्रोल गर्न एमाले र नेकताका तल्लो तहसम्म सहकार्यको आवश्यकता महसुस गरिए पनि यसैको आडमा ओली र प्रचण्डले आन्तरिक नेतृत्व पुनर्गठनको बहस टार्ने हुन् कि भन्ने संशय दुवै पार्टीपङ्क्तिमा देखिएको छ।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar:df38eb350939"
+    }
+   ]
+  },
+  {
+   "id": "de5f110e04",
+   "headline": "साइबर मुद्दा : पेस भएका थप प्रमाणबारे खगेन्द्र सुनारलाई जानकारी गराउन आदेश",
+   "url": "https://www.onlinekhabar.com/2026/11/2065297/cyber-case-order-to-inform-khagendra-sunar-about-additional-evidence-submitted",
+   "first_published": "2026-11-25T11:23:15+00:00",
+   "topic": "Society, law & health",
+   "topics": [
+    "Politics & government",
+    "Society, law & health",
+    "Tech & startups"
+   ],
+   "score": 26.2,
+   "signals": {
+    "coverage": 0.452,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.91,
+    "age_hours": 4.2
+   },
+   "reasons": [
+    "2 outlets: Onlinekhabar, Nepal Press",
+    "first seen 4h ago",
+    "topic: Society, law & health"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 2,
+   "outlets": [
+    "Nepal Press",
+    "Onlinekhabar"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Nepal Press",
+     "title": "खगेन्द्र सुनारको साइबर अपराध मुद्दामा काभ्रे जिल्ला अदालतले के भन्यो ?",
+     "url": "https://www.nepalpress.com/2026/11/25/784438/what-did-the-kavre-district-court-say-in-khagendra-sunars-cybercrime-case/",
+     "published": "2026-11-25T11:23:15+00:00",
+     "summary": "काठमाडौं । काभ्रेपलाञ्चोक जिल्ला अदालतले रास्वपा सांसद खगेन्द्र सुनारविरुद्धको साइबर अपराध मुद्दामा जाहेरवाला मनिषा गौतमले पुनः पेस गरेका प्रमाणहरूको जानकारी प्रतिवादी सुनारलाई गराउन आदेश दिएको छ । जिल्ला न्यायाधीश माधवप्रसाद मैनालीको इजलासले बुधबार अधिवक्ता मनिषा गौतमको मुद्दामा सुनुवाइ गर्दै उक्त ",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal Press:6a916facdd7a"
+    },
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar",
+     "title": "साइबर मुद्दा : पेस भएका थप प्रमाणबारे खगेन्द्र सुनारलाई जानकारी गराउन आदेश",
+     "url": "https://www.onlinekhabar.com/2026/11/2065297/cyber-case-order-to-inform-khagendra-sunar-about-additional-evidence-submitted",
+     "published": "2026-11-25T13:36:03+00:00",
+     "summary": "यसअघि अदालतले सुनारविरुद्ध पक्राउ पुर्जीसमेत जारी गरेको थियो । पछि अदालतमा उपस्थित भएका सुनार बयान तथा थुनछेक बहसपछि ५० हजार रुपैयाँ धरौटीमा रिहा भएका थिए ।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar:045bad923ebf"
+    }
+   ]
+  },
+  {
+   "id": "dc436ffbb5",
+   "headline": "पश्चिम बंगाल प्रान्तको नाम परिवर्तन गरिँदै",
+   "url": "https://www.onlinekhabar.com/2026/11/2065326/indias-west-bengal-province-to-be-renamed",
+   "first_published": "2026-11-25T14:20:48+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government"
+   ],
+   "score": 26.0,
+   "signals": {
+    "coverage": 0.315,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.971,
+    "age_hours": 1.3
+   },
+   "reasons": [
+    "1 outlet: Onlinekhabar",
+    "first seen 1h ago",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 1,
+   "outlets": [
+    "Onlinekhabar"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar",
+     "title": "पश्चिम बंगाल प्रान्तको नाम परिवर्तन गरिँदै",
+     "url": "https://www.onlinekhabar.com/2026/11/2065326/indias-west-bengal-province-to-be-renamed",
+     "published": "2026-11-25T14:20:48+00:00",
+     "summary": "यसपटक केन्द्र र राज्य(प्रदेश) दुवैमा भाजपा नेतृत्वको सरकार रहेकाले नाम परिवर्तनको प्रस्ताव रोक्न सक्ने सम्भावना कम रहेको राजनीतिक विश्लेषकहरूको आकलन छ ।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar:63769bf73f17"
+    }
+   ]
+  },
+  {
+   "id": "c509cc7c4f",
+   "headline": "महिला गोल्डकप : घरेलु टोली झापालाई पन्छाउँदै एपीएफ फाइनलमा",
+   "url": "https://nagariknews.nagariknetwork.com/sports/women-s-gold-cup-apf-advances-to-final-beating-home-team-jhapa-79-46.html",
+   "first_published": "2026-11-25T12:00:00+00:00",
+   "topic": "Society, law & health",
+   "topics": [
+    "Society, law & health",
+    "Sports & culture"
+   ],
+   "score": 25.6,
+   "signals": {
+    "coverage": 0.435,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.922,
+    "age_hours": 3.6
+   },
+   "reasons": [
+    "2 outlets: Nagarik News, Ujyaalo Online",
+    "first seen 4h ago",
+    "topic: Society, law & health"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 2,
+   "outlets": [
+    "Nagarik News",
+    "Ujyaalo Online"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Ujyaalo Online",
+     "title": "झापा–११ लाई हराउँदै एपीएफ झापा महिला गोल्डकपको फाइनलमा",
+     "url": "https://www.ujyaaloonline.com/detail/133846",
+     "published": "2026-11-25T12:00:00+00:00",
+     "summary": "दोस्रो सेमिफाइनलमा भोलि पुलिस क्लब र आर्मी क्लबबीच प्रतिस्पर्धा हुनेछ ।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Ujyaalo Online:d7342c629433"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nagarik News",
+     "title": "महिला गोल्डकप : घरेलु टोली झापालाई पन्छाउँदै एपीएफ फाइनलमा",
+     "url": "https://nagariknews.nagariknetwork.com/sports/women-s-gold-cup-apf-advances-to-final-beating-home-team-jhapa-79-46.html",
+     "published": "2026-11-25T13:35:04+00:00",
+     "summary": "विभागीय टोली सशस्त्र प्रहरी बलको एपीएफ फुटबल क्लबले घरेलु टोली झापा–११ फुटबल क्लबलाई पराजित गर्दै फाइनलमा स्थान पक्का गरेको छ।...",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.9,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nagarik News:a218fa7faf36"
+    }
+   ]
+  },
+  {
+   "id": "24a361073f",
+   "headline": "President Paudel undergoes routine health check-up at Teaching Hospital",
+   "url": "https://english.onlinekhabar.com/president-paudel-undergoes-routine-health-check-up-at-teaching-hospital.html",
+   "first_published": "2026-11-25T10:55:49+00:00",
+   "topic": "Society, law & health",
+   "topics": [
+    "Society, law & health"
+   ],
+   "score": 25.5,
+   "signals": {
+    "coverage": 0.444,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.901,
+    "age_hours": 4.7
+   },
+   "reasons": [
+    "2 outlets: Onlinekhabar English, Khabarhub English",
+    "first seen 5h ago",
+    "topic: Society, law & health"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 2,
+   "outlets": [
+    "Khabarhub English",
+    "Onlinekhabar English"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "en"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Khabarhub English",
+     "title": "President Paudel undergoes health checkup",
+     "url": "https://english.khabarhub.com/2026/25/577031/",
+     "published": "2026-11-25T10:55:49+00:00",
+     "summary": "KATHMANDU: President Ram Chandra Paudel underwent a health check-up at the Tribhuvan University Teaching Hospital in Maharajgunj following a sudden health problem this afternoon. The President was taken to the hospital for medical examination. However, no official information has been released regar",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.75,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Khabarhub English:ea5564101ac0"
+    },
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar English",
+     "title": "President Paudel undergoes routine health check-up at Teaching Hospital",
+     "url": "https://english.onlinekhabar.com/president-paudel-undergoes-routine-health-check-up-at-teaching-hospital.html",
+     "published": "2026-11-25T11:13:09+00:00",
+     "summary": "Kathmandu, November 25 President Ramchandra Paudel underwent a routine health check-up at Tribhuvan University Teaching Hospital in Maharajgunj on Wednesday. His press adviser, Kiran Pokharel, confirmed that the president visited the hospital for a routine medical examination. According to the hospi",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.9,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar English:246209e36d6c"
+    }
+   ]
+  },
+  {
+   "id": "3da86f02ee",
+   "headline": "नेप्से सामान्य अंकले वृद्धि- १७० कम्पनीको शेयर बढ्दा १०१ कम्पनीको घट्यो",
+   "url": "https://www.nepalpress.com/2026/11/25/784404/nepse-general-index-increases-170-companies-shares-increase-101-companies-shares-decrease/",
+   "first_published": "2026-11-25T10:19:36+00:00",
+   "topic": "Economy & business",
+   "topics": [
+    "Economy & business"
+   ],
+   "score": 25.0,
+   "signals": {
+    "coverage": 0.389,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.889,
+    "age_hours": 5.3
+   },
+   "reasons": [
+    "2 outlets: Nepal Press, Desh Sanchar",
+    "first seen 5h ago",
+    "topic: Economy & business"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "new",
+   "outlet_count": 2,
+   "outlets": [
+    "Desh Sanchar",
+    "Nepal Press"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Nepal Press",
+     "title": "नेप्से सामान्य अंकले वृद्धि- १७० कम्पनीको शेयर बढ्दा १०१ कम्पनीको घट्यो",
+     "url": "https://www.nepalpress.com/2026/11/25/784404/nepse-general-index-increases-170-companies-shares-increase-101-companies-shares-decrease/",
+     "published": "2026-11-25T10:19:36+00:00",
+     "summary": "काठमाडौं । नेप्से परिसूचक आज सामान्य अङ्कले बढेको छ । नेपाल स्टक एक्सचेञ्जका अनुसार नेप्से परिसूचक आठ दशमलव ६६ अङ्कले बढेर दुई हजार ६४७ दशमलव ६१ मा पुगेको छ । ठूला कम्पनीको कारोबार मापन गर्ने सेन्सेटिभ परिसूचक दुई दशमलव ०६ अङ्कले बढेर ४८४ दशमलव ४५ मा पुगेको छ । त्यस्तै फ्लोट सूचक शून्य दशमलव ५८ […]",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal Press:e27f781d94fa"
+    },
+    {
+     "source": "feed",
+     "outlet": "Desh Sanchar",
+     "title": "नेप्से परिसूचक सामान्य अङ्कले बढ्यो",
+     "url": "https://deshsanchar.com/2026/11/25/1256079/",
+     "published": "2026-11-25T11:56:19+00:00",
+     "summary": "काठमाडौँ – धितोपत्र बजारमा शेयर कारोबार मापक नेप्से परिसूचक आज...",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.65,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Desh Sanchar:88ed40d2570b"
+    }
+   ]
+  }
+ ],
+ "briefings": [
+  {
+   "name": "Nepal News Evening Briefing",
+   "title": "Nepal News Evening Briefing | Tuesday, November 24, 2026",
+   "url": "https://english.nepalnews.com/s/daily-brief/nepal-news-evening-briefing-tuesday-november-24-2026/",
+   "published": "2026-11-24T14:20:56+00:00",
+   "excerpt": "KATHMANDU: Stay updated with Nepal News’ evening briefing, bringing you the day’s most important developments from Nepal and across the globe. From politics and economy to sports, entertainment, and culture, we deliver a concise roundup of the top news you need to know. Speaker Aryal and Qatari Amba"
+  }
+ ]
+}

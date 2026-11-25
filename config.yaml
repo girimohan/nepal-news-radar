@@ -1,0 +1,212 @@
+# Everything you are likely to tune lives in this file.
+# Edit, commit, and the next run picks it up.
+
+# How far back to look. Stories older than this are ignored.
+lookback_hours: 48
+
+# Topics are checked against each story's headlines and snippets, in English and Nepali; every topic whose
+# keywords appear counts, and the best weight wins. "weight" (0-1) says how much you care about that topic.
+# Nepali keywords also match with a joined postposition: "भूकम्प" finds "भूकम्पको" and "भूकम्पमा".
+topics:
+  - name: Politics & government
+    weight: 1.0
+    any: [prime minister, parliament, house of representatives, national assembly, cabinet, minister, election,
+          by-election, constitution, supreme court, nepali congress, uml, maoist, rsp, rastriya swatantra, rpp,
+          janamat, balen, balendra shah, oli, prachanda, deuba, coalition, no-confidence, ordinance, ciaa,
+          corruption, provincial government, chief minister, gen z, protest, प्रधानमन्त्री, संसद, प्रतिनिधिसभा,
+          राष्ट्रियसभा, मन्त्रिपरिषद्, मन्त्री, निर्वाचन, चुनाव, संविधान, सर्वोच्च, कांग्रेस, एमाले, माओवादी, रास्वपा,
+          राप्रपा, गठबन्धन, सरकार, अख्तियार, भ्रष्टाचार, मुख्यमन्त्री, प्रदेश सरकार, आन्दोलन, प्रदर्शन, अध्यादेश]
+  - name: Disasters & climate
+    weight: 1.0
+    any: [earthquake, flood, floods, landslide, glof, glacial lake, avalanche, wildfire, cold wave, monsoon,
+          rescue, death toll, missing, disaster, climate, drought, lightning, भूकम्प, बाढी, पहिरो, हिमताल, हिमपहिरो,
+          डढेलो, शीतलहर, मनसुन, उद्धार, विपद्, मृत्यु, बेपत्ता, जलवायु, खडेरी, चट्याङ]
+  - name: Nepalis abroad & migration
+    weight: 0.95
+    any: [nepali workers, nepali worker, migrant workers, migrant worker, foreign employment, remittance,
+          remittances, nrn, nrna, nepali diaspora, nepalis in, nepali students, labour permit, manpower,
+          gulf, qatar, saudi, uae, malaysia, korea eps, japan, israel, russian army, वैदेशिक रोजगार, रेमिट्यान्स,
+          विप्रेषण, श्रमिक, श्रम स्वीकृति, म्यानपावर, गैरआवासीय, एनआरएन, खाडी, कतार, साउदी, मलेसिया, कोरिया,
+          जापान, रुसी सेना, डायस्पोरा]
+  - name: Foreign relations
+    weight: 0.9
+    any: [india, china, united states, us embassy, bangladesh, bhutan, pakistan, bri, mcc, border, lipulekh,
+          kalapani, bilateral, foreign minister, foreign secretary, ambassador, diplomat, saarc, bimstec, un,
+          भारत, चीन, अमेरिका, बंगलादेश, भुटान, सीमा, लिपुलेक, कालापानी, द्विपक्षीय, परराष्ट्र, राजदूत, कूटनीति]
+  - name: Economy & business
+    weight: 0.85
+    any: [economy, budget, inflation, nepal rastra bank, nrb, monetary policy, interest rate, nepse, stock market,
+          share market, trade deficit, imports, exports, hydropower, electricity, investment, fdi, tax, revenue,
+          gdp, bank, banks, loan, fuel price, petroleum, nepal oil, cooperative, अर्थतन्त्र, बजेट, महँगी,
+          राष्ट्र बैंक, मौद्रिक नीति, ब्याजदर, नेप्से, सेयर, व्यापार घाटा, आयात, निर्यात, जलविद्युत्, बिजुली,
+          लगानी, कर, राजस्व, बैंक, ऋण, इन्धन, पेट्रोलियम, आयल निगम, सहकारी]
+  - name: Tourism & mountains
+    weight: 0.8
+    any: [tourism, tourist, tourists, everest, sagarmatha, mountaineering, climber, climbers, expedition, trekking,
+          himalaya, himalayan, summit, lumbini, pokhara, airline, airlines, flight, airport, plane crash,
+          पर्यटन, पर्यटक, सगरमाथा, आरोहण, आरोही, पदयात्रा, हिमाल, लुम्बिनी, पोखरा, उडान, विमानस्थल, विमान]
+  - name: Society, law & health
+    weight: 0.75
+    any: [police, arrested, arrest, murder, court verdict, fraud, scam, smuggling, trafficking, accident,
+          bus accident, road accident, hospital, health, dengue, outbreak, education, school, university, exam,
+          women, dalit, citizenship, प्रहरी, पक्राउ, हत्या, ठगी, तस्करी, दुर्घटना, बस दुर्घटना, अस्पताल, स्वास्थ्य,
+          डेंगी, महामारी, शिक्षा, विद्यालय, विश्वविद्यालय, परीक्षा, महिला, दलित, नागरिकता]
+  - name: Sports & culture
+    weight: 0.6
+    any: [cricket, football, npl, world cup, asian games, olympics, film, movie, music, festival, dashain, tihar,
+          chhath, basketball, volleyball, national games, क्रिकेट, फुटबल, बास्केटबल, भलिबल, एनपीएल, विश्वकप,
+          खेलकुद, राष्ट्रिय खेलकुद, गोल, कप्तान, प्रतियोगिता, चलचित्र, फिल्म, सङ्गीत, चाड, दसैं, दशैं, तिहार, छठ]
+  - name: Tech & startups
+    weight: 0.6
+    any: [startup, technology, internet, digital, ai, artificial intelligence, social media, tiktok, facebook,
+          cyber, online fraud, e-sewa, fintech, telecom, ntc, ncell, स्टार्टअप, प्रविधि, इन्टरनेट, डिजिटल,
+          सामाजिक सञ्जाल, टिकटक, साइबर, अनलाइन ठगी, दूरसञ्चार, एनसेल]
+
+# A story that matches no topic is dropped, unless at least this many outlets cover it (big breaking news).
+untopical_min_outlets: 4
+
+# Headline words that drop a story.
+exclude_title: [horoscope, rashifal, राशिफल, आजको राशिफल, gold price today, सुनको मूल्य, crossword, sponsored,
+                "podcast:", "quiz:", "photos:", "(photos)", "(तस्बिर)", "(तस्बिरहरू)", "(भिडियो)", "video:",
+                # round-ups of the day's news (shown on their own, see briefings), not stories
+                "evening briefing", "daily digest"]
+
+# Links containing any of these are world news a Nepali portal ran (not about Nepal), and are left out.
+exclude_url: [/world/, /international/, /global/, /antarrastriya/, /world-news/]
+
+scoring:
+  # Each signal is turned into 0-1, and they combine as 1 - (1 - w1*s1)(1 - w2*s2)(1 - w3*s3).
+  coverage: 0.85       # how many distinct outlets ran the story, weighted by outlet weight
+  engagement: 0.5      # Reddit upvotes and comments (r/Nepal), when Reddit is set up
+  velocity: 0.25       # engagement per hour since the story first appeared
+  coverage_saturation: 8       # this many weighted outlets counts as full coverage
+  engagement_saturation: 1500  # this much engagement (points + 2 x comments) counts as full engagement
+  recency_weight: 0.6
+  half_life_hours: 18
+  rising_bonus: 8              # extra points when more outlets picked the story up since yesterday
+
+# One outlet scores about 20; two outlets about 30; three about 40.
+min_score: 25
+max_stories: 100           # how many go to the dashboard
+
+clustering:
+  threshold: 0.18
+  min_shared_terms: 1
+  dek_weight: 0.5
+  nameless_penalty: 0.1
+
+llm:
+  enabled: true            # only used when ANTHROPIC_API_KEY is set
+  model: claude-haiku-5-5
+  top_n: 30                # how many of the best stories get a brief each run
+  workers: 4
+  audience: >-
+    An editor who follows news about Nepal and Nepali people at home and abroad, writing in English for readers
+    who may not read Nepali.
+
+# --------------------------------------------------------------------------- sources
+sources:
+  feeds:
+    enabled: true
+  gdelt:
+    # The world's press writing about Nepal (Indian, Bangladeshi, Malaysian, Gulf, Western outlets...).
+    enabled: true
+    queries: ["nepal"]            # one light query: GDELT also matches translated text, and heavy queries time out
+    languages: [english, nepali]   # GDELT language names; titles in other languages are hard to cluster
+    weight: 0.6
+    # Already read through their own feeds; GDELT copies would count the same article twice.
+    skip_domains: []
+  reddit:
+    # Needs a free Reddit "script" app: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET as repository secrets.
+    enabled: true
+    subreddits: [Nepal, NepalSocial, Kathmandu]
+    min_score: 40
+  hackernews:
+    enabled: false
+    min_points: 40
+
+# Publisher RSS feeds. weight (0-1) is how much one outlet's coverage counts; lang is en or ne.
+# require_any: keep only items that mention one of these words (for outlets that are not about Nepal).
+# undated: first_seen dates items by when the radar first saw them (for feeds that give no dates).
+# A broken feed is reported on the Sources tab, not fatal.
+feeds:
+  # Nepal, in English
+  - {name: The Kathmandu Post, url: "https://kathmandupost.com/rss", weight: 1.0, region: Nepal, undated: first_seen}
+  - {name: The Himalayan Times, url: "https://thehimalayantimes.com/rssFeed/15", weight: 0.95, region: Nepal}
+  - {name: Onlinekhabar English, url: "https://english.onlinekhabar.com/feed", weight: 0.9, region: Nepal}
+  - {name: Nepali Times, url: "https://nepalitimes.com/feed", weight: 0.9, region: Nepal}
+  - {name: Khabarhub English, url: "https://english.khabarhub.com/feed/", weight: 0.75, region: Nepal}
+  - {name: Ratopati English, url: "https://english.ratopati.com/rss", weight: 0.75, region: Nepal}
+  - {name: The Rising Nepal, url: "https://risingnepaldaily.com/rss", weight: 0.75, region: Nepal}
+  - {name: The Annapurna Express, url: "https://theannapurnaexpress.com/rss/", weight: 0.8, region: Nepal, undated: first_seen}
+  - {name: Nepal News English, url: "https://english.nepalnews.com/feed", weight: 0.7, region: Nepal}
+  - {name: Mirmire Online, url: "https://www.mirmireonline.com/feed", weight: 0.5, region: Nepal}
+  - {name: Kathmandu Tribune, url: "https://www.kathmandutribune.com/feed/", weight: 0.5, region: Nepal}
+  # Nepal, in Nepali
+  - {name: Onlinekhabar, url: "https://www.onlinekhabar.com/feed", weight: 1.0, region: Nepal, lang: ne}
+  - {name: BBC Nepali, url: "https://feeds.bbci.co.uk/nepali/rss.xml", weight: 1.0, region: Nepal, lang: ne}
+  - {name: Setopati, url: "https://www.setopati.com/feed", weight: 0.9, region: Nepal, lang: ne}
+  - {name: Nagarik News, url: "https://nagariknews.nagariknetwork.com/feed", weight: 0.9, region: Nepal, lang: ne}
+  - {name: Ratopati, url: "https://www.ratopati.com/feed", weight: 0.85, region: Nepal, lang: ne}
+  - {name: Annapurna Post, url: "https://annapurnapost.com/rss/", weight: 0.85, region: Nepal, lang: ne, undated: first_seen}
+  - {name: Gorkhapatra, url: "https://gorkhapatraonline.com/rss", weight: 0.8, region: Nepal, lang: ne}
+  - {name: Khabarhub, url: "https://khabarhub.com/feed/", weight: 0.8, region: Nepal, lang: ne}
+  - {name: Himal Khabar, url: "https://www.himalkhabar.com/feed", weight: 0.8, region: Nepal, lang: ne}
+  - {name: Baahrakhari, url: "https://baahrakhari.com/feed", weight: 0.7, region: Nepal, lang: ne}
+  - {name: Ujyaalo Online, url: "https://www.ujyaaloonline.com/feed", weight: 0.7, region: Nepal, lang: ne}
+  - {name: Nepal Press, url: "https://www.nepalpress.com/feed/", weight: 0.7, region: Nepal, lang: ne}
+  - {name: Desh Sanchar, url: "https://deshsanchar.com/feed/", weight: 0.65, region: Nepal, lang: ne}
+  - {name: Nepal News, url: "https://nepalnews.com/feed/", weight: 0.65, region: Nepal, lang: ne}
+  - {name: News of Nepal, url: "https://newsofnepal.com/feed/", weight: 0.55, region: Nepal, lang: ne}
+  - {name: Imagekhabar, url: "https://www.imagekhabar.com/feed", weight: 0.6, region: Nepal, lang: ne}
+  - {name: Clickmandu, url: "https://clickmandu.com/feed", weight: 0.5, region: Nepal, lang: ne}
+  # International outlets: only their items that mention Nepal
+  - {name: The Diplomat South Asia, url: "https://thediplomat.com/regions/south-asia/feed/", weight: 0.8, region: International,
+     require_any: [nepal, nepali, nepalese, kathmandu, everest]}
+  - {name: Hindustan Times World, url: "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml", weight: 0.7, region: India,
+     require_any: [nepal, nepali, nepalese, kathmandu]}
+  - {name: Al Jazeera, url: "https://www.aljazeera.com/xml/rss/all.xml", weight: 0.8, region: International,
+     require_any: [nepal, nepali, nepalese, kathmandu, everest]}
+  - {name: BBC Asia, url: "https://feeds.bbci.co.uk/news/world/asia/rss.xml", weight: 0.9, region: International,
+     require_any: [nepal, nepali, nepalese, kathmandu, everest]}
+
+# --------------------------------------------------------------------------- historic archive
+archive:
+  # The daily run adds what it collects to docs/archive/. For earlier days run
+  #   python -m nepalradar archive backfill --from 2025-01-01 --to 2025-01-31
+  # which reads GDELT (world press, since 2017) and these WordPress sites' own archives (complete, any date).
+  wordpress:
+    - {name: Onlinekhabar, base: "https://www.onlinekhabar.com", weight: 1.0, region: Nepal, lang: ne}
+    - {name: Onlinekhabar English, base: "https://english.onlinekhabar.com", weight: 0.9, region: Nepal, lang: en}
+    - {name: Khabarhub, base: "https://khabarhub.com", weight: 0.8, region: Nepal, lang: ne}
+    - {name: Khabarhub English, base: "https://english.khabarhub.com", weight: 0.75, region: Nepal, lang: en}
+    - {name: News of Nepal, base: "https://newsofnepal.com", weight: 0.55, region: Nepal, lang: ne}         # since 2015
+    - {name: Imagekhabar, base: "https://www.imagekhabar.com", weight: 0.6, region: Nepal, lang: ne}        # since 2016
+    - {name: Clickmandu, base: "https://clickmandu.com", weight: 0.5, region: Nepal, lang: ne}              # since 2016
+    - {name: Nepal News English, base: "https://english.nepalnews.com", weight: 0.7, region: Nepal, lang: en}  # since Nov 2020
+    - {name: Nepal News, base: "https://nepalnews.com", weight: 0.65, region: Nepal, lang: ne}             # since May 2025
+
+# Daily round-ups of the news by Nepali outlets, linked at the top of the dashboard and the digest.
+briefings:
+  - {name: Nepal News Evening Briefing, base: "https://english.nepalnews.com", search: "Nepal News Evening Briefing"}
+  # Onlinekhabar English's "Daily Digest" works the same way, but its last edition was on 1 October 2026:
+  # - {name: Onlinekhabar Daily Digest, base: "https://english.onlinekhabar.com", search: "Daily digest"}
+
+# --------------------------------------------------------------------------- on this day in history
+onthisday:
+  # Each run adds "On this day in Nepal": for today's date, the best-known Nepal incident of every past year
+  # (from Wikipedia, ranked by how many language editions cover it) and a news piece from that day (the
+  # article's own dated citations, or the Nepali sites' archives from 2013 on). Cached in data/onthisday/.
+  enabled: true
+  from_year: 1920
+  refresh_days: 60        # recompute a date's page after this many days
+  workers: 4              # parallel requests to Wikipedia
+  max_checks: 5           # Wikipedia search hits read per year
+  search_archives: true   # look for the news piece in the Nepali sites' archives (2013 on)
+  top_stories: true       # years with nothing on Wikipedia: the day's most covered story in the archives
+  top_story_from: 2014
+  current_events_from: 2002   # Wikipedia's daily news pages ("Portal:Current events/2015 September 20")
+  # nepalnews.com's daily news pages of 2001-2004, as saved by the Internet Archive's Wayback Machine
+  nepalnews_wayback: {from: 2001, to: 2004}
+  nepali_times: true          # the Nepali Times issue of that week (archive.nepalitimes.com, since July 2000)
+  kantipur_archive: true      # Kantipur's own daily reprint of a story from about 26 years ago

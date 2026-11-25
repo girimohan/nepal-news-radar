@@ -1,0 +1,51 @@
+{{short description|none}}
+<!-- "none" is preferred when the title is sufficiently descriptive -->
+{{Year in Nepal|2015}}
+
+The following lists events that happened during '''[[2015]] in the [[Nepal|Federal Democratic Republic of Nepal]]'''.
+
+==Incumbents==
+*[[President of Nepal|President]]: [[Ram Baran Yadav]] 
+*[[Prime Minister of Nepal|Prime Minister]]: [[Sushil Koirala]], [[K. P. Sharma Oli]]
+*[[Vice President of Nepal|Vice President]]: [[Parmanand Jha]]
+*[[Chief Justice of Nepal|Chief Justice]]: [[Ram Kumar Prasad Shah]] (until 7 July), [[Kalyan Shrestha]] (starting 7 July)
+
+==Events==
+===January===
+* January 5 - Introduction of separate buses for women.<ref>[https://www.reuters.com/news/picture/2015/01/06/nepals-women-only-buses?articleId=USRTR4KAFK Reuters]</ref><ref>{{Cite web|url=http://www.rte.ie/news/2015/0105/670365-women-only-buses-nepal/|title=Nepal introduces women-only buses to fight groping|website=[[RTÉ.ie]] |date=5 January 2015}}</ref>
+
+===March===
+* March 4 - Turkish Airlines Flight TK726, landing in dense fog in [[Kathmandu]], skids off a slippery runway, however, there are no serious injuries.<ref>{{cite web | url=https://abcnews.com/International/turkish-airlines-jet-skids-off-runway-passengers-escape/story?id=29375335 | title=Turkish Airlines Jet Skids Off Runway, Passengers Escape to Safety | website=[[ABC News (United States)|ABC News]] | date=4 March 2015 | access-date=14 March 2015}}</ref>
+
+===April===
+* April 25 - A [[April 2015 Nepal earthquake|magnitude 7.8 earthquake]] struck Nepal with epicenter at Gorkha at a depth of {{convert|15.0|km|abbr=on}}.<ref>{{cite web|title=M7.6 - 34km ESE of Lamjung, Nepal|url=https://earthquake.usgs.gov/earthquakes/eventpage/us20002926#general_summary|publisher=[[United States Geological Survey]]|date=April 25, 2015|access-date=April 25, 2015}}</ref> In total, at least 10,000 people were killed in [[Nepal]], [[India]], [[Bangladesh]], and [[China]].<ref name="Lamjung">{{cite news |title=Nepal earthquake: Death toll passes 1,000 |url=https://www.bbc.com/news/world-asia-32467986 |work=[[BBC News]] |date=25 April 2015 |access-date=25 April 2015}}</ref><ref>{{cite news |author1=Corinne Cathcard |author2=Emily Shapiro |work=ABC News |agency=Associated Press |date=25 April 2015 |access-date=25 April 2015 |title=At Least 10000 Believed Dead After Massive Earthquake Strikes Nepal |url=https://abcnews.com/International/hundreds-dead-massive-earthquake-strikes-nepal/story?id=30577374}}</ref>
+
+=== May ===
+* May 12 - A [[May 2015 Nepal earthquake|magnitude 7.3 earthquake]] with the epicenter at Dolakha kills at least 66 people in Nepal.<ref>{{Cite news|title = Fresh earthquake kills scores in Nepal and India|newspaper = Reuters|date = 12 May 2015|url = http://in.reuters.com/article/earthquake-nepal-idINKBN0NX0JZ20150512|archive-url = https://web.archive.org/web/20151226130101/http://in.reuters.com/article/earthquake-nepal-idINKBN0NX0JZ20150512|url-status = dead|archive-date = December 26, 2015|access-date = 2015-05-12|last1 = Adkin|first1 = Krista Mahr}}</ref>
+
+=== September ===
+* September 20 - Nepal formally promulgates the [[Constitution of Nepal]] through its [[2nd Nepalese Constituent Assembly]].<ref>{{Cite web |title=Constitution promulgated |url=https://kathmandupost.com/miscellaneous/2015/09/21/constitution-promulgated |access-date=2025-01-12 |website=kathmandupost.com |language=English}}</ref>
+* September 23 - The [[2015 Nepal blockade|Indian government blocks vehicles]] carrying goods towards Nepal through its territory citing insecurity in Nepal's Southern regions which continues for almost six months.<ref>{{Cite news |date=2015-12-12 |title=Nepal blockade: Six ways it affects the country |url=https://www.bbc.com/news/world-asia-35041366 |access-date=2025-01-12 |work=BBC News |language=en-GB}}</ref>
+
+=== October ===
+* October 12 - [[K. P. Sharma Oli|K.P. Sharma Oli]] is elected by the parliament as the Prime Minister of Nepal.<ref>{{Cite web |title=KP Sharma Oli becomes Nepal’s new prime minister |url=https://www.aljazeera.com/news/2015/10/11/kp-sharma-oli-becomes-nepals-new-prime-minister |access-date=2025-01-12 |website=Al Jazeera |language=en}}</ref>
+* October 29 - [[Bidhya Devi Bhandari]] first Nepalese woman President to hold the office.<ref>{{Cite web|title = Nepalese parliament elects first female president| website=[[TheGuardian.com]] |date = 28 October 2015|url = https://www.theguardian.com/world/2015/oct/28/nepalese-parliament-first-female-president-bidhya-devi-bhandari|access-date = 2015-10-29}}</ref>
+
+==Deaths==
+* [[Surya Bahadur Thapa]], five times Prime Minister
+* [[Bharat Raj Upreti]], 64, Nepali judge, justice of the Supreme Court (2009–2013), suicide by hanging.
+
+==References==
+{{reflist}}
+
+{{Years in Nepal}}
+{{Year in Asia|2015}}
+
+[[Category:2015 in Nepal| ]]
+[[Category:2015 in Asia|Nepal]]
+[[Category:Years of the 21st century in Nepal]]
+[[Category:2010s in Nepal]]
+[[Category:2015 by country|Nepal]]
+
+
+{{Nepal-hist-stub}}

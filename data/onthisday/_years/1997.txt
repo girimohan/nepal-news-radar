@@ -1,0 +1,38 @@
+{{short description|none}} <!-- "none" is preferred when the title is sufficiently descriptive -->
+{{Use dmy dates|date=November 2021}}
+{{Year in Nepal|1997}}
+
+Events from the year '''1997 in [[Nepal]]'''.
+
+== Incumbents ==
+
+* [[King of Nepal|Monarch]]: [[Birendra of Nepal|Birendra]]<ref name=":0">{{Cite journal|last=Khanal|first=Y. N.|year=1998|title=Nepal in 1997: Political Stability Eludes|url=https://www.jstor.org/stable/2645672|journal=Asian Survey|volume=38|issue=2|pages=148–154|doi=10.2307/2645672|jstor=2645672|issn=0004-4687|access-date=10 November 2021|archive-date=10 November 2021|archive-url=https://web.archive.org/web/20211110202905/https://www.jstor.org/stable/2645672|url-status=live|url-access=subscription}}</ref>
+* [[Prime Minister of Nepal|Prime Minister]]: [[Sher Bahadur Deuba]] (1995–12 March 1997); [[Lokendra Bahadur Chand]] (12 March–7 October 1997); [[Surya Bahadur Thapa]] (7 October 1997–15 April 1998)<ref name=":0" />
+* [[Chief Justice of Nepal|Chief Justice]]: [[Surendra Prasad Singh]], [[Trilok Pratap Rana]], [[Om Bhakta Shrestha]]
+
+== Events ==
+
+* June – [[Inder Kumar Gujral]], Prime Minister of India visits Nepal.<ref>{{Cite book|last=Singh|first=Raj Kumar|url=https://books.google.com/books?id=mvgtRCmjsIoC|title=Global Dimensions of Indo-Nepal Political Relations: Post Independence|date=2009|publisher=Gyan Publishing House|isbn=978-81-212-1025-6|pages=296|language=en|access-date=10 November 2021|archive-date=10 November 2021|archive-url=https://web.archive.org/web/20211110204210/https://books.google.co.uk/books?id=mvgtRCmjsIoC|url-status=live}}</ref>
+
+== Births ==
+
+* 22 January - [[Kushal Bhurtel]]<ref>{{Cite web|title=Kushal Bhurtel profile and biography, stats, records, averages, photos and videos|url=https://www.espncricinfo.com/player/kushal-bhurtel-794713|access-date=10 November 2021|publisher=ESPNcricinfo|language=en|archive-date=10 November 2021|archive-url=https://web.archive.org/web/20211110203523/https://www.espncricinfo.com/player/kushal-bhurtel-794713|url-status=live}}</ref>
+
+* 5 October – [[Aarif Sheikh]]<ref>{{Cite web|title=Aarif Sheikh profile and biography, stats, records, averages, photos and videos|url=https://www.espncricinfo.com/player/aarif-sheikh-701217|access-date=10 November 2021|publisher=ESPNcricinfo|language=en|archive-date=10 November 2021|archive-url=https://web.archive.org/web/20211110203503/https://www.espncricinfo.com/player/aarif-sheikh-701217|url-status=live}}</ref>
+
+== Deaths ==
+
+* 11 September – [[Matrika Prasad Koirala]]<ref>{{Cite web|title=Nepal: Former prime minister dies|url=http://nl.newsbank.com/nl-search/we/Archives?p_product=NewsLibrary&p_multi=BBAB&d_place=BBAB&p_theme=newslibrary2&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0F99F61DC9FE7EC2&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM|url-status=dead|archive-url=https://web.archive.org/web/20160303194757/http://nl.newsbank.com/nl-search/we/Archives?p_product=NewsLibrary&p_multi=BBAB&d_place=BBAB&p_theme=newslibrary2&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0F99F61DC9FE7EC2&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM|archive-date=3 March 2016|access-date=7 May 2009|website=NewsBank}}</ref>
+* 18 September – [[Ganesh Man Singh]]<ref>{{Cite web|title=24th Memorial Day of late Ganeshman Singh being observed today|url=https://myrepublica.nagariknetwork.com/news/24th-memorial-day-of-late-ganeshman-singh-being-observed-today/|url-status=live|access-date=10 November 2021|website=My Republica|language=en|archive-date=30 September 2021|archive-url=https://web.archive.org/web/20210930221556/https://myrepublica.nagariknetwork.com/news/24th-memorial-day-of-late-ganeshman-singh-being-observed-today/}}</ref>
+
+== References ==
+{{reflist}}
+
+{{Years in Nepal}}
+{{Asia topic|1997 in}}
+
+[[Category:1997 in Nepal| ]]
+[[Category:1997 by country|Nepal]]
+[[Category:1997 in Asia|Nepal]]
+[[Category:1990s in Nepal]]
+[[Category:Years of the 20th century in Nepal]]

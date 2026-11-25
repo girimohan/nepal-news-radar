@@ -1,0 +1,32 @@
+{{short description|none}} <!-- "none" is preferred when the title is sufficiently descriptive -->
+{{Year in region
+| year = 1959
+| region = Nepal
+| error = '''Template:Year in Nepal'''
+| image = Flag of Nepal (1743–1962).svg
+| image_size =90px
+| see_also = [[1959|Other events of 1959]]{{middot}}[[Timeline of Nepalese history]]
+}}
+
+The following lists events that happened during '''[[1959]] in the [[Kingdom of Nepal]]'''.
+
+==Incumbents==
+*[[King of Nepal|Monarch]]: [[Mahendra of Nepal|Mahendra]]
+*[[Prime Minister of Nepal|Prime Minister]]: [[Subarna Shamsher Rana]] (until 27 May), [[Bishweshwar Prasad Koirala]] (starting 27 May)
+*[[Chief Justice of Nepal|Chief Justice]]: [[Anirudra Prasad Singh]] (until 29 June)
+
+==Events==
+===February===
+* February 18 - [[1959 Nepalese legislative election|Elections were held in Nepal]] for the first time its history, as voters chose candidates for 18 of the 109 lower house seats, with the remainder to be chosen on eight other days.<ref>"Nepal Casts Vote For First Time", ''Oakland Tribune'', February 18, 1959, p2</ref>
+
+==References==
+{{reflist}}
+
+{{Years in Nepal}}
+{{Year in Asia|1959}}
+
+[[Category:1959 in Nepal| ]]
+[[Category:1950s in Nepal]]
+[[Category:1959 by country|Nepal]]
+[[Category:1959 in Asia|Nepal]]
+[[Category:Years of the 20th century in Nepal]]
