@@ -1,132 +1,132 @@
-# Nepal news radar, 2026-11-25
+# Nepal news radar, 2026-11-26
 
-45 stories worth a look out of 279 found in 431 articles from the last 48 hours. 45 are new since yesterday.
+42 stories worth a look out of 282 found in 419 articles from the last 48 hours. 38 are new since yesterday.
 
 **[Open the dashboard](https://girimohan.github.io/nepal-news-radar/)** for filters and the full list.
 
-Daily round-ups: [Nepal News Evening Briefing | Wednesday, November 25, 2026](https://english.nepalnews.com/s/main-left/nepal-news-evening-briefing-wednesday-november-25-2026/)
+Daily round-ups: [Nepal News Evening Briefing | Wednesday, November 25, 2026](https://english.nepalnews.com/s/daily-brief/nepal-news-evening-briefing-wednesday-november-25-2026/)
 
 ## Top stories
 
-### 1. [दानबहादुर कार्कीको पक्षमा अन्तरिम आदेश दिन सर्वोच्चद्वारा अस्वीकार](https://clickmandu.com/2026/11/507873.html)
+### 1. [स्वास्थ्य बीमा ऐन संशोधन विधेयक संसद्मा दर्ता गर्ने तयारी](https://www.ratopati.com/story/607731/preparations-to-register-health-insurance-act-amendment-bill-in-parliament)
 
-**68/100** · Politics & government · 🆕 new
+**64/100** · Politics & government · 🆕 new
 
-_9 outlets: Onlinekhabar, BBC Nepali, Annapurna Post, Khabarhub +5 more · first seen 6h ago · topic: Politics & government_
+_6 outlets: Onlinekhabar, Nagarik News, Ratopati, Khabarhub +2 more · first seen 2h ago · topic: Politics & government_
 
-Sources: [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2065229/governments-decision-to-remove-dan-bahadur-from-office-remains-unchanged-interim-order-rejected) · [Clickmandu](https://clickmandu.com/2026/11/507873.html) · [Imagekhabar](https://www.imagekhabar.com/news/564265/) · [News of Nepal](https://newsofnepal.com/2026/11/25/795827/) · [Nepal Press](https://www.nepalpress.com/2026/11/25/784468/igp-controversy-three-arguments-given-by-the-court-for-not-granting-interim-order-in-favor-of-karki/) · [BBC Nepali](https://www.bbc.com/nepali/articles/c3grex4jgqk0o?at_medium=RSS&at_campaign=rss) · [Khabarhub](https://khabarhub.com/2026/25/1051673/) · [Khabarhub](https://khabarhub.com/2026/25/1051661/)
+Sources: [Nagarik News](https://nagariknews.nagariknetwork.com/politics/ministry-preparing-to-register-health-insurance-act-amendment-bill-br-53-72.html) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2065572/preparations-to-register-health-insurance-act-amendment-bill-in-parliament) · [Ratopati](https://www.ratopati.com/story/607731/preparations-to-register-health-insurance-act-amendment-bill-in-parliament) · [Nepal Press](https://www.nepalpress.com/2026/11/26/784647/preparations-to-register-health-insurance-act-amendment-bill-in-parliament/) · [Khabarhub](https://khabarhub.com/2026/26/1051836/) · [Mirmire Online](https://www.mirmireonline.com/2026/11/26/320638/)
 
-### 2. [पर्यटन बोर्डको सीईओ छनोट प्रक्रियाविरुद्धको रिटमा कारण देखाउ आदेश](https://www.onlinekhabar.com/2026/11/2065378/show-cause-order-in-writ-petition-against-tourism-boards-ceo-selection-process)
+### 2. [सुनकोशी–मरिण ठेक्का रद्द : प्रधानमन्त्री कार्यालयको भूमिकामाथि छानबिन गर्न आङ्देम्बेको माग](http://annapurnapost.com/story/512028)
 
 **54/100** · Politics & government · 🆕 new · नेपाली press only
 
-_5 outlets: Onlinekhabar, Ratopati, Nepal Press, Nepal News +1 more · first seen 5h ago · topic: Politics & government_
+_5 outlets: Annapurna Post, Khabarhub, Nepal Press, News of Nepal +1 more · first seen 3h ago · topic: Politics & government_
 
-Sources: [Nepal Press](https://www.nepalpress.com/2026/11/25/784479/show-cause-order-issued-in-case-against-tourism-board-ceo-selection-process/) · [Ratopati](https://www.ratopati.com/story/607616/show-cause-order-in-case-against-selection-of-tourism-board-ceo) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2065378/show-cause-order-in-writ-petition-against-tourism-boards-ceo-selection-process) · [Clickmandu](https://clickmandu.com/2026/11/507892.html) · [Nepal News](https://nepalnews.com/2026/11/25/supreme-court-orders-show-cause-in-writ-petition-against-tourism-board-ceo-selection/)
+Sources: [News of Nepal](https://newsofnepal.com/2026/11/26/795951/) · [Nepal Press](https://www.nepalpress.com/2026/11/26/784602/congress-demands-investigation-into-cancellation-of-sunkoshi-marin-contract-by-prime-ministers-team/) · [Clickmandu](https://clickmandu.com/2026/11/508016.html) · [Khabarhub](https://khabarhub.com/2026/26/1051851/) · [Annapurna Post](http://annapurnapost.com/story/512028)
 
-### 3. [Supreme Court refuses interim order against Dan Bahadur Karki’s removal as police chief](https://english.onlinekhabar.com/sc-refuses-interim-order-dan-bahadur-karki.html)
+### 3. [पूर्वमुख्यसचिव एकनारायण अर्याल पक्राउ](https://www.onlinekhabar.com/2026/11/2065537/former-chief-secretary-ek-narayan-aryal-arrested)
 
-**53/100** · Politics & government · 🆕 new
+**52/100** · Society, law & health · 🆕 new
 
-_6 outlets: The Kathmandu Post, Onlinekhabar English, The Annapurna Express, Ratopati English +2 more · first seen 12h ago · topic: Politics & government_
+_8 outlets: Onlinekhabar, Nagarik News, Ratopati, Nepal Press +4 more · first seen 3h ago · topic: Society, law & health_
 
-Sources: [The Kathmandu Post](https://kathmandupost.com/national/2026/11/25/supreme-court-declines-interim-order-in-dan-bahadur-karki-s-petition) · [Ratopati English](http://english.ratopati.com/story/88259/supreme-court-issues-show-cause-order-in-writ-petition-against-tribhuvan-universitys-anti-plagiarism-rules) · [Khabarhub English](https://english.khabarhub.com/2026/25/577045/) · [Onlinekhabar English](https://english.onlinekhabar.com/sc-refuses-interim-order-dan-bahadur-karki.html) · [Nepal News English](https://english.nepalnews.com/s/security/supreme-court-refuses-interim-order-on-dan-bahadur-karki-plea/) · [Ratopati English](http://english.ratopati.com/story/88264/why-didnt-the-supreme-court-issue-an-interim-order-on-the-writ-petition-filed-by-karki-seeking-his-reinstatement-as-inspector-general-of-police) · [Onlinekhabar English](https://english.onlinekhabar.com/supreme-court-rejects-interim-relief-for-dan-bahadur-karki-on-three-grounds.html) · [The Annapurna Express](https://theannapurnaexpress.com/story/69069)
+Sources: [Nepal Press](https://www.nepalpress.com/2026/11/26/784594/former-chief-secretary-ek-narayan-aryal-arrested/) · [News of Nepal](https://newsofnepal.com/2026/11/26/795957/) · [Imagekhabar](https://www.imagekhabar.com/news/564278/) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2065537/former-chief-secretary-ek-narayan-aryal-arrested) · [Nagarik News](https://nagariknews.nagariknetwork.com/social-affairs/former-chief-secretary-ek-narayan-aryal-arrested-17-64.html) · [Ratopati](https://www.ratopati.com/story/607726/former-chief-secretary-aryal-arrested-in-india) · [Imagekhabar](https://www.imagekhabar.com/news/564287/) · [Mirmire Online](https://www.mirmireonline.com/2026/11/26/320621/)
 
-### 4. [भक्तपुरको होल्डिङ सेन्टर मंसिर ११ भित्र खाली गर्न प्रशासनको निर्देशन](https://www.imagekhabar.com/news/564263/)
+### 4. [Why Nepali Prime Minister Balendra Shah’s India Visit Was a Success](https://thediplomat.com/2026/11/why-nepali-prime-minister-balendra-shahs-india-visit-was-a-success/)
 
-**52/100** · Politics & government · 🆕 new · नेपाली press only
+**51/100** · Politics & government · 📈 rising
 
-_5 outlets: Onlinekhabar, Setopati, Nepal Press, Imagekhabar +1 more · first seen 7h ago · topic: Politics & government_
+_6 outlets: The Kathmandu Post, The Himalayan Times, The Diplomat South Asia, South China Morning Post Asia +2 more · first seen 27h ago · topic: Politics & government · rising: 2 more outlets since yesterday_
 
-Sources: [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2065172/government-tells-kathmandu-slum-dwellers-to-vacate-holding-centers-by-saturday) · [Nepal Press](https://www.nepalpress.com/2026/11/25/784446/government-orders-squatters-to-vacate-bhaktapurs-holding-center-within-2-days/) · [Imagekhabar](https://www.imagekhabar.com/news/564263/) · [Setopati](https://www.setopati.com/social/403393) · [News of Nepal](https://newsofnepal.com/2026/11/25/795836/)
+Sources: [The Himalayan Times](https://thehimalayantimes.com/nepal/pm-shah-calls-for-zero-tolerance-against-gender-based-violence) · [The Kathmandu Post](https://kathmandupost.com/columns/2026/11/25/was-pm-shah-s-visit-to-india-really-grand-or-was-it-illusory) · [South China Morning Post Asia](https://www.scmp.com/week-asia/politics/article/3375772/nepal-hedges-between-two-asian-giants-ties-india-thaw) · [The Diplomat South Asia](https://thediplomat.com/2026/11/why-nepali-prime-minister-balendra-shahs-india-visit-was-a-success/) · [The Diplomat South Asia](https://thediplomat.com/2026/11/nepals-prime-minister-is-back-from-india-now-comes-the-hard-part/) · [The Kathmandu Post](https://kathmandupost.com/art-culture/2026/11/26/five-lessons-in-golf-and-politics-for-prime-minister-balendra-shah) · [Ratopati English](http://english.ratopati.com/story/88341/minister-sah-urges-to-explore-investment-opportunities-in-emerging-sectors) · [The Annapurna Express](https://theannapurnaexpress.com/story/69087)
 
-### 5. [एनपीएल विजेता सुदूरपश्चिम रोयल्सको ट्रफी टूर मंसिर १३ गतेदेखि](https://www.onlinekhabar.com/2026/11/2065220/npl-winner-sudurpaschim-royals-trophy-tour-begins-on-november-13)
+### 5. [‘निजी क्षेत्रसँग सहकार्य गर्न सरकार प्रतिबद्ध छ’](https://nepalnews.com/2026/11/26/the-government-is-committed-to-collaborating-with-the-private-sector/)
 
-**50/100** · Politics & government · 🆕 new · नेपाली press only
+**51/100** · Politics & government · 🆕 new
 
-_4 outlets: Onlinekhabar, Ratopati, Nepal Press, Nepal News · first seen 5h ago · topic: Politics & government_
+_4 outlets: Nagarik News, Ratopati, Nepal News, Mirmire Online · first seen 2h ago · topic: Politics & government_
 
-Sources: [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2065220/npl-winner-sudurpaschim-royals-trophy-tour-begins-on-november-13) · [Ratopati](https://www.ratopati.com/story/607618/sudurpaschim-royals-trophy-tour-to-begin-on-november-13-to-be-held-in-nine-districts) · [Nepal News](https://nepalnews.com/2026/11/25/npl-trophy-tour-in-the-far-west/) · [Nepal Press](https://www.nepalpress.com/2026/11/25/784507/sudurpaschim-royals-trophy-tour-to-be-held-in-all-districts-of-the-province-from-mangshir-13/)
+Sources: [Ratopati](https://www.ratopati.com/story/607723/minister-sah-urges-to-explore-investment-opportunities-in-emerging-sectors) · [Nagarik News](https://nagariknews.nagariknetwork.com/politics/government-committed-to-collaborating-with-private-sector-industry-minister-shah-br-71-59.html) · [Nepal News](https://nepalnews.com/2026/11/26/the-government-is-committed-to-collaborating-with-the-private-sector/) · [Mirmire Online](https://www.mirmireonline.com/2026/11/26/320618/)
 
-### 6. [परराष्ट्रमन्त्री खनालसँग युनिसेफका क्षेत्रीय निर्देशकको भेट](https://nagariknews.nagariknetwork.com/politics/unicef-regional-director-meets-with-foreign-minister-khanal-81-44.html)
+### 6. [वीर अस्पतालका दुई भवन जोड्न लिफ्टसहितको आकासे पुल निर्माण हुँदै](https://www.onlinekhabar.com/2026/11/2065522/a-skybridge-with-an-elevator-is-being-constructed-to-connect-two-buildings-of-bir-hospital)
 
-**50/100** · Foreign relations · 🆕 new
+**50/100** · Society, law & health · 🆕 new · नेपाली press only
 
-_5 outlets: Nagarik News, Khabarhub, Gorkhapatra, Nepal Press +1 more · first seen 4h ago · topic: Foreign relations_
+_7 outlets: Onlinekhabar, Nagarik News, Annapurna Post, Gorkhapatra +3 more · first seen 4h ago · topic: Society, law & health_
 
-Sources: [Nepal Press](https://www.nepalpress.com/2026/11/25/784502/unicef-regional-director-meets-with-foreign-minister-khanal/) · [Mirmire Online](https://www.mirmireonline.com/2026/11/25/320487/) · [Khabarhub](https://khabarhub.com/2026/25/1051679/) · [Nagarik News](https://nagariknews.nagariknetwork.com/politics/unicef-regional-director-meets-with-foreign-minister-khanal-81-44.html) · [Gorkhapatra](https://gorkhapatraonline.com/news/230388)
+Sources: [Nepal Press](https://www.nepalpress.com/2026/11/26/784580/a-skybridge-with-an-elevator-is-being-constructed-to-connect-two-buildings-of-bir-hospital/) · [News of Nepal](https://newsofnepal.com/2026/11/26/795936/) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2065522/a-skybridge-with-an-elevator-is-being-constructed-to-connect-two-buildings-of-bir-hospital) · [Ujyaalo Online](https://www.ujyaaloonline.com/detail/133869) · [Gorkhapatra](https://gorkhapatraonline.com/news/230474) · [Nagarik News](https://nagariknews.nagariknetwork.com/health/a-skybridge-with-an-elevator-is-being-constructed-to-connect-two-buildings-of-bir-hospital-17-88.html) · [Annapurna Post](http://annapurnapost.com/story/512032)
 
-### 7. [देउवा समूहको महाधिवेशन तयारी समिति गठनको जिम्मेवारी कोइरालालाई](https://www.onlinekhabar.com/2026/11/2065162/koirala-given-responsibility-for-forming-deuba-groups-general-convention-preparation-committee)
+### 7. [हिउँ चितुवा र नाउरको संरक्षण गर्न चरन क्षेत्रको अध्ययन](https://www.onlinekhabar.com/2026/11/2065497/study-of-grazing-areas-to-conserve-snow-leopards-and-ungulates)
 
-**49/100** · Politics & government · 🆕 new · नेपाली press only
+**48/100** · Disasters & climate · 🆕 new · नेपाली press only
 
-_4 outlets: Onlinekhabar, Setopati, Annapurna Post, Nepal Press · first seen 8h ago · topic: Politics & government_
+_4 outlets: Onlinekhabar, Nepal Press, Ujyaalo Online, Nepal News · first seen 5h ago · topic: Disasters & climate_
 
-Sources: [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2065162/koirala-given-responsibility-for-forming-deuba-groups-general-convention-preparation-committee) · [Nepal Press](https://www.nepalpress.com/2026/11/25/784428/deuba-group-to-finalize-coordinator-of-general-convention-preparation-committee-by-tomorrow-assigns-responsibility-to-shashank/) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2065248/raju-shrestha-appointed-as-bagmati-province-coordinator-of-deuba-faction) · [Annapurna Post](http://annapurnapost.com/story/511993) · [Setopati](https://www.setopati.com/politics/403389)
+Sources: [Nepal Press](https://www.nepalpress.com/2026/11/26/784561/grazing-area-study-to-conserve-snow-leopards-and-ungulates-in-mustang/) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2065497/study-of-grazing-areas-to-conserve-snow-leopards-and-ungulates) · [Nepal News](https://nepalnews.com/2026/11/26/grazing-area-study-to-conserve-snow-leopards-and-ungulates-in-mustang/) · [Ujyaalo Online](https://www.ujyaaloonline.com/detail/133867)
 
-### 8. [50 million Dollars project planned to minimize GLOF risks](https://risingnepaldaily.com/news/89019)
+### 8. [मेडिकल काउन्सिलका प्रमाणपत्र लिन प्यान र कर चुक्ता अनिवार्य](https://www.onlinekhabar.com/2026/11/2065646/pan-and-tax-payment-mandatory-to-obtain-medical-council-certificate)
 
-**47/100** · Disasters & climate · 🆕 new
+**47/100** · Economy & business · 🆕 new · नेपाली press only
 
-_4 outlets: Onlinekhabar English, The Annapurna Express, The Rising Nepal, Nepal News English · first seen 7h ago · topic: Disasters & climate_
+_4 outlets: Onlinekhabar, Gorkhapatra, Khabarhub, Baahrakhari · broke in the last hour · topic: Economy & business_
 
-Sources: [The Rising Nepal](https://risingnepaldaily.com/news/89019) · [Onlinekhabar English](https://english.onlinekhabar.com/nepal-project-reduce-risks-glacial-lakes.html) · [The Rising Nepal](https://risingnepaldaily.com/news/89021) · [Nepal News English](https://english.nepalnews.com/s/climate/50-million-dollars-project-planned-to-minimize-glof-risks/) · [The Annapurna Express](https://theannapurnaexpress.com/story/69059)
+Sources: [Baahrakhari](https://baahrakhari.com/detail/508346) · [Gorkhapatra](https://gorkhapatraonline.com/news/230475) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2065646/pan-and-tax-payment-mandatory-to-obtain-medical-council-certificate) · [Khabarhub](https://khabarhub.com/2026/26/1051849/)
 
-### 9. [कांग्रेस केन्द्रीय समिति बैठकमा ४९ सदस्यले राखे धारणा](https://www.ratopati.com/story/607620/49-members-expressed-their-views-at-the-congress-central-committee-meeting)
+### 9. [जनकपुर–अयोध्या रेल सेवा शनिबारदेखि व्यावसायिक रूपमा सञ्चालनमा आउँदै, भाडादर निर्धारण](https://www.ratopati.com/story/607732/janakpur-ayodhya-train-service-to-be-commercially-operational-from-saturday-fares-to-be-fixed)
 
-**47/100** · Politics & government · 🆕 new · नेपाली press only
+**46/100** · Politics & government · 🆕 new · नेपाली press only
 
-_4 outlets: Onlinekhabar, Ratopati, Nepal Press, Nepal News · first seen 8h ago · topic: Politics & government_
+_4 outlets: Ratopati, Khabarhub, Desh Sanchar, Nepal News · first seen 6h ago · topic: Politics & government_
 
-Sources: [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2065156/11-women-central-members-nominated-in-nepali-congress-commission-informed) · [Nepal Press](https://www.nepalpress.com/2026/11/25/784452/sujata-koirala-other-female-leaders-nominated-as-nc-central-members/) · [Ratopati](https://www.ratopati.com/story/607620/49-members-expressed-their-views-at-the-congress-central-committee-meeting) · [Nepal News](https://nepalnews.com/2026/11/25/49-members-present-their-views-at-the-congress-central-committee-meeting/)
+Sources: [Desh Sanchar](https://deshsanchar.com/2026/11/26/1256268/) · [Nepal News](https://nepalnews.com/2026/11/26/preparations-for-railway-operations-from-saturday-ticket-booking-opens-from-today/) · [Ratopati](https://www.ratopati.com/story/607732/janakpur-ayodhya-train-service-to-be-commercially-operational-from-saturday-fares-to-be-fixed) · [Khabarhub](https://khabarhub.com/2026/26/1051831/)
 
-### 10. [Election Commission Updates Nepali Congress Central Working Committee Led by Gagan Thapa](http://english.ratopati.com/story/88253/deuba-group-trying-to-hold-general-convention-in-the-name-of-congress-establishment-in-strategy-to-stop-it)
+### 10. [Two people arrested with foreign currencies in Thamel](https://english.khabarhub.com/2026/26/577127/)
 
-**44/100** · Politics & government · 🆕 new
+**44/100** · Society, law & health · 🆕 new
 
-_4 outlets: The Kathmandu Post, Onlinekhabar English, Khabarhub English, Ratopati English · first seen 12h ago · topic: Politics & government_
+_5 outlets: Onlinekhabar English, The Annapurna Express, The Rising Nepal, Khabarhub English +1 more · first seen 2h ago · topic: Society, law & health_
 
-Sources: [The Kathmandu Post](https://kathmandupost.com/politics/2026/11/25/election-commission-updates-nepali-congress-leadership-and-amended-statute) · [Onlinekhabar English](https://english.onlinekhabar.com/congress-leader-calls-for-action-against-representatives-supporting-deuba-factions-convention.html) · [Khabarhub English](https://english.khabarhub.com/2026/25/577017/) · [Onlinekhabar English](https://english.onlinekhabar.com/election-commission-updates-nepali-congress-statute-office-bearers-records.html) · [Onlinekhabar English](https://english.onlinekhabar.com/nepali-congress-women-central-committee.html) · [Ratopati English](http://english.ratopati.com/story/88253/deuba-group-trying-to-hold-general-convention-in-the-name-of-congress-establishment-in-strategy-to-stop-it) · [Ratopati English](http://english.ratopati.com/story/88254/congress-central-working-committee-meeting-postponed-until-tomorrow-to-be-reconvened-at-11-am) · [Ratopati English](http://english.ratopati.com/story/88266/congress-demands-immediate-fixing-of-sugarcane-prices-and-payment-of-arrears-from-the-government)
+Sources: [Nepal News English](https://english.nepalnews.com/s/crime-news/two-people-arrested-with-foreign-currency/) · [The Rising Nepal](https://risingnepaldaily.com/news/89055) · [Onlinekhabar English](https://english.onlinekhabar.com/two-arrested-from-thamel.html) · [Khabarhub English](https://english.khabarhub.com/2026/26/577127/) · [The Annapurna Express](https://theannapurnaexpress.com/story/69086)
 
-### 11. [दशौँ राष्ट्रिय खेलकुदको दोस्रो दिनसम्म ६८ पदकको छिनोफानो, बागमती शीर्ष स्थानमा](http://annapurnapost.com/story/512006)
+### 11. [Minister Chaudhary inspects meat storage centres](https://english.nepalnews.com/s/nation/minister-chaudhary-inspects-meat-storage-centres/)
 
-**43/100** · Sports & culture · 🆕 new
+**43/100** · Politics & government · 🆕 new
 
-_9 outlets: Onlinekhabar, Nagarik News, Ratopati, Annapurna Post +5 more · first seen 5h ago · topic: Sports & culture_
+_3 outlets: Khabarhub English, The Rising Nepal, Nepal News English · first seen 2h ago · topic: Politics & government_
 
-Sources: [Nepal Press](https://www.nepalpress.com/2026/11/25/784473/bagmati-tops-the-list-on-the-second-day-of-the-10th-national-games/) · [Nepal Press](https://www.nepalpress.com/2026/11/25/784489/6-national-records-in-swimming-bagmati-tops-with-9-golds/) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2065298/10th-national-games-four-national-records-set-on-second-day-in-swimming-bagmati-and-nra-continue-to-dominate) · [Ratopati](https://www.ratopati.com/story/607615/4-national-records-set-on-second-day-of-swimming-bagmati-tops-the-list) · [Mirmire Online](https://www.mirmireonline.com/2026/11/25/320500/) · [Baahrakhari](https://baahrakhari.com/detail/508299) · [Nepal Press](https://www.nepalpress.com/2026/11/25/784527/68-medals-decided-on-second-day-of-10th-national-games-bagmati-tops-the-list/) · [Nagarik News](https://nagariknews.nagariknetwork.com/sports/10th-national-games-bagmati-tops-the-list-of-68-medals-to-be-won-92-63.html)
+Sources: [Khabarhub English](https://english.khabarhub.com/2026/26/577109/) · [Nepal News English](https://english.nepalnews.com/s/nation/minister-chaudhary-inspects-meat-storage-centres/) · [The Rising Nepal](https://risingnepaldaily.com/news/89054)
 
-### 12. [कोरलानाकामा पूर्वाधार निर्माण गर्न संसदीय समितिको ध्यानाकर्षण](https://gorkhapatraonline.com/news/230383)
+### 12. [१० औँ राष्ट्रिय खेलकुद : मधेशसँगको हारसँगै लुम्बिनी प्रतियोगिताबाट बाहिरियो](http://annapurnapost.com/story/512034)
 
-**42/100** · Politics & government · 🆕 new
+**42/100** · Sports & culture · 🆕 new · नेपाली press only
 
-_3 outlets: Nagarik News, Gorkhapatra, Mirmire Online · first seen 3h ago · topic: Politics & government_
+_7 outlets: Onlinekhabar, Nagarik News, Ratopati, Annapurna Post +3 more · first seen 3h ago · topic: Sports & culture_
 
-Sources: [Mirmire Online](https://www.mirmireonline.com/2026/11/25/320494/) · [Nagarik News](https://nagariknews.nagariknetwork.com/social-affairs/attention-of-parliamentary-committee-drawn-to-construction-of-infrastructure-at-korala-checkpoint-br-36-51.html) · [Gorkhapatra](https://gorkhapatraonline.com/news/230383)
+Sources: [Nagarik News](https://nagariknews.nagariknetwork.com/sports/10th-national-games-karnali-eliminated-from-the-league-stage-in-football-br-37-57.html) · [Ratopati](https://www.ratopati.com/story/607718/10th-national-games-lumbini-eliminated-from-the-competition-after-losing-to-madhes) · [Nepal Press](https://www.nepalpress.com/2026/11/26/784619/lumbini-loses-to-madhesh-exits-group-stage/) · [Nagarik News](https://nagariknews.nagariknetwork.com/sports/10th-national-games-lumbini-eliminated-from-competition-after-defeat-to-madhesh-br-34-32.html) · [Gorkhapatra](https://gorkhapatraonline.com/news/230469) · [Nepal News](https://nepalnews.com/2026/11/26/10th-national-games-karnali-eliminated-from-the-league-stage-in-mens-football/) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2065615/karnali-eliminated-from-the-league-stage-in-mens-football) · [Ratopati](https://www.ratopati.com/story/607729/10th-national-games-karnalis-first-win-in-mens-cricket)
 
-### 13. [भक्तपुुरमा तीन उत्कृष्ट उद्यमी सम्मानित](https://gorkhapatraonline.com/news/230389)
+### 13. [अमेरिकाद्वारा चीन र भारतसहित कैयौँ देशमाथि नयाँ भन्सार शुल्क घोषणा](https://www.bbc.com/nepali/articles/ck0jx4x6qgnzo?at_medium=RSS&at_campaign=rss)
 
-**39/100** · Politics & government · 🆕 new · नेपाली press only
+**39/100** · Foreign relations · 📈 rising · नेपाली press only
 
-_3 outlets: Annapurna Post, Gorkhapatra, News of Nepal · first seen 6h ago · topic: Politics & government_
+_2 outlets: BBC Nepali, Desh Sanchar · first seen 4h ago · topic: Foreign relations · rising: 1 more outlets since yesterday_
 
-Sources: [News of Nepal](https://newsofnepal.com/2026/11/25/795821/) · [Annapurna Post](http://annapurnapost.com/story/512003) · [Gorkhapatra](https://gorkhapatraonline.com/news/230389)
+Sources: [Desh Sanchar](https://deshsanchar.com/2026/11/26/1256289/) · [BBC Nepali](https://www.bbc.com/nepali/articles/ck0jx4x6qgnzo?at_medium=RSS&at_campaign=rss)
 
-### 14. [Health Minister Mehta pledges to set up provincial Trauma Centers in seven provinces](https://risingnepaldaily.com/news/89022)
+### 14. [१२ हजार क्विन्टल धान खरिद गरिँदै](https://www.nepalpress.com/2026/11/26/784569/12000-quintals-of-paddy-being-purchased/)
 
-**39/100** · Politics & government · 🆕 new
+**38/100** · Politics & government · 🆕 new · नेपाली press only
 
-_3 outlets: Ratopati English, The Rising Nepal, Nepal News English · first seen 6h ago · topic: Politics & government_
+_3 outlets: Nepal Press, Desh Sanchar, Nepal News · first seen 5h ago · topic: Politics & government_
 
-Sources: [Ratopati English](http://english.ratopati.com/story/88262/minister-mehta-stresses-addressing-problems-of-all-forms-of-ayurveda-and-alternative-medicine) · [Ratopati English](http://english.ratopati.com/story/88246/trauma-centers-in-all-seven-provinces-or-trauma-care-in-large-hospitals) · [Nepal News English](https://english.nepalnews.com/s/health/health-minister-mehta-pledges-to-set-up-provincial-trauma-centers-in-seven-provinces/) · [The Rising Nepal](https://risingnepaldaily.com/news/89022)
+Sources: [Desh Sanchar](https://deshsanchar.com/2026/11/26/1256287/) · [Nepal Press](https://www.nepalpress.com/2026/11/26/784569/12000-quintals-of-paddy-being-purchased/) · [Nepal News](https://nepalnews.com/2026/11/26/twelve-thousand-quintals-of-paddy-being-purchased/)
 
-### 15. [आनी छोइङ डोल्माबारे सर्वोच्चमा आगामी सोमबार छलफल हुने](https://www.onlinekhabar.com/2026/11/2065198/supreme-court-to-discuss-ani-choing-dolma-issue-next-monday)
+### 15. [Study underway to assess grazing grounds for snow leopard and blue sheep conservation](https://english.onlinekhabar.com/study-underway-to-assess-grazing-grounds-for-snow-leopard-and-blue-sheep-conservation.html)
 
-**39/100** · Politics & government · 🆕 new · नेपाली press only
+**37/100** · Disasters & climate · 🆕 new
 
-_3 outlets: Onlinekhabar, Nepal Press, Imagekhabar · first seen 7h ago · topic: Politics & government_
+_2 outlets: Onlinekhabar English, Khabarhub English · broke in the last hour · topic: Disasters & climate_
 
-Sources: [Nepal Press](https://www.nepalpress.com/2026/11/25/784423/no-interim-order-today-on-writ-seeking-cancellation-of-anis-appointment/) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2065198/supreme-court-to-discuss-ani-choing-dolma-issue-next-monday) · [Imagekhabar](https://www.imagekhabar.com/news/564254/)
+Sources: [Onlinekhabar English](https://english.onlinekhabar.com/study-underway-to-assess-grazing-grounds-for-snow-leopard-and-blue-sheep-conservation.html) · [Khabarhub English](https://english.khabarhub.com/2026/26/577144/)
 
 ## On this day in Nepal: 26 November
 
@@ -142,7 +142,8 @@ Sources: [Nepal Press](https://www.nepalpress.com/2026/11/25/784423/no-interim-o
 
 ## Source problems
 
-- **gdelt**: every GDELT query failed
+- **feeds**: 46/48 feeds read; failed: The Indian Express World (FetchError: HTTP 403 for https://indianexpress.com/section/world/feed/); Khaleej Times (FetchError: HTTP 403 for https://www.khaleejtimes.com/stories.rss)
+- **gdelt**: every GDELT query failed: nepal (GDELT: HTTP 429)
 
 ---
 Briefs are off (set ANTHROPIC_API_KEY to turn them on). Headlines are the outlets' own.
