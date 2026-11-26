@@ -1,0 +1,673 @@
+{
+ "month": 11,
+ "day": 27,
+ "label": "27 November",
+ "computed_at": "2026-11-26T22:29:00+00:00",
+ "years_checked": [
+  1920,
+  2025
+ ],
+ "items": [
+  {
+   "year": 2025,
+   "title": "Rastriya Prajatantra Party Nepal",
+   "sentence": "On 27 November 2025, the Rajendra Lingden-led Rastriya Prajatantra Party (RPP) formed a dialogue committee—composed of senior leaders Buddhiman Tamang, Bikram Pandey, and Dhruba Bahadur Pradhan—to pursue alliances with like-minded nationalist groups.",
+   "kind": "event",
+   "listed": false,
+   "description": "Political party in Nepal",
+   "lead": false,
+   "links": 0,
+   "score": 0.4,
+   "also": [],
+   "news": null,
+   "url": "https://en.wikipedia.org/wiki/Rastriya_Prajatantra_Party_Nepal"
+  },
+  {
+   "year": 2024,
+   "title": "",
+   "sentence": "लक्ष्य हासिल गर्नेगरी काम गर्न प्रधानमन्त्रीको निर्देशन",
+   "kind": "top_story",
+   "listed": false,
+   "links": 4,
+   "score": 1.609,
+   "outlets": [
+    "Imagekhabar",
+    "Khabarhub",
+    "News of Nepal",
+    "Onlinekhabar"
+   ],
+   "article_count": 8,
+   "news": {
+    "title": "लक्ष्य हासिल गर्नेगरी काम गर्न प्रधानमन्त्रीको निर्देशन",
+    "url": "https://khabarhub.com/2024/27/715856/",
+    "outlet": "Khabarhub",
+    "date": "2024-11-27",
+    "kind": "top_story"
+   }
+  },
+  {
+   "year": 2023,
+   "title": "",
+   "sentence": "गणतन्त्रको विकल्प छैन : सभापति देउवा",
+   "kind": "top_story",
+   "listed": false,
+   "links": 5,
+   "score": 1.792,
+   "outlets": [
+    "Clickmandu",
+    "Imagekhabar",
+    "Khabarhub",
+    "News of Nepal",
+    "Onlinekhabar"
+   ],
+   "article_count": 8,
+   "news": {
+    "title": "गणतन्त्रको विकल्प छैन : सभापति देउवा",
+    "url": "https://www.imagekhabar.com/news/462215/",
+    "outlet": "Imagekhabar",
+    "date": "2023-11-27",
+    "kind": "top_story"
+   }
+  },
+  {
+   "year": 2022,
+   "title": "",
+   "sentence": "प्रत्यक्षतर्फ १५४ सिटको नतिजा : कांग्रेस ५२, एमाले ४०, माओवादी १७ सिटमा विजयी",
+   "kind": "top_story",
+   "listed": false,
+   "links": 5,
+   "score": 1.792,
+   "outlets": [
+    "Clickmandu",
+    "Imagekhabar",
+    "Khabarhub",
+    "News of Nepal",
+    "Onlinekhabar"
+   ],
+   "article_count": 13,
+   "news": {
+    "title": "प्रत्यक्षतर्फ १५४ सिटको नतिजा : कांग्रेस ५२, एमाले ४०, माओवादी १७ सिटमा विजयी",
+    "url": "https://khabarhub.com/2022/27/455145/",
+    "outlet": "Khabarhub",
+    "date": "2022-11-26",
+    "kind": "top_story"
+   }
+  },
+  {
+   "year": 2021,
+   "title": "",
+   "sentence": "एमाले महाधिवेशनको बन्दशत्र सुरु",
+   "kind": "top_story",
+   "listed": false,
+   "links": 4,
+   "score": 1.609,
+   "outlets": [
+    "Imagekhabar",
+    "Khabarhub",
+    "News of Nepal",
+    "Onlinekhabar"
+   ],
+   "article_count": 8,
+   "news": {
+    "title": "एमाले महाधिवेशनको बन्दशत्र सुरु",
+    "url": "https://www.onlinekhabar.com/2021/11/1044813/%e0%a4%8f%e0%a4%ae%e0%a4%be%e0%a4%b2%e0%a5%87-%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a7%e0%a4%bf%e0%a4%b5%e0%a5%87%e0%a4%b6%e0%a4%a8%e0%a4%95%e0%a5%8b-%e0%a4%ac%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a4%b6%e0%a4%a4",
+    "outlet": "Onlinekhabar",
+    "date": "2021-11-27",
+    "kind": "top_story"
+   }
+  },
+  {
+   "year": 2020,
+   "title": "",
+   "sentence": "नेपालमा पछिल्लो २४ घण्टामा थपिए १७०३ कोरोना संक्रमित, २३ को मृत्यु",
+   "kind": "top_story",
+   "listed": false,
+   "links": 4,
+   "score": 1.609,
+   "outlets": [
+    "Imagekhabar",
+    "Khabarhub",
+    "News of Nepal",
+    "Onlinekhabar"
+   ],
+   "article_count": 12,
+   "news": {
+    "title": "नेपालमा पछिल्लो २४ घण्टामा थपिए १७०३ कोरोना संक्रमित, २३ को मृत्यु",
+    "url": "https://khabarhub.com/2020/27/222433/",
+    "outlet": "Khabarhub",
+    "date": "2020-11-27",
+    "kind": "top_story"
+   }
+  },
+  {
+   "year": 2019,
+   "title": "",
+   "sentence": "अर्घाखाँचीमा बस दुर्घटना हुँदा ६ जनाको मृत्यु",
+   "kind": "top_story",
+   "listed": false,
+   "links": 4,
+   "score": 1.609,
+   "outlets": [
+    "Imagekhabar",
+    "Khabarhub",
+    "News of Nepal",
+    "Onlinekhabar"
+   ],
+   "article_count": 15,
+   "news": {
+    "title": "अर्घाखाँचीमा बस दुर्घटना हुँदा ६ जनाको मृत्यु",
+    "url": "https://khabarhub.com/2019/27/104598/",
+    "outlet": "Khabarhub",
+    "date": "2019-11-27",
+    "kind": "top_story"
+   }
+  },
+  {
+   "year": 2018,
+   "title": "",
+   "sentence": "आजदेखि योगदानमा आधारित सामाजिक सुरक्षा योजना",
+   "kind": "top_story",
+   "listed": false,
+   "links": 3,
+   "score": 1.386,
+   "outlets": [
+    "Clickmandu",
+    "News of Nepal",
+    "Onlinekhabar"
+   ],
+   "article_count": 9,
+   "news": {
+    "title": "आजदेखि योगदानमा आधारित सामाजिक सुरक्षा योजना",
+    "url": "https://newsofnepal.com/2018/11/27/161229/",
+    "outlet": "News of Nepal",
+    "date": "2018-11-27",
+    "kind": "top_story"
+   }
+  },
+  {
+   "year": 2017,
+   "title": "",
+   "sentence": "जाजरकोटमा मतपेटिकालाई लक्षित गरी बम विस्फोट",
+   "kind": "top_story",
+   "listed": false,
+   "links": 4,
+   "score": 1.609,
+   "outlets": [
+    "Clickmandu",
+    "Imagekhabar",
+    "News of Nepal",
+    "Onlinekhabar"
+   ],
+   "article_count": 6,
+   "news": {
+    "title": "जाजरकोटमा मतपेटिकालाई लक्षित गरी बम विस्फोट",
+    "url": "https://newsofnepal.com/2017/11/27/68306/",
+    "outlet": "News of Nepal",
+    "date": "2017-11-27",
+    "kind": "top_story"
+   }
+  },
+  {
+   "year": 2016,
+   "title": "",
+   "sentence": "जन्ती बोकेको जिप दुर्घटना, दुईको मृत्यु, १४ घाइते",
+   "kind": "top_story",
+   "listed": false,
+   "links": 2,
+   "score": 1.099,
+   "outlets": [
+    "Imagekhabar",
+    "Onlinekhabar"
+   ],
+   "article_count": 5,
+   "news": {
+    "title": "जन्ती बोकेको जिप दुर्घटना, दुईको मृत्यु, १४ घाइते",
+    "url": "https://www.onlinekhabar.com/2016/11/506294/%e0%a4%9c%e0%a4%a8%e0%a5%8d%e0%a4%a4%e0%a5%80-%e0%a4%ac%e0%a5%8b%e0%a4%95%e0%a5%87%e0%a4%95%e0%a5%8b-%e0%a4%9c%e0%a4%bf%e0%a4%aa-%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%98%e0%a4%9f%e0%a4%a8",
+    "outlet": "Onlinekhabar",
+    "date": "2016-11-27",
+    "kind": "top_story"
+   }
+  },
+  {
+   "year": 2015,
+   "title": "Mount Everest",
+   "sentence": "Scientific studies confirm more than 90 percent of the world’s glaciers are retreating, and many of the smaller ones — like the alpine ice sheets of Glacier National Park in the U.S. — are rapidly disappearing. On the other side of world, at Khumbu Glacier near Mount Everest in the Himalayas, expanding ponds are merging and forming larger bodies of water. This could threaten settlements downstream if they overflow. Thawing glaciers account for about 20 percent of the sea-level rise recorded in the past century, adding to the meltwater coming from polar ice caps and ice sheets.",
+   "kind": "event",
+   "listed": true,
+   "lead": true,
+   "source": "current_events",
+   "links": 0,
+   "score": 1.4,
+   "also": [
+    {
+     "title": "Kabaddi (2014 film)",
+     "sentence": "Kabaddi Kabaddi was released in 27 November 2015, and it also became a huge success critically and commercially.",
+     "kind": "event"
+    }
+   ],
+   "news": {
+    "title": "Washington Post report",
+    "url": "https://www.washingtonpost.com/sf/national/2015/11/26/ice-worlds/?wpmm=1&wpisrc=nl_headlines",
+    "outlet": "Washington Post",
+    "date": "2015-11-27",
+    "kind": "current_events"
+   },
+   "url": "https://en.wikipedia.org/wiki/Mount_Everest"
+  },
+  {
+   "year": 2014,
+   "title": "18th SAARC summit",
+   "sentence": "The eighteenth summit of the South Asian Association of Regional Cooperation (SAARC) was held in Kathmandu, the capital of Nepal on 26–27 November 2014.",
+   "kind": "event",
+   "listed": false,
+   "description": "",
+   "lead": true,
+   "links": 0,
+   "score": 0.6,
+   "also": [
+    {
+     "title": "SAARC Summit",
+     "sentence": "The 18th SAARC summit was held at the Nepalese capital Kathmandu from November 26 to November 27, 2014 and was attended by the prime ministers of Bangladesh, Bhutan, India, Nepal and Pakistan, and the presidents of the Afghanistan, Maldives and Sri Lanka.",
+     "kind": "event"
+    }
+   ],
+   "news": {
+    "title": "SAARC summit: PM Narendra Modi, Pakistan PM Nawaz Sharif shake hands, but no talks",
+    "url": "http://indianexpress.com/article/india/india-others/after-chill-the-thaw-handshake-but-no-talks/",
+    "outlet": "The Indian Express",
+    "date": "2014-11-28",
+    "kind": "cited"
+   },
+   "url": "https://en.wikipedia.org/wiki/18th_SAARC_summit"
+  },
+  {
+   "year": 2013,
+   "title": "Young Communist League, Nepal",
+   "sentence": "However, on November 27, 2013, a YCL activist was killed by a member of the CPN-UML, breaking the lull in violent incidents.",
+   "kind": "event",
+   "listed": false,
+   "description": "Youth wing of Communist Party of Nepal (Maoist Centre",
+   "lead": false,
+   "links": 0,
+   "score": 1.3,
+   "also": [],
+   "news": {
+    "title": "Flights-of-fancy: Flights of fancy Yashoda Timsina, Nepal, 24 November When Ek Nath Dhakal chartered a Fishtail Air helicopter to Achham, the crowd that assembled…",
+    "url": "https://archive.nepalitimes.com/flights-of-fancy",
+    "outlet": "Nepali Times #683",
+    "date": "2013-11-29",
+    "kind": "nepalitimes"
+   },
+   "url": "https://en.wikipedia.org/wiki/Young_Communist_League,_Nepal"
+  },
+  {
+   "year": 2012,
+   "title": "Subrata Bain",
+   "sentence": "After escaping from a Nepal jail, he returned to Kolkata and was again arrested in a joint operation on 27 November 2012 in Burrabazar.",
+   "kind": "event",
+   "listed": false,
+   "description": "Bangladeshi criminal and gang leader",
+   "lead": false,
+   "links": 0,
+   "score": 0.9,
+   "also": [
+    {
+     "title": "Tara Devi Tuladhar",
+     "sentence": "Tara Devi Tuladhar (Nepali: तारादेवी तुलाधर) (21 August 1931 – 27 November 2012) was Nepal's first female blood donor and a social worker who dedicated her life to serving society.",
+     "kind": "death"
+    }
+   ],
+   "news": null,
+   "url": "https://en.wikipedia.org/wiki/Subrata_Bain"
+  },
+  {
+   "year": 2011,
+   "title": "",
+   "sentence": "Awesome chance: When the history of the wasted years after the May 2008 elections is written, it will not be kind on Pushpa Kamal Dahal. The heavily-garlanded…",
+   "kind": "weekly",
+   "listed": false,
+   "links": 0,
+   "score": 0.3,
+   "url": "",
+   "news": {
+    "title": "Awesome chance: When the history of the wasted years after the May 2008 elections is written, it will not be kind on Pushpa Kamal Dahal. The heavily-garlanded…",
+    "url": "https://archive.nepalitimes.com/awesome-chance",
+    "outlet": "Nepali Times #581",
+    "date": "2011-12-02",
+    "kind": "nepalitimes"
+   }
+  },
+  {
+   "year": 2010,
+   "title": "",
+   "sentence": "Long road ahead: BIJAY KUMAR MAHATO/RSS Travellers between Birganj and Raxaul make use of local transportation",
+   "kind": "weekly",
+   "listed": false,
+   "links": 0,
+   "score": 0.3,
+   "url": "",
+   "news": {
+    "title": "Long road ahead: BIJAY KUMAR MAHATO/RSS Travellers between Birganj and Raxaul make use of local transportation",
+    "url": "https://archive.nepalitimes.com/long-road-ahead",
+    "outlet": "Nepali Times #530",
+    "date": "2010-12-03",
+    "kind": "nepalitimes"
+   }
+  },
+  {
+   "year": 2009,
+   "title": "Narendra Man Singh",
+   "sentence": "Narendra Man Singh (Nepali: नरेन्द्र मान सिंह; 1958 – 27 November 2009) was a Nepalese footballer.",
+   "kind": "death",
+   "listed": false,
+   "description": "Nepalese footballer (1958–2009)",
+   "lead": true,
+   "links": 0,
+   "score": 0.0,
+   "also": [],
+   "news": {
+    "title": "Former footballer Singh passes away",
+    "url": "https://web.archive.org/web/20150402111033/http://archives.myrepublica.com/portal/index.php?action=news_details&news_id=12241",
+    "outlet": "Republica",
+    "date": "2009-11-27",
+    "kind": "cited"
+   },
+   "url": "https://en.wikipedia.org/wiki/Narendra_Man_Singh"
+  },
+  {
+   "year": 2008,
+   "title": "",
+   "sentence": "Disunion: Labour disputes and industrial insecurity are scaring away investors",
+   "kind": "weekly",
+   "listed": false,
+   "links": 0,
+   "score": 0.3,
+   "url": "",
+   "news": {
+    "title": "Disunion: Labour disputes and industrial insecurity are scaring away investors",
+    "url": "https://archive.nepalitimes.com/disunion",
+    "outlet": "Nepali Times #427",
+    "date": "2008-11-28",
+    "kind": "nepalitimes"
+   }
+  },
+  {
+   "year": 2007,
+   "title": "",
+   "sentence": "Farewell to arms?: Time for the Maoists to decide: house or jungle",
+   "kind": "weekly",
+   "listed": false,
+   "links": 0,
+   "score": 0.3,
+   "url": "",
+   "news": {
+    "title": "Farewell to arms?: Time for the Maoists to decide: house or jungle",
+    "url": "https://archive.nepalitimes.com/farewell-to-arms",
+    "outlet": "Nepali Times #376",
+    "date": "2007-11-30",
+    "kind": "nepalitimes"
+   }
+  },
+  {
+   "year": 2005,
+   "title": "",
+   "sentence": "On the move: The country has entered a critical phase, as the people wait for the 12-point understanding between the Maoists and political parties to kick in…",
+   "kind": "weekly",
+   "listed": false,
+   "links": 0,
+   "score": 0.3,
+   "url": "",
+   "news": {
+    "title": "On the move: The country has entered a critical phase, as the people wait for the 12-point understanding between the Maoists and political parties to kick in…",
+    "url": "https://archive.nepalitimes.com/on-the-move-1",
+    "outlet": "Nepali Times #275",
+    "date": "2005-12-02",
+    "kind": "nepalitimes"
+   }
+  },
+  {
+   "year": 2004,
+   "title": "",
+   "sentence": "Blocked artery: For a month now, western Nepal remains cut off by landmined highways",
+   "kind": "weekly",
+   "listed": false,
+   "links": 0,
+   "score": 0.3,
+   "url": "",
+   "news": {
+    "title": "Blocked artery: For a month now, western Nepal remains cut off by landmined highways",
+    "url": "https://archive.nepalitimes.com/blocked-artery",
+    "outlet": "Nepali Times #224",
+    "date": "2004-12-03",
+    "kind": "nepalitimes"
+   }
+  },
+  {
+   "year": 2003,
+   "title": "",
+   "sentence": "Review decision on HRPC: NHRC to Govt.: National Human Rights Commission has urged the government to review its decision to set up a separate Human Rights Promotion Centre (HRPC) under the Prime Minister's direct supervision, the Kathmandu Post said Thursday.",
+   "kind": "day_news",
+   "listed": false,
+   "links": 0,
+   "score": 0.5,
+   "url": "",
+   "also": [
+    {
+     "title": "",
+     "sentence": "PM Thapa, Sri Lankan President meet",
+     "kind": "day_news"
+    },
+    {
+     "title": "",
+     "sentence": "Six schools shut down",
+     "kind": "day_news"
+    },
+    {
+     "title": "",
+     "sentence": "More investment in schools suggested",
+     "kind": "day_news"
+    }
+   ],
+   "news": {
+    "title": "Review decision on HRPC: NHRC to Govt.",
+    "url": "https://web.archive.org/web/20031212180538/http://www.nepalnews.com.np:80/archive/2003/november/arc925.htm",
+    "outlet": "nepalnews.com",
+    "date": "2003-11-27",
+    "kind": "wayback"
+   }
+  },
+  {
+   "year": 2002,
+   "title": "",
+   "sentence": "Khadka, Gupta remand extended: A special Kathmandu court Wednesday extended the remand of former ministers Khum Bahadur Khadka and Jayaprakash Prasad Gupta for investigation into corruption charges for an additional 15 days after a three-day hearing, court sources said.",
+   "kind": "day_news",
+   "listed": false,
+   "links": 0,
+   "score": 0.5,
+   "url": "",
+   "also": [
+    {
+     "title": "",
+     "sentence": "Army recover hidden explosives",
+     "kind": "day_news"
+    },
+    {
+     "title": "",
+     "sentence": "Two murdered in Lalitpur",
+     "kind": "day_news"
+    },
+    {
+     "title": "",
+     "sentence": "Youths on the run to avoid Maoists",
+     "kind": "day_news"
+    }
+   ],
+   "news": {
+    "title": "Khadka, Gupta remand extended",
+    "url": "https://web.archive.org/web/20030315132832/http://www.nepalnews.com.np:80/archive/2002/november/arc535.htm",
+    "outlet": "nepalnews.com",
+    "date": "2002-11-27",
+    "kind": "wayback"
+   }
+  },
+  {
+   "year": 2001,
+   "title": "",
+   "sentence": "Army seeks cooperation from media: Royal Nepal Army has sought cooperation from journalists and media by publishing news, opinion, comments and other publication materials relating to army only after confirming with the Information Department of Royal Nepal Army, said a notice issued by News Director of the Royal Nepal Army.",
+   "kind": "day_news",
+   "listed": false,
+   "links": 0,
+   "score": 0.5,
+   "url": "",
+   "also": [
+    {
+     "title": "",
+     "sentence": "Nayab Bada Guruju appointed",
+     "kind": "day_news"
+    },
+    {
+     "title": "",
+     "sentence": "Maoists kill four more policemen",
+     "kind": "day_news"
+    },
+    {
+     "title": "",
+     "sentence": "EU only \" regrets \" violence",
+     "kind": "day_news"
+    }
+   ],
+   "news": {
+    "title": "Army seeks cooperation from media",
+    "url": "https://web.archive.org/web/20011212153710/http://www.nepalnews.com.np:80/archive/2001/november/arc297.htm",
+    "outlet": "nepalnews.com",
+    "date": "2001-11-27",
+    "kind": "wayback"
+   }
+  },
+  {
+   "year": 2000,
+   "title": "",
+   "sentence": "‘Nepal oil corruption’: In Nepal oil and water mix. So do kerosene and petrol, water and diesel. A few people get rich quick, the Nepali people lose out.",
+   "kind": "weekly",
+   "listed": false,
+   "links": 0,
+   "score": 0.3,
+   "url": "",
+   "news": {
+    "title": "‘Nepal oil corruption’: In Nepal oil and water mix. So do kerosene and petrol, water and diesel. A few people get rich quick, the Nepali people lose out.",
+    "url": "https://archive.nepalitimes.com/nepal-oil-corruption-2",
+    "outlet": "Nepali Times #19",
+    "date": "2000-12-01",
+    "kind": "nepalitimes"
+   }
+  },
+  {
+   "year": 1999,
+   "title": "Pratima Sherpa",
+   "sentence": "Pratima Sherpa (Nepali: प्रतिमा शेर्पा; born 27 November 1999) is the first ranked amateur female golfer from Nepal.",
+   "kind": "birth",
+   "listed": true,
+   "lead": true,
+   "links": 0,
+   "score": 1.4,
+   "also": [],
+   "news": null,
+   "url": "https://en.wikipedia.org/wiki/Pratima_Sherpa"
+  },
+  {
+   "year": 1997,
+   "title": "Nepal Dalit Sangh",
+   "sentence": "The organization emerged from initiatives by Dalit leaders associated with the Nepali Congress, including Bijul Bishwakarma, Ganesh Pariyar, and Dal Singh Kami, and was formally established as a sister organization of the party on 27 November 1997.",
+   "kind": "event",
+   "listed": false,
+   "description": "Dalit wing of political Party",
+   "lead": true,
+   "links": 0,
+   "score": 1.3,
+   "also": [],
+   "news": null,
+   "url": "https://en.wikipedia.org/wiki/Nepal_Dalit_Sangh"
+  },
+  {
+   "year": 1988,
+   "title": "Manikala Rai",
+   "sentence": "Manikala Rai (born 27 November 1988) is a Nepalese ultra runner who now lives in France.",
+   "kind": "birth",
+   "listed": false,
+   "description": "Nepalese ultramarathon runner",
+   "lead": true,
+   "links": 0,
+   "score": 0.0,
+   "also": [],
+   "news": null,
+   "url": "https://en.wikipedia.org/wiki/Manikala_Rai"
+  },
+  {
+   "year": 1987,
+   "title": "Everest Marathon",
+   "sentence": "On 27 November 1987, the Nepal Government officially released a stamp in recognition of the marathon and repeated this accolade again in 2014.",
+   "kind": "event",
+   "listed": false,
+   "description": "Marathon held in Solukhumbu, Nepal",
+   "lead": false,
+   "links": 0,
+   "score": 0.4,
+   "also": [],
+   "news": null,
+   "url": "https://en.wikipedia.org/wiki/Everest_Marathon"
+  },
+  {
+   "year": 1966,
+   "title": "Prakash Jwala",
+   "sentence": "Prakash Jwala (Nepali: प्रकाश ज्वाला; born 27 November 1966) is a Nepali politician currently serving as minister of physical infrastructure and transport of Government of Nepal.",
+   "kind": "birth",
+   "listed": false,
+   "description": "Nepali politician (born 1966)",
+   "lead": true,
+   "links": 0,
+   "score": 0.0,
+   "also": [],
+   "news": null,
+   "url": "https://en.wikipedia.org/wiki/Prakash_Jwala"
+  },
+  {
+   "year": 1937,
+   "title": "Nepal Ratna Man Padavi",
+   "sentence": "Order of Tri Shakti Patta was instituted by King Tribhuvan of Nepal in on 27 November 1937.",
+   "kind": "event",
+   "listed": false,
+   "description": "Nepal's highest civilian award",
+   "lead": true,
+   "links": 0,
+   "score": 0.7,
+   "also": [
+    {
+     "title": "Order of Tri Shakti Patta",
+     "sentence": "The order was later instituted on 27 November 1937 by King Tribhuvan.",
+     "kind": "event"
+    },
+    {
+     "title": "Rastra Gaurav Man Padavi",
+     "sentence": "Order of Tri Shakti Patta was instituted by King Tribhuvan of Nepal in on 27 November 1937.",
+     "kind": "event"
+    }
+   ],
+   "news": null,
+   "url": "https://en.wikipedia.org/wiki/Nepal_Ratna_Man_Padavi"
+  },
+  {
+   "year": 1936,
+   "title": "Ranu Devi Adhikari",
+   "sentence": "Ranu Devi Adhikari (Nepali: रानुदेवी अधिकारी) (27 November 1936 – 30 April 2020) was a singer of Nepal.",
+   "kind": "birth",
+   "listed": false,
+   "description": "Nepali singer (1936–2020)",
+   "lead": true,
+   "links": 0,
+   "score": 0.0,
+   "also": [],
+   "news": null,
+   "url": "https://en.wikipedia.org/wiki/Ranu_Devi_Adhikari"
+  }
+ ]
+}

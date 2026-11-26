@@ -1,21 +1,21 @@
 {
- "generated_at": "2026-11-26T17:41:43+00:00",
+ "generated_at": "2026-11-26T22:17:25+00:00",
  "date": "2026-11-26",
- "new_today": 47,
+ "new_today": 36,
  "first_run": false,
  "lookback_hours": 48,
  "funnel": {
-  "collected": 581,
+  "collected": 594,
   "undated": 0,
-  "too_old": 144,
-  "excluded": 13,
+  "too_old": 154,
+  "excluded": 15,
   "duplicate": 0,
-  "archived_new": 357,
-  "articles_in_window": 424,
-  "stories": 261,
-  "off_topic": 51,
-  "low_score": 159,
-  "shown": 51
+  "archived_new": 9,
+  "articles_in_window": 425,
+  "stories": 264,
+  "off_topic": 52,
+  "low_score": 171,
+  "shown": 41
  },
  "llm": {
   "enabled": false
@@ -24,9 +24,9 @@
   {
    "name": "feeds",
    "ok": true,
-   "fetched": 581,
-   "in_stories": 51,
-   "detail": "45/48 feeds read; failed: Kathmandu Tribune (FetchError: HTTP 403 for https://www.kathmandutribune.com/feed/); The Indian Express World (FetchError: HTTP 403 for https://indianexpress.com/section/world/feed/); Khaleej Times (FetchError: HTTP 403 for https://www.khaleejtimes.com/stories.rss)",
+   "fetched": 594,
+   "in_stories": 41,
+   "detail": "46/48 feeds read; failed: The Indian Express World (FetchError: HTTP 403 for https://indianexpress.com/section/world/feed/); Khaleej Times (FetchError: HTTP 403 for https://www.khaleejtimes.com/stories.rss)",
    "error": ""
   },
   {
@@ -71,17 +71,17 @@
     "Foreign relations",
     "Society, law & health"
    ],
-   "score": 75.2,
+   "score": 68.4,
    "signals": {
     "coverage": 0.979,
     "engagement": 0.0,
     "velocity": 0.0,
-    "freshness": 0.904,
-    "age_hours": 4.5
+    "freshness": 0.822,
+    "age_hours": 9.1
    },
    "reasons": [
     "11 outlets: Onlinekhabar, Annapurna Post, Khabarhub, Gorkhapatra +7 more",
-    "first seen 5h ago",
+    "first seen 9h ago",
     "topic: Politics & government"
    ],
    "first_seen": "2026-11-26",
@@ -280,39 +280,38 @@
   },
   {
    "id": "51d0399231",
-   "headline": "रसुवा बाढीका ३ हजार ९१५ बेपत्तालाई मृत घोषणा गर्न सिफारिस",
-   "url": "https://www.ratopati.com/story/607823/recommendation-to-declare-3915-missing-persons-from-rasuwa-flood-dead",
+   "headline": "बेपत्ता तीन हजार ९१५ जनालाई मृत घोषणा गर्न सिफारिस",
+   "url": "https://gorkhapatraonline.com/news/230516",
    "first_published": "2026-11-26T12:57:24+00:00",
    "topic": "Disasters & climate",
    "topics": [
     "Politics & government",
     "Disasters & climate"
    ],
-   "score": 72.6,
+   "score": 62.3,
    "signals": {
-    "coverage": 0.845,
+    "coverage": 0.78,
     "engagement": 0.0,
     "velocity": 0.0,
-    "freshness": 0.9,
-    "age_hours": 4.7
+    "freshness": 0.819,
+    "age_hours": 9.3
    },
    "reasons": [
-    "7 outlets: BBC Nepali, Nagarik News, Ratopati, Gorkhapatra +3 more",
-    "first seen 5h ago",
+    "6 outlets: BBC Nepali, Nagarik News, Gorkhapatra, Nepal Press +2 more",
+    "first seen 9h ago",
     "topic: Disasters & climate",
-    "rising: 6 more outlets since yesterday"
+    "rising: 5 more outlets since yesterday"
    ],
    "first_seen": "2026-11-25",
    "status": "rising",
-   "outlet_count": 7,
+   "outlet_count": 6,
    "outlets": [
     "BBC Nepali",
     "Gorkhapatra",
     "Mirmire Online",
     "Nagarik News",
     "Nepal News",
-    "Nepal Press",
-    "Ratopati"
+    "Nepal Press"
    ],
    "engagement": 0,
    "regions": [
@@ -339,21 +338,6 @@
      "comments": 0,
      "discussion_url": "",
      "id": "feed:BBC Nepali:fe5c42210e4d"
-    },
-    {
-     "source": "feed",
-     "outlet": "Ratopati",
-     "title": "रसुवा बाढीका ३ हजार ९१५ बेपत्तालाई मृत घोषणा गर्न सिफारिस",
-     "url": "https://www.ratopati.com/story/607823/recommendation-to-declare-3915-missing-persons-from-rasuwa-flood-dead",
-     "published": "2026-11-26T13:24:32+00:00",
-     "summary": "काठमाडौँ । विपद् जोखिम न्यूनीकरण तथा व्यवस्थापन कार्यकारी समितिले रसुवाको भोटेकोशी बाढीमा बेपत्ता भएका ३ हजार ९१५ जनालाई मृत घोषणा गर्न नेपाल सरकारसमक्ष सिफारिस गरेको छ । गृहमन्त्री सुधन गुरुङको अध्यक्षतामा बिहीबार सम्पन्न समितिको ३८औँ बैठकले",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 0.85,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Ratopati:781f4ca1f73e"
     },
     {
      "source": "feed",
@@ -433,141 +417,6 @@
    ]
   },
   {
-   "id": "34064fdeb5",
-   "headline": "सुकुमवासीलाई होल्डिङ सेन्टरबाट हटाउने निर्णय तत्काल फिर्ता लिन कांग्रेसको माग",
-   "url": "https://www.onlinekhabar.com/2026/11/2065933/congress-demands-immediate-withdrawal-of-decision-to-remove-squatters-from-holding-centers",
-   "first_published": "2026-11-26T13:15:13+00:00",
-   "topic": "Politics & government",
-   "topics": [
-    "Politics & government"
-   ],
-   "score": 55.7,
-   "signals": {
-    "coverage": 0.723,
-    "engagement": 0.0,
-    "velocity": 0.0,
-    "freshness": 0.906,
-    "age_hours": 4.4
-   },
-   "reasons": [
-    "5 outlets: Onlinekhabar, Nagarik News, Annapurna Post, Nepal News +1 more",
-    "first seen 4h ago",
-    "topic: Politics & government"
-   ],
-   "first_seen": "2026-11-26",
-   "status": "new",
-   "outlet_count": 5,
-   "outlets": [
-    "Annapurna Post",
-    "Mirmire Online",
-    "Nagarik News",
-    "Nepal News",
-    "Onlinekhabar"
-   ],
-   "engagement": 0,
-   "regions": [
-    "Nepal"
-   ],
-   "langs": [
-    "en",
-    "ne"
-   ],
-   "brief": {},
-   "llm_status": "",
-   "articles": [
-    {
-     "source": "feed",
-     "outlet": "Onlinekhabar",
-     "title": "सुकुमवासीलाई होल्डिङ सेन्टरबाट हटाउने निर्णय तत्काल फिर्ता लिन कांग्रेसको माग",
-     "url": "https://www.onlinekhabar.com/2026/11/2065933/congress-demands-immediate-withdrawal-of-decision-to-remove-squatters-from-holding-centers",
-     "published": "2026-11-26T13:15:13+00:00",
-     "summary": "१० मंसिर, काठमाडौं । सुकुमवासी बस्तीबाट विस्थापित भएकाहरूलाई होल्डिङ सेन्टरबाट हटाउने निर्णयप्रति नेपाली कांग्रेसले गम्भीर आपत्ति जनाएको छ । साथै, उक्त निर्णय फिर्ता लिन कांग्रेसले सरकारसँग माग पनि गरेको छ । बिहीबार बसेको केन्द्रीय कार्यसमिति बैठकपछि पार्टीले गरेको निर्णयबारे जानकारी गराउँदै जारी वि",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 1.0,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Onlinekhabar:fd8081b5222b"
-    },
-    {
-     "source": "feed",
-     "outlet": "Onlinekhabar",
-     "title": "आवास सुनिश्चितताविना होल्डिङ सेन्टरबाट नहटाउन सुकुमवासीको माग",
-     "url": "https://www.onlinekhabar.com/2026/11/2065936/sukum-residents-demand-not-to-be-evicted-from-holding-center-without-assurance-of-housing",
-     "published": "2026-11-26T13:19:08+00:00",
-     "summary": "‘सरकारले घर भत्काएको १५ दिनभित्र व्यवस्थापन गर्ने प्रतिबद्धतासहित हामी पीडित परिवारलाई विगत ७ महिनादेखि होल्डिङ सेन्टरमा राखेको थियो । तर आज सम्म पनि हामीले स्थायी आवास र उचित व्यवस्थापन पाउन सकेका छैनौं ।’",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 1.0,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Onlinekhabar:8ca45d6d7307"
-    },
-    {
-     "source": "feed",
-     "outlet": "Nagarik News",
-     "title": "सुकुम्बासीलाई होल्डिङ सेन्टरबाट हटाउने सरकारको निर्णयप्रति कांग्रेसको आपत्ति",
-     "url": "https://nagariknews.nagariknetwork.com/politics/congress-objects-to-government-s-decision-to-remove-squatters-from-holding-centers-55-79.html",
-     "published": "2026-11-26T13:39:48+00:00",
-     "summary": "कांग्रेसले सरकारले सुकुम्बासीका घर भत्काएर व्यवस्थापन र लालपुर्जाको आश्वासन दिएको तर महिनौँसम्म अनिश्चिततामा राखेर अहिले अस्थायी आश्रयसमेत खोस्न खोजेको आरोप लगाएको छ ।...",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 0.9,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Nagarik News:1c3c28c89b36"
-    },
-    {
-     "source": "feed",
-     "outlet": "Mirmire Online",
-     "title": "होल्डिङ सेन्टर खाली गराउने निर्णय फिर्ता लिन कांग्रेसको माग",
-     "url": "https://www.mirmireonline.com/2026/11/26/320732/",
-     "published": "2026-11-26T14:35:17+00:00",
-     "summary": "काठमाडौं, बिहीबार – नेपाली कांग्रेसले होल्डिङ सेन्टर खाली गराउने सरकारी निर्णय तत्काल फिर्ता लिन माग गरेको छ। बिहीबार बसेको केन्द्रीय कार्यसमितिको बैठकले विस्थापित हुने परिवारको सुरक्षित, सम्मानजनक र दिगो पुनर्वास सुनिश्चित गर्न पनि सरकारसँग जोडदार माग गरेको हो। काठमाडौंका विभिन्न होल्डिङ सेन्टरमा र",
-     "region": "Nepal",
-     "lang": "en",
-     "weight": 0.5,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Mirmire Online:59cde9390a67"
-    },
-    {
-     "source": "feed",
-     "outlet": "Nepal News",
-     "title": "होल्डिङ सेन्टर खाली गराउने निर्णय फिर्ता लिन कांग्रेसको माग",
-     "url": "https://nepalnews.com/2026/11/26/congress-demands-withdrawal-of-decision-to-evacuate-holding-center/",
-     "published": "2026-11-26T14:56:27+00:00",
-     "summary": "काठमाडौं । नेपाली कांग्रेसले सुकुम्बासीलाई राखिएका होल्डिङ सेन्टर खाली गराउने सरकारको निर्णय तत्काल फिर्ता लिन माग गरेको छ। बिहीबार बसेको पार्टीको केन्द्रीय कार्यसमिति बैठकले सरकारको निर्णयप्रति गम्भीर आपत्ति जनाउँदै विस्थापित परिवारको सुरक्षित, सम्मानजनक र दिगो पुनर्वासको व्यवस्था गर्न माग गरेको हो",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 0.65,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Nepal News:4bc53b599f15"
-    },
-    {
-     "source": "feed",
-     "outlet": "Annapurna Post",
-     "title": "होल्डिङ सेन्टरबाट सुकुम्बासीलाई हटाउने सरकारको निर्णयप्रति कांग्रेसको आपत्ति",
-     "url": "http://annapurnapost.com/story/512058",
-     "published": "2026-11-26T17:41:43+00:00",
-     "summary": "काठमाडौं : नेपाली कांग्रेसले होल्डिङ सेन्टरबाट सुकुम्बासीलाई हटाउने सरकारको निर्णयप्रति आपत्ति जनाएको छ। कांग्रेसले विज्ञप्ति जारी गरेर उक्त निर्णय फिर्ता लिन माग गरेको छ।कांग्रेसले वैकल्पिक आवासको सुनिश्चितता नगरी विस्थापित सुकुम्बासी परिवारलाई होल्डिङ सेन्टरबाट समेत हटाउने सरकारको निर्णयप्रति गम्भ",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 0.85,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Annapurna Post:178d98c9aea2"
-    }
-   ]
-  },
-  {
    "id": "bafa7166c0",
    "headline": "PM Balendra Shah, RSP chair Rabi Lamichhane hold five-hour meeting",
    "url": "https://english.onlinekhabar.com/balen-lamichhane-five-hour-meet.html",
@@ -580,17 +429,17 @@
     "Tourism & mountains",
     "Sports & culture"
    ],
-   "score": 54.9,
+   "score": 52.8,
    "signals": {
     "coverage": 1.0,
     "engagement": 0.0,
     "velocity": 0.0,
-    "freshness": 0.552,
-    "age_hours": 35.6
+    "freshness": 0.527,
+    "age_hours": 40.2
    },
    "reasons": [
     "10 outlets: The Kathmandu Post, The Himalayan Times, Onlinekhabar English, The Diplomat South Asia +6 more",
-    "first seen 36h ago",
+    "first seen 40h ago",
     "topic: Politics & government",
     "rising: 6 more outlets since yesterday"
    ],
@@ -863,6 +712,141 @@
    ]
   },
   {
+   "id": "34064fdeb5",
+   "headline": "सुकुमवासीलाई होल्डिङ सेन्टरबाट हटाउने निर्णय तत्काल फिर्ता लिन कांग्रेसको माग",
+   "url": "https://www.onlinekhabar.com/2026/11/2065933/congress-demands-immediate-withdrawal-of-decision-to-remove-squatters-from-holding-centers",
+   "first_published": "2026-11-26T13:15:13+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government"
+   ],
+   "score": 50.6,
+   "signals": {
+    "coverage": 0.723,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.824,
+    "age_hours": 9.0
+   },
+   "reasons": [
+    "5 outlets: Onlinekhabar, Nagarik News, Annapurna Post, Nepal News +1 more",
+    "first seen 9h ago",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-26",
+   "status": "new",
+   "outlet_count": 5,
+   "outlets": [
+    "Annapurna Post",
+    "Mirmire Online",
+    "Nagarik News",
+    "Nepal News",
+    "Onlinekhabar"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "en",
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar",
+     "title": "सुकुमवासीलाई होल्डिङ सेन्टरबाट हटाउने निर्णय तत्काल फिर्ता लिन कांग्रेसको माग",
+     "url": "https://www.onlinekhabar.com/2026/11/2065933/congress-demands-immediate-withdrawal-of-decision-to-remove-squatters-from-holding-centers",
+     "published": "2026-11-26T13:15:13+00:00",
+     "summary": "१० मंसिर, काठमाडौं । सुकुमवासी बस्तीबाट विस्थापित भएकाहरूलाई होल्डिङ सेन्टरबाट हटाउने निर्णयप्रति नेपाली कांग्रेसले गम्भीर आपत्ति जनाएको छ । साथै, उक्त निर्णय फिर्ता लिन कांग्रेसले सरकारसँग माग पनि गरेको छ । बिहीबार बसेको केन्द्रीय कार्यसमिति बैठकपछि पार्टीले गरेको निर्णयबारे जानकारी गराउँदै जारी वि",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar:fd8081b5222b"
+    },
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar",
+     "title": "आवास सुनिश्चितताविना होल्डिङ सेन्टरबाट नहटाउन सुकुमवासीको माग",
+     "url": "https://www.onlinekhabar.com/2026/11/2065936/sukum-residents-demand-not-to-be-evicted-from-holding-center-without-assurance-of-housing",
+     "published": "2026-11-26T13:19:08+00:00",
+     "summary": "‘सरकारले घर भत्काएको १५ दिनभित्र व्यवस्थापन गर्ने प्रतिबद्धतासहित हामी पीडित परिवारलाई विगत ७ महिनादेखि होल्डिङ सेन्टरमा राखेको थियो । तर आज सम्म पनि हामीले स्थायी आवास र उचित व्यवस्थापन पाउन सकेका छैनौं ।’",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar:8ca45d6d7307"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nagarik News",
+     "title": "सुकुम्बासीलाई होल्डिङ सेन्टरबाट हटाउने सरकारको निर्णयप्रति कांग्रेसको आपत्ति",
+     "url": "https://nagariknews.nagariknetwork.com/politics/congress-objects-to-government-s-decision-to-remove-squatters-from-holding-centers-55-79.html",
+     "published": "2026-11-26T13:39:48+00:00",
+     "summary": "कांग्रेसले सरकारले सुकुम्बासीका घर भत्काएर व्यवस्थापन र लालपुर्जाको आश्वासन दिएको तर महिनौँसम्म अनिश्चिततामा राखेर अहिले अस्थायी आश्रयसमेत खोस्न खोजेको आरोप लगाएको छ ।...",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.9,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nagarik News:1c3c28c89b36"
+    },
+    {
+     "source": "feed",
+     "outlet": "Mirmire Online",
+     "title": "होल्डिङ सेन्टर खाली गराउने निर्णय फिर्ता लिन कांग्रेसको माग",
+     "url": "https://www.mirmireonline.com/2026/11/26/320732/",
+     "published": "2026-11-26T14:35:17+00:00",
+     "summary": "काठमाडौं, बिहीबार – नेपाली कांग्रेसले होल्डिङ सेन्टर खाली गराउने सरकारी निर्णय तत्काल फिर्ता लिन माग गरेको छ। बिहीबार बसेको केन्द्रीय कार्यसमितिको बैठकले विस्थापित हुने परिवारको सुरक्षित, सम्मानजनक र दिगो पुनर्वास सुनिश्चित गर्न पनि सरकारसँग जोडदार माग गरेको हो। काठमाडौंका विभिन्न होल्डिङ सेन्टरमा र",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.5,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Mirmire Online:59cde9390a67"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nepal News",
+     "title": "होल्डिङ सेन्टर खाली गराउने निर्णय फिर्ता लिन कांग्रेसको माग",
+     "url": "https://nepalnews.com/2026/11/26/congress-demands-withdrawal-of-decision-to-evacuate-holding-center/",
+     "published": "2026-11-26T14:56:27+00:00",
+     "summary": "काठमाडौं । नेपाली कांग्रेसले सुकुम्बासीलाई राखिएका होल्डिङ सेन्टर खाली गराउने सरकारको निर्णय तत्काल फिर्ता लिन माग गरेको छ। बिहीबार बसेको पार्टीको केन्द्रीय कार्यसमिति बैठकले सरकारको निर्णयप्रति गम्भीर आपत्ति जनाउँदै विस्थापित परिवारको सुरक्षित, सम्मानजनक र दिगो पुनर्वासको व्यवस्था गर्न माग गरेको हो",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.65,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal News:4bc53b599f15"
+    },
+    {
+     "source": "feed",
+     "outlet": "Annapurna Post",
+     "title": "होल्डिङ सेन्टरबाट सुकुम्बासीलाई हटाउने सरकारको निर्णयप्रति कांग्रेसको आपत्ति",
+     "url": "http://annapurnapost.com/story/512058",
+     "published": "2026-11-26T17:41:43+00:00",
+     "summary": "काठमाडौं : नेपाली कांग्रेसले होल्डिङ सेन्टरबाट सुकुम्बासीलाई हटाउने सरकारको निर्णयप्रति आपत्ति जनाएको छ। कांग्रेसले विज्ञप्ति जारी गरेर उक्त निर्णय फिर्ता लिन माग गरेको छ।कांग्रेसले वैकल्पिक आवासको सुनिश्चितता नगरी विस्थापित सुकुम्बासी परिवारलाई होल्डिङ सेन्टरबाट समेत हटाउने सरकारको निर्णयप्रति गम्भ",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.85,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Annapurna Post:178d98c9aea2"
+    }
+   ]
+  },
+  {
    "id": "8d24b28326",
    "headline": "Former chief secretary Aryal arrested on fraud charge",
    "url": "https://risingnepaldaily.com/news/89067",
@@ -874,17 +858,17 @@
     "Foreign relations",
     "Society, law & health"
    ],
-   "score": 54.7,
+   "score": 50.4,
    "signals": {
     "coverage": 0.862,
     "engagement": 0.0,
     "velocity": 0.0,
-    "freshness": 0.786,
-    "age_hours": 11.4
+    "freshness": 0.724,
+    "age_hours": 16.0
    },
    "reasons": [
     "7 outlets: The Kathmandu Post, Onlinekhabar English, The Annapurna Express, Khabarhub English +3 more",
-    "first seen 11h ago",
+    "first seen 16h ago",
     "topic: Nepalis abroad & migration"
    ],
    "first_seen": "2026-11-26",
@@ -1043,6 +1027,21 @@
      "comments": 0,
      "discussion_url": "",
      "id": "feed:The Annapurna Express:782aa2afcb21"
+    },
+    {
+     "source": "feed",
+     "outlet": "Ratopati English",
+     "title": "Nepal News Briefing: CIB Raids Former Chief Secretary's House, Cabinet Reshuffle, and More",
+     "url": "http://english.ratopati.com/story/88434/12-oclock-12-news-cib-raids-aryals-house-questions-tribhuvan-universitys-standards",
+     "published": "2026-11-26T18:14:00+00:00",
+     "summary": "Kathmandu. Today is Thursday, the 10th of Mangsir, 2083 BS. We are here with the main events of the day...",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.75,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Ratopati English:8b9e86f88b96"
     }
    ]
   },
@@ -1055,17 +1054,17 @@
    "topics": [
     "Politics & government"
    ],
-   "score": 54.5,
+   "score": 49.7,
    "signals": {
     "coverage": 0.741,
     "engagement": 0.0,
     "velocity": 0.0,
-    "freshness": 0.865,
-    "age_hours": 6.6
+    "freshness": 0.789,
+    "age_hours": 11.2
    },
    "reasons": [
     "6 outlets: Onlinekhabar, Annapurna Post, Nepal Press, News of Nepal +2 more",
-    "first seen 7h ago",
+    "first seen 11h ago",
     "topic: Politics & government"
    ],
    "first_seen": "2026-11-26",
@@ -1194,17 +1193,17 @@
     "Foreign relations",
     "Society, law & health"
    ],
-   "score": 51.8,
+   "score": 47.2,
    "signals": {
     "coverage": 0.905,
     "engagement": 0.0,
     "velocity": 0.0,
-    "freshness": 0.898,
-    "age_hours": 4.8
+    "freshness": 0.818,
+    "age_hours": 9.4
    },
    "reasons": [
     "8 outlets: Onlinekhabar, Ratopati, Annapurna Post, Gorkhapatra +4 more",
-    "first seen 5h ago",
+    "first seen 9h ago",
     "topic: Society, law & health"
    ],
    "first_seen": "2026-11-26",
@@ -1407,17 +1406,17 @@
     "Politics & government",
     "Economy & business"
    ],
-   "score": 51.2,
+   "score": 46.9,
    "signals": {
     "coverage": 0.723,
     "engagement": 0.0,
     "velocity": 0.0,
-    "freshness": 0.833,
-    "age_hours": 8.5
+    "freshness": 0.763,
+    "age_hours": 13.1
    },
    "reasons": [
     "5 outlets: Onlinekhabar English, The Annapurna Express, Khabarhub English, The Rising Nepal +1 more",
-    "first seen 8h ago",
+    "first seen 13h ago",
     "topic: Politics & government"
    ],
    "first_seen": "2026-11-26",
@@ -1526,17 +1525,17 @@
    "topics": [
     "Politics & government"
    ],
-   "score": 50.9,
+   "score": 46.3,
    "signals": {
     "coverage": 0.669,
     "engagement": 0.0,
     "velocity": 0.0,
-    "freshness": 0.895,
-    "age_hours": 5.0
+    "freshness": 0.815,
+    "age_hours": 9.6
    },
    "reasons": [
     "4 outlets: Onlinekhabar, Nagarik News, Ratopati, Imagekhabar",
-    "first seen 5h ago",
+    "first seen 10h ago",
     "topic: Politics & government"
    ],
    "first_seen": "2026-11-26",
@@ -1630,17 +1629,17 @@
     "Politics & government",
     "Economy & business"
    ],
-   "score": 48.3,
+   "score": 44.2,
    "signals": {
     "coverage": 0.669,
     "engagement": 0.0,
     "velocity": 0.0,
-    "freshness": 0.85,
-    "age_hours": 7.5
+    "freshness": 0.777,
+    "age_hours": 12.1
    },
    "reasons": [
     "5 outlets: Ratopati, Ujyaalo Online, Nepal Press, Imagekhabar +1 more",
-    "first seen 7h ago",
+    "first seen 12h ago",
     "topic: Politics & government"
    ],
    "first_seen": "2026-11-26",
@@ -1742,6 +1741,127 @@
    ]
   },
   {
+   "id": "ef0a993d12",
+   "headline": "Nepal mourns citizen killed in Saudi attacks, urges restraint",
+   "url": "https://kathmandupost.com/national/2026/11/26/nepal-mourns-citizen-killed-in-saudi-attacks-urges-restraint",
+   "first_published": "2026-11-26T04:37:17+00:00",
+   "topic": "Nepalis abroad & migration",
+   "topics": [
+    "Nepalis abroad & migration",
+    "Society, law & health"
+   ],
+   "score": 43.1,
+   "signals": {
+    "coverage": 0.759,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.704,
+    "age_hours": 17.7
+   },
+   "reasons": [
+    "5 outlets: The Kathmandu Post, The Himalayan Times, The Annapurna Express, Al Jazeera +1 more",
+    "first seen 18h ago",
+    "topic: Nepalis abroad & migration"
+   ],
+   "first_seen": "2026-11-26",
+   "status": "new",
+   "outlet_count": 5,
+   "outlets": [
+    "Al Jazeera",
+    "Ratopati English",
+    "The Annapurna Express",
+    "The Himalayan Times",
+    "The Kathmandu Post"
+   ],
+   "engagement": 0,
+   "regions": [
+    "International",
+    "Nepal"
+   ],
+   "langs": [
+    "en"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "The Himalayan Times",
+     "title": "One killed, 13 injured in pickup-truck, tractor collision in Nawalpur",
+     "url": "https://thehimalayantimes.com/nepal/one-killed-13-injured-in-pickup-truck-tractor-collision-in-nawalpur",
+     "published": "2026-11-26T04:37:17+00:00",
+     "summary": "Key Takeaways: One person was killed in a pickup-truck and tractor collision in Nawalpur Thirteen others were injured The accident occurred in Bahunikuna, Madhyabindu Municipal...",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.95,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:The Himalayan Times:797eb6e2d687"
+    },
+    {
+     "source": "feed",
+     "outlet": "The Kathmandu Post",
+     "title": "Nepal mourns citizen killed in Saudi attacks, urges restraint",
+     "url": "https://kathmandupost.com/national/2026/11/26/nepal-mourns-citizen-killed-in-saudi-attacks-urges-restraint",
+     "published": "2026-11-26T06:15:00+00:00",
+     "summary": "The foreign ministry says one of three Nepalis injured in the recent attacks has recovered, while two remain under medical care.",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:The Kathmandu Post:3e025b294838"
+    },
+    {
+     "source": "feed",
+     "outlet": "Ratopati English",
+     "title": "One Nepali Citizen Dies, Three Injured in Saudi Arabia Attack",
+     "url": "http://english.ratopati.com/story/88426/one-nepali-killed-3-injured-in-attack-in-saudi-arabia",
+     "published": "2026-11-26T15:14:45+00:00",
+     "summary": "Kathmandu. One Nepali citizen has died and three have been injured in a recent attack in Saudi Arabia.The Ministry of...",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.75,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Ratopati English:40772a580856"
+    },
+    {
+     "source": "feed",
+     "outlet": "The Annapurna Express",
+     "title": "Yemen's Houthis claim attack on Saudi Arabia's largest refinery",
+     "url": "https://theannapurnaexpress.com/story/69089",
+     "published": "2026-11-26T17:41:43+00:00",
+     "summary": "Yemen's Iran-aligned Houthis said on Wednesday they had attacked Saudi Arabia's largest oil refinery, Ras Tanura, which sits alongside one of the world's largest crude export terminals, as satellite images showed thick black smoke over the installation, Reuters reported. Houthi military spokesperson",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.8,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:The Annapurna Express:95af6b490529"
+    },
+    {
+     "source": "feed",
+     "outlet": "Al Jazeera",
+     "title": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations",
+     "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
+     "published": "2026-11-26T20:34:34+00:00",
+     "summary": "The attack killed a Nepali national, injured several people and sparked a fire, Saudi Energy Ministry says.",
+     "region": "International",
+     "lang": "en",
+     "weight": 0.8,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Al Jazeera:b2e88c8ed4f5"
+    }
+   ]
+  },
+  {
    "id": "62168e833f",
    "headline": "शरद् ऋतुमा ७७ देशका आरोहीलाई हिमाल आरोहण अनुमति, ३३ करोड बढी राजश्व सङ्कलन",
    "url": "https://www.ratopati.com/story/607831/mountain-climbers-from-77-countries-allowed-to-climb-mountains-in-autumn-collecting-over-rs-330-million-in-revenue",
@@ -1752,17 +1872,17 @@
     "Tourism & mountains",
     "Society, law & health"
    ],
-   "score": 46.9,
+   "score": 42.6,
    "signals": {
     "coverage": 0.755,
     "engagement": 0.0,
     "velocity": 0.0,
-    "freshness": 0.914,
-    "age_hours": 4.0
+    "freshness": 0.831,
+    "age_hours": 8.6
    },
    "reasons": [
     "6 outlets: Nagarik News, Ratopati, Nepal Press, Nepal News +2 more",
-    "first seen 4h ago",
+    "first seen 9h ago",
     "topic: Tourism & mountains"
    ],
    "first_seen": "2026-11-26",
@@ -1888,17 +2008,17 @@
    "topics": [
     "Politics & government"
    ],
-   "score": 43.7,
+   "score": 39.8,
    "signals": {
     "coverage": 0.577,
     "engagement": 0.0,
     "velocity": 0.0,
-    "freshness": 0.892,
-    "age_hours": 5.1
+    "freshness": 0.812,
+    "age_hours": 9.7
    },
    "reasons": [
     "3 outlets: Onlinekhabar, Ratopati, Nepal Press",
-    "first seen 5h ago",
+    "first seen 10h ago",
     "topic: Politics & government"
    ],
    "first_seen": "2026-11-26",
@@ -1967,6 +2087,113 @@
    ]
   },
   {
+   "id": "0e42c4fd0f",
+   "headline": "साउदी अरबमा भएको आक्रमणमा एक नेपालीको मृत्यु, ३ जना घाइते",
+   "url": "https://www.ratopati.com/story/607841/one-nepali-killed-3-injured-in-attack-in-saudi-arabia",
+   "first_published": "2026-11-25T12:39:13+00:00",
+   "topic": "Disasters & climate",
+   "topics": [
+    "Disasters & climate",
+    "Nepalis abroad & migration",
+    "Foreign relations",
+    "Tech & startups"
+   ],
+   "score": 39.8,
+   "signals": {
+    "coverage": 0.664,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.564,
+    "age_hours": 33.6
+   },
+   "reasons": [
+    "4 outlets: BBC Nepali, Ratopati, Khabarhub, Nepal News",
+    "first seen 34h ago",
+    "topic: Disasters & climate",
+    "rising: 3 more outlets since yesterday"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "rising",
+   "outlet_count": 4,
+   "outlets": [
+    "BBC Nepali",
+    "Khabarhub",
+    "Nepal News",
+    "Ratopati"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "BBC Nepali",
+     "title": "रियाद आक्रमणमा तीन जना नेपाली पनि घाइते भएको पुष्टि, 'पहिचान हुँदै'",
+     "url": "https://www.bbc.com/nepali/articles/cm5y17k089lwo?at_medium=RSS&at_campaign=rss",
+     "published": "2026-11-25T12:39:13+00:00",
+     "summary": "साउदी अरबमा एउटा ८० तल्ले भवनमा भएको आक्रमणमा परेर घाइते हुनेहरूमा नेपालीहरू पनि रहेको र पहिचानको प्रयास भइरहेको अधिकारीहरूले बताएका छन्।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:BBC Nepali:888ca371ab1a"
+    },
+    {
+     "source": "feed",
+     "outlet": "Ratopati",
+     "title": "साउदी अरबमा भएको आक्रमणमा एक नेपालीको मृत्यु, ३ जना घाइते",
+     "url": "https://www.ratopati.com/story/607841/one-nepali-killed-3-injured-in-attack-in-saudi-arabia",
+     "published": "2026-11-26T15:14:45+00:00",
+     "summary": "काठमाडौँ । साउदी अरबमा हालै भएको आक्रमणमा एक नेपाली नागरिकको मृत्यु भएको छ भने तीन जना घाइते भएका छन् । परराष्ट्र मन्त्रालयले बिहीबार साँझ सामाजिक सञ्जाल एक्समार्फत घटनाबारे जानकारी दिएको हो । जसअनुसार घाइतेमध्ये एक जना",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.85,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Ratopati:17f39f8bc71e"
+    },
+    {
+     "source": "feed",
+     "outlet": "Khabarhub",
+     "title": "साउदी अरबमा भएको आक्रमणमा एक नेपालीको मृत्यु, तीन घाइते",
+     "url": "https://khabarhub.com/2026/26/1052065/",
+     "published": "2026-11-26T16:50:58+00:00",
+     "summary": "काठमाडौं – साउदी अरबमा हालै भएको आक्रमणमा परी एक नेपाली नागरिकको मृत्यु भएको छ भने तीन जना घाइते भएका छन् । परराष्ट्र मन्त्रालयले बिहीबार साँझ सामाजिक सञ्जाल एक्समार्फत उक्त घटनाबारे जानकारी दिएको हो । मन्त्रालयका अनुसार घाइतेमध्ये एक जना उपचारपछि निको भइसकेका छन् भने अन्य दुई जनाको उपचार भइरहेको छ ",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.8,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Khabarhub:1178121dba61"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nepal News",
+     "title": "साउदी अरबमा आक्रमण हुँदा एक नेपालीको मृत्यु, तीन घाइते",
+     "url": "https://nepalnews.com/2026/11/26/one-nepali-killed-three-injured-in-attack-in-saudi-arabia/",
+     "published": "2026-11-26T17:02:30+00:00",
+     "summary": "काठमाडौं । साउदी अरबमा हालै भएको आक्रमणमा परी एक नेपाली नागरिकको मृत्यु भएको छ भने तीन जना घाइते भएका छन्। परराष्ट्र मन्त्रालयले बिहीबार साँझ सामाजिक सञ्जालमार्फत घटनाबारे जानकारी दिएको हो। मन्त्रालयका अनुसार घाइतेमध्ये एक जना उपचारपछि निको भएका छन् भने दुई जनाको उपचार भइरहेको छ। मृतकको परिचय भने सा",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.65,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal News:8b1ef34e1dd4"
+    }
+   ]
+  },
+  {
    "id": "f3377043b1",
    "headline": "मन्त्रिपरिषद्मा कानुन मन्त्री सोविता गौतमको वरीयता सुधार, चार मन्त्रीहरू घटुवामा",
    "url": "http://annapurnapost.com/story/512048",
@@ -1975,17 +2202,17 @@
    "topics": [
     "Politics & government"
    ],
-   "score": 43.6,
+   "score": 39.7,
    "signals": {
     "coverage": 0.589,
     "engagement": 0.0,
     "velocity": 0.0,
-    "freshness": 0.87,
-    "age_hours": 6.4
+    "freshness": 0.794,
+    "age_hours": 11.0
    },
    "reasons": [
     "4 outlets: Annapurna Post, Desh Sanchar, Imagekhabar, News of Nepal",
-    "first seen 6h ago",
+    "first seen 11h ago",
     "topic: Politics & government"
    ],
    "first_seen": "2026-11-26",
@@ -2070,6 +2297,93 @@
    ]
   },
   {
+   "id": "83eb9d60a9",
+   "headline": "कांग्रेस बैठकमा केन्द्रीय सदस्यले भने– चित्त दुखाएकासँग संवाद थालौं",
+   "url": "https://www.onlinekhabar.com/2026/11/2065827/at-the-congress-meeting-the-central-member-said-lets-start-a-dialogue-with-those-who-are-offended",
+   "first_published": "2026-11-26T11:45:54+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government"
+   ],
+   "score": 38.8,
+   "signals": {
+    "coverage": 0.57,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.8,
+    "age_hours": 10.5
+   },
+   "reasons": [
+    "3 outlets: Onlinekhabar, Nagarik News, Imagekhabar",
+    "first seen 11h ago",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-26",
+   "status": "new",
+   "outlet_count": 3,
+   "outlets": [
+    "Imagekhabar",
+    "Nagarik News",
+    "Onlinekhabar"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar",
+     "title": "कांग्रेस बैठकमा केन्द्रीय सदस्यले भने– चित्त दुखाएकासँग संवाद थालौं",
+     "url": "https://www.onlinekhabar.com/2026/11/2065827/at-the-congress-meeting-the-central-member-said-lets-start-a-dialogue-with-those-who-are-offended",
+     "published": "2026-11-26T11:45:54+00:00",
+     "summary": "१० मंसिर, काठमाडौं । नेपाली कांग्रेसका केन्द्रीय सदस्य सुशील भट्टले पार्टीबाट चित्त दुखाएकासँग संवादको थालनी सुरु गर्नुपर्ने बताएका छन् । केन्द्रीय समितिको जारी बैठकमा बिहीबार धारणा राख्दै केन्द्रीय सदस्य भट्टले विभिन्न कालखण्डमा पार्टीसँग असन्तुष्ट भएका नेता कार्यकर्ताहरूसँग संवाद गरेर पुन: फिर्ता ",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar:f6e19b404c27"
+    },
+    {
+     "source": "feed",
+     "outlet": "Imagekhabar",
+     "title": "कांग्रेस केन्द्रीय समिति बैठकमा सदस्यहरूको धारणा राख्ने क्रम जारी, शुक्रबार फेरि बस्ने",
+     "url": "https://www.imagekhabar.com/news/564329/",
+     "published": "2026-11-26T12:06:03+00:00",
+     "summary": "काठमाडौं । नेपाली काँग्रेसको केन्द्रिय समिति बैठकमा केन्द्रिय समिति सदस्यहरु धारणा राख्ने क्रम जारी छ । मंगलवारदेखि जारी बैठकमा एजेण्डामाथि केन्द्रिय सदस्यहरुले धारणा राख्ने क्रम बिहीवार पनि जारी रहेको पार्टीका केन्द्रिय सदस्य सुशील भट्टले बताउनुभयो । उहाँकाअनुसार बैठकमा पार्टीले यही मंसिर १५ गतेदेख",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.6,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Imagekhabar:43b85a551cc0"
+    },
+    {
+     "source": "feed",
+     "outlet": "Nagarik News",
+     "title": "चुनावको तयारीले मात्र पुग्दैन, चित्त दुखाएकाहरूसँग संवाद थालौं: भट्ट",
+     "url": "https://nagariknews.nagariknetwork.com/politics/election-preparations-alone-are-not-enough-let-s-start-a-dialogue-with-those-who-have-been-hurt-bhatt-35-72.html",
+     "published": "2026-11-26T14:15:00+00:00",
+     "summary": "नेपाली कांग्रेसका केन्द्रीय सदस्य सुशील भट्टले आगामी निर्वाचनको तयारीसँगै पार्टीसँग चित्त दुखाएका नेता-कार्यकर्ताहरूसँग संवाद थाल्नुपर्नेमा जोड दिएका छन्।...",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.9,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nagarik News:cfc776319a92"
+    }
+   ]
+  },
+  {
    "id": "824c38b542",
    "headline": "नबिल एसएसईको पाँच वर्ष : ३१८ उद्यम स्थापना, १९ हजारभन्दा बढी रोजगारी सिर्जना",
    "url": "https://newsofnepal.com/2026/11/26/796035/",
@@ -2080,17 +2394,17 @@
     "Tourism & mountains",
     "Tech & startups"
    ],
-   "score": 42.6,
+   "score": 38.8,
    "signals": {
     "coverage": 0.664,
     "engagement": 0.0,
     "velocity": 0.0,
-    "freshness": 0.888,
-    "age_hours": 5.4
+    "freshness": 0.809,
+    "age_hours": 10.0
    },
    "reasons": [
     "5 outlets: Annapurna Post, Nepal Press, Baahrakhari, News of Nepal +1 more",
-    "first seen 5h ago",
+    "first seen 10h ago",
     "topic: Economy & business"
    ],
    "first_seen": "2026-11-26",
@@ -2191,304 +2505,6 @@
    ]
   },
   {
-   "id": "83eb9d60a9",
-   "headline": "कांग्रेस बैठकमा केन्द्रीय सदस्यले भने– चित्त दुखाएकासँग संवाद थालौं",
-   "url": "https://www.onlinekhabar.com/2026/11/2065827/at-the-congress-meeting-the-central-member-said-lets-start-a-dialogue-with-those-who-are-offended",
-   "first_published": "2026-11-26T11:45:54+00:00",
-   "topic": "Politics & government",
-   "topics": [
-    "Politics & government"
-   ],
-   "score": 42.5,
-   "signals": {
-    "coverage": 0.57,
-    "engagement": 0.0,
-    "velocity": 0.0,
-    "freshness": 0.877,
-    "age_hours": 5.9
-   },
-   "reasons": [
-    "3 outlets: Onlinekhabar, Nagarik News, Imagekhabar",
-    "first seen 6h ago",
-    "topic: Politics & government"
-   ],
-   "first_seen": "2026-11-26",
-   "status": "new",
-   "outlet_count": 3,
-   "outlets": [
-    "Imagekhabar",
-    "Nagarik News",
-    "Onlinekhabar"
-   ],
-   "engagement": 0,
-   "regions": [
-    "Nepal"
-   ],
-   "langs": [
-    "ne"
-   ],
-   "brief": {},
-   "llm_status": "",
-   "articles": [
-    {
-     "source": "feed",
-     "outlet": "Onlinekhabar",
-     "title": "कांग्रेस बैठकमा केन्द्रीय सदस्यले भने– चित्त दुखाएकासँग संवाद थालौं",
-     "url": "https://www.onlinekhabar.com/2026/11/2065827/at-the-congress-meeting-the-central-member-said-lets-start-a-dialogue-with-those-who-are-offended",
-     "published": "2026-11-26T11:45:54+00:00",
-     "summary": "१० मंसिर, काठमाडौं । नेपाली कांग्रेसका केन्द्रीय सदस्य सुशील भट्टले पार्टीबाट चित्त दुखाएकासँग संवादको थालनी सुरु गर्नुपर्ने बताएका छन् । केन्द्रीय समितिको जारी बैठकमा बिहीबार धारणा राख्दै केन्द्रीय सदस्य भट्टले विभिन्न कालखण्डमा पार्टीसँग असन्तुष्ट भएका नेता कार्यकर्ताहरूसँग संवाद गरेर पुन: फिर्ता ",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 1.0,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Onlinekhabar:f6e19b404c27"
-    },
-    {
-     "source": "feed",
-     "outlet": "Imagekhabar",
-     "title": "कांग्रेस केन्द्रीय समिति बैठकमा सदस्यहरूको धारणा राख्ने क्रम जारी, शुक्रबार फेरि बस्ने",
-     "url": "https://www.imagekhabar.com/news/564329/",
-     "published": "2026-11-26T12:06:03+00:00",
-     "summary": "काठमाडौं । नेपाली काँग्रेसको केन्द्रिय समिति बैठकमा केन्द्रिय समिति सदस्यहरु धारणा राख्ने क्रम जारी छ । मंगलवारदेखि जारी बैठकमा एजेण्डामाथि केन्द्रिय सदस्यहरुले धारणा राख्ने क्रम बिहीवार पनि जारी रहेको पार्टीका केन्द्रिय सदस्य सुशील भट्टले बताउनुभयो । उहाँकाअनुसार बैठकमा पार्टीले यही मंसिर १५ गतेदेख",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 0.6,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Imagekhabar:43b85a551cc0"
-    },
-    {
-     "source": "feed",
-     "outlet": "Nagarik News",
-     "title": "चुनावको तयारीले मात्र पुग्दैन, चित्त दुखाएकाहरूसँग संवाद थालौं: भट्ट",
-     "url": "https://nagariknews.nagariknetwork.com/politics/election-preparations-alone-are-not-enough-let-s-start-a-dialogue-with-those-who-have-been-hurt-bhatt-35-72.html",
-     "published": "2026-11-26T14:15:00+00:00",
-     "summary": "नेपाली कांग्रेसका केन्द्रीय सदस्य सुशील भट्टले आगामी निर्वाचनको तयारीसँगै पार्टीसँग चित्त दुखाएका नेता-कार्यकर्ताहरूसँग संवाद थाल्नुपर्नेमा जोड दिएका छन्।...",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 0.9,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Nagarik News:cfc776319a92"
-    }
-   ]
-  },
-  {
-   "id": "bc7eeca9d6",
-   "headline": "प्रधानमन्त्री बालेन्द्र शाह सत्ताको लागि भारतसँग लम्पसार परे: भीम रावल",
-   "url": "https://www.imagekhabar.com/news/564321/",
-   "first_published": "2026-11-26T11:14:11+00:00",
-   "topic": "Politics & government",
-   "topics": [
-    "Politics & government",
-    "Foreign relations"
-   ],
-   "score": 42.1,
-   "signals": {
-    "coverage": 0.57,
-    "engagement": 0.0,
-    "velocity": 0.0,
-    "freshness": 0.868,
-    "age_hours": 6.5
-   },
-   "reasons": [
-    "4 outlets: Annapurna Post, Imagekhabar, News of Nepal, Clickmandu",
-    "first seen 6h ago",
-    "topic: Politics & government"
-   ],
-   "first_seen": "2026-11-26",
-   "status": "new",
-   "outlet_count": 4,
-   "outlets": [
-    "Annapurna Post",
-    "Clickmandu",
-    "Imagekhabar",
-    "News of Nepal"
-   ],
-   "engagement": 0,
-   "regions": [
-    "Nepal"
-   ],
-   "langs": [
-    "ne"
-   ],
-   "brief": {},
-   "llm_status": "",
-   "articles": [
-    {
-     "source": "feed",
-     "outlet": "Imagekhabar",
-     "title": "प्रधानमन्त्री बालेन्द्र शाह सत्ताको लागि भारतसँग लम्पसार परे: भीम रावल",
-     "url": "https://www.imagekhabar.com/news/564321/",
-     "published": "2026-11-26T11:14:11+00:00",
-     "summary": "काठमाडौं । नेपाली कम्युनिष्ट पार्टीका नेता डा. भीमबहादुर रावलले वर्तमान प्रधानमन्त्री बालेन्द्र शाह भारतसँग लम्पसार परेको आरोप लगाउनुभएको छ । बिहीवार काठमाडौंमा आयोजित एक कार्यक्रममा उहाँले बालेन्द्र शाह पनि पुरानाहरुजस्तै सत्ताको लागि भारतसँग लम्पसार परेको आरोप लगाउनुभएको हो । उहाँले भारतको ‘पीएम ग",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 0.6,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Imagekhabar:b892dee70f95"
-    },
-    {
-     "source": "feed",
-     "outlet": "Clickmandu",
-     "title": "भीम रावलको आरोप– बालेन पनि सत्ताको लागि भारतसँग लम्पसार परे",
-     "url": "https://clickmandu.com/2026/11/508063.html",
-     "published": "2026-11-26T11:26:18+00:00",
-     "summary": "काठमाडौं । नेपाली कम्युनिष्ट पार्टीका नेता डा. भीमबहादुर रावलले वर्तमान प्रधानमन्त्री बालेन्द्र शाह भारतसँग लम्पसार परेको आरोप लगाएका छन् । बिहीवार काठमाडौंमा आयोजित एक कार्यक्रममा उनले बालेन्द्र शाह पनि पुरानाहरूजस्तै सत्ताका लागि भारतसँग लम्पसार परेको आरोप लगाएका हुन् । उनले भारतको ‘पीएम गतिशक्ति’",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 0.5,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Clickmandu:df6bf8d8a703"
-    },
-    {
-     "source": "feed",
-     "outlet": "News of Nepal",
-     "title": "भीम रावलको आरोप- सत्ताका लागि बालेन पनि भारतसँग लम्पसार परे",
-     "url": "https://newsofnepal.com/2026/11/26/796040/",
-     "published": "2026-11-26T12:29:27+00:00",
-     "summary": "काठमाडौँ। नेपाली कम्युनिष्ट पार्टीका नेता डा. भीमबहादुर रावलले वर्तमान प्रधानमन्त्री बालेन्द्र शाह भारतसँग लम्पसार परेको आरोप लगाउनुभएको छ । बिहीवार काठमाडौंमा आयोजित एक कार्यक्रममा उहाँले बालेन्द्र शाह पनि पुरानाहरुजस्तै सत्ताको लागि भारतसँग लम्पसार परेको आरोप लगाउनुभएको हो । उहाँले भारतको ‘पीएम गत",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 0.55,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:News of Nepal:f4527a701700"
-    },
-    {
-     "source": "feed",
-     "outlet": "Annapurna Post",
-     "title": "प्रधानमन्त्रीको भारत भ्रमणबारे भीम रावल : स्वार्थका लागि लम्पसार पर्ने प्रवृत्ति दोहोरियो",
-     "url": "http://annapurnapost.com/story/512046",
-     "published": "2026-11-26T17:41:43+00:00",
-     "summary": "काठमाडौं : नेपाली कम्युनिस्ट पार्टी (नेकपा)का नेता भीम रावलले सत्ता स्वार्थका लागि विगतमा लम्पसार पर्ने प्रवृत्ति दोहोरिएको टिप्पणी गरेका छन्।बिहीबार काठमाडौंमा आयोजित एक कार्यक्रममा रावलले प्रधानमन्त्री बालेन्द्र शाहको भारत भ्रमणका क्रममा देशको हितविपरीत सम्झौता भएको आरोप लगाए। उनले सत्ता स्वार्थका",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 0.85,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Annapurna Post:879a197637d0"
-    }
-   ]
-  },
-  {
-   "id": "0e42c4fd0f",
-   "headline": "साउदी अरबमा भएको आक्रमणमा एक नेपालीको मृत्यु, ३ जना घाइते",
-   "url": "https://www.ratopati.com/story/607841/one-nepali-killed-3-injured-in-attack-in-saudi-arabia",
-   "first_published": "2026-11-25T12:39:13+00:00",
-   "topic": "Disasters & climate",
-   "topics": [
-    "Disasters & climate",
-    "Nepalis abroad & migration",
-    "Foreign relations",
-    "Tech & startups"
-   ],
-   "score": 41.6,
-   "signals": {
-    "coverage": 0.664,
-    "engagement": 0.0,
-    "velocity": 0.0,
-    "freshness": 0.596,
-    "age_hours": 29.0
-   },
-   "reasons": [
-    "4 outlets: BBC Nepali, Ratopati, Khabarhub, Nepal News",
-    "first seen 29h ago",
-    "topic: Disasters & climate",
-    "rising: 3 more outlets since yesterday"
-   ],
-   "first_seen": "2026-11-25",
-   "status": "rising",
-   "outlet_count": 4,
-   "outlets": [
-    "BBC Nepali",
-    "Khabarhub",
-    "Nepal News",
-    "Ratopati"
-   ],
-   "engagement": 0,
-   "regions": [
-    "Nepal"
-   ],
-   "langs": [
-    "ne"
-   ],
-   "brief": {},
-   "llm_status": "",
-   "articles": [
-    {
-     "source": "feed",
-     "outlet": "BBC Nepali",
-     "title": "रियाद आक्रमणमा तीन जना नेपाली पनि घाइते भएको पुष्टि, 'पहिचान हुँदै'",
-     "url": "https://www.bbc.com/nepali/articles/cm5y17k089lwo?at_medium=RSS&at_campaign=rss",
-     "published": "2026-11-25T12:39:13+00:00",
-     "summary": "साउदी अरबमा एउटा ८० तल्ले भवनमा भएको आक्रमणमा परेर घाइते हुनेहरूमा नेपालीहरू पनि रहेको र पहिचानको प्रयास भइरहेको अधिकारीहरूले बताएका छन्।",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 1.0,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:BBC Nepali:888ca371ab1a"
-    },
-    {
-     "source": "feed",
-     "outlet": "Ratopati",
-     "title": "साउदी अरबमा भएको आक्रमणमा एक नेपालीको मृत्यु, ३ जना घाइते",
-     "url": "https://www.ratopati.com/story/607841/one-nepali-killed-3-injured-in-attack-in-saudi-arabia",
-     "published": "2026-11-26T15:14:45+00:00",
-     "summary": "काठमाडौँ । साउदी अरबमा हालै भएको आक्रमणमा एक नेपाली नागरिकको मृत्यु भएको छ भने तीन जना घाइते भएका छन् । परराष्ट्र मन्त्रालयले बिहीबार साँझ सामाजिक सञ्जाल एक्समार्फत घटनाबारे जानकारी दिएको हो । जसअनुसार घाइतेमध्ये एक जना",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 0.85,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Ratopati:17f39f8bc71e"
-    },
-    {
-     "source": "feed",
-     "outlet": "Khabarhub",
-     "title": "साउदी अरबमा भएको आक्रमणमा एक नेपालीको मृत्यु, तीन घाइते",
-     "url": "https://khabarhub.com/2026/26/1052065/",
-     "published": "2026-11-26T16:50:58+00:00",
-     "summary": "काठमाडौं – साउदी अरबमा हालै भएको आक्रमणमा परी एक नेपाली नागरिकको मृत्यु भएको छ भने तीन जना घाइते भएका छन् । परराष्ट्र मन्त्रालयले बिहीबार साँझ सामाजिक सञ्जाल एक्समार्फत उक्त घटनाबारे जानकारी दिएको हो । मन्त्रालयका अनुसार घाइतेमध्ये एक जना उपचारपछि निको भइसकेका छन् भने अन्य दुई जनाको उपचार भइरहेको छ ",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 0.8,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Khabarhub:1178121dba61"
-    },
-    {
-     "source": "feed",
-     "outlet": "Nepal News",
-     "title": "साउदी अरबमा आक्रमण हुँदा एक नेपालीको मृत्यु, तीन घाइते",
-     "url": "https://nepalnews.com/2026/11/26/one-nepali-killed-three-injured-in-attack-in-saudi-arabia/",
-     "published": "2026-11-26T17:02:30+00:00",
-     "summary": "काठमाडौं । साउदी अरबमा हालै भएको आक्रमणमा परी एक नेपाली नागरिकको मृत्यु भएको छ भने तीन जना घाइते भएका छन्। परराष्ट्र मन्त्रालयले बिहीबार साँझ सामाजिक सञ्जालमार्फत घटनाबारे जानकारी दिएको हो। मन्त्रालयका अनुसार घाइतेमध्ये एक जना उपचारपछि निको भएका छन् भने दुई जनाको उपचार भइरहेको छ। मृतकको परिचय भने सा",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 0.65,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Nepal News:8b1ef34e1dd4"
-    }
-   ]
-  },
-  {
    "id": "9847aeb199",
    "headline": "बैंक खाता रोक्का गर्ने चेतावनीपछि वैदेशिक रोजगार ठगीका ४७ आरोपित विभागको सम्पर्कमा",
    "url": "https://nagariknews.nagariknetwork.com/social-affairs/47-foreign-employment-fraud-suspects-contact-department-after-warning-of-bank-account-freeze-48-81.html",
@@ -2499,17 +2515,17 @@
     "Economy & business",
     "Society, law & health"
    ],
-   "score": 41.2,
+   "score": 37.5,
    "signals": {
     "coverage": 0.564,
     "engagement": 0.0,
     "velocity": 0.0,
-    "freshness": 0.906,
-    "age_hours": 4.4
+    "freshness": 0.824,
+    "age_hours": 9.0
    },
    "reasons": [
     "3 outlets: Nagarik News, Ratopati, Nepal Press",
-    "first seen 4h ago",
+    "first seen 9h ago",
     "topic: Nepalis abroad & migration"
    ],
    "first_seen": "2026-11-26",
@@ -2586,17 +2602,17 @@
    "topics": [
     "Politics & government"
    ],
-   "score": 39.8,
+   "score": 36.3,
    "signals": {
     "coverage": 0.543,
     "engagement": 0.0,
     "velocity": 0.0,
-    "freshness": 0.861,
-    "age_hours": 6.8
+    "freshness": 0.786,
+    "age_hours": 11.4
    },
    "reasons": [
     "3 outlets: Khabarhub, Gorkhapatra, Nepal Press",
-    "first seen 7h ago",
+    "first seen 11h ago",
     "topic: Politics & government"
    ],
    "first_seen": "2026-11-26",
@@ -2673,17 +2689,17 @@
    "topics": [
     "Politics & government"
    ],
-   "score": 39.1,
+   "score": 35.4,
    "signals": {
     "coverage": 0.485,
     "engagement": 0.0,
     "velocity": 0.0,
-    "freshness": 0.948,
-    "age_hours": 2.3
+    "freshness": 0.86,
+    "age_hours": 6.9
    },
    "reasons": [
     "2 outlets: Onlinekhabar, Nagarik News",
-    "first seen 2h ago",
+    "first seen 7h ago",
     "topic: Politics & government"
    ],
    "first_seen": "2026-11-26",
@@ -2745,17 +2761,17 @@
     "Foreign relations",
     "Economy & business"
    ],
-   "score": 38.8,
+   "score": 35.2,
    "signals": {
     "coverage": 0.577,
     "engagement": 0.0,
     "velocity": 0.0,
-    "freshness": 0.931,
-    "age_hours": 3.2
+    "freshness": 0.845,
+    "age_hours": 7.8
    },
    "reasons": [
     "3 outlets: Nagarik News, Ratopati, Khabarhub",
-    "first seen 3h ago",
+    "first seen 8h ago",
     "topic: Economy & business"
    ],
    "first_seen": "2026-11-26",
@@ -2832,17 +2848,17 @@
    "topics": [
     "Disasters & climate"
    ],
-   "score": 38.0,
+   "score": 34.5,
    "signals": {
     "coverage": 0.477,
     "engagement": 0.0,
     "velocity": 0.0,
-    "freshness": 0.939,
-    "age_hours": 2.8
+    "freshness": 0.851,
+    "age_hours": 7.4
    },
    "reasons": [
     "2 outlets: Onlinekhabar, Annapurna Post",
-    "first seen 3h ago",
+    "first seen 7h ago",
     "topic: Disasters & climate"
    ],
    "first_seen": "2026-11-26",
@@ -2895,93 +2911,6 @@
    ]
   },
   {
-   "id": "e5611d99ce",
-   "headline": "One Nepali Citizen Dies, Three Injured in Saudi Arabia Attack",
-   "url": "http://english.ratopati.com/story/88426/one-nepali-killed-3-injured-in-attack-in-saudi-arabia",
-   "first_published": "2026-11-26T06:15:00+00:00",
-   "topic": "Nepalis abroad & migration",
-   "topics": [
-    "Nepalis abroad & migration"
-   ],
-   "score": 36.6,
-   "signals": {
-    "coverage": 0.577,
-    "engagement": 0.0,
-    "velocity": 0.0,
-    "freshness": 0.786,
-    "age_hours": 11.4
-   },
-   "reasons": [
-    "3 outlets: The Kathmandu Post, The Annapurna Express, Ratopati English",
-    "first seen 11h ago",
-    "topic: Nepalis abroad & migration"
-   ],
-   "first_seen": "2026-11-26",
-   "status": "new",
-   "outlet_count": 3,
-   "outlets": [
-    "Ratopati English",
-    "The Annapurna Express",
-    "The Kathmandu Post"
-   ],
-   "engagement": 0,
-   "regions": [
-    "Nepal"
-   ],
-   "langs": [
-    "en"
-   ],
-   "brief": {},
-   "llm_status": "",
-   "articles": [
-    {
-     "source": "feed",
-     "outlet": "The Kathmandu Post",
-     "title": "Nepal mourns citizen killed in Saudi attacks, urges restraint",
-     "url": "https://kathmandupost.com/national/2026/11/26/nepal-mourns-citizen-killed-in-saudi-attacks-urges-restraint",
-     "published": "2026-11-26T06:15:00+00:00",
-     "summary": "The foreign ministry says one of three Nepalis injured in the recent attacks has recovered, while two remain under medical care.",
-     "region": "Nepal",
-     "lang": "en",
-     "weight": 1.0,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:The Kathmandu Post:3e025b294838"
-    },
-    {
-     "source": "feed",
-     "outlet": "Ratopati English",
-     "title": "One Nepali Citizen Dies, Three Injured in Saudi Arabia Attack",
-     "url": "http://english.ratopati.com/story/88426/one-nepali-killed-3-injured-in-attack-in-saudi-arabia",
-     "published": "2026-11-26T15:14:45+00:00",
-     "summary": "Kathmandu. One Nepali citizen has died and three have been injured in a recent attack in Saudi Arabia.The Ministry of...",
-     "region": "Nepal",
-     "lang": "en",
-     "weight": 0.75,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Ratopati English:40772a580856"
-    },
-    {
-     "source": "feed",
-     "outlet": "The Annapurna Express",
-     "title": "Yemen's Houthis claim attack on Saudi Arabia's largest refinery",
-     "url": "https://theannapurnaexpress.com/story/69089",
-     "published": "2026-11-26T17:41:43+00:00",
-     "summary": "Yemen's Iran-aligned Houthis said on Wednesday they had attacked Saudi Arabia's largest oil refinery, Ras Tanura, which sits alongside one of the world's largest crude export terminals, as satellite images showed thick black smoke over the installation, Reuters reported. Houthi military spokesperson",
-     "region": "Nepal",
-     "lang": "en",
-     "weight": 0.8,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:The Annapurna Express:95af6b490529"
-    }
-   ]
-  },
-  {
    "id": "b63b60c936",
    "headline": "पोखरामा परम्परागत कृषि संस्कृति र पर्यटन प्रवर्द्धन गर्न दाइँ महोत्सव",
    "url": "https://www.ratopati.com/story/607850/raisin-festival-to-promote-traditional-agricultural-culture-and-tourism-in-pokhara",
@@ -2990,17 +2919,17 @@
    "topics": [
     "Tourism & mountains"
    ],
-   "score": 35.8,
+   "score": 32.5,
    "signals": {
     "coverage": 0.577,
     "engagement": 0.0,
     "velocity": 0.0,
-    "freshness": 0.913,
-    "age_hours": 4.1
+    "freshness": 0.83,
+    "age_hours": 8.7
    },
    "reasons": [
     "3 outlets: Nagarik News, Ratopati, Khabarhub",
-    "first seen 4h ago",
+    "first seen 9h ago",
     "topic: Tourism & mountains"
    ],
    "first_seen": "2026-11-26",
@@ -3078,17 +3007,17 @@
     "Society, law & health",
     "Tech & startups"
    ],
-   "score": 33.4,
+   "score": 30.3,
    "signals": {
     "coverage": 0.55,
     "engagement": 0.0,
     "velocity": 0.0,
-    "freshness": 0.953,
-    "age_hours": 2.1
+    "freshness": 0.863,
+    "age_hours": 6.7
    },
    "reasons": [
     "3 outlets: Onlinekhabar, Nepal Press, Nepal News",
-    "first seen 2h ago",
+    "first seen 7h ago",
     "topic: Society, law & health"
    ],
    "first_seen": "2026-11-26",
@@ -3165,17 +3094,17 @@
    "topics": [
     "Politics & government"
    ],
-   "score": 33.3,
+   "score": 30.3,
    "signals": {
     "coverage": 0.435,
     "engagement": 0.0,
     "velocity": 0.0,
-    "freshness": 0.9,
-    "age_hours": 4.7
+    "freshness": 0.819,
+    "age_hours": 9.3
    },
    "reasons": [
     "2 outlets: Nagarik News, Nepal Press",
-    "first seen 5h ago",
+    "first seen 9h ago",
     "topic: Politics & government"
    ],
    "first_seen": "2026-11-26",
@@ -3228,381 +3157,6 @@
    ]
   },
   {
-   "id": "960a387b41",
-   "headline": "स्वतन्त्र प्रेसबिना लोकतन्त्र सुदृढ हुन सक्दैन : सांसद सिंह",
-   "url": "https://www.onlinekhabar.com/2026/11/2065887/democracy-cannot-be-strengthened-without-a-free-press-mp-singh",
-   "first_published": "2026-11-26T12:24:20+00:00",
-   "topic": "Politics & government",
-   "topics": [
-    "Politics & government",
-    "Tourism & mountains",
-    "Society, law & health"
-   ],
-   "score": 32.9,
-   "signals": {
-    "coverage": 0.435,
-    "engagement": 0.0,
-    "velocity": 0.0,
-    "freshness": 0.889,
-    "age_hours": 5.3
-   },
-   "reasons": [
-    "2 outlets: Onlinekhabar, Imagekhabar",
-    "first seen 5h ago",
-    "topic: Politics & government"
-   ],
-   "first_seen": "2026-11-26",
-   "status": "new",
-   "outlet_count": 2,
-   "outlets": [
-    "Imagekhabar",
-    "Onlinekhabar"
-   ],
-   "engagement": 0,
-   "regions": [
-    "Nepal"
-   ],
-   "langs": [
-    "ne"
-   ],
-   "brief": {},
-   "llm_status": "",
-   "articles": [
-    {
-     "source": "feed",
-     "outlet": "Onlinekhabar",
-     "title": "स्वतन्त्र प्रेसबिना लोकतन्त्र सुदृढ हुन सक्दैन : सांसद सिंह",
-     "url": "https://www.onlinekhabar.com/2026/11/2065887/democracy-cannot-be-strengthened-without-a-free-press-mp-singh",
-     "published": "2026-11-26T12:24:20+00:00",
-     "summary": "१० मंसिर, काठमाडौं । राष्ट्रिय स्वतन्त्र पार्टीका सांसद डा. अमरेशकुमार सिंहले स्वतन्त्र पत्रकारिताको पक्षमा आफू रहेको बताएका छन् । मेची–महाकाली पदयात्राका क्रममा जनकपुर पुगेका उनले सरकारले पत्रकारहरूलाई सञ्चार गृहबाटै पक्राउ गरिएको प्रकरणबारे धारणा राख्ने क्रममा यस्तो बताएका हुन् । सञ्चारकर्मीहरुले ",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 1.0,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Onlinekhabar:2306aa23172e"
-    },
-    {
-     "source": "feed",
-     "outlet": "Imagekhabar",
-     "title": "स्वतन्त्र पत्रकारिता बिना लोकतन्त्र बलियो हुँदैनः अमरेशकुमार सिंह",
-     "url": "https://www.imagekhabar.com/news/564332/",
-     "published": "2026-11-26T12:33:39+00:00",
-     "summary": "काठमाडौं । राष्ट्रिय स्वतन्त्र पार्टीका सांसद डा. अमरेशकुमार सिंहले स्वतन्त्र पत्रकारिताको पक्षमा आफू रहेको बताउनुभएको छ । मेची–महाकाली पदयात्राका क्रममा जनकपुर पुग्नुभएका उहाँले बिहीवार यस्तो बताउनुभएको हो । सरकारले पत्रकारहरुलाई सञ्चार गृहबाटै पक्राउ गरिएको प्रकरणबारे सञ्चारकर्मीहरुले राख्नुभएको ज",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 0.6,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Imagekhabar:342b3449620c"
-    }
-   ]
-  },
-  {
-   "id": "65ec60b0c1",
-   "headline": "मलेसिया प्रकरणः मन्त्रालयबाट ‘गायब पारिएका’ फाइल प्रहरीले हात पार्‍यो",
-   "url": "https://www.nepalpress.com/2026/11/26/784783/malaysia-case-police-seize-files-of-disappeared-people-from-ministry/",
-   "first_published": "2026-11-26T12:23:13+00:00",
-   "topic": "Society, law & health",
-   "topics": [
-    "Nepalis abroad & migration",
-    "Society, law & health"
-   ],
-   "score": 32.7,
-   "signals": {
-    "coverage": 0.577,
-    "engagement": 0.0,
-    "velocity": 0.0,
-    "freshness": 0.889,
-    "age_hours": 5.3
-   },
-   "reasons": [
-    "3 outlets: Onlinekhabar, Ratopati, Nepal Press",
-    "first seen 5h ago",
-    "topic: Society, law & health"
-   ],
-   "first_seen": "2026-11-26",
-   "status": "new",
-   "outlet_count": 3,
-   "outlets": [
-    "Nepal Press",
-    "Onlinekhabar",
-    "Ratopati"
-   ],
-   "engagement": 0,
-   "regions": [
-    "Nepal"
-   ],
-   "langs": [
-    "ne"
-   ],
-   "brief": {},
-   "llm_status": "",
-   "articles": [
-    {
-     "source": "feed",
-     "outlet": "Nepal Press",
-     "title": "मलेसिया प्रकरणः मन्त्रालयबाट ‘गायब पारिएका’ फाइल प्रहरीले हात पार्‍यो",
-     "url": "https://www.nepalpress.com/2026/11/26/784783/malaysia-case-police-seize-files-of-disappeared-people-from-ministry/",
-     "published": "2026-11-26T12:23:13+00:00",
-     "summary": "नेपाली श्रमिकबाट अवैध रूपमा रकम उठाएर मलेसिया पठाइएको प्रकरणमा ‘हराएको’ भनिएका सरकारी फाइल फेला परेका छन् ।",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 0.7,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Nepal Press:e9b77984f3c3"
-    },
-    {
-     "source": "feed",
-     "outlet": "Ratopati",
-     "title": "मलेसिया जाने श्रमिकको स्वास्थ्य परीक्षण रकम पठाइएको सक्कल फाइल फेला",
-     "url": "https://www.ratopati.com/story/607826/original-file-found-showing-payment-for-health-check-up-of-workers-going-to-malaysia",
-     "published": "2026-11-26T13:57:31+00:00",
-     "summary": "काठमाडौँ । मलेसिया जाने नेपाली श्रमिकहरूको स्वास्थ्य परीक्षणका नाममा सङ्कलन गरिएको रकम मलेसियाको बेस्टिनेट कम्पनीमा पठाइएको सम्बन्धी सक्कल फाइल फेला परेको छ । युवा, श्रम तथा रोजगारमन्त्री रामजी यादवको पहलमा गत मंसिर २ गते मन्त्रीस्तरीय निर्णयबाट",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 0.85,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Ratopati:4f83cede6a53"
-    },
-    {
-     "source": "feed",
-     "outlet": "Onlinekhabar",
-     "title": "मलेसिया ठगी प्रकरण : मन्त्रालयबाट गायब फाइल फेला, अनुसन्धान गर्न सीआईबीलाई बुझाइयो",
-     "url": "https://www.onlinekhabar.com/2026/11/2066019/malaysia-fraud-case-missing-file-found-from-ministry-handed-over-to-cib-for-investigation",
-     "published": "2026-11-26T15:48:47+00:00",
-     "summary": "श्रम मन्त्रालयबाटै अनुसन्धानसँग सम्बन्धित फाइल गायब भएपछि सीआईबीले पटक-पटक माग गर्दा पनि आवश्यक कागजात पाउन सकेको थिएन ।",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 1.0,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Onlinekhabar:6990f983379d"
-    }
-   ]
-  },
-  {
-   "id": "4f35f81dc7",
-   "headline": "Sobita Gautam moves up to third in ministerial order of precedence",
-   "url": "https://kathmandupost.com/politics/2026/11/26/sobita-gautam-moves-up-to-third-in-ministerial-order-of-precedence",
-   "first_published": "2026-11-26T06:15:00+00:00",
-   "topic": "Politics & government",
-   "topics": [
-    "Politics & government",
-    "Foreign relations"
-   ],
-   "score": 32.4,
-   "signals": {
-    "coverage": 0.485,
-    "engagement": 0.0,
-    "velocity": 0.0,
-    "freshness": 0.786,
-    "age_hours": 11.4
-   },
-   "reasons": [
-    "2 outlets: The Kathmandu Post, Onlinekhabar English",
-    "first seen 11h ago",
-    "topic: Politics & government"
-   ],
-   "first_seen": "2026-11-26",
-   "status": "new",
-   "outlet_count": 2,
-   "outlets": [
-    "Onlinekhabar English",
-    "The Kathmandu Post"
-   ],
-   "engagement": 0,
-   "regions": [
-    "Nepal"
-   ],
-   "langs": [
-    "en"
-   ],
-   "brief": {},
-   "llm_status": "",
-   "articles": [
-    {
-     "source": "feed",
-     "outlet": "The Kathmandu Post",
-     "title": "Sobita Gautam moves up to third in ministerial order of precedence",
-     "url": "https://kathmandupost.com/politics/2026/11/26/sobita-gautam-moves-up-to-third-in-ministerial-order-of-precedence",
-     "published": "2026-11-26T06:15:00+00:00",
-     "summary": "A revision places the law minister ahead of Foreign Minister Shisir Khanal and Home Minister Sudan Gurung.",
-     "region": "Nepal",
-     "lang": "en",
-     "weight": 1.0,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:The Kathmandu Post:3b0c4eba6ed8"
-    },
-    {
-     "source": "feed",
-     "outlet": "Onlinekhabar English",
-     "title": "Sobita Gautam moved up to third position in Cabinet hierarchy",
-     "url": "https://english.onlinekhabar.com/sobita-gautam-cabinet-hierarchy.html",
-     "published": "2026-11-26T11:24:15+00:00",
-     "summary": "Kathmandu, November 26 President Ramchandra Paudel has revised the order of precedence of the Cabinet on the recommendation of Prime Minister Balendra Shah, moving Law, Justice and Parliamentary Affairs Minister Sobita Gautam from seventh to third position. Gautam, who previously ranked seventh in t",
-     "region": "Nepal",
-     "lang": "en",
-     "weight": 0.9,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Onlinekhabar English:5e7c72edf862"
-    }
-   ]
-  },
-  {
-   "id": "718c5eb307",
-   "headline": "कांग्रेसमा दुई महाधिवेशन, दुई दाबी : देउवा पक्षले कांग्रेसकै नाम र झन्डामा महाधिवेशन गर्न पाउँछ ?",
-   "url": "https://www.ratopati.com/story/607811/two-general-conventions-in-the-congress-two-claims-can-the-deuba-faction-hold-a-general-convention-under-the-name-and-flag-of-the-congress",
-   "first_published": "2026-11-26T12:18:20+00:00",
-   "topic": "Politics & government",
-   "topics": [
-    "Politics & government"
-   ],
-   "score": 32.1,
-   "signals": {
-    "coverage": 0.426,
-    "engagement": 0.0,
-    "velocity": 0.0,
-    "freshness": 0.888,
-    "age_hours": 5.4
-   },
-   "reasons": [
-    "2 outlets: Ratopati, Nepal Press",
-    "first seen 5h ago",
-    "topic: Politics & government"
-   ],
-   "first_seen": "2026-11-26",
-   "status": "new",
-   "outlet_count": 2,
-   "outlets": [
-    "Nepal Press",
-    "Ratopati"
-   ],
-   "engagement": 0,
-   "regions": [
-    "Nepal"
-   ],
-   "langs": [
-    "ne"
-   ],
-   "brief": {},
-   "llm_status": "",
-   "articles": [
-    {
-     "source": "feed",
-     "outlet": "Nepal Press",
-     "title": "देउवा समूहलाई कांग्रेसको नाममा महाधिवेशन गर्न रोक्न निर्वाचन आयोगलाई आग्रह गर्ने",
-     "url": "https://www.nepalpress.com/2026/11/26/784781/the-election-commission-will-be-urged-to-stop-the-deuba-group-from-holding-a-general-convention-in-the-name-of-the-congress/",
-     "published": "2026-11-26T12:18:20+00:00",
-     "summary": "नेपाली कांग्रेसले पूर्वसभापति शेरबहादुर देउवा समूहले पार्टीको नाम, झन्डा र रुख चिह्नको दुरुपयोग गरेको भन्दै रोक्न निर्वाचन आयोगलाई आग्रह गर्ने जनाएको छ।",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 0.7,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Nepal Press:d10728d76437"
-    },
-    {
-     "source": "feed",
-     "outlet": "Ratopati",
-     "title": "कांग्रेसमा दुई महाधिवेशन, दुई दाबी : देउवा पक्षले कांग्रेसकै नाम र झन्डामा महाधिवेशन गर्न पाउँछ ?",
-     "url": "https://www.ratopati.com/story/607811/two-general-conventions-in-the-congress-two-claims-can-the-deuba-faction-hold-a-general-convention-under-the-name-and-flag-of-the-congress",
-     "published": "2026-11-26T14:15:00+00:00",
-     "summary": "काठमाडौँ । नेपाली कांग्रेसभित्रको आधिकारिकता विवाद पार्टीको आन्तरिक विधानको व्याख्या, राजनीतिक दलसम्बन्धी ऐनको प्रयोग र सर्वोच्च अदालतको न्यायिक प्रक्रियासँग जोडिएको जटिल कानुनी तथा राजनीतिक विषय बनेको छ। गगन थापाले १५औँ नियमित महाधिवेशन सम्पन्न गरी निर्वाचन आयोगमा",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 0.85,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Ratopati:881bf887ba1c"
-    }
-   ]
-  },
-  {
-   "id": "3fa451efd4",
-   "headline": "कांग्रेस बैठक : महाधिवेशन प्रक्रियामा सहभागी नभएका नेतालाई कारबाही गर्न माग",
-   "url": "http://annapurnapost.com/story/512052",
-   "first_published": "2026-11-26T12:03:38+00:00",
-   "topic": "Politics & government",
-   "topics": [
-    "Politics & government"
-   ],
-   "score": 32.0,
-   "signals": {
-    "coverage": 0.426,
-    "engagement": 0.0,
-    "velocity": 0.0,
-    "freshness": 0.883,
-    "age_hours": 5.6
-   },
-   "reasons": [
-    "2 outlets: Annapurna Post, Nepal Press",
-    "first seen 6h ago",
-    "topic: Politics & government"
-   ],
-   "first_seen": "2026-11-26",
-   "status": "new",
-   "outlet_count": 2,
-   "outlets": [
-    "Annapurna Post",
-    "Nepal Press"
-   ],
-   "engagement": 0,
-   "regions": [
-    "Nepal"
-   ],
-   "langs": [
-    "ne"
-   ],
-   "brief": {},
-   "llm_status": "",
-   "articles": [
-    {
-     "source": "feed",
-     "outlet": "Nepal Press",
-     "title": "कांग्रेस बैठक- केन्द्रीय समितिलाई पूर्णता दिन र पार्टी छाडेर गएकालाई फर्काउने अभियान चलाउन माग",
-     "url": "https://www.nepalpress.com/2026/11/26/784774/congress-meeting-demand-to-complete-the-central-committee-and-launch-a-campaign-to-bring-back-those-who-left-the-party/",
-     "published": "2026-11-26T12:03:38+00:00",
-     "summary": "काठमाडौं । नेपाली कांग्रेसका केन्द्रीय सदस्य सुशील भट्टले महाधिवेशनको प्रतिस्पर्धालाई बिर्सेर एकताबद्ध रूपमा पार्टी निर्माणमा जुट्नुपर्ने बताएका छन्। जारी केन्द्रीय समिति बैठकमा बोल्दै केन्द्रीय कार्यसमितिलाई छिटो पूर्णता दिन माग गरे। उनले भने, ‘निर्वाचनबाट २३१ सदस्यीय कार्यसमिति आइसकेको अवस्थामा बा",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 0.7,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Nepal Press:f686e24e90da"
-    },
-    {
-     "source": "feed",
-     "outlet": "Annapurna Post",
-     "title": "कांग्रेस बैठक : महाधिवेशन प्रक्रियामा सहभागी नभएका नेतालाई कारबाही गर्न माग",
-     "url": "http://annapurnapost.com/story/512052",
-     "published": "2026-11-26T17:41:43+00:00",
-     "summary": "काठमाडौं : नेपाली कांग्रेसको केन्द्रीय कार्यसमिति बैठकमा बिहीबार पनि सांगठनिक कार्यभार लगायतका कार्यसूचीमाथि सदस्यहरूले धारणा राखेका छन्।पार्टी कार्यालय सानेपामा बसेको बैठकमा सांगठनिक कार्यभार तथा 'नेपाली कांग्रेस तयार छ’ अभियान, स्थानीय निर्वाचनको सन्दर्भ, प्रतिपक्षको भूमिका र सरकारको गतिविधिका बार",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 0.85,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Annapurna Post:7eac1720de12"
-    }
-   ]
-  },
-  {
    "id": "30ff079a4e",
    "headline": "Election Commission updates Nepali Congress leadership and amended statute",
    "url": "https://kathmandupost.com/politics/2026/11/25/election-commission-updates-nepali-congress-leadership-and-amended-statute",
@@ -3611,17 +3165,17 @@
    "topics": [
     "Politics & government"
    ],
-   "score": 31.5,
+   "score": 30.1,
    "signals": {
     "coverage": 0.669,
     "engagement": 0.0,
     "velocity": 0.0,
-    "freshness": 0.553,
-    "age_hours": 35.4
+    "freshness": 0.528,
+    "age_hours": 40.0
    },
    "reasons": [
     "4 outlets: The Kathmandu Post, Onlinekhabar English, Ratopati English, Nepal News English",
-    "first seen 35h ago",
+    "first seen 40h ago",
     "topic: Politics & government"
    ],
    "first_seen": "2026-11-25",
@@ -3736,6 +3290,469 @@
    ]
   },
   {
+   "id": "bc7eeca9d6",
+   "headline": "प्रधानमन्त्री बालेन्द्र शाह सत्ताको लागि भारतसँग लम्पसार परे: भीम रावल",
+   "url": "https://www.imagekhabar.com/news/564321/",
+   "first_published": "2026-11-26T11:14:11+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government",
+    "Foreign relations"
+   ],
+   "score": 29.9,
+   "signals": {
+    "coverage": 0.444,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.792,
+    "age_hours": 11.1
+   },
+   "reasons": [
+    "3 outlets: Imagekhabar, News of Nepal, Clickmandu",
+    "first seen 11h ago",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-26",
+   "status": "new",
+   "outlet_count": 3,
+   "outlets": [
+    "Clickmandu",
+    "Imagekhabar",
+    "News of Nepal"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Imagekhabar",
+     "title": "प्रधानमन्त्री बालेन्द्र शाह सत्ताको लागि भारतसँग लम्पसार परे: भीम रावल",
+     "url": "https://www.imagekhabar.com/news/564321/",
+     "published": "2026-11-26T11:14:11+00:00",
+     "summary": "काठमाडौं । नेपाली कम्युनिष्ट पार्टीका नेता डा. भीमबहादुर रावलले वर्तमान प्रधानमन्त्री बालेन्द्र शाह भारतसँग लम्पसार परेको आरोप लगाउनुभएको छ । बिहीवार काठमाडौंमा आयोजित एक कार्यक्रममा उहाँले बालेन्द्र शाह पनि पुरानाहरुजस्तै सत्ताको लागि भारतसँग लम्पसार परेको आरोप लगाउनुभएको हो । उहाँले भारतको ‘पीएम ग",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.6,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Imagekhabar:b892dee70f95"
+    },
+    {
+     "source": "feed",
+     "outlet": "Clickmandu",
+     "title": "भीम रावलको आरोप– बालेन पनि सत्ताको लागि भारतसँग लम्पसार परे",
+     "url": "https://clickmandu.com/2026/11/508063.html",
+     "published": "2026-11-26T11:26:18+00:00",
+     "summary": "काठमाडौं । नेपाली कम्युनिष्ट पार्टीका नेता डा. भीमबहादुर रावलले वर्तमान प्रधानमन्त्री बालेन्द्र शाह भारतसँग लम्पसार परेको आरोप लगाएका छन् । बिहीवार काठमाडौंमा आयोजित एक कार्यक्रममा उनले बालेन्द्र शाह पनि पुरानाहरूजस्तै सत्ताका लागि भारतसँग लम्पसार परेको आरोप लगाएका हुन् । उनले भारतको ‘पीएम गतिशक्ति’",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.5,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Clickmandu:df6bf8d8a703"
+    },
+    {
+     "source": "feed",
+     "outlet": "News of Nepal",
+     "title": "भीम रावलको आरोप- सत्ताका लागि बालेन पनि भारतसँग लम्पसार परे",
+     "url": "https://newsofnepal.com/2026/11/26/796040/",
+     "published": "2026-11-26T12:29:27+00:00",
+     "summary": "काठमाडौँ। नेपाली कम्युनिष्ट पार्टीका नेता डा. भीमबहादुर रावलले वर्तमान प्रधानमन्त्री बालेन्द्र शाह भारतसँग लम्पसार परेको आरोप लगाउनुभएको छ । बिहीवार काठमाडौंमा आयोजित एक कार्यक्रममा उहाँले बालेन्द्र शाह पनि पुरानाहरुजस्तै सत्ताको लागि भारतसँग लम्पसार परेको आरोप लगाउनुभएको हो । उहाँले भारतको ‘पीएम गत",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.55,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:News of Nepal:f4527a701700"
+    }
+   ]
+  },
+  {
+   "id": "960a387b41",
+   "headline": "स्वतन्त्र प्रेसबिना लोकतन्त्र सुदृढ हुन सक्दैन : सांसद सिंह",
+   "url": "https://www.onlinekhabar.com/2026/11/2065887/democracy-cannot-be-strengthened-without-a-free-press-mp-singh",
+   "first_published": "2026-11-26T12:24:20+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government",
+    "Tourism & mountains",
+    "Society, law & health"
+   ],
+   "score": 29.9,
+   "signals": {
+    "coverage": 0.435,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.81,
+    "age_hours": 9.9
+   },
+   "reasons": [
+    "2 outlets: Onlinekhabar, Imagekhabar",
+    "first seen 10h ago",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-26",
+   "status": "new",
+   "outlet_count": 2,
+   "outlets": [
+    "Imagekhabar",
+    "Onlinekhabar"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar",
+     "title": "स्वतन्त्र प्रेसबिना लोकतन्त्र सुदृढ हुन सक्दैन : सांसद सिंह",
+     "url": "https://www.onlinekhabar.com/2026/11/2065887/democracy-cannot-be-strengthened-without-a-free-press-mp-singh",
+     "published": "2026-11-26T12:24:20+00:00",
+     "summary": "१० मंसिर, काठमाडौं । राष्ट्रिय स्वतन्त्र पार्टीका सांसद डा. अमरेशकुमार सिंहले स्वतन्त्र पत्रकारिताको पक्षमा आफू रहेको बताएका छन् । मेची–महाकाली पदयात्राका क्रममा जनकपुर पुगेका उनले सरकारले पत्रकारहरूलाई सञ्चार गृहबाटै पक्राउ गरिएको प्रकरणबारे धारणा राख्ने क्रममा यस्तो बताएका हुन् । सञ्चारकर्मीहरुले ",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar:2306aa23172e"
+    },
+    {
+     "source": "feed",
+     "outlet": "Imagekhabar",
+     "title": "स्वतन्त्र पत्रकारिता बिना लोकतन्त्र बलियो हुँदैनः अमरेशकुमार सिंह",
+     "url": "https://www.imagekhabar.com/news/564332/",
+     "published": "2026-11-26T12:33:39+00:00",
+     "summary": "काठमाडौं । राष्ट्रिय स्वतन्त्र पार्टीका सांसद डा. अमरेशकुमार सिंहले स्वतन्त्र पत्रकारिताको पक्षमा आफू रहेको बताउनुभएको छ । मेची–महाकाली पदयात्राका क्रममा जनकपुर पुग्नुभएका उहाँले बिहीवार यस्तो बताउनुभएको हो । सरकारले पत्रकारहरुलाई सञ्चार गृहबाटै पक्राउ गरिएको प्रकरणबारे सञ्चारकर्मीहरुले राख्नुभएको ज",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.6,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Imagekhabar:342b3449620c"
+    }
+   ]
+  },
+  {
+   "id": "4f35f81dc7",
+   "headline": "Sobita Gautam moves up to third in ministerial order of precedence",
+   "url": "https://kathmandupost.com/politics/2026/11/26/sobita-gautam-moves-up-to-third-in-ministerial-order-of-precedence",
+   "first_published": "2026-11-26T06:15:00+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government",
+    "Foreign relations"
+   ],
+   "score": 29.8,
+   "signals": {
+    "coverage": 0.485,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.724,
+    "age_hours": 16.0
+   },
+   "reasons": [
+    "2 outlets: The Kathmandu Post, Onlinekhabar English",
+    "first seen 16h ago",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-26",
+   "status": "new",
+   "outlet_count": 2,
+   "outlets": [
+    "Onlinekhabar English",
+    "The Kathmandu Post"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "en"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "The Kathmandu Post",
+     "title": "Sobita Gautam moves up to third in ministerial order of precedence",
+     "url": "https://kathmandupost.com/politics/2026/11/26/sobita-gautam-moves-up-to-third-in-ministerial-order-of-precedence",
+     "published": "2026-11-26T06:15:00+00:00",
+     "summary": "A revision places the law minister ahead of Foreign Minister Shisir Khanal and Home Minister Sudan Gurung.",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:The Kathmandu Post:3b0c4eba6ed8"
+    },
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar English",
+     "title": "Sobita Gautam moved up to third position in Cabinet hierarchy",
+     "url": "https://english.onlinekhabar.com/sobita-gautam-cabinet-hierarchy.html",
+     "published": "2026-11-26T11:24:15+00:00",
+     "summary": "Kathmandu, November 26 President Ramchandra Paudel has revised the order of precedence of the Cabinet on the recommendation of Prime Minister Balendra Shah, moving Law, Justice and Parliamentary Affairs Minister Sobita Gautam from seventh to third position. Gautam, who previously ranked seventh in t",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.9,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar English:5e7c72edf862"
+    }
+   ]
+  },
+  {
+   "id": "65ec60b0c1",
+   "headline": "मलेसिया प्रकरणः मन्त्रालयबाट ‘गायब पारिएका’ फाइल प्रहरीले हात पार्‍यो",
+   "url": "https://www.nepalpress.com/2026/11/26/784783/malaysia-case-police-seize-files-of-disappeared-people-from-ministry/",
+   "first_published": "2026-11-26T12:23:13+00:00",
+   "topic": "Society, law & health",
+   "topics": [
+    "Nepalis abroad & migration",
+    "Society, law & health"
+   ],
+   "score": 29.8,
+   "signals": {
+    "coverage": 0.577,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.81,
+    "age_hours": 9.9
+   },
+   "reasons": [
+    "3 outlets: Onlinekhabar, Ratopati, Nepal Press",
+    "first seen 10h ago",
+    "topic: Society, law & health"
+   ],
+   "first_seen": "2026-11-26",
+   "status": "new",
+   "outlet_count": 3,
+   "outlets": [
+    "Nepal Press",
+    "Onlinekhabar",
+    "Ratopati"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Nepal Press",
+     "title": "मलेसिया प्रकरणः मन्त्रालयबाट ‘गायब पारिएका’ फाइल प्रहरीले हात पार्‍यो",
+     "url": "https://www.nepalpress.com/2026/11/26/784783/malaysia-case-police-seize-files-of-disappeared-people-from-ministry/",
+     "published": "2026-11-26T12:23:13+00:00",
+     "summary": "नेपाली श्रमिकबाट अवैध रूपमा रकम उठाएर मलेसिया पठाइएको प्रकरणमा ‘हराएको’ भनिएका सरकारी फाइल फेला परेका छन् ।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal Press:e9b77984f3c3"
+    },
+    {
+     "source": "feed",
+     "outlet": "Ratopati",
+     "title": "मलेसिया जाने श्रमिकको स्वास्थ्य परीक्षण रकम पठाइएको सक्कल फाइल फेला",
+     "url": "https://www.ratopati.com/story/607826/original-file-found-showing-payment-for-health-check-up-of-workers-going-to-malaysia",
+     "published": "2026-11-26T13:57:31+00:00",
+     "summary": "काठमाडौँ । मलेसिया जाने नेपाली श्रमिकहरूको स्वास्थ्य परीक्षणका नाममा सङ्कलन गरिएको रकम मलेसियाको बेस्टिनेट कम्पनीमा पठाइएको सम्बन्धी सक्कल फाइल फेला परेको छ । युवा, श्रम तथा रोजगारमन्त्री रामजी यादवको पहलमा गत मंसिर २ गते मन्त्रीस्तरीय निर्णयबाट",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.85,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Ratopati:4f83cede6a53"
+    },
+    {
+     "source": "feed",
+     "outlet": "Onlinekhabar",
+     "title": "मलेसिया ठगी प्रकरण : मन्त्रालयबाट गायब फाइल फेला, अनुसन्धान गर्न सीआईबीलाई बुझाइयो",
+     "url": "https://www.onlinekhabar.com/2026/11/2066019/malaysia-fraud-case-missing-file-found-from-ministry-handed-over-to-cib-for-investigation",
+     "published": "2026-11-26T15:48:47+00:00",
+     "summary": "श्रम मन्त्रालयबाटै अनुसन्धानसँग सम्बन्धित फाइल गायब भएपछि सीआईबीले पटक-पटक माग गर्दा पनि आवश्यक कागजात पाउन सकेको थिएन ।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Onlinekhabar:6990f983379d"
+    }
+   ]
+  },
+  {
+   "id": "718c5eb307",
+   "headline": "कांग्रेसमा दुई महाधिवेशन, दुई दाबी : देउवा पक्षले कांग्रेसकै नाम र झन्डामा महाधिवेशन गर्न पाउँछ ?",
+   "url": "https://www.ratopati.com/story/607811/two-general-conventions-in-the-congress-two-claims-can-the-deuba-faction-hold-a-general-convention-under-the-name-and-flag-of-the-congress",
+   "first_published": "2026-11-26T12:18:20+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government"
+   ],
+   "score": 29.3,
+   "signals": {
+    "coverage": 0.426,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.808,
+    "age_hours": 10.0
+   },
+   "reasons": [
+    "2 outlets: Ratopati, Nepal Press",
+    "first seen 10h ago",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-26",
+   "status": "new",
+   "outlet_count": 2,
+   "outlets": [
+    "Nepal Press",
+    "Ratopati"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Nepal Press",
+     "title": "देउवा समूहलाई कांग्रेसको नाममा महाधिवेशन गर्न रोक्न निर्वाचन आयोगलाई आग्रह गर्ने",
+     "url": "https://www.nepalpress.com/2026/11/26/784781/the-election-commission-will-be-urged-to-stop-the-deuba-group-from-holding-a-general-convention-in-the-name-of-the-congress/",
+     "published": "2026-11-26T12:18:20+00:00",
+     "summary": "नेपाली कांग्रेसले पूर्वसभापति शेरबहादुर देउवा समूहले पार्टीको नाम, झन्डा र रुख चिह्नको दुरुपयोग गरेको भन्दै रोक्न निर्वाचन आयोगलाई आग्रह गर्ने जनाएको छ।",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal Press:d10728d76437"
+    },
+    {
+     "source": "feed",
+     "outlet": "Ratopati",
+     "title": "कांग्रेसमा दुई महाधिवेशन, दुई दाबी : देउवा पक्षले कांग्रेसकै नाम र झन्डामा महाधिवेशन गर्न पाउँछ ?",
+     "url": "https://www.ratopati.com/story/607811/two-general-conventions-in-the-congress-two-claims-can-the-deuba-faction-hold-a-general-convention-under-the-name-and-flag-of-the-congress",
+     "published": "2026-11-26T14:15:00+00:00",
+     "summary": "काठमाडौँ । नेपाली कांग्रेसभित्रको आधिकारिकता विवाद पार्टीको आन्तरिक विधानको व्याख्या, राजनीतिक दलसम्बन्धी ऐनको प्रयोग र सर्वोच्च अदालतको न्यायिक प्रक्रियासँग जोडिएको जटिल कानुनी तथा राजनीतिक विषय बनेको छ। गगन थापाले १५औँ नियमित महाधिवेशन सम्पन्न गरी निर्वाचन आयोगमा",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.85,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Ratopati:881bf887ba1c"
+    }
+   ]
+  },
+  {
+   "id": "3fa451efd4",
+   "headline": "कांग्रेस बैठक : महाधिवेशन प्रक्रियामा सहभागी नभएका नेतालाई कारबाही गर्न माग",
+   "url": "http://annapurnapost.com/story/512052",
+   "first_published": "2026-11-26T12:03:38+00:00",
+   "topic": "Politics & government",
+   "topics": [
+    "Politics & government"
+   ],
+   "score": 29.1,
+   "signals": {
+    "coverage": 0.426,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.805,
+    "age_hours": 10.2
+   },
+   "reasons": [
+    "2 outlets: Annapurna Post, Nepal Press",
+    "first seen 10h ago",
+    "topic: Politics & government"
+   ],
+   "first_seen": "2026-11-26",
+   "status": "new",
+   "outlet_count": 2,
+   "outlets": [
+    "Annapurna Post",
+    "Nepal Press"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "ne"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "Nepal Press",
+     "title": "कांग्रेस बैठक- केन्द्रीय समितिलाई पूर्णता दिन र पार्टी छाडेर गएकालाई फर्काउने अभियान चलाउन माग",
+     "url": "https://www.nepalpress.com/2026/11/26/784774/congress-meeting-demand-to-complete-the-central-committee-and-launch-a-campaign-to-bring-back-those-who-left-the-party/",
+     "published": "2026-11-26T12:03:38+00:00",
+     "summary": "काठमाडौं । नेपाली कांग्रेसका केन्द्रीय सदस्य सुशील भट्टले महाधिवेशनको प्रतिस्पर्धालाई बिर्सेर एकताबद्ध रूपमा पार्टी निर्माणमा जुट्नुपर्ने बताएका छन्। जारी केन्द्रीय समिति बैठकमा बोल्दै केन्द्रीय कार्यसमितिलाई छिटो पूर्णता दिन माग गरे। उनले भने, ‘निर्वाचनबाट २३१ सदस्यीय कार्यसमिति आइसकेको अवस्थामा बा",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.7,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Nepal Press:f686e24e90da"
+    },
+    {
+     "source": "feed",
+     "outlet": "Annapurna Post",
+     "title": "कांग्रेस बैठक : महाधिवेशन प्रक्रियामा सहभागी नभएका नेतालाई कारबाही गर्न माग",
+     "url": "http://annapurnapost.com/story/512052",
+     "published": "2026-11-26T17:41:43+00:00",
+     "summary": "काठमाडौं : नेपाली कांग्रेसको केन्द्रीय कार्यसमिति बैठकमा बिहीबार पनि सांगठनिक कार्यभार लगायतका कार्यसूचीमाथि सदस्यहरूले धारणा राखेका छन्।पार्टी कार्यालय सानेपामा बसेको बैठकमा सांगठनिक कार्यभार तथा 'नेपाली कांग्रेस तयार छ’ अभियान, स्थानीय निर्वाचनको सन्दर्भ, प्रतिपक्षको भूमिका र सरकारको गतिविधिका बार",
+     "region": "Nepal",
+     "lang": "ne",
+     "weight": 0.85,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Annapurna Post:7eac1720de12"
+    }
+   ]
+  },
+  {
    "id": "2a8f1b97e7",
    "headline": "Migratory birds start arriving in Chitwan to evade cold",
    "url": "https://theannapurnaexpress.com/story/69093",
@@ -3744,17 +3761,17 @@
    "topics": [
     "Tourism & mountains"
    ],
-   "score": 31.5,
+   "score": 28.7,
    "signals": {
     "coverage": 0.536,
     "engagement": 0.0,
     "velocity": 0.0,
-    "freshness": 0.863,
-    "age_hours": 6.8
+    "freshness": 0.788,
+    "age_hours": 11.4
    },
    "reasons": [
     "3 outlets: The Annapurna Express, The Rising Nepal, Nepal News English",
-    "first seen 7h ago",
+    "first seen 11h ago",
     "topic: Tourism & mountains"
    ],
    "first_seen": "2026-11-26",
@@ -3832,17 +3849,17 @@
     "Economy & business",
     "Sports & culture"
    ],
-   "score": 31.2,
+   "score": 28.5,
    "signals": {
     "coverage": 0.709,
     "engagement": 0.0,
     "velocity": 0.0,
-    "freshness": 0.862,
-    "age_hours": 6.8
+    "freshness": 0.787,
+    "age_hours": 11.4
    },
    "reasons": [
     "5 outlets: Onlinekhabar, Annapurna Post, Nepal Press, Desh Sanchar +1 more",
-    "first seen 7h ago",
+    "first seen 11h ago",
     "topic: Sports & culture"
    ],
    "first_seen": "2026-11-26",
@@ -3952,17 +3969,17 @@
     "Politics & government",
     "Society, law & health"
    ],
-   "score": 29.5,
+   "score": 27.0,
    "signals": {
     "coverage": 0.417,
     "engagement": 0.0,
     "velocity": 0.0,
-    "freshness": 0.833,
-    "age_hours": 8.5
+    "freshness": 0.763,
+    "age_hours": 13.1
    },
    "reasons": [
     "2 outlets: Khabarhub English, The Rising Nepal",
-    "first seen 8h ago",
+    "first seen 13h ago",
     "topic: Politics & government"
    ],
    "first_seen": "2026-11-26",
@@ -4015,6 +4032,78 @@
    ]
   },
   {
+   "id": "ebee287212",
+   "headline": "NRN Players Shine at 10th National Sports Competition, Securing 15 Medals Including 9 Gold in Swimming",
+   "url": "http://english.ratopati.com/story/88405/10th-national-games-nrna-in-an-effort-to-connect-with-the-motherland",
+   "first_published": "2026-11-26T06:15:00+00:00",
+   "topic": "Nepalis abroad & migration",
+   "topics": [
+    "Nepalis abroad & migration",
+    "Sports & culture"
+   ],
+   "score": 26.9,
+   "signals": {
+    "coverage": 0.46,
+    "engagement": 0.0,
+    "velocity": 0.0,
+    "freshness": 0.724,
+    "age_hours": 16.0
+   },
+   "reasons": [
+    "2 outlets: The Kathmandu Post, Ratopati English",
+    "first seen 16h ago",
+    "topic: Nepalis abroad & migration"
+   ],
+   "first_seen": "2026-11-25",
+   "status": "steady",
+   "outlet_count": 2,
+   "outlets": [
+    "Ratopati English",
+    "The Kathmandu Post"
+   ],
+   "engagement": 0,
+   "regions": [
+    "Nepal"
+   ],
+   "langs": [
+    "en"
+   ],
+   "brief": {},
+   "llm_status": "",
+   "articles": [
+    {
+     "source": "feed",
+     "outlet": "The Kathmandu Post",
+     "title": "More national records in swimming bettered on Day 2",
+     "url": "https://kathmandupost.com/sports/2026/11/26/more-national-records-in-swimming-bettered-on-day-2",
+     "published": "2026-11-26T06:15:00+00:00",
+     "summary": "Four national swimming records tumble in Nepalgunj as 15-year-old Lily Bohra claims her second gold, while Bagmati dominates the early medal tally alongside wins in football, basketball, and cricket.",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 1.0,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:The Kathmandu Post:598468bbc40a"
+    },
+    {
+     "source": "feed",
+     "outlet": "Ratopati English",
+     "title": "NRN Players Shine at 10th National Sports Competition, Securing 15 Medals Including 9 Gold in Swimming",
+     "url": "http://english.ratopati.com/story/88405/10th-national-games-nrna-in-an-effort-to-connect-with-the-motherland",
+     "published": "2026-11-26T11:58:16+00:00",
+     "summary": "Kathmandu. The Non-Resident Nepali Association (NRNA) has been participating in the National Sports Competition with the aim of providing a...",
+     "region": "Nepal",
+     "lang": "en",
+     "weight": 0.75,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:Ratopati English:06a8b09500e7"
+    }
+   ]
+  },
+  {
    "id": "59fb768c0e",
    "headline": "कोशी प्रदेश प्रमुखको कार्यभार सुरेन्द्र लाभलाई",
    "url": "https://www.nepalpress.com/2026/11/26/784720/surendra-labh-appointed-as-koshi-province-chief/",
@@ -4023,17 +4112,17 @@
    "topics": [
     "Politics & government"
    ],
-   "score": 29.1,
+   "score": 26.6,
    "signals": {
     "coverage": 0.398,
     "engagement": 0.0,
     "velocity": 0.0,
-    "freshness": 0.86,
-    "age_hours": 6.9
+    "freshness": 0.785,
+    "age_hours": 11.5
    },
    "reasons": [
     "2 outlets: Nepal Press, Ujyaalo Online",
-    "first seen 7h ago",
+    "first seen 12h ago",
     "topic: Politics & government"
    ],
    "first_seen": "2026-11-26",
@@ -4092,17 +4181,17 @@
    "first_published": "2026-11-26T12:10:44+00:00",
    "topic": "Breaking (other)",
    "topics": [],
-   "score": 29.0,
+   "score": 26.4,
    "signals": {
     "coverage": 0.642,
     "engagement": 0.0,
     "velocity": 0.0,
-    "freshness": 0.885,
-    "age_hours": 5.5
+    "freshness": 0.806,
+    "age_hours": 10.1
    },
    "reasons": [
     "4 outlets: Nagarik News, Ratopati, Nepal Press, Desh Sanchar",
-    "first seen 6h ago",
+    "first seen 10h ago",
     "topic: Breaking (other)"
    ],
    "first_seen": "2026-11-26",
@@ -4187,74 +4276,75 @@
    ]
   },
   {
-   "id": "3a8b703b60",
-   "headline": "संगठनभित्र हुने निरीक्षणलाई परिणाममुखी बनाउन सशस्त्र महानिरीक्षक पौडेलको निर्देशन",
-   "url": "https://gorkhapatraonline.com/news/230522",
-   "first_published": "2026-11-26T14:15:37+00:00",
-   "topic": "Foreign relations",
+   "id": "a39c048ea5",
+   "headline": "Nepal flash floods: Kathmandu begins process to declare 213 missing Indians presumed dead",
+   "url": "https://www.thehindu.com/news/national/nepal-flash-floods-kathmandu-begins-process-to-declare-213-indians-missing-presumed-dead/article71745222.ece",
+   "first_published": "2026-11-26T05:04:14+00:00",
+   "topic": "Disasters & climate",
    "topics": [
-    "Foreign relations",
-    "Society, law & health"
+    "Disasters & climate",
+    "Foreign relations"
    ],
-   "score": 28.9,
+   "score": 26.2,
    "signals": {
-    "coverage": 0.408,
+    "coverage": 0.435,
     "engagement": 0.0,
     "velocity": 0.0,
-    "freshness": 0.926,
-    "age_hours": 3.4
+    "freshness": 0.709,
+    "age_hours": 17.2
    },
    "reasons": [
-    "2 outlets: Gorkhapatra, Nepal News",
-    "first seen 3h ago",
-    "topic: Foreign relations"
+    "2 outlets: The Hindu International, South China Morning Post Asia",
+    "first seen 17h ago",
+    "topic: Disasters & climate"
    ],
    "first_seen": "2026-11-26",
    "status": "new",
    "outlet_count": 2,
    "outlets": [
-    "Gorkhapatra",
-    "Nepal News"
+    "South China Morning Post Asia",
+    "The Hindu International"
    ],
    "engagement": 0,
    "regions": [
-    "Nepal"
+    "India",
+    "International"
    ],
    "langs": [
-    "ne"
+    "en"
    ],
    "brief": {},
    "llm_status": "",
    "articles": [
     {
      "source": "feed",
-     "outlet": "Nepal News",
-     "title": "इकाई निरीक्षणलाई औपचारिकतामा सीमित नराख्न सशस्त्र प्रहरी महानिरीक्षक पौडेलको निर्देशन",
-     "url": "https://nepalnews.com/2026/11/26/armed-police-inspector-general-poudel-directs-not-to-limit-unit-inspections-to-formalities/",
-     "published": "2026-11-26T14:15:37+00:00",
-     "summary": "काठमाडौं। सशस्त्र प्रहरी महानिरीक्षक नारायणदत्त पौडेलले सशस्त्र प्रहरी बल, नेपालका इकाईहरूको वार्षिक निरीक्षणलाई औपचारिकतामा सीमित नराखी व्यावसायिकता, कार्यसम्पादन, सीमा सुरक्षाको प्रभावकारिता र जनविश्वासलाई मूल्याङ्कनको मुख्य आधार बनाउन निर्देशन दिएका छन्। मंसिर १० गते सशस्त्र प्रहरी बल, नेपाल प्रध",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 0.65,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Nepal News:0edf543c77af"
-    },
-    {
-     "source": "feed",
-     "outlet": "Gorkhapatra",
-     "title": "संगठनभित्र हुने निरीक्षणलाई परिणाममुखी बनाउन सशस्त्र महानिरीक्षक पौडेलको निर्देशन",
-     "url": "https://gorkhapatraonline.com/news/230522",
-     "published": "2026-11-26T17:10:25+00:00",
-     "summary": "काठमाडौं, मंसिर १० गते । सशस्त्र प्रहरी बल, नेपालका महानिरीक्षक नारायणदत्त पौडेलले संगठनभित्र हुने निरीक्षणलगायतका गतिविधिहरूलाई औपचारिकतामा सीमित नराखी कार्यसम्पादनको वास्तविक नति...",
-     "region": "Nepal",
-     "lang": "ne",
+     "outlet": "The Hindu International",
+     "title": "Nepal flash floods: Kathmandu begins process to declare 213 missing Indians presumed dead",
+     "url": "https://www.thehindu.com/news/national/nepal-flash-floods-kathmandu-begins-process-to-declare-213-indians-missing-presumed-dead/article71745222.ece",
+     "published": "2026-11-26T05:04:14+00:00",
+     "summary": "Inviting objections or concerns, the Embassy said concerned family members could contact it via eoikathmandufloodsupport@gmail.com or +9779851316807",
+     "region": "India",
+     "lang": "en",
      "weight": 0.8,
      "points": 0,
      "comments": 0,
      "discussion_url": "",
-     "id": "feed:Gorkhapatra:0eba7c546a1d"
+     "id": "feed:The Hindu International:f38669f5519a"
+    },
+    {
+     "source": "feed",
+     "outlet": "South China Morning Post Asia",
+     "title": "Nepal starts legal process to declare 4,000 dead 3 months after fatal floods",
+     "url": "https://www.scmp.com/news/asia/south-asia/article/3375910/nepal-starts-legal-process-declare-4000-dead-3-months-after-fatal-floods",
+     "published": "2026-11-26T09:06:52+00:00",
+     "summary": "Nepal had begun a process to legally declare dead thousands of people still missing after its catastrophic summer floods, authorities said on Thursday, three months after the disaster. A high-altitude glacier on the Nepal-China border collapsed on August 26, unleashing a torrent of water, ice, rock ",
+     "region": "International",
+     "lang": "en",
+     "weight": 0.8,
+     "points": 0,
+     "comments": 0,
+     "discussion_url": "",
+     "id": "feed:South China Morning Post Asia:90a391fb02e8"
     }
    ]
   },
@@ -4268,17 +4358,17 @@
     "Economy & business",
     "Tech & startups"
    ],
-   "score": 28.7,
+   "score": 26.2,
    "signals": {
     "coverage": 0.46,
     "engagement": 0.0,
     "velocity": 0.0,
-    "freshness": 0.864,
-    "age_hours": 6.7
+    "freshness": 0.788,
+    "age_hours": 11.3
    },
    "reasons": [
     "3 outlets: Baahrakhari, News of Nepal, Clickmandu",
-    "first seen 7h ago",
+    "first seen 11h ago",
     "topic: Economy & business"
    ],
    "first_seen": "2026-11-26",
@@ -4347,298 +4437,34 @@
    ]
   },
   {
-   "id": "a39c048ea5",
-   "headline": "Nepal flash floods: Kathmandu begins process to declare 213 missing Indians presumed dead",
-   "url": "https://www.thehindu.com/news/national/nepal-flash-floods-kathmandu-begins-process-to-declare-213-indians-missing-presumed-dead/article71745222.ece",
-   "first_published": "2026-11-26T05:04:14+00:00",
-   "topic": "Disasters & climate",
+   "id": "3a8b703b60",
+   "headline": "संगठनभित्र हुने निरीक्षणलाई परिणाममुखी बनाउन सशस्त्र महानिरीक्षक पौडेलको निर्देशन",
+   "url": "https://gorkhapatraonline.com/news/230522",
+   "first_published": "2026-11-26T14:15:37+00:00",
+   "topic": "Foreign relations",
    "topics": [
-    "Disasters & climate",
-    "Foreign relations"
-   ],
-   "score": 28.4,
-   "signals": {
-    "coverage": 0.435,
-    "engagement": 0.0,
-    "velocity": 0.0,
-    "freshness": 0.769,
-    "age_hours": 12.6
-   },
-   "reasons": [
-    "2 outlets: The Hindu International, South China Morning Post Asia",
-    "first seen 13h ago",
-    "topic: Disasters & climate"
-   ],
-   "first_seen": "2026-11-26",
-   "status": "new",
-   "outlet_count": 2,
-   "outlets": [
-    "South China Morning Post Asia",
-    "The Hindu International"
-   ],
-   "engagement": 0,
-   "regions": [
-    "India",
-    "International"
-   ],
-   "langs": [
-    "en"
-   ],
-   "brief": {},
-   "llm_status": "",
-   "articles": [
-    {
-     "source": "feed",
-     "outlet": "The Hindu International",
-     "title": "Nepal flash floods: Kathmandu begins process to declare 213 missing Indians presumed dead",
-     "url": "https://www.thehindu.com/news/national/nepal-flash-floods-kathmandu-begins-process-to-declare-213-indians-missing-presumed-dead/article71745222.ece",
-     "published": "2026-11-26T05:04:14+00:00",
-     "summary": "Inviting objections or concerns, the Embassy said concerned family members could contact it via eoikathmandufloodsupport@gmail.com or +9779851316807",
-     "region": "India",
-     "lang": "en",
-     "weight": 0.8,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:The Hindu International:f38669f5519a"
-    },
-    {
-     "source": "feed",
-     "outlet": "South China Morning Post Asia",
-     "title": "Nepal starts legal process to declare 4,000 dead 3 months after fatal floods",
-     "url": "https://www.scmp.com/news/asia/south-asia/article/3375910/nepal-starts-legal-process-declare-4000-dead-3-months-after-fatal-floods",
-     "published": "2026-11-26T09:06:52+00:00",
-     "summary": "Nepal had begun a process to legally declare dead thousands of people still missing after its catastrophic summer floods, authorities said on Thursday, three months after the disaster. A high-altitude glacier on the Nepal-China border collapsed on August 26, unleashing a torrent of water, ice, rock ",
-     "region": "International",
-     "lang": "en",
-     "weight": 0.8,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:South China Morning Post Asia:90a391fb02e8"
-    }
-   ]
-  },
-  {
-   "id": "1e680c0280",
-   "headline": "NEPSE falls 10.89 points as trading turnover declines",
-   "url": "https://english.onlinekhabar.com/nepse-falls-10-89-points-as-trading-turnover-declines.html",
-   "first_published": "2026-11-26T09:53:59+00:00",
-   "topic": "Economy & business",
-   "topics": [
-    "Economy & business"
-   ],
-   "score": 27.1,
-   "signals": {
-    "coverage": 0.444,
-    "engagement": 0.0,
-    "velocity": 0.0,
-    "freshness": 0.844,
-    "age_hours": 7.8
-   },
-   "reasons": [
-    "2 outlets: Onlinekhabar English, Khabarhub English",
-    "first seen 8h ago",
-    "topic: Economy & business"
-   ],
-   "first_seen": "2026-11-26",
-   "status": "new",
-   "outlet_count": 2,
-   "outlets": [
-    "Khabarhub English",
-    "Onlinekhabar English"
-   ],
-   "engagement": 0,
-   "regions": [
-    "Nepal"
-   ],
-   "langs": [
-    "en"
-   ],
-   "brief": {},
-   "llm_status": "",
-   "articles": [
-    {
-     "source": "feed",
-     "outlet": "Onlinekhabar English",
-     "title": "NEPSE falls 10.89 points as trading turnover declines",
-     "url": "https://english.onlinekhabar.com/nepse-falls-10-89-points-as-trading-turnover-declines.html",
-     "published": "2026-11-26T09:53:59+00:00",
-     "summary": "Kathmandu, November 26 The Nepal Stock Exchange (Nepse) index fell by 10.89 points on Thursday to close at 2,636 points. The index had gained 8.66 points on the previous trading day. Both the Nepse index and total turnover declined. Shares worth Rs 5.48 billion were traded on Thursday, down from Rs ",
-     "region": "Nepal",
-     "lang": "en",
-     "weight": 0.9,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Onlinekhabar English:0f2f24f9ceb8"
-    },
-    {
-     "source": "feed",
-     "outlet": "Khabarhub English",
-     "title": "NEPSE sheds 10.89 points, ending three-day winning streak",
-     "url": "https://english.khabarhub.com/2026/26/577161/",
-     "published": "2026-11-26T11:11:43+00:00",
-     "summary": "KATHMANDU: The Nepal Stock Exchange (NEPSE) witnessed a decline on Thursday, bringing its three-session winning streak to an end. According to the Nepal Stock Exchange, the benchmark index dropped 10.89 points to settle at 2,636.75 points. The market had gained 2.26 points, 15.39 points and 8.70 poi",
-     "region": "Nepal",
-     "lang": "en",
-     "weight": 0.75,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Khabarhub English:e4ea21dfc012"
-    }
-   ]
-  },
-  {
-   "id": "cceeb820dd",
-   "headline": "१०औं राष्ट्रिय खेलकुद : महिला बास्केटबलको क्वाटरफाइनल समीकरण पूरा",
-   "url": "https://www.onlinekhabar.com/2026/11/2065837/10th-national-games-womens-basketball-quarterfinal-match-complete",
-   "first_published": "2026-11-26T11:19:39+00:00",
-   "topic": "Sports & culture",
-   "topics": [
-    "Politics & government",
-    "Tourism & mountains",
-    "Society, law & health",
-    "Sports & culture"
-   ],
-   "score": 26.7,
-   "signals": {
-    "coverage": 0.602,
-    "engagement": 0.0,
-    "velocity": 0.0,
-    "freshness": 0.87,
-    "age_hours": 6.4
-   },
-   "reasons": [
-    "3 outlets: Onlinekhabar, Setopati, Annapurna Post",
-    "first seen 6h ago",
-    "topic: Sports & culture"
-   ],
-   "first_seen": "2026-11-26",
-   "status": "new",
-   "outlet_count": 3,
-   "outlets": [
-    "Annapurna Post",
-    "Onlinekhabar",
-    "Setopati"
-   ],
-   "engagement": 0,
-   "regions": [
-    "Nepal"
-   ],
-   "langs": [
-    "ne"
-   ],
-   "brief": {},
-   "llm_status": "",
-   "articles": [
-    {
-     "source": "feed",
-     "outlet": "Onlinekhabar",
-     "title": "१०औं राष्ट्रिय खेलकुद : जिम्न्यास्टिकका प्रारम्भिक प्रतिस्पर्धा सुरू",
-     "url": "https://www.onlinekhabar.com/2026/11/2065799/10th-national-games-preliminary-gymnastics-competitions-begin",
-     "published": "2026-11-26T11:19:39+00:00",
-     "summary": "१० मंसिर, सुर्खेत । १०औं राष्ट्रिय खेलकुद प्रतियोगिताअन्तर्गत जिम्न्यास्टिक खेलका प्रारम्भिक चरणका प्रतिस्पर्धा आजदेखि सुरु भएका छन्। कर्णाली प्रदेशको राजधानी सुर्खेतस्थित वीरेन्द्रनगरको मिनी कभर्ड हलमा जिम्न्यास्टिकका विभिन्न विधामा प्रारम्भिक चरणका प्रतिस्पर्धा सुरु भएका हुन्। प्रतियोगितामा महिला ",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 1.0,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Onlinekhabar:d23d39dbe9a9"
-    },
-    {
-     "source": "feed",
-     "outlet": "Onlinekhabar",
-     "title": "१०औं राष्ट्रिय खेलकुद : महिला बास्केटबलको क्वाटरफाइनल समीकरण पूरा",
-     "url": "https://www.onlinekhabar.com/2026/11/2065837/10th-national-games-womens-basketball-quarterfinal-match-complete",
-     "published": "2026-11-26T12:02:47+00:00",
-     "summary": "१० मंसिर, काठमाडौं । १०औं राष्ट्रिय खेलकुद अन्तर्गत महिला बास्केटबलमा फुटबलकोर्ट र थ्री अन थ्री दुबैको क्वाटरफाइनल समिकरण पूरा भएको छ । सुर्खेत रंशालास्थित बास्केटबल कोर्टमा बिहीबार भएको समुह चरणको खेलहरु पनि क्वाटरफाइनल समिकरण तय भएको हो । दुवै फर्म्याटमा तीनवटै विभागीय टोली क्वाटरफाइनल पुगेका छन् ",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 1.0,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Onlinekhabar:9d1456c1d9a8"
-    },
-    {
-     "source": "feed",
-     "outlet": "Onlinekhabar",
-     "title": "१०औं राष्ट्रिय खेलकुद : पौडीमा पाँच राष्ट्रिय कीर्तिमान, बागमतीको अग्रता कायमै",
-     "url": "https://www.onlinekhabar.com/2026/11/2065951/10th-national-games-five-national-records-in-swimming-bagmati-maintains-lead",
-     "published": "2026-11-26T13:43:39+00:00",
-     "summary": "१० मंसिर, सुर्खेत । १०औं राष्ट्रिय खेलकुद प्रतियोगिताअन्तर्गत पौडीमा बिहीबार पाँच नयाँ राष्ट्रिय कीर्तिमान बनेका छन्। तेस्रो दिनको खेल सकिँदा पदक तालिकामा बागमती प्रदेशले आफ्नो अग्रता कायमै राखेको छ। नेपालगञ्ज रंगशालास्थित पौडी पोखरीमा जारी प्रतियोगितामा बागमतीले १२ स्वर्ण, सात रजत र सात कांस्य गरी ",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 1.0,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Onlinekhabar:4097fe6c1aa7"
-    },
-    {
-     "source": "feed",
-     "outlet": "Setopati",
-     "title": "दशौं राष्ट्रिय खेलकुद : महिला बास्केटबलमा क्वाटरफाइनल समिकरण पूरा",
-     "url": "https://www.setopati.com/sports/NationalGames/403475",
-     "published": "2026-11-26T15:30:00+00:00",
-     "summary": "दशौं राष्ट्रिय खेलकुदअन्तर्गत महिला बास्केटबलको फुल कोर्ट र थ्री अन थ्रीमा बिहीबार क्वाटरफाइनल समीकरण पूरा भएको छ ।",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 0.9,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Setopati:bd31fcfbbb85"
-    },
-    {
-     "source": "feed",
-     "outlet": "Annapurna Post",
-     "title": "महिला बास्केटबल : क्वाटरफाइनल समीकरण पूरा",
-     "url": "http://annapurnapost.com/story/512062",
-     "published": "2026-11-26T17:41:43+00:00",
-     "summary": "काठमाडौं : दसौं राष्ट्रिय खेलकुदअन्तर्गत महिला बास्केटबलको फुल कोर्ट र थ्री अन थ्रीमा बिहीबार क्वाटरफाइनल समीकरण पूरा भएको छ । सुर्खेतस्थित कर्णाली प्रदेश रंगशाला हातामा भएको खेलअन्तर्गत फुल कोर्टमा एपीएफले कर्णालीलाई ६७-१९, बागमतीले मधेशलाई ४३-५, कोशीले गण्डकीलाई ३३-७ र आर्मीले लुम्बिनीलाई ८०-२ ले ",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 0.85,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Annapurna Post:56d02d6f9203"
-    }
-   ]
-  },
-  {
-   "id": "fe03a6d90d",
-   "headline": "जेनजी आन्दोलन : प्रहरी गोलीले १४ महिनादेखि भेन्टिलेटरमा, ढाडस दिन बल्ल पुग्यो सरकार",
-   "url": "https://www.onlinekhabar.com/2026/11/2065462/genji-movement-police-bullets-on-ventilator-for-14-months-government-finally-reaches-out-to-offer-reassurance",
-   "first_published": "2026-11-26T15:47:08+00:00",
-   "topic": "Politics & government",
-   "topics": [
-    "Politics & government",
-    "Tourism & mountains",
+    "Foreign relations",
     "Society, law & health"
    ],
-   "score": 25.7,
+   "score": 26.2,
    "signals": {
-    "coverage": 0.315,
+    "coverage": 0.408,
     "engagement": 0.0,
     "velocity": 0.0,
-    "freshness": 0.957,
-    "age_hours": 1.9
+    "freshness": 0.84,
+    "age_hours": 8.0
    },
    "reasons": [
-    "1 outlet: Onlinekhabar",
-    "first seen 2h ago",
-    "topic: Politics & government"
+    "2 outlets: Gorkhapatra, Nepal News",
+    "first seen 8h ago",
+    "topic: Foreign relations"
    ],
    "first_seen": "2026-11-26",
    "status": "new",
-   "outlet_count": 1,
+   "outlet_count": 2,
    "outlets": [
-    "Onlinekhabar"
+    "Gorkhapatra",
+    "Nepal News"
    ],
    "engagement": 0,
    "regions": [
@@ -4652,507 +4478,33 @@
    "articles": [
     {
      "source": "feed",
-     "outlet": "Onlinekhabar",
-     "title": "जेनजी आन्दोलन : प्रहरी गोलीले १४ महिनादेखि भेन्टिलेटरमा, ढाडस दिन बल्ल पुग्यो सरकार",
-     "url": "https://www.onlinekhabar.com/2026/11/2065462/genji-movement-police-bullets-on-ventilator-for-14-months-government-finally-reaches-out-to-offer-reassurance",
-     "published": "2026-11-26T15:47:08+00:00",
-     "summary": "करिब १५ महिनासम्म पनि लक्ष्मण भेन्टिलेटरबाट नउठेपछि परिवारले रोइकराई गरे । सरकारसँग हारगुहार गरे । बुधबार बल्ल सरकारी टोली पोखरा स्वास्थ्य विज्ञान प्रतिष्ठानमै लक्ष्मणको अवस्था बुझ्न पुगेको छ ।",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 1.0,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Onlinekhabar:365951c6fc62"
-    }
-   ]
-  },
-  {
-   "id": "3b2a439e20",
-   "headline": "जेनजी विद्रोहमा यस्ताले पनि फाइदा उठाए : त्रिविको शुल्कबाट २० करोड घोटाला लुकाउन जलाइयो रसिद",
-   "url": "https://www.onlinekhabar.com/2026/11/2065328/these-people-also-benefited-from-the-genji-rebellion-receipts-burned-to-hide-a-200-million-rupee-scam-from-tribhuvan-university-fees",
-   "first_published": "2026-11-26T15:52:03+00:00",
-   "topic": "Politics & government",
-   "topics": [
-    "Politics & government"
-   ],
-   "score": 25.7,
-   "signals": {
-    "coverage": 0.315,
-    "engagement": 0.0,
-    "velocity": 0.0,
-    "freshness": 0.959,
-    "age_hours": 1.8
-   },
-   "reasons": [
-    "1 outlet: Onlinekhabar",
-    "first seen 2h ago",
-    "topic: Politics & government"
-   ],
-   "first_seen": "2026-11-26",
-   "status": "new",
-   "outlet_count": 1,
-   "outlets": [
-    "Onlinekhabar"
-   ],
-   "engagement": 0,
-   "regions": [
-    "Nepal"
-   ],
-   "langs": [
-    "ne"
-   ],
-   "brief": {},
-   "llm_status": "",
-   "articles": [
-    {
-     "source": "feed",
-     "outlet": "Onlinekhabar",
-     "title": "जेनजी विद्रोहमा यस्ताले पनि फाइदा उठाए : त्रिविको शुल्कबाट २० करोड घोटाला लुकाउन जलाइयो रसिद",
-     "url": "https://www.onlinekhabar.com/2026/11/2065328/these-people-also-benefited-from-the-genji-rebellion-receipts-burned-to-hide-a-200-million-rupee-scam-from-tribhuvan-university-fees",
-     "published": "2026-11-26T15:52:03+00:00",
-     "summary": "करिब २० हजार विद्यार्थी अध्ययनरत रहेको जनकपुरको रामसागर रामस्वरूप बहुमुखी (राराब) क्याम्पसमा पाँच वर्षसम्म विद्यार्थीबाट उठाइएको २० करोडभन्दा बढी रकम हिनामिना । घोटाला लुकाउन जेनजी आन्दोलनको फाइदा उठाउँदै आफ्नै कार्यकक्षमा आगो लगाएर अधिकांश प्रमाण नष्ट ।",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 1.0,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Onlinekhabar:d0caf2fd4e9b"
-    }
-   ]
-  },
-  {
-   "id": "109c93d4b8",
-   "headline": "लगानीकर्ताले किन लगेनन् १ अर्ब २० करोड लाभांश ? बर्सेनि कोष बढ्छ, उपयोग हुँदैन",
-   "url": "https://www.onlinekhabar.com/2026/11/2065645/why-didnt-investors-take-the-1-2-billion-rupees-in-dividends-the-fund-increases-every-year-but-is-not-utilized",
-   "first_published": "2026-11-26T15:49:34+00:00",
-   "topic": "Politics & government",
-   "topics": [
-    "Politics & government"
-   ],
-   "score": 25.7,
-   "signals": {
-    "coverage": 0.315,
-    "engagement": 0.0,
-    "velocity": 0.0,
-    "freshness": 0.958,
-    "age_hours": 1.9
-   },
-   "reasons": [
-    "1 outlet: Onlinekhabar",
-    "first seen 2h ago",
-    "topic: Politics & government"
-   ],
-   "first_seen": "2026-11-26",
-   "status": "new",
-   "outlet_count": 1,
-   "outlets": [
-    "Onlinekhabar"
-   ],
-   "engagement": 0,
-   "regions": [
-    "Nepal"
-   ],
-   "langs": [
-    "ne"
-   ],
-   "brief": {},
-   "llm_status": "",
-   "articles": [
-    {
-     "source": "feed",
-     "outlet": "Onlinekhabar",
-     "title": "लगानीकर्ताले किन लगेनन् १ अर्ब २० करोड लाभांश ? बर्सेनि कोष बढ्छ, उपयोग हुँदैन",
-     "url": "https://www.onlinekhabar.com/2026/11/2065645/why-didnt-investors-take-the-1-2-billion-rupees-in-dividends-the-fund-increases-every-year-but-is-not-utilized",
-     "published": "2026-11-26T15:49:34+00:00",
-     "summary": "५ वर्षसम्म पनि लगानीकर्ताले लाभांश लगेनन् भने पब्लिक कम्पनीहरूले लगानीकर्ता संरक्षण कोषमा जम्मा गर्नुपर्छ, कोषमा सवा अर्ब जम्मा भएको छ, लगानीकर्ता सचेतनामा गर्नुपर्ने यसको ब्याज रकमको खर्च सरकारले जथाभावी गरिरहेको छ ।",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 1.0,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Onlinekhabar:5035f2b2c9cd"
-    }
-   ]
-  },
-  {
-   "id": "760f600e04",
-   "headline": "८ महिनामा १३ अध्यादेश, तीन अझै राष्ट्रपतिकहाँ",
-   "url": "https://www.onlinekhabar.com/2026/11/2065979/13-ordinances-in-8-months-three-still-pending-with-the-president",
-   "first_published": "2026-11-26T15:50:30+00:00",
-   "topic": "Politics & government",
-   "topics": [
-    "Politics & government"
-   ],
-   "score": 25.7,
-   "signals": {
-    "coverage": 0.315,
-    "engagement": 0.0,
-    "velocity": 0.0,
-    "freshness": 0.959,
-    "age_hours": 1.9
-   },
-   "reasons": [
-    "1 outlet: Onlinekhabar",
-    "first seen 2h ago",
-    "topic: Politics & government"
-   ],
-   "first_seen": "2026-11-26",
-   "status": "new",
-   "outlet_count": 1,
-   "outlets": [
-    "Onlinekhabar"
-   ],
-   "engagement": 0,
-   "regions": [
-    "Nepal"
-   ],
-   "langs": [
-    "ne"
-   ],
-   "brief": {},
-   "llm_status": "",
-   "articles": [
-    {
-     "source": "feed",
-     "outlet": "Onlinekhabar",
-     "title": "८ महिनामा १३ अध्यादेश, तीन अझै राष्ट्रपतिकहाँ",
-     "url": "https://www.onlinekhabar.com/2026/11/2065979/13-ordinances-in-8-months-three-still-pending-with-the-president",
-     "published": "2026-11-26T15:50:30+00:00",
-     "summary": "संसद्मा करिब दुईतिहाइ बहुमत हुँदाहुँदै रास्वपा नेतृत्वको सरकारको प्राथमिकता संसदीय प्रक्रियाबाट कानुन बनाउनुको सट्टा अध्यादेश तर्फ छ ।आठ महिनामा १३ अध्यादेश जारी भएका छन् भने तीनवटा राष्ट्रपति कार्यालयमा विचाराधीन छन्।",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 1.0,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Onlinekhabar:29242d4220b2"
-    }
-   ]
-  },
-  {
-   "id": "05a7c3553f",
-   "headline": "भोटेकोशी बाढीमा सार्वजनिक यातायात क्षति : ७८२ मानवीय, ४०९ सवारी",
-   "url": "https://www.onlinekhabar.com/2026/11/2066030/public-transport-damage-in-bhotekoshi-floods-782-people-409-vehicles",
-   "first_published": "2026-11-26T15:40:06+00:00",
-   "topic": "Disasters & climate",
-   "topics": [
-    "Disasters & climate"
-   ],
-   "score": 25.6,
-   "signals": {
-    "coverage": 0.315,
-    "engagement": 0.0,
-    "velocity": 0.0,
-    "freshness": 0.955,
-    "age_hours": 2.0
-   },
-   "reasons": [
-    "1 outlet: Onlinekhabar",
-    "first seen 2h ago",
-    "topic: Disasters & climate"
-   ],
-   "first_seen": "2026-11-26",
-   "status": "new",
-   "outlet_count": 1,
-   "outlets": [
-    "Onlinekhabar"
-   ],
-   "engagement": 0,
-   "regions": [
-    "Nepal"
-   ],
-   "langs": [
-    "ne"
-   ],
-   "brief": {},
-   "llm_status": "",
-   "articles": [
-    {
-     "source": "feed",
-     "outlet": "Onlinekhabar",
-     "title": "भोटेकोशी बाढीमा सार्वजनिक यातायात क्षति : ७८२ मानवीय, ४०९ सवारी",
-     "url": "https://www.onlinekhabar.com/2026/11/2066030/public-transport-damage-in-bhotekoshi-floods-782-people-409-vehicles",
-     "published": "2026-11-26T15:40:06+00:00",
-     "summary": "क्षति मूल्यांकन समितिको प्रतिवेदन अनुसार भोटेकोशी बाढीका कारण सार्वजनिक यातायात क्षेत्रतर्फ कुल ७ सय ८२ मानवीय क्षति भएको छ ।",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 1.0,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Onlinekhabar:d664afe70641"
-    }
-   ]
-  },
-  {
-   "id": "721887234e",
-   "headline": "म्यानपावर र कन्सल्टेन्सीमाथि विशेष अप्रेसन चलाउँदै सरकार",
-   "url": "https://www.onlinekhabar.com/2026/11/2065946/police-conducting-special-operations-against-manpower-and-consultancy",
-   "first_published": "2026-11-26T15:42:23+00:00",
-   "topic": "Politics & government",
-   "topics": [
-    "Politics & government",
-    "Nepalis abroad & migration"
-   ],
-   "score": 25.6,
-   "signals": {
-    "coverage": 0.315,
-    "engagement": 0.0,
-    "velocity": 0.0,
-    "freshness": 0.956,
-    "age_hours": 2.0
-   },
-   "reasons": [
-    "1 outlet: Onlinekhabar",
-    "first seen 2h ago",
-    "topic: Politics & government"
-   ],
-   "first_seen": "2026-11-26",
-   "status": "new",
-   "outlet_count": 1,
-   "outlets": [
-    "Onlinekhabar"
-   ],
-   "engagement": 0,
-   "regions": [
-    "Nepal"
-   ],
-   "langs": [
-    "ne"
-   ],
-   "brief": {},
-   "llm_status": "",
-   "articles": [
-    {
-     "source": "feed",
-     "outlet": "Onlinekhabar",
-     "title": "म्यानपावर र कन्सल्टेन्सीमाथि विशेष अप्रेसन चलाउँदै सरकार",
-     "url": "https://www.onlinekhabar.com/2026/11/2065946/police-conducting-special-operations-against-manpower-and-consultancy",
-     "published": "2026-11-26T15:42:23+00:00",
-     "summary": "सरकारले म्यानपावर तथा कन्सल्टेन्सीमा हुने गैरकानुनी गतिविधिमा संलग्न व्यक्ति तथा समूह पहिचान गरी उनीहरूमाथि निगरानी र कारबाही गर्ने तयारी गरेको हो ।",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 1.0,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Onlinekhabar:6237f9c6addd"
-    }
-   ]
-  },
-  {
-   "id": "8b864a7cb2",
-   "headline": "राष्ट्रपति चुरे तराई मधेस संरक्षण विकास समिति विघटन, १२ वर्षमा १६ अर्ब खर्च",
-   "url": "https://www.onlinekhabar.com/2026/11/2065911/presidents-chure-tarai-madhes-conservation-development-committee-dissolved-16-billion-spent-in-12-years",
-   "first_published": "2026-11-26T15:38:17+00:00",
-   "topic": "Politics & government",
-   "topics": [
-    "Politics & government"
-   ],
-   "score": 25.6,
-   "signals": {
-    "coverage": 0.315,
-    "engagement": 0.0,
-    "velocity": 0.0,
-    "freshness": 0.954,
-    "age_hours": 2.1
-   },
-   "reasons": [
-    "1 outlet: Onlinekhabar",
-    "first seen 2h ago",
-    "topic: Politics & government"
-   ],
-   "first_seen": "2026-11-26",
-   "status": "new",
-   "outlet_count": 1,
-   "outlets": [
-    "Onlinekhabar"
-   ],
-   "engagement": 0,
-   "regions": [
-    "Nepal"
-   ],
-   "langs": [
-    "ne"
-   ],
-   "brief": {},
-   "llm_status": "",
-   "articles": [
-    {
-     "source": "feed",
-     "outlet": "Onlinekhabar",
-     "title": "राष्ट्रपति चुरे तराई मधेस संरक्षण विकास समिति विघटन, १२ वर्षमा १६ अर्ब खर्च",
-     "url": "https://www.onlinekhabar.com/2026/11/2065911/presidents-chure-tarai-madhes-conservation-development-committee-dissolved-16-billion-spent-in-12-years",
-     "published": "2026-11-26T15:38:17+00:00",
-     "summary": "पृथ्वीको सबैभन्दा कान्छो पहाडका रूपमा चिनिएको चुरे शृङ्खला संरक्षण गर्न सरकारले आर्थिक वर्ष २०६६/६७ देखि राष्ट्रपति चुरे संरक्षण कार्यक्रम कार्यान्वयन सुरु गरेको थियो ।",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 1.0,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Onlinekhabar:0542df956562"
-    }
-   ]
-  },
-  {
-   "id": "1fc67a116c",
-   "headline": "दशौं राष्ट्रिय खेलकुद : पुरुष क्रिकेटमा आर्मीको विजयी सुरुवात",
-   "url": "https://www.setopati.com/sports/NationalGames/403476",
-   "first_published": "2026-11-26T12:47:29+00:00",
-   "topic": "Sports & culture",
-   "topics": [
-    "Sports & culture"
-   ],
-   "score": 25.5,
-   "signals": {
-    "coverage": 0.557,
-    "engagement": 0.0,
-    "velocity": 0.0,
-    "freshness": 0.897,
-    "age_hours": 4.9
-   },
-   "reasons": [
-    "3 outlets: Setopati, Annapurna Post, Desh Sanchar",
-    "first seen 5h ago",
-    "topic: Sports & culture"
-   ],
-   "first_seen": "2026-11-26",
-   "status": "new",
-   "outlet_count": 3,
-   "outlets": [
-    "Annapurna Post",
-    "Desh Sanchar",
-    "Setopati"
-   ],
-   "engagement": 0,
-   "regions": [
-    "Nepal"
-   ],
-   "langs": [
-    "ne"
-   ],
-   "brief": {},
-   "llm_status": "",
-   "articles": [
-    {
-     "source": "feed",
-     "outlet": "Desh Sanchar",
-     "title": "पुरुष क्रिकेटमा आर्मीको विजयी सुरुवात",
-     "url": "https://deshsanchar.com/2026/11/26/1256478/",
-     "published": "2026-11-26T12:47:29+00:00",
-     "summary": "मुगु – दशौं राष्ट्रिय खेलकुद प्रतियोगिताअन्तर्गत बिहीबार भएको पुरुष क्रिकेटतर्फको...",
+     "outlet": "Nepal News",
+     "title": "इकाई निरीक्षणलाई औपचारिकतामा सीमित नराख्न सशस्त्र प्रहरी महानिरीक्षक पौडेलको निर्देशन",
+     "url": "https://nepalnews.com/2026/11/26/armed-police-inspector-general-poudel-directs-not-to-limit-unit-inspections-to-formalities/",
+     "published": "2026-11-26T14:15:37+00:00",
+     "summary": "काठमाडौं। सशस्त्र प्रहरी महानिरीक्षक नारायणदत्त पौडेलले सशस्त्र प्रहरी बल, नेपालका इकाईहरूको वार्षिक निरीक्षणलाई औपचारिकतामा सीमित नराखी व्यावसायिकता, कार्यसम्पादन, सीमा सुरक्षाको प्रभावकारिता र जनविश्वासलाई मूल्याङ्कनको मुख्य आधार बनाउन निर्देशन दिएका छन्। मंसिर १० गते सशस्त्र प्रहरी बल, नेपाल प्रध",
      "region": "Nepal",
      "lang": "ne",
      "weight": 0.65,
      "points": 0,
      "comments": 0,
      "discussion_url": "",
-     "id": "feed:Desh Sanchar:2c32e232fdc8"
+     "id": "feed:Nepal News:0edf543c77af"
     },
     {
      "source": "feed",
-     "outlet": "Setopati",
-     "title": "दशौं राष्ट्रिय खेलकुद : पुरुष क्रिकेटमा आर्मीको विजयी सुरुवात",
-     "url": "https://www.setopati.com/sports/NationalGames/403476",
-     "published": "2026-11-26T14:33:00+00:00",
-     "summary": "",
+     "outlet": "Gorkhapatra",
+     "title": "संगठनभित्र हुने निरीक्षणलाई परिणाममुखी बनाउन सशस्त्र महानिरीक्षक पौडेलको निर्देशन",
+     "url": "https://gorkhapatraonline.com/news/230522",
+     "published": "2026-11-26T17:10:25+00:00",
+     "summary": "काठमाडौं, मंसिर १० गते । सशस्त्र प्रहरी बल, नेपालका महानिरीक्षक नारायणदत्त पौडेलले संगठनभित्र हुने निरीक्षणलगायतका गतिविधिहरूलाई औपचारिकतामा सीमित नराखी कार्यसम्पादनको वास्तविक नति...",
      "region": "Nepal",
      "lang": "ne",
-     "weight": 0.9,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Setopati:f49215150f5d"
-    },
-    {
-     "source": "feed",
-     "outlet": "Annapurna Post",
-     "title": "१० औं राष्ट्रिय खेलकुद : पुरुष क्रिकेटमा गण्डकीलाई हराउँदै आर्मीको विजयी सुरुवात",
-     "url": "http://annapurnapost.com/story/512050",
-     "published": "2026-11-26T17:41:43+00:00",
-     "summary": "काठमाडौं : १०औं राष्ट्रिय खेलकुदअन्तर्गत पुरुष क्रिकेटमा गण्डकी प्रदेशलाई ६७ रनले हराउँदै त्रिभुवन आर्मी क्लबले विजयी सुरुवात गरेको छ। सुर्खेतको विरेन्द्रनगरस्थित कालिन्चोक क्रिकेट मैदानमा टस हारेर ब्याटिङको निम्तो पाएको त्रिभुवन आर्मी क्लबले ९ विकेटको क्षतीमा १७७ रन बनाएको थियो। आर्मीले दिएको १७८ र",
-     "region": "Nepal",
-     "lang": "ne",
-     "weight": 0.85,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Annapurna Post:cf2f4b48a38b"
-    }
-   ]
-  },
-  {
-   "id": "79fcb860ba",
-   "headline": "New energy mix policy being developed in line with 30,000 MW electricity production goal",
-   "url": "https://theannapurnaexpress.com/story/69088",
-   "first_published": "2026-11-26T08:43:23+00:00",
-   "topic": "Economy & business",
-   "topics": [
-    "Economy & business"
-   ],
-   "score": 25.4,
-   "signals": {
-    "coverage": 0.426,
-    "engagement": 0.0,
-    "velocity": 0.0,
-    "freshness": 0.825,
-    "age_hours": 9.0
-   },
-   "reasons": [
-    "2 outlets: The Annapurna Express, Ratopati English",
-    "first seen 9h ago",
-    "topic: Economy & business"
-   ],
-   "first_seen": "2026-11-26",
-   "status": "new",
-   "outlet_count": 2,
-   "outlets": [
-    "Ratopati English",
-    "The Annapurna Express"
-   ],
-   "engagement": 0,
-   "regions": [
-    "Nepal"
-   ],
-   "langs": [
-    "en"
-   ],
-   "brief": {},
-   "llm_status": "",
-   "articles": [
-    {
-     "source": "feed",
-     "outlet": "The Annapurna Express",
-     "title": "New energy mix policy being developed in line with 30,000 MW electricity production goal",
-     "url": "https://theannapurnaexpress.com/story/69088",
-     "published": "2026-11-26T08:43:23+00:00",
-     "summary": "The government has started the process of preparing a new energy mix plan according to the goal of producing 30,000 megawatts of electricity in the next 10 years. The Ministry of Energy, Water Resources, and Irrigation has begun making a new plan to determine the proportion of electricity generated ",
-     "region": "Nepal",
-     "lang": "en",
      "weight": 0.8,
      "points": 0,
      "comments": 0,
      "discussion_url": "",
-     "id": "feed:The Annapurna Express:f54444a22764"
-    },
-    {
-     "source": "feed",
-     "outlet": "Ratopati English",
-     "title": "Government Initiates National Energy Policy Development Process",
-     "url": "http://english.ratopati.com/story/88408/high-level-committee-formed-to-formulate-national-energy-policy",
-     "published": "2026-11-26T12:08:08+00:00",
-     "summary": "Kathmandu. The government has moved forward with the process of formulating a National Energy Policy with the objective of determining...",
-     "region": "Nepal",
-     "lang": "en",
-     "weight": 0.75,
-     "points": 0,
-     "comments": 0,
-     "discussion_url": "",
-     "id": "feed:Ratopati English:0a3ee00df854"
+     "id": "feed:Gorkhapatra:0eba7c546a1d"
     }
    ]
   }
