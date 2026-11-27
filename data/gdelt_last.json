@@ -1,6 +1,36 @@
 {
-"fetched_at": "2026-11-27T17:25:55+00:00",
+"fetched_at": "2026-11-27T21:58:03+00:00",
 "articles": [
+{
+"source": "gdelt",
+"source_id": "788fb2eae70dd7",
+"outlet": "aninews.in",
+"title": "India - supported school hostel inaugurated in Nepal Mustang district",
+"url": "https://aninews.in/news/world/asia/india-supported-school-hostel-inaugurated-in-nepals-mustang-district20261127224232/",
+"published": "2026-11-27T20:30:00+00:00",
+"summary": "",
+"region": "India",
+"lang": "en",
+"weight": 0.6,
+"points": 0,
+"comments": 0,
+"discussion_url": ""
+},
+{
+"source": "gdelt",
+"source_id": "40fa8594f0b1f2",
+"outlet": "srilankasource.com",
+"title": "India champions , Sri Lanka runners - up as Odisha CM Mohan Majhi closes curtains on BIMSTEC U - 23 athletics meet 2026",
+"url": "http://www.srilankasource.com/news/279468285/india-champions-sri-lanka-runners-up-as-odisha-cm-mohan-majhi-closes-curtains-on-bimstec-u-23-athletics-meet-2026",
+"published": "2026-11-27T20:30:00+00:00",
+"summary": "",
+"region": "Sri Lanka",
+"lang": "en",
+"weight": 0.6,
+"points": 0,
+"comments": 0,
+"discussion_url": ""
+},
 {
 "source": "gdelt",
 "source_id": "45fc70365f541b",

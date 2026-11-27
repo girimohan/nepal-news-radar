@@ -1,8 +1,8 @@
 {
  "month": 11,
- "day": 27,
- "label": "27 November",
- "computed_at": "2026-11-26T22:29:00+00:00",
+ "day": 28,
+ "label": "28 November",
+ "computed_at": "2026-11-27T22:03:16+00:00",
  "years_checked": [
   1920,
   2025
@@ -10,45 +10,32 @@
  "items": [
   {
    "year": 2025,
-   "title": "Rastriya Prajatantra Party Nepal",
-   "sentence": "On 27 November 2025, the Rajendra Lingden-led Rastriya Prajatantra Party (RPP) formed a dialogue committee—composed of senior leaders Buddhiman Tamang, Bikram Pandey, and Dhruba Bahadur Pradhan—to pursue alliances with like-minded nationalist groups.",
-   "kind": "event",
-   "listed": false,
-   "description": "Political party in Nepal",
-   "lead": false,
-   "links": 0,
-   "score": 0.4,
-   "also": [],
-   "news": null,
-   "url": "https://en.wikipedia.org/wiki/Rastriya_Prajatantra_Party_Nepal"
-  },
-  {
-   "year": 2024,
    "title": "",
-   "sentence": "लक्ष्य हासिल गर्नेगरी काम गर्न प्रधानमन्त्रीको निर्देशन",
+   "sentence": "जोन सिम्पसनको अर्धशतकमा काठमाडौंले चितवनलाई दियो १४३ रनको लक्ष्य",
    "kind": "top_story",
    "listed": false,
-   "links": 4,
-   "score": 1.609,
+   "links": 5,
+   "score": 1.792,
    "outlets": [
     "Imagekhabar",
     "Khabarhub",
+    "Nepal News",
     "News of Nepal",
     "Onlinekhabar"
    ],
-   "article_count": 8,
+   "article_count": 14,
    "news": {
-    "title": "लक्ष्य हासिल गर्नेगरी काम गर्न प्रधानमन्त्रीको निर्देशन",
-    "url": "https://khabarhub.com/2024/27/715856/",
+    "title": "जोन सिम्पसनको अर्धशतकमा काठमाडौंले चितवनलाई दियो १४३ रनको लक्ष्य",
+    "url": "https://khabarhub.com/2025/28/888809/",
     "outlet": "Khabarhub",
-    "date": "2024-11-27",
+    "date": "2025-11-28",
     "kind": "top_story"
    }
   },
   {
-   "year": 2023,
+   "year": 2024,
    "title": "",
-   "sentence": "गणतन्त्रको विकल्प छैन : सभापति देउवा",
+   "sentence": "परराष्ट्रमन्त्री राणा चीन प्रस्थान",
    "kind": "top_story",
    "listed": false,
    "links": 5,
@@ -60,19 +47,43 @@
     "News of Nepal",
     "Onlinekhabar"
    ],
-   "article_count": 8,
+   "article_count": 12,
    "news": {
-    "title": "गणतन्त्रको विकल्प छैन : सभापति देउवा",
-    "url": "https://www.imagekhabar.com/news/462215/",
-    "outlet": "Imagekhabar",
-    "date": "2023-11-27",
+    "title": "परराष्ट्रमन्त्री राणा चीन प्रस्थान",
+    "url": "https://www.onlinekhabar.com/2024/11/1575019/foreign-minister-rana-leaves-for-china",
+    "outlet": "Onlinekhabar",
+    "date": "2024-11-28",
+    "kind": "top_story"
+   }
+  },
+  {
+   "year": 2023,
+   "title": "",
+   "sentence": "नयाँ कार्यालयमा प्रधानमन्त्रीले गरे ओलीलाई स्वागत",
+   "kind": "top_story",
+   "listed": false,
+   "links": 5,
+   "score": 1.792,
+   "outlets": [
+    "Clickmandu",
+    "Imagekhabar",
+    "Khabarhub",
+    "News of Nepal",
+    "Onlinekhabar"
+   ],
+   "article_count": 6,
+   "news": {
+    "title": "नयाँ कार्यालयमा प्रधानमन्त्रीले गरे ओलीलाई स्वागत",
+    "url": "https://www.onlinekhabar.com/2023/11/1398067/the-prime-minister-welcomed-oli-to-the-new-office",
+    "outlet": "Onlinekhabar",
+    "date": "2023-11-28",
     "kind": "top_story"
    }
   },
   {
    "year": 2022,
    "title": "",
-   "sentence": "प्रत्यक्षतर्फ १५४ सिटको नतिजा : कांग्रेस ५२, एमाले ४०, माओवादी १७ सिटमा विजयी",
+   "sentence": "थापाथलीको सुकुम्बासी बस्ती हटाउन खोज्दा तनाव",
    "kind": "top_story",
    "listed": false,
    "links": 5,
@@ -86,40 +97,41 @@
    ],
    "article_count": 13,
    "news": {
-    "title": "प्रत्यक्षतर्फ १५४ सिटको नतिजा : कांग्रेस ५२, एमाले ४०, माओवादी १७ सिटमा विजयी",
-    "url": "https://khabarhub.com/2022/27/455145/",
-    "outlet": "Khabarhub",
-    "date": "2022-11-26",
+    "title": "थापाथलीको सुकुम्बासी बस्ती हटाउन खोज्दा तनाव",
+    "url": "https://www.onlinekhabar.com/2022/11/1225609/%e0%a4%a5%e0%a4%be%e0%a4%aa%e0%a4%be%e0%a4%a5%e0%a4%b2%e0%a5%80%e0%a4%95%e0%a5%8b-%e0%a4%b8%e0%a5%81%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a5%8d%e0%a4%ac%e0%a4%be%e0%a4%b8%e0%a5%80%e0%a4%ac%e0%a4%b8%e0%a5%8d",
+    "outlet": "Onlinekhabar",
+    "date": "2022-11-28",
     "kind": "top_story"
    }
   },
   {
    "year": 2021,
    "title": "",
-   "sentence": "एमाले महाधिवेशनको बन्दशत्र सुरु",
+   "sentence": "ओमिक्रोन भेरियन्टको त्रास : दक्षिण अफ्रिकी नागरिकलाई नेपाल प्रवेशमा रोक",
    "kind": "top_story",
    "listed": false,
-   "links": 4,
-   "score": 1.609,
+   "links": 5,
+   "score": 1.792,
    "outlets": [
+    "Clickmandu",
     "Imagekhabar",
     "Khabarhub",
     "News of Nepal",
     "Onlinekhabar"
    ],
-   "article_count": 8,
+   "article_count": 7,
    "news": {
-    "title": "एमाले महाधिवेशनको बन्दशत्र सुरु",
-    "url": "https://www.onlinekhabar.com/2021/11/1044813/%e0%a4%8f%e0%a4%ae%e0%a4%be%e0%a4%b2%e0%a5%87-%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a7%e0%a4%bf%e0%a4%b5%e0%a5%87%e0%a4%b6%e0%a4%a8%e0%a4%95%e0%a5%8b-%e0%a4%ac%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a4%b6%e0%a4%a4",
+    "title": "ओमिक्रोन भेरियन्टको त्रास : दक्षिण अफ्रिकी नागरिकलाई नेपाल प्रवेशमा रोक",
+    "url": "https://www.onlinekhabar.com/2021/11/1045345/%e0%a4%93%e0%a4%ae%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a5%8b%e0%a4%a8-%e0%a4%ad%e0%a5%87%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%a8%e0%a5%8d%e0%a4%9f%e0%a4%95%e0%a5%8b-%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be",
     "outlet": "Onlinekhabar",
-    "date": "2021-11-27",
+    "date": "2021-11-28",
     "kind": "top_story"
    }
   },
   {
    "year": 2020,
    "title": "",
-   "sentence": "नेपालमा पछिल्लो २४ घण्टामा थपिए १७०३ कोरोना संक्रमित, २३ को मृत्यु",
+   "sentence": "नेकपा सचिवालय बैठकमा अध्यक्ष ओलीको जवाफ पेस",
    "kind": "top_story",
    "listed": false,
    "links": 4,
@@ -130,195 +142,165 @@
     "News of Nepal",
     "Onlinekhabar"
    ],
-   "article_count": 12,
+   "article_count": 19,
    "news": {
-    "title": "नेपालमा पछिल्लो २४ घण्टामा थपिए १७०३ कोरोना संक्रमित, २३ को मृत्यु",
-    "url": "https://khabarhub.com/2020/27/222433/",
-    "outlet": "Khabarhub",
-    "date": "2020-11-27",
+    "title": "नेकपा सचिवालय बैठकमा अध्यक्ष ओलीको जवाफ पेस",
+    "url": "https://www.imagekhabar.com/news/191999/",
+    "outlet": "Imagekhabar",
+    "date": "2020-11-28",
     "kind": "top_story"
    }
   },
   {
    "year": 2019,
+   "title": "Astha Raut",
+   "sentence": "Her second album Aadhar 2 was launched on 28 November 2019.",
+   "kind": "event",
+   "listed": false,
+   "description": "Nepalese singer",
+   "lead": true,
+   "links": 0,
+   "score": 0.9,
+   "also": [],
+   "news": null,
+   "url": "https://en.wikipedia.org/wiki/Astha_Raut"
+  },
+  {
+   "year": 2018,
    "title": "",
-   "sentence": "अर्घाखाँचीमा बस दुर्घटना हुँदा ६ जनाको मृत्यु",
+   "sentence": "एक किलो नक्कली सुनसहित तीनजना पक्राउ",
    "kind": "top_story",
    "listed": false,
    "links": 4,
    "score": 1.609,
    "outlets": [
-    "Imagekhabar",
-    "Khabarhub",
-    "News of Nepal",
-    "Onlinekhabar"
-   ],
-   "article_count": 15,
-   "news": {
-    "title": "अर्घाखाँचीमा बस दुर्घटना हुँदा ६ जनाको मृत्यु",
-    "url": "https://khabarhub.com/2019/27/104598/",
-    "outlet": "Khabarhub",
-    "date": "2019-11-27",
-    "kind": "top_story"
-   }
-  },
-  {
-   "year": 2018,
-   "title": "",
-   "sentence": "आजदेखि योगदानमा आधारित सामाजिक सुरक्षा योजना",
-   "kind": "top_story",
-   "listed": false,
-   "links": 3,
-   "score": 1.386,
-   "outlets": [
     "Clickmandu",
+    "Imagekhabar",
     "News of Nepal",
     "Onlinekhabar"
    ],
-   "article_count": 9,
+   "article_count": 5,
    "news": {
-    "title": "आजदेखि योगदानमा आधारित सामाजिक सुरक्षा योजना",
-    "url": "https://newsofnepal.com/2018/11/27/161229/",
-    "outlet": "News of Nepal",
+    "title": "एक किलो नक्कली सुनसहित तीनजना पक्राउ",
+    "url": "https://www.imagekhabar.com/news/8169/",
+    "outlet": "Imagekhabar",
     "date": "2018-11-27",
     "kind": "top_story"
    }
   },
   {
    "year": 2017,
-   "title": "",
-   "sentence": "जाजरकोटमा मतपेटिकालाई लक्षित गरी बम विस्फोट",
-   "kind": "top_story",
+   "title": "Aircraft Museum Kathmandu",
+   "sentence": "This museum was officially opened to public on 28 November, 2017.",
+   "kind": "event",
    "listed": false,
-   "links": 4,
-   "score": 1.609,
-   "outlets": [
-    "Clickmandu",
-    "Imagekhabar",
-    "News of Nepal",
-    "Onlinekhabar"
-   ],
-   "article_count": 6,
+   "description": "Aviation museum in Kathmandu, Nepal",
+   "lead": true,
+   "links": 0,
+   "score": 1.0,
+   "also": [],
    "news": {
-    "title": "जाजरकोटमा मतपेटिकालाई लक्षित गरी बम विस्फोट",
-    "url": "https://newsofnepal.com/2017/11/27/68306/",
-    "outlet": "News of Nepal",
-    "date": "2017-11-27",
-    "kind": "top_story"
-   }
+    "title": "An advice to the EU: Krishna Pahadi in Kantipur, 30 November 2017",
+    "url": "https://archive.nepalitimes.com/an-advice-to-the-eu",
+    "outlet": "Nepali Times #886",
+    "date": "2017-12-01",
+    "kind": "nepalitimes"
+   },
+   "url": "https://en.wikipedia.org/wiki/Aircraft_Museum_Kathmandu"
   },
   {
    "year": 2016,
-   "title": "",
-   "sentence": "जन्ती बोकेको जिप दुर्घटना, दुईको मृत्यु, १४ घाइते",
-   "kind": "top_story",
-   "listed": false,
-   "links": 2,
-   "score": 1.099,
-   "outlets": [
-    "Imagekhabar",
-    "Onlinekhabar"
-   ],
-   "article_count": 5,
-   "news": {
-    "title": "जन्ती बोकेको जिप दुर्घटना, दुईको मृत्यु, १४ घाइते",
-    "url": "https://www.onlinekhabar.com/2016/11/506294/%e0%a4%9c%e0%a4%a8%e0%a5%8d%e0%a4%a4%e0%a5%80-%e0%a4%ac%e0%a5%8b%e0%a4%95%e0%a5%87%e0%a4%95%e0%a5%8b-%e0%a4%9c%e0%a4%bf%e0%a4%aa-%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%98%e0%a4%9f%e0%a4%a8",
-    "outlet": "Onlinekhabar",
-    "date": "2016-11-27",
-    "kind": "top_story"
-   }
-  },
-  {
-   "year": 2015,
-   "title": "Mount Everest",
-   "sentence": "Scientific studies confirm more than 90 percent of the world’s glaciers are retreating, and many of the smaller ones — like the alpine ice sheets of Glacier National Park in the U.S. — are rapidly disappearing. On the other side of world, at Khumbu Glacier near Mount Everest in the Himalayas, expanding ponds are merging and forming larger bodies of water. This could threaten settlements downstream if they overflow. Thawing glaciers account for about 20 percent of the sea-level rise recorded in the past century, adding to the meltwater coming from polar ice caps and ice sheets.",
+   "title": "United Nations High Commissioner for Refugees",
+   "sentence": "Three UNHCR workers - one from Sudan and two from Nepal - are kidnapped by unidentified gunmen in Geneina, the capital of the West Darfur state.",
    "kind": "event",
    "listed": true,
    "lead": true,
    "source": "current_events",
    "links": 0,
-   "score": 1.4,
-   "also": [
-    {
-     "title": "Kabaddi (2014 film)",
-     "sentence": "Kabaddi Kabaddi was released in 27 November 2015, and it also became a huge success critically and commercially.",
-     "kind": "event"
-    }
-   ],
+   "score": 1.0,
+   "also": [],
    "news": {
-    "title": "Washington Post report",
-    "url": "https://www.washingtonpost.com/sf/national/2015/11/26/ice-worlds/?wpmm=1&wpisrc=nl_headlines",
-    "outlet": "Washington Post",
-    "date": "2015-11-27",
+    "title": "Sudan workers abducted darfur",
+    "url": "http://www.aljazeera.com/news/2016/11/sudan-workers-abducted-darfur-161128142415408.html",
+    "outlet": "Al Jazeera",
+    "date": "2016-11-28",
     "kind": "current_events"
    },
-   "url": "https://en.wikipedia.org/wiki/Mount_Everest"
+   "url": "https://en.wikipedia.org/wiki/United_Nations_High_Commissioner_for_Refugees"
+  },
+  {
+   "year": 2015,
+   "title": "",
+   "sentence": "नाकाबन्दीको विरोधमा चक्रपथमा विद्यार्थीको मानव साङलो (फोटो फिचरसहित)",
+   "kind": "top_story",
+   "listed": false,
+   "links": 1,
+   "score": 0.693,
+   "outlets": [
+    "Onlinekhabar"
+   ],
+   "article_count": 4,
+   "news": {
+    "title": "नाकाबन्दीको विरोधमा चक्रपथमा विद्यार्थीको मानव साङलो (फोटो फिचरसहित)",
+    "url": "https://www.onlinekhabar.com/2015/11/355612/%e0%a4%a8%e0%a4%be%e0%a4%95%e0%a4%be%e0%a4%ac%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%80%e0%a4%95%e0%a5%8b-%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a7%e0%a4%ae%e0%a4%be-%e0%a4%9a%e0%a4%95%e0%a5%8d-2",
+    "outlet": "Onlinekhabar",
+    "date": "2015-11-27",
+    "kind": "top_story"
+   }
   },
   {
    "year": 2014,
-   "title": "18th SAARC summit",
-   "sentence": "The eighteenth summit of the South Asian Association of Regional Cooperation (SAARC) was held in Kathmandu, the capital of Nepal on 26–27 November 2014.",
-   "kind": "event",
+   "title": "",
+   "sentence": "Back to work: When the government went into hibernation for the SAARC Summit last week, Dialogue Committee Chair Baburam Bhattarai tweeted that since nothing…",
+   "kind": "weekly",
    "listed": false,
-   "description": "",
-   "lead": true,
    "links": 0,
-   "score": 0.6,
-   "also": [
-    {
-     "title": "SAARC Summit",
-     "sentence": "The 18th SAARC summit was held at the Nepalese capital Kathmandu from November 26 to November 27, 2014 and was attended by the prime ministers of Bangladesh, Bhutan, India, Nepal and Pakistan, and the presidents of the Afghanistan, Maldives and Sri Lanka.",
-     "kind": "event"
-    }
-   ],
+   "score": 0.3,
+   "url": "",
    "news": {
-    "title": "SAARC summit: PM Narendra Modi, Pakistan PM Nawaz Sharif shake hands, but no talks",
-    "url": "http://indianexpress.com/article/india/india-others/after-chill-the-thaw-handshake-but-no-talks/",
-    "outlet": "The Indian Express",
+    "title": "Back to work: When the government went into hibernation for the SAARC Summit last week, Dialogue Committee Chair Baburam Bhattarai tweeted that since nothing…",
+    "url": "https://archive.nepalitimes.com/back-to-work",
+    "outlet": "Nepali Times #734",
     "date": "2014-11-28",
-    "kind": "cited"
-   },
-   "url": "https://en.wikipedia.org/wiki/18th_SAARC_summit"
+    "kind": "nepalitimes"
+   }
   },
   {
    "year": 2013,
-   "title": "Young Communist League, Nepal",
-   "sentence": "However, on November 27, 2013, a YCL activist was killed by a member of the CPN-UML, breaking the lull in violent incidents.",
-   "kind": "event",
+   "title": "",
+   "sentence": "Uphill task: As the election euphoria evaporates, it is down to realpolitik again. The first test of whether the victorious NC and UML have turned a new leaf…",
+   "kind": "weekly",
    "listed": false,
-   "description": "Youth wing of Communist Party of Nepal (Maoist Centre",
-   "lead": false,
    "links": 0,
-   "score": 1.3,
-   "also": [],
+   "score": 0.3,
+   "url": "",
    "news": {
-    "title": "Flights-of-fancy: Flights of fancy Yashoda Timsina, Nepal, 24 November When Ek Nath Dhakal chartered a Fishtail Air helicopter to Achham, the crowd that assembled…",
-    "url": "https://archive.nepalitimes.com/flights-of-fancy",
+    "title": "Uphill task: As the election euphoria evaporates, it is down to realpolitik again. The first test of whether the victorious NC and UML have turned a new leaf…",
+    "url": "https://archive.nepalitimes.com/uphill-task",
     "outlet": "Nepali Times #683",
     "date": "2013-11-29",
     "kind": "nepalitimes"
-   },
-   "url": "https://en.wikipedia.org/wiki/Young_Communist_League,_Nepal"
+   }
   },
   {
    "year": 2012,
-   "title": "Subrata Bain",
-   "sentence": "After escaping from a Nepal jail, he returned to Kolkata and was again arrested in a joint operation on 27 November 2012 in Burrabazar.",
+   "title": "CNN",
+   "sentence": "CNN publish a list of the top 10 CNN Heroes of 2012. Pushpa Basnet, a social worker from Nepal, is listed among others.",
    "kind": "event",
-   "listed": false,
-   "description": "Bangladeshi criminal and gang leader",
-   "lead": false,
+   "listed": true,
+   "lead": true,
+   "source": "current_events",
    "links": 0,
-   "score": 0.9,
-   "also": [
-    {
-     "title": "Tara Devi Tuladhar",
-     "sentence": "Tara Devi Tuladhar (Nepali: तारादेवी तुलाधर) (21 August 1931 – 27 November 2012) was Nepal's first female blood donor and a social worker who dedicated her life to serving society.",
-     "kind": "death"
-    }
-   ],
-   "news": null,
-   "url": "https://en.wikipedia.org/wiki/Subrata_Bain"
+   "score": 1.0,
+   "also": [],
+   "news": {
+    "title": "Jeff Zucker CNN President: Network Officially Hires Former NBC Universal Chief",
+    "url": "https://www.huffingtonpost.com/2012/11/29/jeff-zucker-cnn-chief-network-hires-former-nbcuniversal-ceo_n_2211447.html",
+    "outlet": "HuffPost",
+    "date": "2012-11-29",
+    "kind": "cited"
+   },
+   "url": "https://en.wikipedia.org/wiki/CNN"
   },
   {
    "year": 2011,
@@ -356,23 +338,20 @@
   },
   {
    "year": 2009,
-   "title": "Narendra Man Singh",
-   "sentence": "Narendra Man Singh (Nepali: नरेन्द्र मान सिंह; 1958 – 27 November 2009) was a Nepalese footballer.",
-   "kind": "death",
+   "title": "",
+   "sentence": "Held hostage: It is pretty obvious what all the petrol queues, the harvest seizures, land grabs, extortion and hotel strikes are leading up to: the nationwide…",
+   "kind": "weekly",
    "listed": false,
-   "description": "Nepalese footballer (1958–2009)",
-   "lead": true,
    "links": 0,
-   "score": 0.0,
-   "also": [],
+   "score": 0.3,
+   "url": "",
    "news": {
-    "title": "Former footballer Singh passes away",
-    "url": "https://web.archive.org/web/20150402111033/http://archives.myrepublica.com/portal/index.php?action=news_details&news_id=12241",
-    "outlet": "Republica",
-    "date": "2009-11-27",
-    "kind": "cited"
-   },
-   "url": "https://en.wikipedia.org/wiki/Narendra_Man_Singh"
+    "title": "Held hostage: It is pretty obvious what all the petrol queues, the harvest seizures, land grabs, extortion and hotel strikes are leading up to: the nationwide…",
+    "url": "https://archive.nepalitimes.com/held-hostage-1",
+    "outlet": "Nepali Times #479",
+    "date": "2009-12-04",
+    "kind": "nepalitimes"
+   }
   },
   {
    "year": 2008,
@@ -445,7 +424,7 @@
   {
    "year": 2003,
    "title": "",
-   "sentence": "Review decision on HRPC: NHRC to Govt.: National Human Rights Commission has urged the government to review its decision to set up a separate Human Rights Promotion Centre (HRPC) under the Prime Minister's direct supervision, the Kathmandu Post said Thursday.",
+   "sentence": "PM Thapa in Bangkok: Prime Minister Surya Bahadur Thapa arrived in Bangkok Friday evening en route to Bhutan for discussions on the forthcoming 12th SAARC summit in Pakistan in January next year, Radio Nepal said.",
    "kind": "day_news",
    "listed": false,
    "links": 0,
@@ -454,32 +433,32 @@
    "also": [
     {
      "title": "",
-     "sentence": "PM Thapa, Sri Lankan President meet",
+     "sentence": "Nepal police releases media policy",
      "kind": "day_news"
     },
     {
      "title": "",
-     "sentence": "Six schools shut down",
+     "sentence": "King, Queen grace swayambar",
      "kind": "day_news"
     },
     {
      "title": "",
-     "sentence": "More investment in schools suggested",
+     "sentence": "Bar Association to seek clarification",
      "kind": "day_news"
     }
    ],
    "news": {
-    "title": "Review decision on HRPC: NHRC to Govt.",
-    "url": "https://web.archive.org/web/20031212180538/http://www.nepalnews.com.np:80/archive/2003/november/arc925.htm",
+    "title": "PM Thapa in Bangkok",
+    "url": "https://web.archive.org/web/20040430164012/http://www.nepalnews.com.np:80/archive/2003/november/arc927.htm",
     "outlet": "nepalnews.com",
-    "date": "2003-11-27",
+    "date": "2003-11-28",
     "kind": "wayback"
    }
   },
   {
    "year": 2002,
    "title": "",
-   "sentence": "Khadka, Gupta remand extended: A special Kathmandu court Wednesday extended the remand of former ministers Khum Bahadur Khadka and Jayaprakash Prasad Gupta for investigation into corruption charges for an additional 15 days after a three-day hearing, court sources said.",
+   "sentence": "Sixteen journalists, HR activists file case for compensation: Sixteen journalists and human rights activists filed a case at the Kathmandu district court Thursday claiming that they were detained illegally and were tortured in custody during the period of emergency rule in the country.",
    "kind": "day_news",
    "listed": false,
    "links": 0,
@@ -488,59 +467,43 @@
    "also": [
     {
      "title": "",
-     "sentence": "Army recover hidden explosives",
+     "sentence": "King issues three ordinances",
      "kind": "day_news"
     },
     {
      "title": "",
-     "sentence": "Two murdered in Lalitpur",
+     "sentence": "10 Maoists killed",
      "kind": "day_news"
     },
     {
      "title": "",
-     "sentence": "Youths on the run to avoid Maoists",
+     "sentence": "Maoists attack academy in capital",
      "kind": "day_news"
     }
    ],
    "news": {
-    "title": "Khadka, Gupta remand extended",
-    "url": "https://web.archive.org/web/20030315132832/http://www.nepalnews.com.np:80/archive/2002/november/arc535.htm",
+    "title": "Sixteen journalists, HR activists file case for compensation",
+    "url": "https://web.archive.org/web/20021201102514/http://www.nepalnews.com.np:80/archive/2002/november/arc536.htm",
     "outlet": "nepalnews.com",
-    "date": "2002-11-27",
+    "date": "2002-11-28",
     "kind": "wayback"
    }
   },
   {
    "year": 2001,
    "title": "",
-   "sentence": "Army seeks cooperation from media: Royal Nepal Army has sought cooperation from journalists and media by publishing news, opinion, comments and other publication materials relating to army only after confirming with the Information Department of Royal Nepal Army, said a notice issued by News Director of the Royal Nepal Army.",
+   "sentence": "Policeman injured in Charikot attack: One policeman was injured in an attack on a police outpost in Charikot overnight in continuing rebel violence, state-owned Radio Nepal said.",
    "kind": "day_news",
    "listed": false,
    "links": 0,
    "score": 0.5,
    "url": "",
-   "also": [
-    {
-     "title": "",
-     "sentence": "Nayab Bada Guruju appointed",
-     "kind": "day_news"
-    },
-    {
-     "title": "",
-     "sentence": "Maoists kill four more policemen",
-     "kind": "day_news"
-    },
-    {
-     "title": "",
-     "sentence": "EU only \" regrets \" violence",
-     "kind": "day_news"
-    }
-   ],
+   "also": [],
    "news": {
-    "title": "Army seeks cooperation from media",
-    "url": "https://web.archive.org/web/20011212153710/http://www.nepalnews.com.np:80/archive/2001/november/arc297.htm",
+    "title": "Policeman injured in Charikot attack",
+    "url": "https://web.archive.org/web/20011212154252/http://www.nepalnews.com.np:80/archive/2001/november/arc298.htm",
     "outlet": "nepalnews.com",
-    "date": "2001-11-27",
+    "date": "2001-11-28",
     "kind": "wayback"
    }
   },
@@ -562,123 +525,52 @@
    }
   },
   {
-   "year": 1999,
-   "title": "Pratima Sherpa",
-   "sentence": "Pratima Sherpa (Nepali: प्रतिमा शेर्पा; born 27 November 1999) is the first ranked amateur female golfer from Nepal.",
-   "kind": "birth",
-   "listed": true,
-   "lead": true,
-   "links": 0,
-   "score": 1.4,
-   "also": [],
-   "news": null,
-   "url": "https://en.wikipedia.org/wiki/Pratima_Sherpa"
-  },
-  {
-   "year": 1997,
-   "title": "Nepal Dalit Sangh",
-   "sentence": "The organization emerged from initiatives by Dalit leaders associated with the Nepali Congress, including Bijul Bishwakarma, Ganesh Pariyar, and Dal Singh Kami, and was formally established as a sister organization of the party on 27 November 1997.",
+   "year": 1973,
+   "title": "Shanti Stupa, Pokhara",
+   "sentence": "On 28 November 1973, the prayer hall, with the statue of the Buddha, and the Guest House were set up.",
    "kind": "event",
    "listed": false,
-   "description": "Dalit wing of political Party",
-   "lead": true,
-   "links": 0,
-   "score": 1.3,
-   "also": [],
-   "news": null,
-   "url": "https://en.wikipedia.org/wiki/Nepal_Dalit_Sangh"
-  },
-  {
-   "year": 1988,
-   "title": "Manikala Rai",
-   "sentence": "Manikala Rai (born 27 November 1988) is a Nepalese ultra runner who now lives in France.",
-   "kind": "birth",
-   "listed": false,
-   "description": "Nepalese ultramarathon runner",
-   "lead": true,
-   "links": 0,
-   "score": 0.0,
-   "also": [],
-   "news": null,
-   "url": "https://en.wikipedia.org/wiki/Manikala_Rai"
-  },
-  {
-   "year": 1987,
-   "title": "Everest Marathon",
-   "sentence": "On 27 November 1987, the Nepal Government officially released a stamp in recognition of the marathon and repeated this accolade again in 2014.",
-   "kind": "event",
-   "listed": false,
-   "description": "Marathon held in Solukhumbu, Nepal",
+   "description": "Peace pagoda in Pokhara, Nepal",
    "lead": false,
    "links": 0,
    "score": 0.4,
    "also": [],
    "news": null,
-   "url": "https://en.wikipedia.org/wiki/Everest_Marathon"
+   "url": "https://en.wikipedia.org/wiki/Shanti_Stupa,_Pokhara"
   },
   {
-   "year": 1966,
-   "title": "Prakash Jwala",
-   "sentence": "Prakash Jwala (Nepali: प्रकाश ज्वाला; born 27 November 1966) is a Nepali politician currently serving as minister of physical infrastructure and transport of Government of Nepal.",
+   "year": 1936,
+   "title": "Phatteman Rajbhandari",
+   "sentence": "Phatteman Rajbhandari (November 28, 1936 – September 9, 2013), an iconic voice in Nepali music, was a popular vocalist and musician of Nepal known for prominent songs such as \"Marna Baru Garho Hunna\", \"Banai Khayo Dadelo Ley\", \"Yesto Pani Hudo Raichha\", \"Sannani ko Galai Ma\" and \"Rato Ra Chandra\".",
    "kind": "birth",
    "listed": false,
-   "description": "Nepali politician (born 1966)",
+   "description": "Nepali musician",
    "lead": true,
    "links": 0,
    "score": 0.0,
    "also": [],
    "news": null,
-   "url": "https://en.wikipedia.org/wiki/Prakash_Jwala"
+   "url": "https://en.wikipedia.org/wiki/Phatteman_Rajbhandari"
   },
   {
-   "year": 1937,
-   "title": "Nepal Ratna Man Padavi",
-   "sentence": "Order of Tri Shakti Patta was instituted by King Tribhuvan of Nepal in on 27 November 1937.",
+   "year": 1924,
+   "title": "Human rights in Nepal",
+   "sentence": "Slavery in Nepal was banned 28 November 1924, and the law was enforced in 1925.",
    "kind": "event",
    "listed": false,
-   "description": "Nepal's highest civilian award",
-   "lead": true,
+   "description": "",
+   "lead": false,
    "links": 0,
-   "score": 0.7,
+   "score": 1.0,
    "also": [
     {
-     "title": "Order of Tri Shakti Patta",
-     "sentence": "The order was later instituted on 27 November 1937 by King Tribhuvan.",
-     "kind": "event"
-    },
-    {
-     "title": "Rastra Gaurav Man Padavi",
-     "sentence": "Order of Tri Shakti Patta was instituted by King Tribhuvan of Nepal in on 27 November 1937.",
+     "title": "Slavery in Asia",
+     "sentence": "Slavery in Nepal was banned 28 November 1924, and the law was enforced in 1925.",
      "kind": "event"
     }
    ],
    "news": null,
-   "url": "https://en.wikipedia.org/wiki/Nepal_Ratna_Man_Padavi"
-  },
-  {
-   "year": 1936,
-   "title": "Ranu Devi Adhikari",
-   "sentence": "Ranu Devi Adhikari (Nepali: रानुदेवी अधिकारी) (27 November 1936 – 30 April 2020) was a singer of Nepal.",
-   "kind": "birth",
-   "listed": false,
-   "description": "Nepali singer (1936–2020)",
-   "lead": true,
-   "links": 0,
-   "score": 0.0,
-   "also": [],
-   "news": null,
-   "url": "https://en.wikipedia.org/wiki/Ranu_Devi_Adhikari"
+   "url": "https://en.wikipedia.org/wiki/Human_rights_in_Nepal"
   }
- ],
- "kantipur": {
-  "date": "2026-11-27",
-  "title": "[अर्काइभ] ...त्यसपछि पूर्वसांसदहरूले पेन्सन पाउन छाडे",
-  "summary": "त्रिशंकु संसद् भएकाले सत्ता टिकाउन गरिएका शृंखलाबद्ध खेलहरूमध्ये पूर्वसांसदहरूलाई पेन्सन सुविधा दिने निर्णय पनि एउटा थियो । उतिबेला सांसदहरूलाई खुसी पारेर लामो समय सत्ता टिकाउने खेल चलिरहन्थ्यो ।",
-  "url": "https://ekantipur.com/Kantipur-Archive/2026/11/27/archive-then-the-pension-benefits-of-former-mps-were-revoked-16-33.html",
-  "title_en": "Nepali article: [Archive] ...Then former MPs stopped receiving pensions",
-  "summary_en": "Among the series of maneuvers undertaken to retain power in a hung parliament was the decision to provide pension benefits to former lawmakers. At the time, efforts were continually made to placate lawmakers and prolong the government’s tenure.",
-  "url_en": "https://ekantipur.com/Kantipur-Archive/2026/11/27/en/archive-then-the-pension-benefits-of-former-mps-were-revoked-16-33.html",
-  "years_ago": 26,
-  "year": 2000
- }
+ ]
 }
