@@ -1,150 +1,132 @@
-# Nepal news radar, 2026-11-26
+# Nepal news radar, 2026-11-27
 
-41 stories worth a look out of 264 found in 425 articles from the last 48 hours. 36 are new since yesterday.
+54 stories worth a look out of 261 found in 421 articles from the last 48 hours. 47 are new since yesterday.
 
 **[Open the dashboard](https://girimohan.github.io/nepal-news-radar/)** for filters and the full list.
 
-Daily round-ups: [Nepal News Evening Briefing | Thursday, November 26, 2026](https://english.nepalnews.com/s/main-left/nepal-news-evening-briefing-thursday-november-26-2026/)
+Daily round-ups: [Nepal News Evening Briefing | Thursday, November 26, 2026](https://english.nepalnews.com/s/daily-brief/nepal-news-evening-briefing-thursday-november-26-2026/)
 
 ## Top stories
 
-### 1. [प्रधानमन्त्री शाह र सभापति लामिछानेबीच पाँच घण्टा लामो भेटवार्ता](http://annapurnapost.com/story/512059)
+### 1. [अध्यादेशको विरोध गर्दै नास्टका कर्मचारी आन्दोलित, मन्त्री महावीर पुनको राजीनामा माग](https://www.onlinekhabar.com/2026/11/2066212/nast-employees-protest-against-ordinance-demand-minister-mahavir-puns-resignation)
 
-**68/100** · Politics & government · 🆕 new
+**70/100** · Politics & government · 🆕 new
 
-_11 outlets: Onlinekhabar, Annapurna Post, Khabarhub, Gorkhapatra +7 more · first seen 9h ago · topic: Politics & government_
+_8 outlets: Onlinekhabar, Nagarik News, Ratopati, Ujyaalo Online +4 more · first seen 2h ago · topic: Politics & government_
 
-Sources: [Clickmandu](https://clickmandu.com/2026/11/508086.html) · [Nepal Press](https://www.nepalpress.com/2026/11/26/784810/five-hour-discussion-between-ravi-lamichhane-and-balen-shah-what-happened/) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2065938/sunday-balen-five-hour-discussion) · [Imagekhabar](https://www.imagekhabar.com/news/564341/) · [News of Nepal](https://newsofnepal.com/2026/11/26/796051/) · [Desh Sanchar](https://deshsanchar.com/2026/11/26/1256507/) · [Khabarhub](https://khabarhub.com/2026/26/1052023/) · [Gorkhapatra](https://gorkhapatraonline.com/news/230519)
+Sources: [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2066212/nast-employees-protest-against-ordinance-demand-minister-mahavir-puns-resignation) · [Clickmandu](https://clickmandu.com/2026/11/508210.html) · [Imagekhabar](https://www.imagekhabar.com/news/564343/) · [Ujyaalo Online](https://www.ujyaaloonline.com/detail/133901) · [Ratopati](https://www.ratopati.com/story/607945/nast-employees-warn-minister-pun-the-move-to-drive-away-skilled-manpower-is-unacceptable) · [Mirmire Online](https://www.mirmireonline.com/2026/11/27/320790/) · [News of Nepal](https://newsofnepal.com/2026/11/27/796183/) · [Nagarik News](https://nagariknews.nagariknetwork.com/politics/nast-employees-protest-against-ordinance-demand-minister-pun-s-resignation-20-77.html)
 
-### 2. [बेपत्ता तीन हजार ९१५ जनालाई मृत घोषणा गर्न सिफारिस](https://gorkhapatraonline.com/news/230516)
+### 2. [राष्ट्रपतिसँग रास्वपा सभापति रवि लामिछानेको भेटवार्ता](https://khabarhub.com/2026/27/1052209/)
 
-**62/100** · Disasters & climate · 📈 rising
+**66/100** · Politics & government · 📈 rising
 
-_6 outlets: BBC Nepali, Nagarik News, Gorkhapatra, Nepal Press +2 more · first seen 9h ago · topic: Disasters & climate · rising: 5 more outlets since yesterday_
+_15 outlets: Onlinekhabar, Nagarik News, Ratopati, Annapurna Post +11 more · first seen 19h ago · topic: Politics & government · rising: 4 more outlets since yesterday_
 
-Sources: [BBC Nepali](https://www.bbc.com/nepali/articles/c9e8535ekvkno?at_medium=RSS&at_campaign=rss) · [Gorkhapatra](https://gorkhapatraonline.com/news/230516) · [Mirmire Online](https://www.mirmireonline.com/2026/11/26/320735/) · [Nagarik News](https://nagariknews.nagariknetwork.com/social-affairs/government-recommended-to-declare-3-915-missing-people-in-bhotekoshi-flood-dead-17-36.html) · [Nepal Press](https://www.nepalpress.com/2026/11/26/784860/government-recommended-to-declare-3915-missing-people-in-bhotekoshi-flood-dead/) · [Nepal News](https://nepalnews.com/2026/11/26/recommendation-to-declare-3915-missing-people-in-bhotekoshi-flood-dead/)
+Sources: [Imagekhabar](https://www.imagekhabar.com/news/564341/) · [Clickmandu](https://clickmandu.com/2026/11/508224.html) · [Nagarik News](https://nagariknews.nagariknetwork.com/politics/meeting-between-president-poudel-and-speaker-lamichhane-br-53-46.html) · [Ratopati](https://www.ratopati.com/story/607951/ravi-lamichhane-reaches-sheetal-niwas-to-meet-the-president) · [Nepal Press](https://www.nepalpress.com/2026/11/27/784978/president-poudel-and-ravi-lamichhane-meet/) · [News of Nepal](https://newsofnepal.com/2026/11/27/796174/) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2066268/rsp-president-ravi-lamichhane-meets-with-the-president) · [Nepal News](https://nepalnews.com/2026/11/27/meeting-between-rsp-president-lamichhane-and-the-president-at-sheetal-niwas/)
 
-### 3. [PM Balendra Shah, RSP chair Rabi Lamichhane hold five-hour meeting](https://english.onlinekhabar.com/balen-lamichhane-five-hour-meet.html)
+### 3. [भैरहवा हवाई प्रवेशमार्गसम्बन्धी सहमति सकारात्मक छ : महासचिव पोखरेल](https://www.ratopati.com/story/607961/agreement-on-bhairahawa-air-access-route-is-positive-general-secretary-pokharel)
 
-**53/100** · Politics & government · 📈 rising
+**62/100** · Politics & government · 🆕 new
 
-_10 outlets: The Kathmandu Post, The Himalayan Times, Onlinekhabar English, The Diplomat South Asia +6 more · first seen 40h ago · topic: Politics & government · rising: 6 more outlets since yesterday_
+_6 outlets: Nagarik News, Ratopati, Khabarhub, Nepal Press +2 more · first seen 2h ago · topic: Politics & government_
 
-Sources: [The Himalayan Times](https://thehimalayantimes.com/nepal/pm-shah-calls-for-zero-tolerance-against-gender-based-violence) · [The Kathmandu Post](https://kathmandupost.com/columns/2026/11/25/was-pm-shah-s-visit-to-india-really-grand-or-was-it-illusory) · [South China Morning Post Asia](https://www.scmp.com/week-asia/politics/article/3375772/nepal-hedges-between-two-asian-giants-ties-india-thaw) · [The Diplomat South Asia](https://thediplomat.com/2026/11/why-nepali-prime-minister-balendra-shahs-india-visit-was-a-success/) · [The Diplomat South Asia](https://thediplomat.com/2026/11/nepals-prime-minister-is-back-from-india-now-comes-the-hard-part/) · [The Kathmandu Post](https://kathmandupost.com/politics/2026/11/26/shah-briefs-lamichhane-on-india-visit-discusses-government-performance-and-parliamentary-agenda) · [The Kathmandu Post](https://kathmandupost.com/art-culture/2026/11/26/five-lessons-in-golf-and-politics-for-prime-minister-balendra-shah) · [Onlinekhabar English](https://english.onlinekhabar.com/janamorcha-shah-compromise-national-interests-india-visit.html)
+Sources: [Nepal Press](https://www.nepalpress.com/2026/11/27/784942/uml-general-secretarys-comment-on-balens-visit-to-india-embarrassing/) · [Nepal Press](https://www.nepalpress.com/2026/11/27/785008/agreement-on-bhairahawa-air-access-route-is-positive-general-secretary-pokharel/) · [Ratopati](https://www.ratopati.com/story/607961/agreement-on-bhairahawa-air-access-route-is-positive-general-secretary-pokharel) · [Khabarhub](https://khabarhub.com/2026/27/1052215/) · [Nagarik News](https://nagariknews.nagariknetwork.com/politics/bhairahawa-air-route-agreement-positive-general-secretary-pokharel-br-31-11.html) · [Mirmire Online](https://www.mirmireonline.com/2026/11/27/320802/) · [Nepal News](https://nepalnews.com/2026/11/27/agreement-to-make-bhairahawa-air-access-road-two-way-positive/)
 
-### 4. [सुकुमवासीलाई होल्डिङ सेन्टरबाट हटाउने निर्णय तत्काल फिर्ता लिन कांग्रेसको माग](https://www.onlinekhabar.com/2026/11/2065933/congress-demands-immediate-withdrawal-of-decision-to-remove-squatters-from-holding-centers)
+### 4. [Rastriya Swatantra Party Chair Rabi Lamichhane meets President](https://english.onlinekhabar.com/rastriya-swatantra-party-chair-rabi-lamichhane-meets-president.html)
 
-**51/100** · Politics & government · 🆕 new
+**59/100** · Politics & government · 🆕 new
 
-_5 outlets: Onlinekhabar, Nagarik News, Annapurna Post, Nepal News +1 more · first seen 9h ago · topic: Politics & government_
+_5 outlets: The Kathmandu Post, Onlinekhabar English, Ratopati English, Khabarhub English +1 more · first seen 3h ago · topic: Politics & government_
 
-Sources: [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2065933/congress-demands-immediate-withdrawal-of-decision-to-remove-squatters-from-holding-centers) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2065936/sukum-residents-demand-not-to-be-evicted-from-holding-center-without-assurance-of-housing) · [Nagarik News](https://nagariknews.nagariknetwork.com/politics/congress-objects-to-government-s-decision-to-remove-squatters-from-holding-centers-55-79.html) · [Mirmire Online](https://www.mirmireonline.com/2026/11/26/320732/) · [Nepal News](https://nepalnews.com/2026/11/26/congress-demands-withdrawal-of-decision-to-evacuate-holding-center/) · [Annapurna Post](http://annapurnapost.com/story/512058)
+Sources: [The Kathmandu Post](https://kathmandupost.com/national/2026/11/27/rabi-lamichhane-meets-president-paudel) · [Onlinekhabar English](https://english.onlinekhabar.com/rsp-team-returning-from-china.html) · [Ratopati English](http://english.ratopati.com/story/88514/ravi-lamichhane-reaches-sheetal-niwas-to-meet-the-president) · [Onlinekhabar English](https://english.onlinekhabar.com/rastriya-swatantra-party-chair-rabi-lamichhane-meets-president.html) · [Khabarhub English](https://english.khabarhub.com/2026/27/577261/) · [Ratopati English](http://english.ratopati.com/story/88522/ravis-45-minutes-at-sheetal-niwas-discussion-on-stalled-ordinances-and-the-prime-ministers-state-visit) · [Nepal News English](https://english.nepalnews.com/s/politics/president-paudel-and-lamichhane-hold-meeting/)
 
-### 5. [Former chief secretary Aryal arrested on fraud charge](https://risingnepaldaily.com/news/89067)
+### 5. [सप्तरीमा एक हजार २६ मतदाता थपिए](https://www.onlinekhabar.com/2026/11/2066293/1026-voters-added-to-saptari)
 
-**50/100** · Nepalis abroad & migration · 🆕 new
+**54/100** · Politics & government · 🆕 new
 
-_7 outlets: The Kathmandu Post, Onlinekhabar English, The Annapurna Express, Khabarhub English +3 more · first seen 16h ago · topic: Nepalis abroad & migration_
+_4 outlets: Onlinekhabar, Nagarik News, Khabarhub, Mirmire Online · first seen 2h ago · topic: Politics & government_
 
-Sources: [The Kathmandu Post](https://kathmandupost.com/national/2026/11/26/former-chief-secretary-ek-narayan-aryal-arrested-near-nepal-india-border) · [Ratopati English](http://english.ratopati.com/story/88410/permission-to-keep-the-accused-including-the-former-ministers-in-custody-for-another-five-days) · [Khabarhub English](https://english.khabarhub.com/2026/26/577119/) · [Onlinekhabar English](https://english.onlinekhabar.com/ek-narayan-aryal-fled-to-kolkata.html) · [The Rising Nepal](https://risingnepaldaily.com/news/89067) · [Nepal News English](https://english.nepalnews.com/s/politics/former-chief-secretary-aryal-arrested-on-fraud-charge/) · [Ratopati English](http://english.ratopati.com/story/88427/10-news-at-10-from-minister-sobita-gautams-rank-improvement-to-the-arrest-of-former-chief-secretary) · [Ratopati English](http://english.ratopati.com/story/88429/cib-raids-former-chief-secretary-aryals-house)
+Sources: [Khabarhub](https://khabarhub.com/2026/27/1052182/) · [Nagarik News](https://nagariknews.nagariknetwork.com/politics/one-thousand-voters-added-to-saptari-br-64-78.html) · [Mirmire Online](https://www.mirmireonline.com/2026/11/27/320789/) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2066293/1026-voters-added-to-saptari)
 
-### 6. [राष्ट्रिय ऊर्जा नीति निर्माणका लागि उच्चस्तरीय समिति गठन, २१ दिनभित्र मस्यौदा तयार हुने](https://www.nepalpress.com/2026/11/26/784737/high-level-committee-formed-to-formulate-national-energy-policy-draft-to-be-ready-within-21-days/)
+### 6. [चीन भ्रमणबारे सभापति रवि लामिछानेलाई २० सदस्यीय टोलीको ब्रिफिङ](https://www.nepalpress.com/2026/11/27/784952/a-20-member-team-briefs-president-ravi-lamichhane-on-his-visit-to-china/)
 
-**50/100** · Politics & government · 🆕 new
+**54/100** · Politics & government · 🆕 new · नेपाली press only
 
-_6 outlets: Onlinekhabar, Annapurna Post, Nepal Press, News of Nepal +2 more · first seen 11h ago · topic: Politics & government_
+_4 outlets: Onlinekhabar, Nagarik News, Nepal Press, Nepal News · first seen 2h ago · topic: Politics & government_
 
-Sources: [Nepal Press](https://www.nepalpress.com/2026/11/26/784737/high-level-committee-formed-to-formulate-national-energy-policy-draft-to-be-ready-within-21-days/) · [Clickmandu](https://clickmandu.com/2026/11/508061.html) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2065852/high-level-committee-formed-to-formulate-national-energy-policy-draft-to-be-submitted-within-21-days) · [News of Nepal](https://newsofnepal.com/2026/11/26/796057/) · [Mirmire Online](https://www.mirmireonline.com/2026/11/26/320725/) · [Annapurna Post](http://annapurnapost.com/story/512051)
+Sources: [Nepal Press](https://www.nepalpress.com/2026/11/27/784952/a-20-member-team-briefs-president-ravi-lamichhane-on-his-visit-to-china/) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2066230/the-rsvp-team-returning-from-china-briefed-president-lamichhane-about-the-visit) · [Nagarik News](https://nagariknews.nagariknetwork.com/politics/briefing-to-president-lamichhane-on-achievements-of-china-visit-discussion-on-possibilities-of-cooperation-br-84-43.html) · [Nepal News](https://nepalnews.com/2026/11/27/general-secretary-acharya-briefs-president-ravi-about-china-visit/)
 
-### 7. [मलेसिया श्रमिक पठाउने प्रकरणमा पूर्वमुख्यसचिव अर्याल पक्राउ](https://khabarhub.com/2026/26/1052049/)
+### 7. [त्रिभुवन विमानस्थलबाट ४ किलो थाई गाँजासहित भारतीय नागरिक पक्राउ](https://nagariknews.nagariknetwork.com/Aparadh/indian-national-arrested-with-4-kg-of-thai-marijuana-at-tribhuvan-airport-37-64.html)
 
-**47/100** · Society, law & health · 🆕 new · नेपाली press only
+**52/100** · Foreign relations · 📈 rising · नेपाली press only
 
-_8 outlets: Onlinekhabar, Ratopati, Annapurna Post, Gorkhapatra +4 more · first seen 9h ago · topic: Society, law & health_
+_3 outlets: Nagarik News, Ratopati, Annapurna Post · broke in the last hour · topic: Foreign relations · rising: 2 more outlets since yesterday_
 
-Sources: [Gorkhapatra](https://gorkhapatraonline.com/news/230514) · [Nepal Press](https://www.nepalpress.com/2026/11/26/784836/former-chief-secretary-aryal-arrested-in-malaysia-migrant-worker-case/) · [Nepal News](https://nepalnews.com/2026/11/26/former-chief-secretary-ek-narayan-aryal-arrested-from-morang-border/) · [Desh Sanchar](https://deshsanchar.com/2026/11/26/1256525/) · [Khabarhub](https://khabarhub.com/2026/26/1052049/) · [Ratopati](https://www.ratopati.com/story/607837/police-claim-to-have-arrested-former-chief-secretary-aryal-from-the-nepal-india-border-area) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2066028/cib-raids-former-chief-secretary-aryals-house-in-budhanilkantha) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2065904/former-chief-secretary-aryal-fled-to-india-after-receiving-notice-of-arrest-remand-extended-tomorrow)
+Sources: [Ratopati](https://www.ratopati.com/story/607958/indian-man-arrested-with-thai-marijuana-at-airport) · [Nagarik News](https://nagariknews.nagariknetwork.com/Aparadh/indian-national-arrested-with-4-kg-of-thai-marijuana-at-tribhuvan-airport-37-64.html) · [Annapurna Post](http://annapurnapost.com/story/512092)
 
-### 8. [CIT directed to submit detailed plan for expanding services within 10 days](https://english.khabarhub.com/2026/26/577190/)
+### 8. [पूर्व मुख्यसचिव अर्याल म्याद थपका लागि सरकारी वकिल कार्यालयमा](https://www.ratopati.com/story/607936/former-chief-secretary-aryal-at-the-government-attorneys-office-for-extension-of-term)
 
-**47/100** · Politics & government · 🆕 new
+**52/100** · Society, law & health · 🆕 new
 
-_5 outlets: Onlinekhabar English, The Annapurna Express, Khabarhub English, The Rising Nepal +1 more · first seen 13h ago · topic: Politics & government_
+_8 outlets: Nagarik News, Ratopati, Annapurna Post, Nepal Press +4 more · first seen 2h ago · topic: Society, law & health_
 
-Sources: [Onlinekhabar English](https://english.onlinekhabar.com/social-security-fund-a-major-hurdle-to-cits-fund-mobilisation-says-executive-director-karki.html) · [Khabarhub English](https://english.khabarhub.com/2026/26/577190/) · [The Rising Nepal](https://risingnepaldaily.com/news/89065) · [Nepal News English](https://english.nepalnews.com/s/business/parliamentary-committee-orders-citizen-investment-trust-to-submit-expansion-plan/) · [The Annapurna Express](https://theannapurnaexpress.com/story/69097)
+Sources: [Desh Sanchar](https://deshsanchar.com/2026/11/27/1256657/) · [Nepal Press](https://www.nepalpress.com/2026/11/27/784957/former-chief-secretary-aryals-term-extension-process-begins-taken-to-government-attorney/) · [Ratopati](https://www.ratopati.com/story/607936/former-chief-secretary-aryal-at-the-government-attorneys-office-for-extension-of-term) · [Clickmandu](https://clickmandu.com/2026/11/508222.html) · [Ratopati](https://www.ratopati.com/story/607946/former-chief-secretary-aryal-taken-to-court) · [Mirmire Online](https://www.mirmireonline.com/2026/11/27/320793/) · [News of Nepal](https://newsofnepal.com/2026/11/27/796171/) · [Nagarik News](https://nagariknews.nagariknetwork.com/social-affairs/former-chief-secretary-aryal-appears-in-court-remand-extended-98-39.html)
 
-### 9. [अनुदानको मल बिक्रीमा अनियमितता, कृषि भण्डारलाई दुई लाख जरिवाना](https://www.ratopati.com/story/607835/irregularities-in-the-sale-of-subsidized-fertilizer-agriculture-store-fined-200000)
+### 9. [भक्तपुरमा सुकुमबासीहरुले गरे थाल ठटाएर विरोध प्रदर्शन](https://www.ratopati.com/story/607942/slum-dwellers-in-bhaktapur-stage-protest-by-banging-plates)
 
-**46/100** · Politics & government · 🆕 new · नेपाली press only
+**50/100** · Politics & government · 🆕 new · नेपाली press only
 
-_4 outlets: Onlinekhabar, Nagarik News, Ratopati, Imagekhabar · first seen 10h ago · topic: Politics & government_
+_3 outlets: Onlinekhabar, Nagarik News, Ratopati · first seen 1h ago · topic: Politics & government_
 
-Sources: [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2065903/two-lakh-fine-for-misuse-of-subsidized-fertilizer) · [Nagarik News](https://nagariknews.nagariknetwork.com/social-affairs/two-lakh-fine-for-misuse-of-subsidized-fertilizer-br-15-70.html) · [Imagekhabar](https://www.imagekhabar.com/news/564338/) · [Ratopati](https://www.ratopati.com/story/607835/irregularities-in-the-sale-of-subsidized-fertilizer-agriculture-store-fined-200000)
+Sources: [Ratopati](https://www.ratopati.com/story/607942/slum-dwellers-in-bhaktapur-stage-protest-by-banging-plates) · [Ratopati](https://www.ratopati.com/story/607950/protest-by-squatters-in-bode-police-team-reaches-holding-center) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2066270/sukum-residents-protest-against-the-government-by-banging-plates-photos) · [Nagarik News](https://nagariknews.nagariknetwork.com/social-affairs/squatters-protest-in-bode-52-89.html)
 
-### 10. [नागरिक लगानी कोषको पहुँच विस्तार योजना १० दिनभित्र पेस गर्न अर्थ समितिको निर्देशन](https://www.ratopati.com/story/607834/finance-committee-directs-to-submit-citizen-investment-fund-access-expansion-plan-within-10-days)
+### 10. [Bhotekoshi flood survivor children to receive monthly stipend of Rs 17,400](https://theannapurnaexpress.com/story/69109)
 
-**44/100** · Politics & government · 🆕 new
+**49/100** · Disasters & climate · 🆕 new
 
-_5 outlets: Ratopati, Ujyaalo Online, Nepal Press, Imagekhabar +1 more · first seen 12h ago · topic: Politics & government_
+_4 outlets: The Annapurna Express, Khabarhub English, The Rising Nepal, Nepal News English · first seen 4h ago · topic: Disasters & climate_
 
-Sources: [Imagekhabar](https://www.imagekhabar.com/news/564318/) · [Ujyaalo Online](https://www.ujyaaloonline.com/detail/133878) · [Mirmire Online](https://www.mirmireonline.com/2026/11/26/320720/) · [Ratopati](https://www.ratopati.com/story/607834/finance-committee-directs-to-submit-citizen-investment-fund-access-expansion-plan-within-10-days) · [Nepal Press](https://www.nepalpress.com/2026/11/26/784849/finance-committee-directs-to-formulate-a-plan-to-expand-access-to-citizens-investment-fund-10-days-time/)
+Sources: [Khabarhub English](https://english.khabarhub.com/2026/27/577232/) · [The Rising Nepal](https://risingnepaldaily.com/news/89103) · [Nepal News English](https://english.nepalnews.com/s/nation/bhote-koshi-flood-survivor-children-to-receive-monthly-stipend-of-rs-17400/) · [The Annapurna Express](https://theannapurnaexpress.com/story/69109) · [The Annapurna Express](https://theannapurnaexpress.com/story/69098)
 
-### 11. [Nepal mourns citizen killed in Saudi attacks, urges restraint](https://kathmandupost.com/national/2026/11/26/nepal-mourns-citizen-killed-in-saudi-attacks-urges-restraint)
+### 11. [सुकुमवासीलाई होल्डिङ सेन्टरबाट हटाउने निर्णय तत्काल फिर्ता लिन माग](https://www.onlinekhabar.com/2026/11/2066150/demand-to-immediately-withdraw-the-decision-to-remove-squatters-from-the-holding-center)
 
-**43/100** · Nepalis abroad & migration · 🆕 new
+**41/100** · Politics & government · नेपाली press only
 
-_5 outlets: The Kathmandu Post, The Himalayan Times, The Annapurna Express, Al Jazeera +1 more · first seen 18h ago · topic: Nepalis abroad & migration_
+_3 outlets: Onlinekhabar, Nepal Press, News of Nepal · first seen 4h ago · topic: Politics & government_
 
-Sources: [The Himalayan Times](https://thehimalayantimes.com/nepal/one-killed-13-injured-in-pickup-truck-tractor-collision-in-nawalpur) · [The Kathmandu Post](https://kathmandupost.com/national/2026/11/26/nepal-mourns-citizen-killed-in-saudi-attacks-urges-restraint) · [Ratopati English](http://english.ratopati.com/story/88426/one-nepali-killed-3-injured-in-attack-in-saudi-arabia) · [The Annapurna Express](https://theannapurnaexpress.com/story/69089) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss)
+Sources: [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2066150/demand-to-immediately-withdraw-the-decision-to-remove-squatters-from-the-holding-center) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2066152/lets-not-evict-squatters-from-holding-centers-without-alternative-housing-bhishmaraj-angdembe) · [Nepal Press](https://www.nepalpress.com/2026/11/27/784925/general-secretary-rana-demands-immediate-withdrawal-of-decision-to-remove-squatters-from-holding-centers/) · [News of Nepal](https://newsofnepal.com/2026/11/27/796150/)
 
-### 12. [शरद् ऋतुमा ७७ देशका आरोहीलाई हिमाल आरोहण अनुमति, ३३ करोड बढी राजश्व सङ्कलन](https://www.ratopati.com/story/607831/mountain-climbers-from-77-countries-allowed-to-climb-mountains-in-autumn-collecting-over-rs-330-million-in-revenue)
+### 12. [दशौं राष्ट्रिय खेलकुद : आर्मी सेमिफाइनल प्रवेश, कर्णाली बाहिरियो](https://nagariknews.nagariknetwork.com/sports/10th-national-games-army-enters-semifinals-karnali-eliminated-br-27-91.html)
 
-**43/100** · Tourism & mountains · 🆕 new
+**41/100** · Sports & culture · 📈 rising · नेपाली press only
 
-_6 outlets: Nagarik News, Ratopati, Nepal Press, Nepal News +2 more · first seen 9h ago · topic: Tourism & mountains_
+_4 outlets: Nagarik News, Ratopati, Annapurna Post, Gorkhapatra · first seen 2h ago · topic: Sports & culture · rising: 1 more outlets since yesterday_
 
-Sources: [Mirmire Online](https://www.mirmireonline.com/2026/11/26/320719/) · [Nepal News](https://nepalnews.com/2026/11/26/1633-climbers-from-77-countries-allowed-to-climb-mountains-in-autumn/) · [Ratopati](https://www.ratopati.com/story/607831/mountain-climbers-from-77-countries-allowed-to-climb-mountains-in-autumn-collecting-over-rs-330-million-in-revenue) · [Nagarik News](https://nagariknews.nagariknetwork.com/economy/1-633-climbers-from-77-countries-granted-mountain-climbing-permits-revenue-of-334-2-million-58-32.html) · [Desh Sanchar](https://deshsanchar.com/2026/11/26/1256499/) · [Nepal Press](https://www.nepalpress.com/2026/11/26/784847/330-million-rupees-collected-from-mountain-climbing-in-autumn/)
+Sources: [Nagarik News](https://nagariknews.nagariknetwork.com/sports/10th-national-games-army-enters-semifinals-karnali-eliminated-br-27-91.html) · [Ratopati](https://www.ratopati.com/story/607939/10th-national-games-army-enters-semifinals-in-womens-cricket-karnali-exits) · [Gorkhapatra](https://gorkhapatraonline.com/news/230606) · [Annapurna Post](http://annapurnapost.com/story/512089)
 
-### 13. [अधिवेशनलाई नेतृत्व चयनसँगै पार्टी एकताको अवसर बनाउनुपर्छ : शशांक कोइराला](https://www.ratopati.com/story/607824/the-convention-should-be-made-an-opportunity-for-party-unity-along-with-leadership-selection-shashank-koirala)
-
-**40/100** · Politics & government · 🆕 new · नेपाली press only
-
-_3 outlets: Onlinekhabar, Ratopati, Nepal Press · first seen 10h ago · topic: Politics & government_
-
-Sources: [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2065894/the-general-convention-should-be-taken-as-an-opportunity-to-unite-the-party-dr-shashank-koirala) · [Nepal Press](https://www.nepalpress.com/2026/11/26/784795/if-the-congress-is-united-no-one-can-defeat-it-shashank-koirala/) · [Ratopati](https://www.ratopati.com/story/607824/the-convention-should-be-made-an-opportunity-for-party-unity-along-with-leadership-selection-shashank-koirala)
-
-### 14. [साउदी अरबमा भएको आक्रमणमा एक नेपालीको मृत्यु, ३ जना घाइते](https://www.ratopati.com/story/607841/one-nepali-killed-3-injured-in-attack-in-saudi-arabia)
-
-**40/100** · Disasters & climate · 📈 rising · नेपाली press only
-
-_4 outlets: BBC Nepali, Ratopati, Khabarhub, Nepal News · first seen 34h ago · topic: Disasters & climate · rising: 3 more outlets since yesterday_
-
-Sources: [BBC Nepali](https://www.bbc.com/nepali/articles/cm5y17k089lwo?at_medium=RSS&at_campaign=rss) · [Ratopati](https://www.ratopati.com/story/607841/one-nepali-killed-3-injured-in-attack-in-saudi-arabia) · [Khabarhub](https://khabarhub.com/2026/26/1052065/) · [Nepal News](https://nepalnews.com/2026/11/26/one-nepali-killed-three-injured-in-attack-in-saudi-arabia/)
-
-### 15. [मन्त्रिपरिषद्मा कानुन मन्त्री सोविता गौतमको वरीयता सुधार, चार मन्त्रीहरू घटुवामा](http://annapurnapost.com/story/512048)
+### 13. [नागरिकलाई मतदान गर्न गाह्रो भो, निर्वाचन प्रणाली र प्रक्रिया बदलौं : निर्वाचन आयुक्त सुब्बा](https://www.onlinekhabar.com/2026/11/2066302/citizens-find-it-difficult-to-vote-lets-change-the-electoral-system-and-process-election-commissioner-subba)
 
 **40/100** · Politics & government · 🆕 new · नेपाली press only
 
-_4 outlets: Annapurna Post, Desh Sanchar, Imagekhabar, News of Nepal · first seen 11h ago · topic: Politics & government_
+_2 outlets: Onlinekhabar, Ratopati · broke in the last hour · topic: Politics & government_
 
-Sources: [News of Nepal](https://newsofnepal.com/2026/11/26/796015/) · [Imagekhabar](https://www.imagekhabar.com/news/564324/) · [Desh Sanchar](https://deshsanchar.com/2026/11/26/1256504/) · [Annapurna Post](http://annapurnapost.com/story/512048)
+Sources: [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2066302/citizens-find-it-difficult-to-vote-lets-change-the-electoral-system-and-process-election-commissioner-subba) · [Ratopati](https://www.ratopati.com/story/607963/election-system-should-be-changed-to-facilitate-voting-rights-commissioner-dr-subba)
 
-## Also: Nepalis abroad
+### 14. [लागुऔषधसहित विभिन्न जिल्लाबाट १७ जना पक्राउ](https://www.ratopati.com/story/607938/17-people-arrested-from-various-districts-with-drugs)
 
-### 1. [बैंक खाता रोक्का गर्ने चेतावनीपछि वैदेशिक रोजगार ठगीका ४७ आरोपित विभागको सम्पर्कमा](https://nagariknews.nagariknetwork.com/social-affairs/47-foreign-employment-fraud-suspects-contact-department-after-warning-of-bank-account-freeze-48-81.html)
+**39/100** · Society, law & health · 🆕 new
 
-**38/100** · Nepalis abroad & migration · 🆕 new · नेपाली press only
+_4 outlets: Nagarik News, Ratopati, Gorkhapatra, Mirmire Online · first seen 2h ago · topic: Society, law & health_
 
-_3 outlets: Nagarik News, Ratopati, Nepal Press · first seen 9h ago · topic: Nepalis abroad & migration_
+Sources: [Ratopati](https://www.ratopati.com/story/607938/17-people-arrested-from-various-districts-with-drugs) · [Nagarik News](https://nagariknews.nagariknetwork.com/social-affairs/17-people-arrested-from-various-districts-with-drugs-41-92.html) · [Gorkhapatra](https://gorkhapatraonline.com/news/230607) · [Mirmire Online](https://www.mirmireonline.com/2026/11/27/320785/)
 
-Sources: [Nagarik News](https://nagariknews.nagariknetwork.com/social-affairs/47-foreign-employment-fraud-suspects-contact-department-after-warning-of-bank-account-freeze-48-81.html) · [Nepal Press](https://www.nepalpress.com/2026/11/26/784815/47-accused-contacted-after-warning-of-account-freeze-1171-absconded/) · [Ratopati](https://www.ratopati.com/story/607827/47-accused-in-contact-with-department-after-threat-to-freeze-bank-accounts)
+### 15. [Efforts to strengthen Nepal–Bangladesh trade ties in Chattogram](https://risingnepaldaily.com/news/89101)
 
-### 2. [NRN Players Shine at 10th National Sports Competition, Securing 15 Medals Including 9 Gold in Swimming](http://english.ratopati.com/story/88405/10th-national-games-nrna-in-an-effort-to-connect-with-the-motherland)
+**38/100** · Foreign relations · 🆕 new
 
-**27/100** · Nepalis abroad & migration
+_3 outlets: The Annapurna Express, The Rising Nepal, Nepal News English · first seen 3h ago · topic: Foreign relations_
 
-_2 outlets: The Kathmandu Post, Ratopati English · first seen 16h ago · topic: Nepalis abroad & migration_
-
-Sources: [The Kathmandu Post](https://kathmandupost.com/sports/2026/11/26/more-national-records-in-swimming-bettered-on-day-2) · [Ratopati English](http://english.ratopati.com/story/88405/10th-national-games-nrna-in-an-effort-to-connect-with-the-motherland)
+Sources: [Nepal News English](https://english.nepalnews.com/s/business/efforts-to-strengthen-nepal-bangladesh-trade-ties-in-chattogram/) · [The Rising Nepal](https://risingnepaldaily.com/news/89101) · [The Annapurna Express](https://theannapurnaexpress.com/story/69102)
 
 ## On this day in Nepal: 27 November
 
@@ -162,7 +144,7 @@ Sources: [The Kathmandu Post](https://kathmandupost.com/sports/2026/11/26/more-n
 ## Source problems
 
 - **feeds**: 46/48 feeds read; failed: The Indian Express World (FetchError: HTTP 403 for https://indianexpress.com/section/world/feed/); Khaleej Times (FetchError: HTTP 403 for https://www.khaleejtimes.com/stories.rss)
-- **gdelt**: every GDELT query failed: nepal (GDELT: HTTP 429)
+- **gdelt**: every GDELT query failed: nepal (GDELT: ReadTimeout)
 
 ---
 Briefs are off (set ANTHROPIC_API_KEY to turn them on). Headlines are the outlets' own.
