@@ -1,6 +1,6 @@
 # Nepal news radar, 2026-11-27
 
-54 stories worth a look out of 261 found in 421 articles from the last 48 hours. 47 are new since yesterday.
+63 stories worth a look out of 372 found in 556 articles from the last 48 hours. 57 are new since yesterday.
 
 **[Open the dashboard](https://girimohan.github.io/nepal-news-radar/)** for filters and the full list.
 
@@ -8,127 +8,147 @@ Daily round-ups: [Nepal News Evening Briefing | Thursday, November 26, 2026](htt
 
 ## Top stories
 
-### 1. [अध्यादेशको विरोध गर्दै नास्टका कर्मचारी आन्दोलित, मन्त्री महावीर पुनको राजीनामा माग](https://www.onlinekhabar.com/2026/11/2066212/nast-employees-protest-against-ordinance-demand-minister-mahavir-puns-resignation)
+### 1. [रास्वपाले छ प्रदेशमा प्रदेशस्तरीय प्रशिक्षण कार्यक्रम सञ्चालन गर्ने](https://nagariknews.nagariknetwork.com/politics/rsvp-to-conduct-provincial-level-training-programs-in-six-provinces-17-94.html)
 
-**70/100** · Politics & government · 🆕 new
+**60/100** · Politics & government · 🆕 new · नेपाली press only
 
-_8 outlets: Onlinekhabar, Nagarik News, Ratopati, Ujyaalo Online +4 more · first seen 2h ago · topic: Politics & government_
+_5 outlets: Nagarik News, Annapurna Post, Gorkhapatra, Khabarhub +1 more · first seen 2h ago · topic: Politics & government_
 
-Sources: [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2066212/nast-employees-protest-against-ordinance-demand-minister-mahavir-puns-resignation) · [Clickmandu](https://clickmandu.com/2026/11/508210.html) · [Imagekhabar](https://www.imagekhabar.com/news/564343/) · [Ujyaalo Online](https://www.ujyaaloonline.com/detail/133901) · [Ratopati](https://www.ratopati.com/story/607945/nast-employees-warn-minister-pun-the-move-to-drive-away-skilled-manpower-is-unacceptable) · [Mirmire Online](https://www.mirmireonline.com/2026/11/27/320790/) · [News of Nepal](https://newsofnepal.com/2026/11/27/796183/) · [Nagarik News](https://nagariknews.nagariknetwork.com/politics/nast-employees-protest-against-ordinance-demand-minister-pun-s-resignation-20-77.html)
+Sources: [Nagarik News](https://nagariknews.nagariknetwork.com/politics/rsvp-to-conduct-provincial-level-training-programs-in-six-provinces-17-94.html) · [Nagarik News](https://nagariknews.nagariknetwork.com/politics/rsp-to-conduct-training-in-6-provinces-ravi-to-inaugurate-from-surkhet-16-75.html) · [Gorkhapatra](https://gorkhapatraonline.com/news/230646) · [Khabarhub](https://khabarhub.com/2026/27/1052341/) · [Baahrakhari](https://baahrakhari.com/detail/508469) · [Annapurna Post](http://annapurnapost.com/story/512125)
 
-### 2. [राष्ट्रपतिसँग रास्वपा सभापति रवि लामिछानेको भेटवार्ता](https://khabarhub.com/2026/27/1052209/)
+### 2. [चुनाव चिह्न र झण्डाको दुरुपयोग रोक्न आयोगलाई कांग्रेसको पत्राचार](https://www.ratopati.com/story/608044/congress-writes-to-the-commission-to-stop-misuse-of-election-symbols-and-flags)
 
-**66/100** · Politics & government · 📈 rising
+**55/100** · Politics & government · 🆕 new · नेपाली press only
 
-_15 outlets: Onlinekhabar, Nagarik News, Ratopati, Annapurna Post +11 more · first seen 19h ago · topic: Politics & government · rising: 4 more outlets since yesterday_
+_5 outlets: Ratopati, Annapurna Post, Khabarhub, Nepal Press +1 more · first seen 5h ago · topic: Politics & government_
 
-Sources: [Imagekhabar](https://www.imagekhabar.com/news/564341/) · [Clickmandu](https://clickmandu.com/2026/11/508224.html) · [Nagarik News](https://nagariknews.nagariknetwork.com/politics/meeting-between-president-poudel-and-speaker-lamichhane-br-53-46.html) · [Ratopati](https://www.ratopati.com/story/607951/ravi-lamichhane-reaches-sheetal-niwas-to-meet-the-president) · [Nepal Press](https://www.nepalpress.com/2026/11/27/784978/president-poudel-and-ravi-lamichhane-meet/) · [News of Nepal](https://newsofnepal.com/2026/11/27/796174/) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2066268/rsp-president-ravi-lamichhane-meets-with-the-president) · [Nepal News](https://nepalnews.com/2026/11/27/meeting-between-rsp-president-lamichhane-and-the-president-at-sheetal-niwas/)
+Sources: [Nepal Press](https://www.nepalpress.com/2026/11/27/785109/congress-decision-to-warn-deuba-group-not-to-misuse-party-name-flag-and-election-symbol/) · [Ratopati](https://www.ratopati.com/story/608044/congress-writes-to-the-commission-to-stop-misuse-of-election-symbols-and-flags) · [Nepal News](https://nepalnews.com/2026/11/27/congress-to-write-to-commission-to-stop-misuse-of-election-symbols-and-flags/) · [Khabarhub](https://khabarhub.com/2026/27/1052313/) · [Annapurna Post](http://annapurnapost.com/story/512119)
 
-### 3. [भैरहवा हवाई प्रवेशमार्गसम्बन्धी सहमति सकारात्मक छ : महासचिव पोखरेल](https://www.ratopati.com/story/607961/agreement-on-bhairahawa-air-access-route-is-positive-general-secretary-pokharel)
+### 3. [स्थानीय तहको निर्वाचन गैरदलीय बनाउन नागरिक अभियानको माग](https://nagariknews.nagariknetwork.com/politics/citizens-campaign-demands-to-make-local-elections-non-partisan-18-97.html)
 
-**62/100** · Politics & government · 🆕 new
+**53/100** · Politics & government · 🆕 new · नेपाली press only
 
-_6 outlets: Nagarik News, Ratopati, Khabarhub, Nepal Press +2 more · first seen 2h ago · topic: Politics & government_
+_4 outlets: Onlinekhabar, Nagarik News, Ratopati, Nepal Press · first seen 4h ago · topic: Politics & government_
 
-Sources: [Nepal Press](https://www.nepalpress.com/2026/11/27/784942/uml-general-secretarys-comment-on-balens-visit-to-india-embarrassing/) · [Nepal Press](https://www.nepalpress.com/2026/11/27/785008/agreement-on-bhairahawa-air-access-route-is-positive-general-secretary-pokharel/) · [Ratopati](https://www.ratopati.com/story/607961/agreement-on-bhairahawa-air-access-route-is-positive-general-secretary-pokharel) · [Khabarhub](https://khabarhub.com/2026/27/1052215/) · [Nagarik News](https://nagariknews.nagariknetwork.com/politics/bhairahawa-air-route-agreement-positive-general-secretary-pokharel-br-31-11.html) · [Mirmire Online](https://www.mirmireonline.com/2026/11/27/320802/) · [Nepal News](https://nepalnews.com/2026/11/27/agreement-to-make-bhairahawa-air-access-road-two-way-positive/)
+Sources: [Nepal Press](https://www.nepalpress.com/2026/11/27/785123/citizens-campaign-demands-to-make-local-elections-non-partisan/) · [Ratopati](https://www.ratopati.com/story/608046/citizens-campaign-demands-to-make-local-elections-non-partisan) · [Nagarik News](https://nagariknews.nagariknetwork.com/politics/citizens-campaign-demands-to-make-local-elections-non-partisan-18-97.html) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2066657/make-local-elections-non-partisan-citizens-campaign)
 
-### 4. [Rastriya Swatantra Party Chair Rabi Lamichhane meets President](https://english.onlinekhabar.com/rastriya-swatantra-party-chair-rabi-lamichhane-meets-president.html)
+### 4. [Nepal condoles death of citizen killed in Houthi attack on Saudi oil refinery , urges restraint](http://www.heraldglobe.com/news/279463143/nepal-condoles-death-of-citizen-killed-in-houthi-attack-on-saudi-oil-refinery-urges-restraint)
 
-**59/100** · Politics & government · 🆕 new
+**53/100** · Nepalis abroad & migration · 📈 rising
 
-_5 outlets: The Kathmandu Post, Onlinekhabar English, Ratopati English, Khabarhub English +1 more · first seen 3h ago · topic: Politics & government_
+_13 outlets: The Kathmandu Post, The Annapurna Express, heraldglobe.com, bignewsnetwork.com +9 more · first seen 35h ago · topic: Nepalis abroad & migration · rising: 10 more outlets since yesterday_
 
-Sources: [The Kathmandu Post](https://kathmandupost.com/national/2026/11/27/rabi-lamichhane-meets-president-paudel) · [Onlinekhabar English](https://english.onlinekhabar.com/rsp-team-returning-from-china.html) · [Ratopati English](http://english.ratopati.com/story/88514/ravi-lamichhane-reaches-sheetal-niwas-to-meet-the-president) · [Onlinekhabar English](https://english.onlinekhabar.com/rastriya-swatantra-party-chair-rabi-lamichhane-meets-president.html) · [Khabarhub English](https://english.khabarhub.com/2026/27/577261/) · [Ratopati English](http://english.ratopati.com/story/88522/ravis-45-minutes-at-sheetal-niwas-discussion-on-stalled-ordinances-and-the-prime-ministers-state-visit) · [Nepal News English](https://english.nepalnews.com/s/politics/president-paudel-and-lamichhane-hold-meeting/)
+Sources: [The Kathmandu Post](https://kathmandupost.com/national/2026/11/26/nepal-mourns-citizen-killed-in-saudi-attacks-urges-restraint) · [heraldglobe.com](http://www.heraldglobe.com/news/279463143/nepal-condoles-death-of-citizen-killed-in-houthi-attack-on-saudi-oil-refinery-urges-restraint) · [bignewsnetwork.com](http://www.bignewsnetwork.com/news/279463143/nepal-condoles-death-of-citizen-killed-in-houthi-attack-on-saudi-oil-refinery-urges-restraint) · [austinglobe.com](http://www.austinglobe.com/news/279463143/nepal-condoles-death-of-citizen-killed-in-houthi-attack-on-saudi-oil-refinery-urges-restraint) · [vietnamtribune.com](http://www.vietnamtribune.com/news/279463143/nepal-condoles-death-of-citizen-killed-in-houthi-attack-on-saudi-oil-refinery-urges-restraint) · [europesun.com](http://www.europesun.com/news/279463143/nepal-condoles-death-of-citizen-killed-in-houthi-attack-on-saudi-oil-refinery-urges-restraint) · [russiaherald.com](http://www.russiaherald.com/news/279463143/nepal-condoles-death-of-citizen-killed-in-houthi-attack-on-saudi-oil-refinery-urges-restraint) · [kenyastar.com](http://www.kenyastar.com/news/279463143/nepal-condoles-death-of-citizen-killed-in-houthi-attack-on-saudi-oil-refinery-urges-restraint)
 
-### 5. [सप्तरीमा एक हजार २६ मतदाता थपिए](https://www.onlinekhabar.com/2026/11/2066293/1026-voters-added-to-saptari)
+### 5. [१०औं राष्ट्रिय खेलकुद : पुरुष फुटबलमा आर्मीको लगातार दोस्रो जीत](http://annapurnapost.com/story/512111)
 
-**54/100** · Politics & government · 🆕 new
+**51/100** · Politics & government · 🆕 new · नेपाली press only
 
-_4 outlets: Onlinekhabar, Nagarik News, Khabarhub, Mirmire Online · first seen 2h ago · topic: Politics & government_
+_4 outlets: Onlinekhabar, Annapurna Post, Khabarhub, Desh Sanchar · first seen 5h ago · topic: Politics & government_
 
-Sources: [Khabarhub](https://khabarhub.com/2026/27/1052182/) · [Nagarik News](https://nagariknews.nagariknetwork.com/politics/one-thousand-voters-added-to-saptari-br-64-78.html) · [Mirmire Online](https://www.mirmireonline.com/2026/11/27/320789/) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2066293/1026-voters-added-to-saptari)
+Sources: [Desh Sanchar](https://deshsanchar.com/2026/11/27/1256887/) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2066612/10th-national-games-full-contact-karate-competition-begins) · [Khabarhub](https://khabarhub.com/2026/27/1052332/) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2066664/10th-national-games-departmental-teams-and-bagmati-dominate-boxing) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2066343/10th-national-sports-feature-in-10-points-a-new-chapter-in-karnalis-sports) · [Annapurna Post](http://annapurnapost.com/story/512111)
 
-### 6. [चीन भ्रमणबारे सभापति रवि लामिछानेलाई २० सदस्यीय टोलीको ब्रिफिङ](https://www.nepalpress.com/2026/11/27/784952/a-20-member-team-briefs-president-ravi-lamichhane-on-his-visit-to-china/)
+### 6. [मानवअधिकार आयोगमा इनम सापकोटातर्फबाट पत्नीको उजुरी](https://nepalnews.com/2026/11/27/inam-sapkotas-wife-files-complaint-with-human-rights-commission/)
 
-**54/100** · Politics & government · 🆕 new · नेपाली press only
+**48/100** · Society, law & health · 🆕 new · नेपाली press only
 
-_4 outlets: Onlinekhabar, Nagarik News, Nepal Press, Nepal News · first seen 2h ago · topic: Politics & government_
+_7 outlets: Onlinekhabar, Setopati, Ratopati, Khabarhub +3 more · first seen 5h ago · topic: Society, law & health_
 
-Sources: [Nepal Press](https://www.nepalpress.com/2026/11/27/784952/a-20-member-team-briefs-president-ravi-lamichhane-on-his-visit-to-china/) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2066230/the-rsvp-team-returning-from-china-briefed-president-lamichhane-about-the-visit) · [Nagarik News](https://nagariknews.nagariknetwork.com/politics/briefing-to-president-lamichhane-on-achievements-of-china-visit-discussion-on-possibilities-of-cooperation-br-84-43.html) · [Nepal News](https://nepalnews.com/2026/11/27/general-secretary-acharya-briefs-president-ravi-about-china-visit/)
+Sources: [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2066555/complaint-filed-with-the-commission-demanding-protection-of-inam-sapkotas-human-rights) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2066564/national-human-rights-commission-to-inquire-into-the-condition-of-inam-sapkota) · [Nepal Press](https://www.nepalpress.com/2026/11/27/785108/inam-sapkotas-wife-files-complaint-with-human-rights-commission-demands-protection-of-life/) · [Ratopati](https://www.ratopati.com/story/608042/inam-sapkota-appeals-to-the-human-rights-commission) · [Setopati](https://www.setopati.com/social/403542) · [Setopati](https://www.setopati.com/politics/403545) · [Khabarhub](https://khabarhub.com/2026/27/1052325/) · [Nepal News](https://nepalnews.com/2026/11/27/inam-sapkotas-wife-files-complaint-with-human-rights-commission/)
 
-### 7. [त्रिभुवन विमानस्थलबाट ४ किलो थाई गाँजासहित भारतीय नागरिक पक्राउ](https://nagariknews.nagariknetwork.com/Aparadh/indian-national-arrested-with-4-kg-of-thai-marijuana-at-tribhuvan-airport-37-64.html)
+### 7. [मोटरसाइकल दुर्घटनामा एकको मृत्यु](https://www.ratopati.com/story/608056/one-dead-in-motorcycle-accident)
 
-**52/100** · Foreign relations · 📈 rising · नेपाली press only
+**46/100** · Society, law & health · 🆕 new · नेपाली press only
 
-_3 outlets: Nagarik News, Ratopati, Annapurna Post · broke in the last hour · topic: Foreign relations · rising: 2 more outlets since yesterday_
+_5 outlets: Onlinekhabar, Nagarik News, Ratopati, Annapurna Post +1 more · first seen 3h ago · topic: Society, law & health_
 
-Sources: [Ratopati](https://www.ratopati.com/story/607958/indian-man-arrested-with-thai-marijuana-at-airport) · [Nagarik News](https://nagariknews.nagariknetwork.com/Aparadh/indian-national-arrested-with-4-kg-of-thai-marijuana-at-tribhuvan-airport-37-64.html) · [Annapurna Post](http://annapurnapost.com/story/512092)
+Sources: [Ratopati](https://www.ratopati.com/story/608056/one-dead-in-motorcycle-accident) · [Khabarhub](https://khabarhub.com/2026/27/1052330/) · [Nagarik News](https://nagariknews.nagariknetwork.com/social-affairs/one-dead-in-motorcycle-accident-80-19.html) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2066678/two-killed-five-injured-in-tractor-accident-in-bajura) · [Ratopati](https://www.ratopati.com/story/608060/two-killed-five-injured-in-tractor-accident-in-bajura) · [Annapurna Post](http://annapurnapost.com/story/512120)
 
-### 8. [पूर्व मुख्यसचिव अर्याल म्याद थपका लागि सरकारी वकिल कार्यालयमा](https://www.ratopati.com/story/607936/former-chief-secretary-aryal-at-the-government-attorneys-office-for-extension-of-term)
+### 8. [सेवाग्राहीलाई दुःख दिने सात जना बिचौलिया पक्राउ](https://nagariknews.nagariknetwork.com/social-affairs/seven-middlemen-arrested-for-harassing-service-recipients-83-57.html)
 
-**52/100** · Society, law & health · 🆕 new
+**45/100** · Society, law & health · 🆕 new · नेपाली press only
 
-_8 outlets: Nagarik News, Ratopati, Annapurna Post, Nepal Press +4 more · first seen 2h ago · topic: Society, law & health_
+_6 outlets: Onlinekhabar, Nagarik News, Ratopati, Khabarhub +2 more · first seen 6h ago · topic: Society, law & health_
 
-Sources: [Desh Sanchar](https://deshsanchar.com/2026/11/27/1256657/) · [Nepal Press](https://www.nepalpress.com/2026/11/27/784957/former-chief-secretary-aryals-term-extension-process-begins-taken-to-government-attorney/) · [Ratopati](https://www.ratopati.com/story/607936/former-chief-secretary-aryal-at-the-government-attorneys-office-for-extension-of-term) · [Clickmandu](https://clickmandu.com/2026/11/508222.html) · [Ratopati](https://www.ratopati.com/story/607946/former-chief-secretary-aryal-taken-to-court) · [Mirmire Online](https://www.mirmireonline.com/2026/11/27/320793/) · [News of Nepal](https://newsofnepal.com/2026/11/27/796171/) · [Nagarik News](https://nagariknews.nagariknetwork.com/social-affairs/former-chief-secretary-aryal-appears-in-court-remand-extended-98-39.html)
+Sources: [Nepal Press](https://www.nepalpress.com/2026/11/27/785087/district-administration-office-takes-seven-middlemen-under-control/) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2066603/7-middlemen-arrested-from-district-administration-office-kathmandu) · [Khabarhub](https://khabarhub.com/2026/27/1052339/) · [Nagarik News](https://nagariknews.nagariknetwork.com/social-affairs/seven-middlemen-arrested-for-harassing-service-recipients-83-57.html) · [Nepal News](https://nepalnews.com/2026/11/27/seven-middlemen-arrested-for-causing-distress-and-harassment-to-service-recipients/) · [Ratopati](https://www.ratopati.com/story/608062/seven-middlemen-arrested-for-harassing-service-recipients)
 
-### 9. [भक्तपुरमा सुकुमबासीहरुले गरे थाल ठटाएर विरोध प्रदर्शन](https://www.ratopati.com/story/607942/slum-dwellers-in-bhaktapur-stage-protest-by-banging-plates)
+### 9. [शारीरिक सुगठनमा आर्मीलाई चार स्वर्ण](https://deshsanchar.com/2026/11/27/1256947/)
 
-**50/100** · Politics & government · 🆕 new · नेपाली press only
+**45/100** · Politics & government · 🆕 new
 
-_3 outlets: Onlinekhabar, Nagarik News, Ratopati · first seen 1h ago · topic: Politics & government_
+_4 outlets: Onlinekhabar, Desh Sanchar, Imagekhabar, Mirmire Online · first seen 6h ago · topic: Politics & government_
 
-Sources: [Ratopati](https://www.ratopati.com/story/607942/slum-dwellers-in-bhaktapur-stage-protest-by-banging-plates) · [Ratopati](https://www.ratopati.com/story/607950/protest-by-squatters-in-bode-police-team-reaches-holding-center) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2066270/sukum-residents-protest-against-the-government-by-banging-plates-photos) · [Nagarik News](https://nagariknews.nagariknetwork.com/social-affairs/squatters-protest-in-bode-52-89.html)
+Sources: [Imagekhabar](https://www.imagekhabar.com/news/564382/) · [Mirmire Online](https://www.mirmireonline.com/2026/11/27/320851/) · [Desh Sanchar](https://deshsanchar.com/2026/11/27/1256947/) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2066660/army-wins-four-gold-medals-in-physical-fitness)
 
-### 10. [Bhotekoshi flood survivor children to receive monthly stipend of Rs 17,400](https://theannapurnaexpress.com/story/69109)
+### 10. [रास्वपाको क्यान्डिडेट क्लबमा ६ सदस्य मनोनीत](https://www.ratopati.com/story/608057/6-members-nominated-to-rsvps-candidate-club)
 
-**49/100** · Disasters & climate · 🆕 new
+**43/100** · Politics & government · 🆕 new · नेपाली press only
 
-_4 outlets: The Annapurna Express, Khabarhub English, The Rising Nepal, Nepal News English · first seen 4h ago · topic: Disasters & climate_
+_3 outlets: Ratopati, Khabarhub, Nepal Press · first seen 3h ago · topic: Politics & government_
 
-Sources: [Khabarhub English](https://english.khabarhub.com/2026/27/577232/) · [The Rising Nepal](https://risingnepaldaily.com/news/89103) · [Nepal News English](https://english.nepalnews.com/s/nation/bhote-koshi-flood-survivor-children-to-receive-monthly-stipend-of-rs-17400/) · [The Annapurna Express](https://theannapurnaexpress.com/story/69109) · [The Annapurna Express](https://theannapurnaexpress.com/story/69098)
+Sources: [Nepal Press](https://www.nepalpress.com/2026/11/27/785132/6-members-nominated-to-rsvps-candidate-club-committee/) · [Ratopati](https://www.ratopati.com/story/608057/6-members-nominated-to-rsvps-candidate-club) · [Khabarhub](https://khabarhub.com/2026/27/1052335/) · [Nepal Press](https://www.nepalpress.com/2026/11/27/785149/rsvps-candidate-club-committee-formed-himesh-pant-also-included/)
 
-### 11. [सुकुमवासीलाई होल्डिङ सेन्टरबाट हटाउने निर्णय तत्काल फिर्ता लिन माग](https://www.onlinekhabar.com/2026/11/2066150/demand-to-immediately-withdraw-the-decision-to-remove-squatters-from-the-holding-center)
+### 11. [प्रधानमन्त्रीले राखे राष्ट्रिय सुरक्षा परिषद्को बैठक, के भयो छलफल ?](https://www.nepalpress.com/2026/11/27/785044/the-prime-minister-held-a-meeting-of-the-national-security-council-what-was-discussed/)
 
-**41/100** · Politics & government · नेपाली press only
+**43/100** · Politics & government · 🆕 new · नेपाली press only
 
-_3 outlets: Onlinekhabar, Nepal Press, News of Nepal · first seen 4h ago · topic: Politics & government_
+_4 outlets: Annapurna Post, Nepal Press, Desh Sanchar, Clickmandu · first seen 8h ago · topic: Politics & government_
 
-Sources: [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2066150/demand-to-immediately-withdraw-the-decision-to-remove-squatters-from-the-holding-center) · [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2066152/lets-not-evict-squatters-from-holding-centers-without-alternative-housing-bhishmaraj-angdembe) · [Nepal Press](https://www.nepalpress.com/2026/11/27/784925/general-secretary-rana-demands-immediate-withdrawal-of-decision-to-remove-squatters-from-holding-centers/) · [News of Nepal](https://newsofnepal.com/2026/11/27/796150/)
+Sources: [Clickmandu](https://clickmandu.com/2026/11/508265.html) · [Nepal Press](https://www.nepalpress.com/2026/11/27/785044/the-prime-minister-held-a-meeting-of-the-national-security-council-what-was-discussed/) · [Desh Sanchar](https://deshsanchar.com/2026/11/27/1256931/) · [Annapurna Post](http://annapurnapost.com/story/512108)
 
-### 12. [दशौं राष्ट्रिय खेलकुद : आर्मी सेमिफाइनल प्रवेश, कर्णाली बाहिरियो](https://nagariknews.nagariknetwork.com/sports/10th-national-games-army-enters-semifinals-karnali-eliminated-br-27-91.html)
-
-**41/100** · Sports & culture · 📈 rising · नेपाली press only
-
-_4 outlets: Nagarik News, Ratopati, Annapurna Post, Gorkhapatra · first seen 2h ago · topic: Sports & culture · rising: 1 more outlets since yesterday_
-
-Sources: [Nagarik News](https://nagariknews.nagariknetwork.com/sports/10th-national-games-army-enters-semifinals-karnali-eliminated-br-27-91.html) · [Ratopati](https://www.ratopati.com/story/607939/10th-national-games-army-enters-semifinals-in-womens-cricket-karnali-exits) · [Gorkhapatra](https://gorkhapatraonline.com/news/230606) · [Annapurna Post](http://annapurnapost.com/story/512089)
-
-### 13. [नागरिकलाई मतदान गर्न गाह्रो भो, निर्वाचन प्रणाली र प्रक्रिया बदलौं : निर्वाचन आयुक्त सुब्बा](https://www.onlinekhabar.com/2026/11/2066302/citizens-find-it-difficult-to-vote-lets-change-the-electoral-system-and-process-election-commissioner-subba)
+### 12. [यमनमा साउदी नेतृत्वको गठबन्धनको हवाई आक्रमण, ११ जनाको मृत्यु](https://www.ratopati.com/story/608047/saudi-led-coalition-airstrikes-in-yemen-kill-11)
 
 **40/100** · Politics & government · 🆕 new · नेपाली press only
 
-_2 outlets: Onlinekhabar, Ratopati · broke in the last hour · topic: Politics & government_
+_4 outlets: Ratopati, Khabarhub, Desh Sanchar, gorkhapatraonline.com · first seen 13h ago · topic: Politics & government_
 
-Sources: [Onlinekhabar](https://www.onlinekhabar.com/2026/11/2066302/citizens-find-it-difficult-to-vote-lets-change-the-electoral-system-and-process-election-commissioner-subba) · [Ratopati](https://www.ratopati.com/story/607963/election-system-should-be-changed-to-facilitate-voting-rights-commissioner-dr-subba)
+Sources: [gorkhapatraonline.com](https://www.gorkhapatraonline.com/news/230566) · [Ratopati](https://www.ratopati.com/story/608047/saudi-led-coalition-airstrikes-in-yemen-kill-11) · [Desh Sanchar](https://deshsanchar.com/2026/11/27/1256912/) · [Khabarhub](https://khabarhub.com/2026/27/1052343/)
 
-### 14. [लागुऔषधसहित विभिन्न जिल्लाबाट १७ जना पक्राउ](https://www.ratopati.com/story/607938/17-people-arrested-from-various-districts-with-drugs)
+### 13. [त्रिभुवन अन्तर्राष्ट्रिय विमानस्थलबाट १६ किलो थाई गाँजासहित तीन भारतीय नागरिक पक्राउ](https://www.ratopati.com/story/608058/three-indian-nationals-arrested-with-16-kg-of-thai-marijuana-at-tribhuvan-international-airport)
 
-**39/100** · Society, law & health · 🆕 new
+**40/100** · Foreign relations · 📈 rising · नेपाली press only
 
-_4 outlets: Nagarik News, Ratopati, Gorkhapatra, Mirmire Online · first seen 2h ago · topic: Society, law & health_
+_2 outlets: Ratopati, Khabarhub · first seen 2h ago · topic: Foreign relations · rising: 1 more outlets since yesterday_
 
-Sources: [Ratopati](https://www.ratopati.com/story/607938/17-people-arrested-from-various-districts-with-drugs) · [Nagarik News](https://nagariknews.nagariknetwork.com/social-affairs/17-people-arrested-from-various-districts-with-drugs-41-92.html) · [Gorkhapatra](https://gorkhapatraonline.com/news/230607) · [Mirmire Online](https://www.mirmireonline.com/2026/11/27/320785/)
+Sources: [Ratopati](https://www.ratopati.com/story/608058/three-indian-nationals-arrested-with-16-kg-of-thai-marijuana-at-tribhuvan-international-airport) · [Khabarhub](https://khabarhub.com/2026/27/1052337/)
 
-### 15. [Efforts to strengthen Nepal–Bangladesh trade ties in Chattogram](https://risingnepaldaily.com/news/89101)
+### 14. [623 foreign nationals from 19 countries missing in Bhotekoshi and Trishuli floods](https://english.khabarhub.com/2026/27/577306/)
 
-**38/100** · Foreign relations · 🆕 new
+**40/100** · Disasters & climate · 🆕 new
 
-_3 outlets: The Annapurna Express, The Rising Nepal, Nepal News English · first seen 3h ago · topic: Foreign relations_
+_3 outlets: Onlinekhabar English, Khabarhub English, Nepal News English · first seen 8h ago · topic: Disasters & climate_
 
-Sources: [Nepal News English](https://english.nepalnews.com/s/business/efforts-to-strengthen-nepal-bangladesh-trade-ties-in-chattogram/) · [The Rising Nepal](https://risingnepaldaily.com/news/89101) · [The Annapurna Express](https://theannapurnaexpress.com/story/69102)
+Sources: [Onlinekhabar English](https://english.onlinekhabar.com/insurance-payouts-complicated-as-vehicles-damaged-in-bhotekoshi-floods-remain-missing.html) · [Nepal News English](https://english.nepalnews.com/s/nation/623-foreign-nationals-from-19-countries-missing-in-bhote-koshi-floods/) · [Khabarhub English](https://english.khabarhub.com/2026/27/577306/)
+
+### 15. [Displaced families protest as Bode holding centre faces eviction deadline](https://kathmandupost.com/national/2026/11/27/displaced-families-protest-as-bode-holding-centre-faces-eviction-deadline)
+
+**40/100** · Politics & government · 🆕 new
+
+_3 outlets: The Kathmandu Post, Onlinekhabar English, Ratopati English · first seen 11h ago · topic: Politics & government_
+
+Sources: [The Kathmandu Post](https://kathmandupost.com/national/2026/11/27/displaced-families-protest-as-bode-holding-centre-faces-eviction-deadline) · [Onlinekhabar English](https://english.onlinekhabar.com/bode-squatters-face-eviction-after-food-supply-is-stopped-at-temporary-shelter.html) · [Ratopati English](http://english.ratopati.com/story/88585/state-issues-ultimatum-to-squatters-by-cutting-off-food-and-water-at-holding-centers)
+
+## Also: Nepalis abroad
+
+### 1. [Inam Sapkota seeks protection from human rights commission, alleges coercion and torture](https://kathmandupost.com/national/2026/11/27/inam-sapkota-seeks-protection-from-human-rights-commission-alleges-coercion-and-torture)
+
+**38/100** · Nepalis abroad & migration · 🆕 new
+
+_3 outlets: The Kathmandu Post, Onlinekhabar English, Ratopati English · first seen 11h ago · topic: Nepalis abroad & migration_
+
+Sources: [The Kathmandu Post](https://kathmandupost.com/national/2026/11/27/inam-sapkota-seeks-protection-from-human-rights-commission-alleges-coercion-and-torture) · [The Kathmandu Post](https://kathmandupost.com/national/2026/11/27/hrw-urges-nepal-to-act-against-illegal-moneylenders-as-migrant-workers-face-mounting-debt) · [Onlinekhabar English](https://english.onlinekhabar.com/complaint-nhrc-inam-sapkota-safety.html) · [Ratopati English](http://english.ratopati.com/story/88583/arbitrary-rule-prevails-in-the-country-instead-of-the-rule-of-law-sushil-pyakurel) · [Onlinekhabar English](https://english.onlinekhabar.com/inam-sapkota-torture-complaint-nhrc.html)
+
+### 2. [जापानको टोकियोमा महँगी १६ महिनायताकै उच्च, मुद्रास्फीति २.९ प्रतिशत पुग्यो](https://www.ratopati.com/story/608049/inflation-hits-29-percent-in-tokyo-japan-at-16-month-high)
+
+**28/100** · Nepalis abroad & migration · 🆕 new
+
+_2 outlets: Ratopati, Mirmire Online · first seen 4h ago · topic: Nepalis abroad & migration_
+
+Sources: [Mirmire Online](https://www.mirmireonline.com/2026/11/27/320869/) · [Ratopati](https://www.ratopati.com/story/608049/inflation-hits-29-percent-in-tokyo-japan-at-16-month-high)
 
 ## On this day in Nepal: 27 November
+
+Kantipur's archive pick (2000): [Nepali article: [Archive] ...Then former MPs stopped receiving pensions](https://ekantipur.com/Kantipur-Archive/2026/11/27/en/archive-then-the-pension-benefits-of-former-mps-were-revoked-16-33.html)
 
 - **2024** (most covered that day): लक्ष्य हासिल गर्नेगरी काम गर्न प्रधानमन्त्रीको निर्देशन
   News that day: [Khabarhub: लक्ष्य हासिल गर्नेगरी काम गर्न प्रधानमन्त्रीको निर्देशन](https://khabarhub.com/2024/27/715856/) (2024-11-27)
@@ -143,8 +163,7 @@ Sources: [Nepal News English](https://english.nepalnews.com/s/business/efforts-t
 
 ## Source problems
 
-- **feeds**: 46/48 feeds read; failed: The Indian Express World (FetchError: HTTP 403 for https://indianexpress.com/section/world/feed/); Khaleej Times (FetchError: HTTP 403 for https://www.khaleejtimes.com/stories.rss)
-- **gdelt**: every GDELT query failed: nepal (GDELT: ReadTimeout)
+- **feeds**: 45/48 feeds read; failed: Kathmandu Tribune (FetchError: HTTP 403 for https://www.kathmandutribune.com/feed/); The Indian Express World (FetchError: HTTP 403 for https://indianexpress.com/section/world/feed/); Khaleej Times (FetchError: HTTP 403 for https://www.khaleejtimes.com/stories.rss)
 
 ---
 Briefs are off (set ANTHROPIC_API_KEY to turn them on). Headlines are the outlets' own.
